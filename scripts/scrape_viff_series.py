@@ -185,7 +185,12 @@ def main() -> int:
         url = f"https://viff.org/series/{slug}/"
         html = fetch(url)
         prior = existing_by_slug.get(slug, {})
-        prior_films: list[str] = list(prior.get("film_slugs", []))
+        # Prior films are a mix of bare-slug strings (legacy seed shape
+        # from `backfill_from_wayback.py`) and dicts (current enriched
+        # shape `{"slug": ..., "director": ..., ...}`). We preserve
+        # whatever shape was there so we don't churn JSON unnecessarily;
+        # `enrich_metadata.py` is what migrates strings to dicts.
+        prior_films: list = list(prior.get("film_slugs", []))
 
         if html is None:
             # Series page no longer reachable. Keep prior data; mark
@@ -204,13 +209,21 @@ def main() -> int:
 
         film_slugs = extract_film_slugs(html)
         # Union: prior films first (stable history), then any newly-
-        # observed films appended.
+        # observed films appended. Prior films may be either bare
+        # slug strings (legacy seed shape) or dicts with a `slug`
+        # key (current enriched shape) — `enrich_metadata.py`
+        # migrates strings to dicts on first walk. We normalize to
+        # the dict shape here so a fresh-discovery slug doesn't
+        # ever land as a string in the same array.
+        def slug_of(film):
+            return film.get("slug") if isinstance(film, dict) else film
+
         merged_films = list(prior_films)
-        seen = set(prior_films)
-        for film in film_slugs:
-            if film not in seen:
-                merged_films.append(film)
-                seen.add(film)
+        seen = {slug_of(f) for f in prior_films if slug_of(f)}
+        for slug in film_slugs:
+            if slug not in seen:
+                merged_films.append({"slug": slug})
+                seen.add(slug)
 
         added = len(merged_films) - len(prior_films)
         marker = " +%d new" % added if added else ""
