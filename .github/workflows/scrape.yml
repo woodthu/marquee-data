@@ -1,71 +1,33 @@
-name: scrape-viff
+name: publish-pages
+
+# Publishes data/viff-series.json via GitHub Pages on every push
+# to main. The actual scraping happens in the private repo
+# woodthu/marquee-data-private; this workflow only handles the
+# public re-deploy of the JSON.
 
 on:
-  schedule:
-    # Daily at 11:00 UTC (~3am Vancouver). VIFF's site is sleepiest
-    # then, so the chance of hitting transient 5xx is lowest.
-    - cron: "0 11 * * *"
-  workflow_dispatch: {}  # let us trigger a run manually from the Actions tab
+  push:
+    branches: [main]
+    paths: [data/**]
+  workflow_dispatch: {}
 
 permissions:
-  contents: write   # commit the updated JSON back to main
-  pages: write      # publish via Pages
-  id-token: write   # required by actions/deploy-pages
+  contents: read
+  pages: write
+  id-token: write
 
-# Opt into Node.js 24 for JS-based actions ahead of GitHub's
-# Jun 2 2026 forced cutover. Silences the deprecation warning
-# emitted by actions/checkout@v4 + actions/setup-python@v5.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
-# Avoid concurrent scrape runs stomping each other if a manual run
-# fires while a scheduled one is in progress.
-concurrency:
-  group: scrape-viff
-  cancel-in-progress: false
-
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
-    # Cap at 50 min so a stuck Wayback connection can't sink the run.
-    # The enrichment step below has its own internal 8h cap, but we
-    # don't want a single failure to monopolise the runner; the
-    # `director_resolved` gates make next-day re-runs cheap.
-    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Forward-scrape current VIFF series
-        run: python scripts/scrape_viff_series.py
-
-      # Enrichment is gated per-field (`director_resolved`,
-      # `runtime_resolved`, `screenings_resolved`) so already-
-      # resolved films short-circuit immediately. New films + films
-      # whose pages couldn't be fetched on a prior run get fresh
-      # attempts via the Wayback multi-snapshot fallback.
-      - name: Enrich metadata
-        run: python scripts/enrich_metadata.py
-        env:
-          # GitHub-hosted runners share IPs across the planet, so
-          # Wayback throttles them harder than residential IPs.
-          # Drop worker count to 2 to stay under their per-IP cap.
-          MARQUEE_WORKERS: "2"
-
-      - name: Commit if changed
-        run: |
-          if [[ -n "$(git status --porcelain data/)" ]]; then
-            git config user.name "marquee-data-bot"
-            git config user.email "marquee-data-bot@users.noreply.github.com"
-            git add data/
-            git commit -m "scrape: refresh VIFF series snapshot"
-            git push
-          else
-            echo "No changes to commit."
-          fi
 
       - name: Stage Pages site
         run: |
@@ -77,7 +39,7 @@ jobs:
           path: _site
 
   deploy:
-    needs: scrape
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages

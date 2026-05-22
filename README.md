@@ -1,6 +1,6 @@
 # marquee-data
 
-Persists historical VIFF series + the films programmed inside them, so the Marquee iOS app can browse past programming after VIFF's site stops listing it.
+Public snapshot of historical VIFF series + the films programmed inside them, so the Marquee iOS app can browse past programming after VIFF's site stops listing it.
 
 ## What's in `data/viff-series.json`
 
@@ -11,35 +11,40 @@ Persists historical VIFF series + the films programmed inside them, so the Marqu
       "slug": "pantheon",
       "name": "Pantheon",
       "detail_url": "https://viff.org/series/pantheon/",
-      "film_slugs": ["yi-yi", "marie-antoinette", "..."],
-      "first_seen_wayback": "20221220022406",
-      "last_seen_wayback": "20251012021100",
-      "last_seen_live": "20260520"
+      "film_slugs": [
+        {
+          "slug": "yi-yi",
+          "title": "Yi Yi",
+          "director": "Edward Yang",
+          "year": 2000,
+          "country": "Taiwan/Japan",
+          "runtime_min": 173,
+          "synopsis": "...",
+          "poster": "https://...",
+          "screenings": [{ "start": "2024-09-30T18:30:00", "venue": "VIFF Centre" }]
+        }
+      ],
+      "current_date_range": "Sep 28 – Oct 8 2024",
+      "last_seen_live": "20240930"
     }
   ]
 }
 ```
 
-`film_slugs` is monotonic — slugs are never removed once observed. Same for the series list itself: a series never gets deleted, only stops getting `last_seen_live` bumped if VIFF retires it.
+`film_slugs` is monotonic — entries are never removed once observed. Same for the series list itself: a series never gets deleted.
 
 ## Output URL
 
-After GitHub Pages is enabled:
-`https://<username>.github.io/marquee-data/viff-series.json`
+GitHub Pages serves the JSON at:
+<https://woodthu.github.io/marquee-data/viff-series.json>
 
-## Setup (one-time)
+The iOS app fetches from there with ETag caching; bundled JSON is the cold-launch fallback.
 
-1. Create a public repo on GitHub named `marquee-data`.
-2. From this folder: `git init && git add . && git commit -m "init" && git branch -M main && git remote add origin <url> && git push -u origin main`.
-3. Repo Settings → Pages → Source: **GitHub Actions**.
-4. Run the backfill once locally: `python3 scripts/backfill_from_wayback.py` (~30 min, hits archive.org).
-5. Commit & push the populated JSON.
-6. Trigger the workflow once: Actions tab → "scrape-viff" → "Run workflow".
+## How updates happen
 
-## How it works
+This repo is data-only. The scrape pipeline lives in a private companion repo
+(`woodthu/marquee-data-private`) so the scraper details, Wayback fallback logic, and any
+internal heuristics aren't public. The private workflow runs daily at 19:00 UTC
+(11 AM Vancouver PST), updates `data/viff-series.json`, and pushes the diff back here.
 
-- **`scripts/backfill_from_wayback.py`** — one-time. Walks every Wayback Machine snapshot of `viff.org/series/*` (we found 127 distinct series spanning 2014–2026), fetches each, and unions all observed film slugs.
-- **`scripts/scrape_viff_series.py`** — daily. Discovers currently-active series from VIFF's homepage + What's On, re-scrapes every series we already know about, and unions newly-observed films into the snapshot. Marks each scraped series with `last_seen_live`.
-- **`.github/workflows/scrape.yml`** — runs the daily scraper at 12:00 UTC, commits the JSON if changed, deploys to GitHub Pages.
-
-Stdlib-only Python — no pip dependencies.
+This repo's only workflow re-publishes the JSON via Pages whenever `data/` changes on `main`.
