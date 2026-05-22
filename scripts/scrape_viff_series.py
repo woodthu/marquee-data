@@ -147,6 +147,122 @@ def slug_to_series_name(slug: str) -> str:
     return " ".join(out)
 
 
+_MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12,
+}
+
+
+def parse_date_range_end(raw: str | None) -> tuple[int, int, int] | None:
+    """Returns (year, month, day) for the end of a VIFF date range,
+    or None if the range can't be parsed.
+
+    VIFF uses several shapes:
+      "Sep 28 – Oct 8 2023"      (cross-month, "Mon DD")
+      "Oct 2 – 12 2025"          (same-month, "Mon DD ... DD")
+      "March 14 – April 2, 2024" (full month names + comma)
+      "29 Sep – 9 Oct 2022"      (day-first European)
+
+    Strategy: pull the trailing 4-digit year, then in the head text:
+      1. Try day-first pairs ("DD Mon"); if any, take the last.
+      2. Else try month-first pairs ("Mon DD"); if any, take the last.
+      3. Else same-month form: first month token + last trailing
+         integer.
+    Returning a tuple keeps this stdlib-only without `datetime`.
+    """
+    if not raw:
+        return None
+    text = raw.replace(",", " ")
+    ym = re.search(r"(?P<year>(?:19|20)\d{2})\s*$", text)
+    if not ym:
+        return None
+    year = int(ym.group("year"))
+    head = text[:ym.start()].strip()
+
+    def month_of(name: str) -> int | None:
+        n = name.lower()
+        return _MONTHS.get(n[:4]) or _MONTHS.get(n[:3])
+
+    # Day-first ("DD Mon"): pick the last such pair if any.
+    df_pairs = list(re.finditer(r"(\d{1,2})\s+([A-Za-z]{3,})", head))
+    if df_pairs:
+        last = df_pairs[-1]
+        m = month_of(last.group(2))
+        if m:
+            return (year, m, int(last.group(1)))
+
+    # Month-first ("Mon DD"): only valid when there are 2+ pairs
+    # (cross-month range). A single pair means same-month form
+    # — falls through to the trailing-day branch below.
+    mf_pairs = list(re.finditer(r"([A-Za-z]{3,})\s+(\d{1,2})", head))
+    if len(mf_pairs) >= 2:
+        last = mf_pairs[-1]
+        m = month_of(last.group(1))
+        if m:
+            return (year, m, int(last.group(2)))
+
+    # Same-month form ("Oct 2 – 12"): leading month + trailing day.
+    word = re.search(r"([A-Za-z]{3,})", head)
+    last_day = re.search(r"(\d{1,2})\s*$", head)
+    if word and last_day:
+        m = month_of(word.group(1))
+        if m:
+            return (year, m, int(last_day.group(1)))
+    return None
+
+
+# Days a series can stay un-rediscovered before we treat its
+# film roster as frozen. Two weeks is generous enough that a
+# brief homepage rotation gap doesn't burn the entry, but tight
+# enough that a series that genuinely ran for a weekend and
+# disappeared isn't re-fetched daily for months.
+PAST_SERIES_STALE_DAYS = 14
+
+
+def is_past_series(prior: dict, today_yyyymmdd: str) -> bool:
+    """Decides whether a known series's film roster is frozen
+    enough that re-fetching its detail page is wasted work. We
+    only skip when we have positive signal that the run is over —
+    erring toward re-fetching when in doubt.
+
+    A series is "past" (skip the network) when EITHER:
+      1. Its `current_date_range` parses to an end date strictly
+         before today, OR
+      2. It was last observed live (`last_seen_live`) more than
+         PAST_SERIES_STALE_DAYS ago — i.e. VIFF stopped promoting
+         it on the homepage / what's-on weeks ago, so its film
+         roster is unlikely to change.
+
+    Anything we can't classify is treated as "still active" and
+    re-fetched. Better to spend the bandwidth than miss a new film.
+    """
+    today_y = int(today_yyyymmdd[:4])
+    today_m = int(today_yyyymmdd[4:6])
+    today_d = int(today_yyyymmdd[6:8])
+    today_tuple = (today_y, today_m, today_d)
+    # `current_date_range` is the freshly-extracted field from this
+    # script; `date_range` is the older field set by enrichment.
+    # Either signal that the run ended in the past is enough.
+    for key in ("current_date_range", "date_range"):
+        end = parse_date_range_end(prior.get(key))
+        if end is not None and end < today_tuple:
+            return True
+    last_seen = prior.get("last_seen_live")
+    if last_seen and len(last_seen) >= 8 and last_seen[:8].isdigit():
+        last_y = int(last_seen[:4])
+        last_m = int(last_seen[4:6])
+        last_d = int(last_seen[6:8])
+        # Days-between via integer Julian-ish approximation. We
+        # don't need calendrical exactness — a 2-3 day jitter at
+        # the threshold is fine since the threshold itself is
+        # arbitrary.
+        approx_today = today_y * 365 + today_m * 30 + today_d
+        approx_last = last_y * 365 + last_m * 30 + last_d
+        if approx_today - approx_last > PAST_SERIES_STALE_DAYS:
+            return True
+    return False
+
+
 def load_existing() -> dict:
     if not OUTPUT_PATH.exists():
         return {"series": []}
@@ -180,11 +296,26 @@ def main() -> int:
 
     fresh_active: set[str] = set(discovered)
     updated: list[dict] = []
+    skipped_past = 0
 
     for slug in sorted(targets):
+        prior = existing_by_slug.get(slug, {})
+        # Past-series gate: a series whose run has ended and whose
+        # roster is therefore frozen doesn't need a daily re-fetch.
+        # `is_past_series` looks at the cached `current_date_range`
+        # (preferred — definitive when present) plus the
+        # `last_seen_live` heuristic for series whose date range
+        # never parsed cleanly. Discovery overrides this — if VIFF
+        # is currently promoting the series again (re-screening,
+        # festival encore), we re-fetch even if the cached range
+        # looks past.
+        if slug not in discovered and is_past_series(prior, today):
+            updated.append(prior)
+            skipped_past += 1
+            continue
+
         url = f"https://viff.org/series/{slug}/"
         html = fetch(url)
-        prior = existing_by_slug.get(slug, {})
         # Prior films are a mix of bare-slug strings (legacy seed shape
         # from `backfill_from_wayback.py`) and dicts (current enriched
         # shape `{"slug": ..., "director": ..., ...}`). We preserve
@@ -268,6 +399,8 @@ def main() -> int:
 
     print()
     print(f"[done] {len(updated)} series in snapshot, {sum(len(s.get('film_slugs', [])) for s in updated)} total films")
+    if skipped_past:
+        print(f"[done] skipped {skipped_past} past series (frozen roster)")
     return 0
 
 
