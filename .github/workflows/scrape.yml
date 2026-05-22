@@ -12,6 +12,12 @@ permissions:
   pages: write      # publish via Pages
   id-token: write   # required by actions/deploy-pages
 
+# Opt into Node.js 24 for JS-based actions ahead of GitHub's
+# Jun 2 2026 forced cutover. Silences the deprecation warning
+# emitted by actions/checkout@v4 + actions/setup-python@v5.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 # Avoid concurrent scrape runs stomping each other if a manual run
 # fires while a scheduled one is in progress.
 concurrency:
