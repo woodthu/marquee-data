@@ -1227,7 +1227,8 @@
           "wayback_ts": "20230728074836",
           "runtime_min": 103,
           "screenings_resolved": true,
-          "runtime_resolved": true
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "who-framed-roger-rabbit",
@@ -2055,7 +2056,8 @@
           "runtime_min": 40,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "movie-poster-design-film-studies",
@@ -2643,7 +2645,7 @@
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Raagaverse Plays Bollywood",
           "poster": "https://images.viff.org/uploads/2024/03/RaagaversePlaysBollywood.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20250907075116",
+          "wayback_ts": "20240515000533",
           "synopsis": "Get your tickets before April 26 at the early bird price of $25 (regular $30). Raagaverse is an exciting Indo-Jazz fusion project spearheaded by Shruti Ramani (voice) in a collaboration with the award-winning Jodi Proznick (bass), the supremely talented Noah Franche-Nolan (piano, Nord), and the fiery Nicholas Bracewell (drums). Raagaverse\u2019s music melds ancient and rich Hindustani melodies with dense and dynamic Jazz harmonies. For this special show, Raagaverse will be delving into the vibrant world of Bollywood, from Lata Mangeshkar classics to A.R. Rahman\u2019s magic. Shruti will share clips from the legendary Bollywood musicals which inspire her, counter-pointing them with the band\u2019s unique take on these songs, in Raagaverse\u2019s iconic jazz quartet sound. The show will also feature other extraordinary musical guests; Kiarah O\u2019Kane on backing vocals, Thad Bailey-Mai on Trumpet and Curtis Andrews on percussion alongside Raagaverse. Thanks to",
           "runtime_min": 90,
           "screenings_resolved": true,
@@ -2654,8 +2656,7 @@
               "start": "2024-05-16T20:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "july-rhapsody",
@@ -2876,8 +2877,7 @@
           "runtime_min": 75,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "9-to-5",
@@ -3277,8 +3277,7 @@
           "runtime_min": 50,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "scarface",
@@ -3434,8 +3433,7 @@
           "runtime_min": 40,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "paris-texas",
@@ -4088,7 +4086,8 @@
           ],
           "runtime_min": 103,
           "screenings_resolved": true,
-          "runtime_resolved": true
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -4491,7 +4490,8 @@
           ],
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "80s-mystery-film",
@@ -5773,7 +5773,7 @@
         {
           "slug": "bhm-shorts-program",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20250810032859",
+          "wayback_ts": "20240127021028",
           "title": "Short Film Showcase",
           "poster": "https://images.viff.org/uploads/2024/01/BHMShorts_Collage.jpg?resize=960%2C600&gravity",
           "director": "Various",
@@ -5782,7 +5782,17 @@
           "runtime_min": 15,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2024-02-22T19:00:00",
+              "venue": "VIFF Centre - Studio Theatre"
+            },
+            {
+              "start": "2024-02-22T20:15:00",
+              "venue": "VIFF Centre - Studio Theatre"
+            }
+          ]
         },
         {
           "slug": "when-morning-comes",
@@ -6968,7 +6978,7 @@
           "poster": "https://images.viff.org/uploads/2024/07/CreatingColour1.jpg?resize=960%2C600&gravity",
           "director": "Various",
           "country": "Various",
-          "wayback_ts": "20240731215828",
+          "wayback_ts": "20240929061753",
           "synopsis": "Across five Monday afternoons, cinematographer, film colourist and educator Devan Scott will illuminate the distinctive ways in which filmmakers have created mood and meaning through the manipulation of colour. Each 40-minute talk will examine a different colour process \u2013 including lighting, tinting, production design \u2013 within its historical context, and exploring its aesthetic, artistic and storytelling attributes. This introductory talk will incorporate a curated program of colour-tinted silent and experimental short films. Color in cinema did not begin with color film stock but with techniques such as dye-bath tinting and toning and the hand-painting of individual film frames: tools which allowed filmmakers to impart color palettes onto monochromatic images. We\u2019ll investigate how filmmakers such as Georges M\u00e9li\u00e8s and F.W. Murnau used these techniques to develop codes of representation, and how later filmmakers like Stan Brakhage leveraged them for experimental purposes. Devan Scott is a graduate of Simon Fraser University\u2019s film program and has worked as a cinematographer, colourist, and director for ten years. As a cinematographer, his work has screened around the world at the Toronto International Film Festival, Locarno Film Festival, Clermont Short Film Festival, and Busan International Film Festival among many others. As a colourist, his clients have included Google, Film Boldly, the Vancouver Canucks, the NFB, Wondershare, and Global Media. Devan is also an experienced educator, at UBC and other institutions, and has lectured regularly at the VIFF Centre. His podcast, How Would Lubitsch Do It? has found international acclaim.",
           "runtime_min": 100,
           "screenings_resolved": true,
@@ -6979,8 +6989,7 @@
               "start": "2024-08-19T13:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "film-studies-lighting",
@@ -7103,8 +7112,7 @@
               "start": "2022-07-21T18:30:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "the-long-goodbye",
@@ -7302,8 +7310,7 @@
           ],
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "this-time-its-personal-programme-1",
@@ -9834,7 +9841,8 @@
           "runtime_min": 120,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-showrunners-scifi",
@@ -9852,7 +9860,8 @@
             }
           ],
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-international-coproduction",
@@ -10457,7 +10466,8 @@
           "runtime_min": 7,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-zone-of-interest",
@@ -11069,10 +11079,17 @@
           "country": "UK",
           "language": "In Russian and English with English subtitles",
           "synopsis": "Canadian Premiere How far would you go to defend the idea of an open press? The Price of Truth is the extraordinary story of a man who risks everything, to preserve freedom of speech in Russia. It is a tale of bravery, defiance, and a simple refusal to give in to Vladimir Putin \u2013 whatever the cost. In December 2021 Dmitry Muratov is awarded the Nobel Peace Prize. He is the editor-in-chief of Russia\u2019s only independent newspaper, Novaya Gazeta. Since he founded Novaya, six of his journalists have been murdered after their reports displeased the state, most famously, reporter Anna Politkovskaya, gunned down in the lift of her Moscow apartment. Another war dominates this film. In February 2022, Russia invades Ukraine. In early March, using the cover of a documentary film festival, Muratov secretly negotiates free passage for 40 journalists with the Latvian government. Then, all too aware of the risk he is running, he returns to Moscow to look after his paper and its remaining staff. In May, he announces that he is going to auction his Nobel medal and give the money to Ukrainian refugees. Days later, he is on a train home to see his mother. Suddenly, a masked attacker bursts into his compartment and pours red paint all over him. The paint is laced with acetone. Dima\u2019s eyesight is permanently damaged. Undaunted, he goes ahead with the auction. And on June 21, Muratov\u2019s medal sells for a record $103 million. To this day, he refuses to leave Moscow, whatever the pressure on him and his team. \u2018Putin stands for death. I stand for life.\u2019 Women journalists in South Africa who expose wrongdoing by those in power are often forced to endure deeply personal, frightening attacks on social media, as the four leading reporters interviewed for Section 16 disclose. Investigative reporters for publications that include The Daily Maverick and Die Beeld discuss the impact on them of targeted social media negativity, including direct threats to their safety. As one explains, when influential politicians with millions of followers, such as Julius Malema, malign them on social media and call for action, the danger they face is very real. But Ferial Haffajee, Marianne Thamm, Pauli van Wyk, Caryn Dolley, and others like them continue to write about corruption, crime in high places, and state collusion. What motivates them to keep going is relevant to us all. Bonus Content \u2013 Free for All Viewers With thanks to our Community Partner, SAFF Canada Video courtesy of the South African Film Festival Filmmaker Emilie Gambade (Co-director, Section 16) and investigative journalist Pauli van Wyk discuss the harassment of female journalists with former South African TV journalist Lindy Mtongana. They explain the motivation behind extreme cyber-bullying, and how these attacks affect them personally and professionally. They share their hopes that this documentary will raise awareness of the dangers facing investigative journalists globally. Watch Interview Tickets to this event include the Closing Night Reception, which includes appetizers and a drink ticket. A panel discussion/Q&A will follow the screening. Keynote Speaker: Katrina vanden Heuvel, Editorial Director and Publisher, The Nation Keynote Speakers: Emilie Gambade, Co-director, Section 16; Editor, The Daily Maverick and Malibongwe Tyilo, Co-director, Section 16; Associate Editor, Maverick Life, The Daily Maverick Panelists: Katrina vanden Heuvel, Editorial Director and Publisher, The Nation Patrick Forbes, Director, The Price of Truth Jeff Cohen, Journalist, Professor, Media Critic, Founder of Fairness and Accuracy in Reporting (FAIR) Christiaan Triebert, Journalist, Visual Investigations Team, The New York Times Martin Lee, Author, Activist, Co-founder of Fairness and Accuracy in Reporting (FAIR) Emilie Gambade, Co-director, Section 16; Editor, The Daily Maverick Moderator: Aaron Goodman, Professor of Journalism and Communication Studies, KPU",
-          "wayback_ts": "20250725132726",
+          "wayback_ts": "20240127022346",
           "runtime_min": 114,
           "screenings_resolved": true,
-          "runtime_resolved": true
+          "runtime_resolved": true,
+          "screenings": [
+            {
+              "start": "2024-02-25T18:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            }
+          ],
+          "director_resolved": true
         }
       ],
       "hero_image": null,
@@ -11297,12 +11314,18 @@
           "date_range": "Oct 1 \u2013 11 2026",
           "title": "32 Sounds",
           "poster": "https://images.viff.org/uploads/2023/08/32-Sounds-Sam-Green-Featured-Image.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20251115061305",
+          "wayback_ts": "20230814011603",
           "synopsis": "An immersive documentary and profound sensory experience from filmmaker Sam Green that explores the elemental phenomenon of sound. The film is a meditation on the power of sound to bend time, cross borders, and profoundly shape our perception of the world around us. The film will be at VIFF 2023 in its \u201clive cinema\u201d form at the Vancouver Playhouse, featuring live narration by Sam Green. Directed and performed by Sam Green, with music composed by JD Samson. 32 Sounds is a piece about sound, and the form itself will be focused on the experience of hearing and listening. 32 Sounds will provide headphones for every audience member to create an incredible binaural sound mix and add a new, deeply immersive element to the live documentary form. Followed by a Q&A with Sam Green & sound designer Mark Mangini",
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2023-10-05T19:00:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ]
         },
         {
           "slug": "live-ironworks-daniel-barrow",
@@ -11326,12 +11349,13 @@
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-ironworks-matreyek-chien",
           "date_range": "Oct 1 \u2013 11 2026",
-          "wayback_ts": "20260210123345",
+          "wayback_ts": "20230923045303",
           "title": "Miwa Matreyek & Sammy Chien",
           "poster": "https://images.viff.org/uploads/2023/09/VIFF-Live-Feature-Image-Sammy-Chien-VIFF-Live-Featured-Image-Miwa-Matreyek.jpg?resize=960%2C600&gravity",
           "synopsis": "Note: Unfortunately, we have had to cancel Sammy Chien\u2019s performance. Miwa Matreyek\u2019s performance will continue as scheduled at 9:00 pm. Doors will open at 8:00 pm. Experience VIFF Live Resident Artists Sammy Chien and Miwa Matreyek\u2019s interdisciplinary performances at The Ironworks. One ticket will grant you admission to both performances. Miwa Matreyek Further pushing her signature technique of layered projections, Miwa Matreyek creates an emotional, dreamlike meditation on climate catastrophe and the Anthropocene \u2014 the proposed current era where human influence has affected almost all realms of earth\u2019s natural systems. Miwa\u2019s shadow traverses macro and micro scales, as her silhouette shape-shifts to experience the world from various perspectives. An earth overflowing with trash. A person drowning in a plastic-filled ocean. A school of fish caught in a trawling net. The work will be an emotionally impactful, embodied illustration of the news headlines we see everyday, the complex harm humanity causes to the world \u2014 and what it might mean for all of us; humanity, as well as other life, and the earth itself \u2014 to be living in this changing world. Matreyek will perform The World Made Itself and Infinitely Yours, works that weave surreal and poetic narratives of conflict between humans, nature, and the climate crisis. This project is supported by a 2019 Princess Grace Foundation Special Projects Grant. Winner of Golden Nica award for Computer Animation, Prix Ars Electronica 2020. All music for \u201cInfinitely Yours\u201d is composed, recorded and performed by Morgan Sorne. Sammy Chien Artistic Director of Chimerik \u4f3c\u4e0d\u50cf, Sammy Chien \u7c21\u4e0a\u7fd4 is an interdisciplinary artist pioneering ways of integrating new media into performance. As part of his practice, Chien uses the technologies of real-time performance software to produce deep connections between image, sound and movement. Chien will present samples from ongoing research and a new work-in-progress exemplary of a practice that draws upon a composite of art forms, disciplines and lived experiences. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
@@ -11339,19 +11363,28 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2023-10-07T19:00:00",
+              "venue": "Ironworks"
+            }
+          ]
         },
         {
           "slug": "miles-davis-100-vince-mai-live",
           "date_range": null,
-          "wayback_ts": "20260520184530",
-          "fetch_failed": true
+          "wayback_ts": "20231013143549",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "miles-davis-100-julian-borkowski-live",
           "date_range": null,
           "wayback_ts": "20260520184530",
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "feven-kidane-ethio-jazz-live",
@@ -11978,7 +12011,8 @@
           ],
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -12147,8 +12181,7 @@
           "runtime_min": 75,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -12230,8 +12263,7 @@
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "mena-2022-the-stranger",
@@ -12257,8 +12289,7 @@
           "runtime_min": 120,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         }
       ],
       "hero_image": null,
@@ -12375,7 +12406,8 @@
           ],
           "wayback_ts": "20240126230621",
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -12393,8 +12425,7 @@
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "mena-stop-bundle",
@@ -12415,7 +12446,8 @@
           ],
           "wayback_ts": "20240127023248",
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-animalia",
@@ -12464,7 +12496,8 @@
               "start": "2024-01-28T18:00:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -12518,12 +12551,18 @@
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Award Ceremony",
           "poster": "https://images.viff.org/uploads/2023/12/Award-ceremony-Banner-1920-x-1080-1.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20250215225641",
+          "wayback_ts": "20240127051929",
           "synopsis": "The Awards Ceremony caps off MENA 5 by recognizing this year\u2019s programming highlights. Join us for an afternoon of food, music, and a celebration of MENA 5\u2019s best films! The award categories to be presented are: Catering by Join us after the Closing ceremony for the after party at The Cobalt starting at 9:00 pm. Check out menafilmfestival.com for tickets.",
           "runtime_min": 120,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2024-02-01T16:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            }
+          ]
         }
       ],
       "hero_image": null,
@@ -12774,8 +12813,7 @@
           "runtime_min": 30,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "el-this-strange-passion",
@@ -13590,8 +13628,7 @@
               "start": "2026-01-11T19:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "black-butterflies",
@@ -13731,7 +13768,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 2
+      "consecutive_404s": 3
     },
     {
       "slug": "northern-lights",
@@ -14074,7 +14111,7 @@
           "year": 2021,
           "country": "Canada",
           "language": "English",
-          "wayback_ts": "20220928085859",
+          "wayback_ts": "20220907224544",
           "runtime_min": 114,
           "screenings_resolved": true,
           "screenings": [
@@ -14126,7 +14163,7 @@
           "year": 2021,
           "country": "Canada",
           "language": "English",
-          "wayback_ts": "20220928202454",
+          "wayback_ts": "20221003123359",
           "runtime_min": 99,
           "screenings_resolved": true,
           "screenings": [
@@ -16149,7 +16186,9 @@
           "language": "English",
           "synopsis": "The Happiest Big Band on Earth had their first show on April 27th, 2018, and was born through Matt Grinke\u2019s love of jazz and Disney. Since then, the Happiest band has continued to morph and shift into many different sounds and sizes, anywhere from a trio to the full 17-piece big band, including this quintet! Matt has also shifted from just a Disney fan to pianist and music director for Disney Cruise Line, and is more than happy to arrange and perform Disney tunes even when he\u2019s not on contract! For this special performance, Matt\u2019s quintet will performing a set of Pixar Studio favourites and deep cuts. After the music, sit back and enjoy one of Pixar\u2019s most popular movies, Pete Docter\u2019s Monsters, Inc. Tenor Sax \u2014 John Nicholson Trumpet \u2014 Rory Hislop Piano \u2014 Matt Grinke Bass \u2014 Monica Sumulong Dumas Drums \u2014 Trent Otter Co-Presented with Media Partner Community Partner",
           "runtime_min": 160,
-          "screenings_resolved": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "the-incredibles",
@@ -16445,7 +16484,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "music-pictures-new-orleans",
@@ -22428,7 +22468,9 @@
           "wayback_ts": "20231207063736",
           "synopsis": "VIFF 2022 Opening Film In these troubled and lopsided times, we need our storytellers to help us understand our inheritance, be it pain or privilege, and to lay the intellectual and emotional groundwork not only for reconciliation, but for reparation and restoration. Vancouver-born Dene/M\u00e9tis writer-director Marie Clements (whose previous films The Road Forward and Red Snow have been part of VIFF\u2019s year-round and festival programming) squares up to the challenge with this bold, necessarily harrowing tale of oppression and resilience which spans the greater part of the 20th century. Aline Spears (played at different ages by Grace Dove, Summer Testawich, and Carla Rae) is a happy, gifted child, until she and her siblings are removed to a residential school. The scars of that experience will run deep through the remainder of their days, though it will not be the only time that official government policy will act as an instrument of abuse and trauma. Despite this, Aline enlists in WWII, where, ironically, her fluency in Cree becomes a national asset. The reward for her service is yet more anguish and struggle. This is a tough film, but it has epic ambition, deep-rooted conviction, anger, and urgency. Clements is not afraid to make provocative and important connections, and she marshals an outstanding cast of Indigenous actors with care and compassion. This program contains scenes that may distress some viewers, especially those who have experienced harm, abuse, violence, and/or intergenerational trauma due to colonial practices. Support is available 24 hours a day for anyone affected by their experience at residential schools and for those who may be triggered by content dealing with residential schools, child abuse, emotional trauma, and racism. The national Indian Residential Schools Crisis Line is available at 1-866-925-4419. Note: The Opening Gala screening will take place Thursday, September 29, 6 pm at the Centre for Performing Arts. Q&A Sept 29 & Oct 4 Presented by Media Partner",
           "runtime_min": 127,
-          "screenings_resolved": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "boy-from-heaven",
@@ -23760,7 +23802,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Graham Foy",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "maigret",
@@ -24913,7 +24956,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "In French and Haitian Creole with English subtitles",
-          "wayback_ts": "20220907224212",
+          "wayback_ts": "20230927024035",
           "runtime_min": 75,
           "screenings_resolved": true,
           "screenings": [
@@ -25379,7 +25422,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Sarah Watts, Mark Slutsky",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "zatopek",
@@ -25411,7 +25455,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Chandler Levack",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -26192,7 +26237,8 @@
               "start": "2022-10-03T19:00:00",
               "venue": "Annex"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "talks-katie-byron",
@@ -26291,7 +26337,7 @@
           "title": "From Dune to Mad Max Fury Road",
           "poster": "https://images.viff.org/uploads/2023/08/Talks-Mark-Mangini-Featured.jpg?resize=960%2C600&gravity",
           "synopsis": "Mark Mangini has made it his life\u2019s work to create the unimagined worlds and fabricated sonic realities of the most epic films you can imagine. Known for films including Blade Runner 2049, Star Trek I, IV and V, The Fifth Element, and Gremlins, Mark is a six-time Oscar nominated sound designer, winning twice for Dune and Mad Max Fury Road. Join us to go behind-the-scenes as Mark shares the secrets behind creating the most memorable sound art of these monumental films. Supported by Media Partner",
-          "wayback_ts": "20230907163700",
+          "wayback_ts": "20240413224842",
           "runtime_min": 90,
           "screenings_resolved": true,
           "screenings": [
@@ -26681,7 +26727,8 @@
           ],
           "runtime_min": 61,
           "screenings_resolved": true,
-          "runtime_resolved": true
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "viff25-hidden-tremors",
@@ -26718,12 +26765,22 @@
           "country": "India",
           "language": "In Tamil, Kannada and Malayalam with English subtitles",
           "synopsis": "International Premiere I Am Revathi offers a deeply personal and intimate glimpse into the life of A. Revathi \u2014 trans woman, writer, activist, and theatre artist. P. Abhijith\u2019s documentary traces Revathi\u2019s journey from Namakkal, Tamil Nadu, to the hijra communities of Delhi, Mumbai, and Bengaluru in the mid-1980s, revealing the harsh realities and quiet resilience that shaped her path. Through powerful recollections by Revathi and her contemporaries, the film explores her transformation into a prominent voice for trans rights in India. Despite legal recognition, transgender individuals in India continue to face a range of systemic challenges. Alongside Revathi\u2019s story, Abhijith depicts the lived experiences of transgender people in India and sheds light on their struggles, power, and ongoing fight for visibility, dignity, and inclusion. I Am Revathi recognizes the resistance and community building of trans activists and collectives as they work to highlight the broader realities of trans lives. Presented by Media Partner Community Partner",
-          "wayback_ts": "20251009161106",
+          "wayback_ts": "20250828002748",
           "runtime_min": 115,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "P. Abhijith \u0d05\u0d2d\u0d3f\u0d1c\u0d3f\u0d24\u0d4d\u0d24\u0d4d \u0d2a\u0d3f",
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2025-10-07T20:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2025-10-08T12:00:00",
+              "venue": "International Village 8"
+            }
+          ]
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -27029,8 +27086,7 @@
           "wayback_ts": "20260423070227",
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "viff25-walls-akinni-inuk",
@@ -27875,7 +27931,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Alison Reid",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-assembly",
@@ -27923,7 +27980,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Malcolm Willis & Alex Fegan",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-half-moon-kinan-azmeh",
@@ -28036,10 +28094,20 @@
           "language": "In Chinese, English, French, German and Japanese with English subtitles",
           "runtime_min": 145,
           "screenings_resolved": true,
-          "wayback_ts": "20251111115704",
+          "wayback_ts": "20250902061725",
           "runtime_resolved": true,
           "director": "Hiromoto Oka \u5ca1\u535a\u5927",
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2025-10-08T20:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2025-10-09T12:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ]
         },
         {
           "slug": "viff25-sun-ra-do-the-impossible",
@@ -28925,7 +28993,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Rajee Samarasinghe",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -29464,7 +29533,8 @@
           "screenings_resolved": true,
           "wayback_ts": "20251110063040",
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-7",
@@ -29545,7 +29615,8 @@
           "screenings_resolved": true,
           "wayback_ts": "20241126204058",
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-farther-eye-see",
@@ -29558,7 +29629,7 @@
           "synopsis": "XINEMA presents: Farther Than the Eye Can See, a screening of five short experimental films by local and international Palestinian filmmakers. These works observe Palestinian place, relation, and history as they are and have been represented through images and artifacts; and reflects on each filmmakers\u2019 experience in and apart from their homeland, and speaks to personal and familial perspectives on displacement and occupation. The program will begin with an original spoken word poem presented by Hira Rashid, and conclude with a Q&A with filmmaker Natali Karajeh. Balconies \u0627\u0644\u0634\u0631\u0641 Kamal Aljafari (Germany, 2007), 8 min An experimental meditation focusing on the deteriorated and unfinished balconies of the hometown of Kamal Aljafari, Ramla, and inspired by Romance son\u00e1mbulo by Federico Garc\u00eda Lorca: \u201cBut now I am no longer me, and my house is no longer my House\u2026\u201d Wild Plants of Palestine Alaa Abu Asad (Netherlands/Palestine, 2018), 10 min Journeys of observational tours solicited by the Palestinian Museum and conducted by two professors from Birzeit University to collect photos and information about Palestinian flora. WARNING: Depictions of military invasion. Your father was born 100 years old, and so was the Nakba \u0627\u0628\u0648\u0643\u064a \u062e\u0644\u0642 \u0639\u0645\u0631\u0647 \u0661\u0660\u0660 \u0633\u0646\u0629\u060c \u0632\u064a \u0627\u0644\u0646\u0643\u0628\u0629 Razan AlSalah (Canada, 2018), 7 min A Palestinian grandmother returns to her hometown Haifa through Google Streetview, today, the only way she can see Palestine. Farther Than the Eye Can See Basma al-Sharif (Germany, 2012), 13 min An essayistic exploration of statelessness is conveyed through this visually gripping and astutely constructed tale of a mass exodus of Palestinians from Jerusalem, recounted over a dense, stroboscopic cityscape. WARNING: Prolonged strobing, gunshot sounds, and an audio recollection of military occupation forced displacement. My Grandmothers Keys \u2013 \u0633\u062a\u064a \u0645\u0641\u062a\u0627\u062d Natali Karajeh (Canada, 2021), 13 min An experimental documentary about the Palestinian woman who took refuge in Jordan, what they have built, and what they left behind. WARNING: Audio recollections of military occupation and forced displacement. Q&A with filmmaker Natali Karajeh XINEMA [zin-em-a] is an artist-run experimental film series founded and based on on the traditional, ancestral and unceded territory of the Musqueam and the Tsleil-Wautuh Nations (Vancouver, BC). They began operation in VIFF Centre\u2019s 41 seat Studio Theatre, with a focus on BC-based and connected media artists, stringing emerging and established artists together into monthly thematic programs. With a home-ground of VIFF Centre, they now operate between spaces and regions, facilitating screenings, workshops and related events, with a focus on local wherever that may be.\u200b Their main priorities are to remain low-barrier, accepting free ongoing and unlimited submissions of any year or premiere status; prioritize underrepresented artists and media forms; and connect filmmakers and film-lovers of various backgrounds, disciplines and career levels.",
           "runtime_min": 8,
           "screenings_resolved": true,
-          "wayback_ts": "20240226041100",
+          "wayback_ts": "20240609232527",
           "runtime_resolved": true,
           "director_resolved": true
         },
