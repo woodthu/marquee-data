@@ -2070,7 +2070,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "wayback_ts": "20230813180632",
+          "wayback_ts": "20230814013558",
           "runtime_min": 25,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -2654,7 +2654,8 @@
               "start": "2024-05-16T20:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "july-rhapsody",
@@ -4545,8 +4546,7 @@
           "runtime_min": 25,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -5771,7 +5771,7 @@
         {
           "slug": "bhm-shorts-program",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240205203817",
+          "wayback_ts": "20240127021028",
           "title": "Short Film Showcase",
           "poster": "https://images.viff.org/uploads/2024/01/BHMShorts_Collage.jpg?resize=960%2C600&gravity",
           "director": "Various",
@@ -6976,7 +6976,7 @@
           "poster": "https://images.viff.org/uploads/2024/07/CreatingColour1.jpg?resize=960%2C600&gravity",
           "director": "Various",
           "country": "Various",
-          "wayback_ts": "20240929061753",
+          "wayback_ts": "20240731215828",
           "synopsis": "Across five Monday afternoons, cinematographer, film colourist and educator Devan Scott will illuminate the distinctive ways in which filmmakers have created mood and meaning through the manipulation of colour. Each 40-minute talk will examine a different colour process \u2013 including lighting, tinting, production design \u2013 within its historical context, and exploring its aesthetic, artistic and storytelling attributes. This introductory talk will incorporate a curated program of colour-tinted silent and experimental short films. Color in cinema did not begin with color film stock but with techniques such as dye-bath tinting and toning and the hand-painting of individual film frames: tools which allowed filmmakers to impart color palettes onto monochromatic images. We\u2019ll investigate how filmmakers such as Georges M\u00e9li\u00e8s and F.W. Murnau used these techniques to develop codes of representation, and how later filmmakers like Stan Brakhage leveraged them for experimental purposes. Devan Scott is a graduate of Simon Fraser University\u2019s film program and has worked as a cinematographer, colourist, and director for ten years. As a cinematographer, his work has screened around the world at the Toronto International Film Festival, Locarno Film Festival, Clermont Short Film Festival, and Busan International Film Festival among many others. As a colourist, his clients have included Google, Film Boldly, the Vancouver Canucks, the NFB, Wondershare, and Global Media. Devan is also an experienced educator, at UBC and other institutions, and has lectured regularly at the VIFF Centre. His podcast, How Would Lubitsch Do It? has found international acclaim.",
           "runtime_min": 100,
           "screenings_resolved": true,
@@ -6987,8 +6987,7 @@
               "start": "2024-08-19T13:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "film-studies-lighting",
@@ -7111,8 +7110,7 @@
               "start": "2022-07-21T18:30:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "the-long-goodbye",
@@ -8295,7 +8293,7 @@
       ],
       "first_seen_wayback": "20220928083520",
       "last_seen_wayback": "20250612030021",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "This year\u2019s Special Presentations lineup is the largest in VIFF\u2019s history, with every one of the films fully deserving of the designation. As always, Cannes standouts are well-represented, including a riveting Palme d\u2019Or winner from Jafar Panahi and a nerve-rattling desert odyssey courtesy of \u00d3liver Laxe. The section boasts the Canadian premieres of new work by arthouse mainstays Jim Jarmusch and Noah Baumbach, as well as outstanding features from rising talents like Chandler Levack and Hikari. Be it the engrossing mystery of the latest Knives Out entry or a historical epic detailing Palestine\u2019s Great Arab Revolt, these are films that sweep you up in their thrall.",
       "date_range": null,
@@ -8907,8 +8905,7 @@
           "screenings_resolved": true,
           "wayback_ts": "20251110063653",
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "wild-river",
@@ -9878,7 +9875,8 @@
               "start": "2022-10-02T11:30:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -9908,8 +9906,7 @@
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         }
       ],
       "hero_image": null,
@@ -10240,8 +10237,7 @@
           ],
           "runtime_resolved": true,
           "director": "Matthew Heineman",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "unarchived",
@@ -10272,7 +10268,7 @@
       ],
       "first_seen_wayback": "20220909223027",
       "last_seen_wayback": "20260213185049",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "There\u2019s an art to communication, and documentaries help capture it. Insights gathers films that confront power, displacement, and environmental collapse through acts of witnessing, listening, and resistance.",
       "date_range": null,
@@ -11279,7 +11275,7 @@
           "date_range": "Oct 1 \u2013 11 2026",
           "title": "A Symphony of Horror",
           "poster": "https://images.viff.org/uploads/2022/08/Nosferatu.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20220929233539",
+          "wayback_ts": "20220921045438",
           "synopsis": "Destructive pop duo BIG KILL (the latest project from We Are the City\u2019s Cayne McKenzie and Andrew Huculiak) resurrects horror centenarian Nosferatu in the gothic setting of St. Andrew\u2019s-Wesley for a spellbinding night of hyper pop frenzy. Tales of the undead feeding on the blood of the living go all the way back to ancient times and crop up in cultures far beyond the borders of Transylvania and Eastern Europe, appearing in South America, East Asia, New England, and olde England, for that matter. It\u2019s generally assumed these tales derive from the once mystifying effects of natural diseases. Tuberculosis, for example, would leave otherworldly, bloated corpses: the victims\u2019 skin might tighten, giving the impression that teeth have extended; hair and fingernails could continue to grow, and there might be bloody spittle around the mouth. That\u2019s a pretty fair thumbnail of cinema\u2019s first iconic vampire, Count Orlok, aka Nosferatu (1922), played by the tall, skeletal Max Schreck* in F.W. Murnau\u2019s hugely influential horror classic, which is celebrating its centenary this year. The first, albeit unofficial, adaptation of Bram Stoker\u2019s novel Dracula, the film differs from subsequent versions in its vivid portrait of the vampire as a ghoulish fiend, bald, with rodent-like teeth, digits and ears. He preys in the shadows and merges with the darkness. If this is a creature of the Expressionist imagination, Nosferatu stands out for Murnau\u2019s decision to film on location in medieval Baltic towns; the horror derives its special frisson from placing the supernatural within the natural world. It\u2019s surely no coincidence that the movie materialized just a few years after the 1918 H1N1 influenza pandemic claimed the lives of 25-50 million souls around the world, fanning fears of immigrants and the Other. 2022 certainly feels like the right time to revive this centenarian of horror. *Weirdly, Schreck is German for \u201cterror.\u201d About the venue: St. Andrew\u2019s-Wesley United Church St. Andrew\u2019s-Wesley is an 89-year-old gothic revival, heritage-listed building. It is modeled on classical European cathedral designs, with a soaring vaulted roof, stained glass windows, and angel reliefs. The 75\u2032 high ceiling makes this the largest sanctuary in the city. St. Andrew\u2019s-Wesley is known for its inclusive, progressive social views, its support for marginalized communities, and its celebration of art as a path towards empathy and the divine. St. Andrew\u2019s-Wesley is located on the corner of Nelson and Burrard. Tickets: $18 Ticket + Live Audio Recording Download: $25 Please call the Box Office (604-683-3456) for VIFF Live Community Access Ticket rates.",
           "runtime_min": 120,
           "screenings_resolved": true,
@@ -11297,7 +11293,7 @@
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Machine Folklore",
           "poster": "https://images.viff.org/uploads/2023/08/Machine-Folklore-NAX-Future-Featured-Image.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20230814011718",
+          "wayback_ts": "20230923044549",
           "synopsis": "A limited number of chairs are available at this performance. Mats on the floor will also be available, along with space for standing. In this immersive audio-visual performance screening, artificial intelligence meets virtual consciousness and together, we see humanity through non-human A.I. eyes. Using music, imagery, and light design, Machine Folklore is a glimpse into the infinite possibilities of the future of digital culture and virtual technology in this hypnotic audio-visual work. Software2050 and NAXS FUTURE are interdisciplinary new media art collectives from Taiwan. Their practice focuses on experimental creations that take audiences into the metaverse, exploring the forefront of the digital world and the infinite possibilities of future aesthetics. NAXS FUTURE is a creative studio evolved from NAXS CORP, which is committed to creating online experiences, VR theater and audiovisual performances. The team focused on the accelerated transformation of human experiences. NAXS investigates the dialectic relation between posthuman mythology, animism ritual practices, creating its fictional framework for the internet society. Each of NAXS\u2019s work is an unique attempt exploring the boundary of embodied experiences along with the digital migration. They have been awarded the first prize in the Digital Art Performance Award with the VR theater production \u201cRender Ghost\u201d, and presented the piece at Ars Electronica in Austria and Times Art Museum in Beijing. Based on the self-developed multi-player experiment framework, NAXS has released a series of game-style online experimental performances at UNSOUND, LEV, Rewire, Soft Centre and Now or Never Festival since 2020.",
           "runtime_min": 60,
           "screenings_resolved": true,
@@ -11312,8 +11308,7 @@
               "venue": "Roundhouse"
             }
           ],
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "live-32-sounds",
@@ -11331,8 +11326,7 @@
               "start": "2023-10-05T19:00:00",
               "venue": "Vancouver Playhouse"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "live-ironworks-daniel-barrow",
@@ -11344,15 +11338,14 @@
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "live-ironworks-cris-derksen",
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Cris Derksen",
           "poster": "https://images.viff.org/uploads/2023/08/Cris-Derksen-Featured-Image-Live.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20240624024007",
+          "wayback_ts": "20251012102203",
           "synopsis": "Juno nominated Cris Derksen is an internationally respected Indigenous cellist and composer. Originally from Treaty 8 in Northern Alberta, she comes from NorthTall Cree Reserve on her father\u2019s side and Mennonite homesteaders on her mother\u2019s. Derksen will introduce audiences to the unforgettable virtuosity that has led to her break-out solo career, while also collaborating with some of Canada\u2019s Finest; Tanya Tagaq, Buffy Sainte Marie, Naomi Klein, and Leanne Simpson to name just a few. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
           "runtime_min": 60,
           "screenings_resolved": true,
@@ -11375,7 +11368,9 @@
           "slug": "miles-davis-100-julian-borkowski-live",
           "date_range": null,
           "wayback_ts": "20260520184530",
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true
         },
         {
           "slug": "feven-kidane-ethio-jazz-live",
@@ -11398,7 +11393,7 @@
       ],
       "first_seen_wayback": "20221005032844",
       "last_seen_wayback": "20231013143549",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": "https://images.viff.org/uploads/2022/04/RZAlive.png?resize=960%2C600&gravity",
       "description": "Live performances that push the boundaries of traditional film programming, intersecting cinema culture with music, comedy, podcasting, and performance in unique, cinema-infused live shows.",
       "date_range": null,
@@ -11541,8 +11536,7 @@
               "start": "2022-10-04T20:00:00",
               "venue": "St. Andrews Wesley United Church"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "live-machine-folklore",
@@ -11582,8 +11576,7 @@
               "start": "2023-10-05T19:00:00",
               "venue": "Vancouver Playhouse"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "live-ironworks-daniel-barrow",
@@ -11595,7 +11588,8 @@
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-ironworks-cris-derksen",
@@ -11607,7 +11601,8 @@
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-ironworks-matreyek-chien",
@@ -11619,7 +11614,8 @@
           "runtime_min": 120,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": "https://images.viff.org/uploads/2022/04/RZAlive.png?resize=960%2C600&gravity",
@@ -12043,7 +12039,8 @@
             }
           ],
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-2022-constellations",
@@ -12125,7 +12122,8 @@
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-2022-geographies",
@@ -12179,7 +12177,8 @@
           "runtime_min": 75,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -12287,7 +12286,8 @@
           "runtime_min": 120,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -12320,7 +12320,8 @@
             }
           ],
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-rewind-bundle",
@@ -12345,7 +12346,8 @@
               "start": "2024-01-31T20:20:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "mena-three-promises",
@@ -13047,7 +13049,7 @@
       ],
       "first_seen_wayback": "20220924173013",
       "last_seen_wayback": "20251111112540",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "MODES is a place for video art, experimentation, the avant-garde, and exciting interpretations of screen-based work \u2014 an invitation to submit to the artist.",
       "date_range": null,
@@ -13763,7 +13765,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 6
+      "consecutive_404s": 7
     },
     {
       "slug": "northern-lights",
@@ -14006,8 +14008,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Gail Maurice",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "soft",
@@ -14169,7 +14170,7 @@
           "year": 2021,
           "country": "Canada",
           "language": "English",
-          "wayback_ts": "20220928202454",
+          "wayback_ts": "20220920185457",
           "runtime_min": 99,
           "screenings_resolved": true,
           "screenings": [
@@ -14184,13 +14185,12 @@
           ],
           "runtime_resolved": true,
           "director": "Chandler Levack",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         }
       ],
       "first_seen_wayback": "20220907223051",
       "last_seen_wayback": "20260312191821",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "Hosting seven world premieres and welcoming several films that have already earned considerable acclaim on the festival circuit, Northern Lights once again serves notice that Canadian and Indigenous filmmakers are a force to be reckoned with. Many of the films found here take the form of involving journeys, be they across oceans or into the depths of memory. Elsewhere, there are accounts of indoctrination, incarceration, and fumbling bids for sexual liberation.",
       "date_range": null,
@@ -14470,7 +14470,7 @@
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Oscars\u00ae Party 2025",
           "poster": "https://images.viff.org/uploads/2024/02/DoTheOscarsInStyle_Web1920px.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20250124133001",
+          "wayback_ts": "20250127155410",
           "synopsis": "Please note there will be no Standby available for this event. Experience the Academy Awards in style at VIFF Centre! Vancouver\u2019s classiest big screen cinema offers the most comfortable seats in town, red carpet, step & repeat and a fully licensed bar. VIFF\u2019s annual red carpet Oscars\u00ae party gives you the virtual experience of the telecast, and enhances it with real live hosts, our famous Oscar\u00ae bingo, prize packages, and the open invitation to get your glitz on in our Best Dressed fashion show. Along with unlimited free popcorn, we\u2019ll have fun fare from Japadog stationed nearby for emergency rations. Our bar will be open and selling beer, wine and bubbly \u2013 it\u2019s just that kind of party! All this, plus the Hollywood glitterati on the big screen. As we celebrate the magic of cinema, let\u2019s also take a moment to support a real-life cause. Wildfires have affected countless lives and communities. Please consider donating to wildfire relief efforts here in BC and wherever help is needed. Fire knows no borders, but neither does compassion.",
           "runtime_min": 300,
           "screenings": [
@@ -14481,8 +14481,7 @@
           ],
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "flow",
@@ -14925,8 +14924,7 @@
           "runtime_min": 360,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "one-battle-after-another",
@@ -15791,7 +15789,8 @@
               "start": "2022-10-05T21:15:00",
               "venue": "International Village 10"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "what-we-do-next",
@@ -15870,7 +15869,7 @@
       ],
       "first_seen_wayback": "20220908193017",
       "last_seen_wayback": "20260210122118",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "This year\u2019s Panorama selection is customarily sprawling, with dozens of countries represented. Particularly noteworthy is the inclusion of accomplished work from several Latin American nations, as well as a rare feature film produced in Iraq. A number of these titles have been submitted by their nation for Oscar consideration, with more certain to follow. In addition to platforming a wealth of East Asian talent, Panorama also introduces audiences to some vital voices causing a clamour in the independent American filmmaking scene.",
       "date_range": null,
@@ -16008,7 +16007,8 @@
           ],
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "old-dog",
@@ -16613,7 +16613,7 @@
       ],
       "first_seen_wayback": "20220922004632",
       "last_seen_wayback": "20251129163506",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "Chosen with the \u201cbig screen and sound\u201d experience in mind, Portraits offers a diverse selection of documentary features about music, art, and design. From salsa and Sun Ra to Caravaggio, Kengo Kuma, and Kinan Azmeh, Portraits tours the world, providing access to great artists in intimate settings \u2014 and even some voguing AI! The home team is represented by Robert Bateman and E.J. Hughes.",
       "date_range": null,
@@ -17412,7 +17412,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.",
       "date_range": null,
@@ -18454,7 +18454,7 @@
       ],
       "first_seen_wayback": "20220909022431",
       "last_seen_wayback": "20260210112133",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "The impressive roll call for this year\u2019s Showcase proves just how bountiful the cinema of 2025 has proven to be. This is also where you\u2019ll find several director-actor teams continuing their longstanding collaborations, including Richard Linklater and Ethan Hawke, Paulo Sorrentino and Tony Servillo, Christian Petzold and Paula Beer, and Hong Sangsoo and Kwon Haehyo. Meanwhile, Shih-Ching Tsou, Chie Hayakawa, and Mascha Schilinski all demonstrate a remarkable capacity for eliciting astonishing performances from their youngest cast members.",
       "date_range": null,
@@ -18618,7 +18618,7 @@
       ],
       "first_seen_wayback": "20220910180025",
       "last_seen_wayback": "20260312192925",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "Spectrum is the festival\u2019s most expansive space for boundary-breaking nonfiction \u2014 where form ruptures and futures flicker. These films rewire documentary grammar through mythic conjurings, archival remixes, and radical aesthetics.",
       "date_range": null,
@@ -19125,8 +19125,7 @@
           "runtime_min": 70,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "the-tale-of-the-princess-kaguya",
@@ -20268,7 +20267,7 @@
         {
           "slug": "summer-in-the-70s-epilogue-film",
           "date_range": null,
-          "wayback_ts": "20220829040115",
+          "wayback_ts": "20220828212306",
           "title": "Film #70 (Surprise Film)",
           "poster": "https://images.viff.org/uploads/2022/06/VIFFDefault.jpg?resize=150%2C150",
           "synopsis": "As our epic Ragged Glory: Summer in the 70s season comes to an end, we couldn\u2019t resist throwing our pass holders a parting gift and adding an epilogue, appropriately enough the 70th feature film in the series that began, back in mid-July, with the epochal rock concert film, Gimme Shelter. Just for fun, we are keeping the identity of the movie in question a closely guarded secret. But we will give you a few clues: It comes from the latter half of the 1970s. The director has featured previously in this season. And as far as star power goes, this one is hard to top. Thanks for your support for our series\u2026 See you next year for Summer in the 80s\u2026 ?",
@@ -20283,8 +20282,7 @@
               "start": "2022-09-05T20:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         }
       ],
       "hero_image": null,
@@ -22121,8 +22119,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Francesco Sossai",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "tortoise-under-the-earth",
@@ -22159,7 +22156,7 @@
       ],
       "first_seen_wayback": "20220913184538",
       "last_seen_wayback": "20260312195834",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "Introducing a new wave of gifted storytellers to Canadian audiences, the films in this series reflect the well of ingenuity and cinematic prowess emerging from all corners of the world. Form, style and genre either blur, bend or extend in these works, weaving regional flourishes and breathing fresh air into familiar narratives. Or inventing entirely new ones. This is the place to surrender expectations and discover a hidden gem.",
       "date_range": null,
@@ -23386,8 +23383,7 @@
               "start": "2022-10-07T13:15:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "huesera",
@@ -24405,8 +24401,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Francesco Sossai",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "pacifiction",
@@ -25041,7 +25036,8 @@
           ],
           "runtime_resolved": true,
           "director": "Miryam Charles",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "thunder",
@@ -26264,7 +26260,7 @@
       ],
       "first_seen_wayback": "20220919220046",
       "last_seen_wayback": "20251012183750",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": null,
       "description": "As the chaos and heaviness of the world crisscross our circuits, filmmakers process our collective urgency by way of metaphor and poetics, using the short form to provide much needed grace. Difficult subjects are padded by recurring themes of kinship, faith, and the body, as we grasp for solidarity and resistance. The cozy compositions found in this year\u2019s Short Forum offer a humble embrace through which to recharge our spirit.",
       "date_range": null,
@@ -26324,7 +26320,8 @@
               "start": "2022-10-05T19:00:00",
               "venue": "Annex"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "talks-michael-abels",
@@ -26336,7 +26333,8 @@
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -26348,8 +26346,7 @@
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "talks-deepa-mehta",
@@ -26438,7 +26435,7 @@
       ],
       "first_seen_wayback": "20220928083612",
       "last_seen_wayback": "20230930222331",
-      "last_seen_live": "20260525",
+      "last_seen_live": "20260526",
       "hero_image": "https://images.viff.org/uploads/2023/01/DeborahScottVIFF2022.png?resize=960%2C600&gravity",
       "description": "From creators and showrunners to directors, writers, producers, and craftspeople, VIFF Talks draw from a finely curated group of key creatives. Whether they\u2019re responsible for critically acclaimed films or groundbreaking TV series, they provide a treasure trove of information and inspiration for fellow creators, filmmakers, industry professionals, and, of course, fans of their work.",
       "date_range": null,
@@ -26822,8 +26819,7 @@
           "wayback_ts": "20250919223136",
           "runtime_resolved": true,
           "director": "Sreekanth Pangapattu",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "viff25-i-am-revathi",
@@ -27989,7 +27985,7 @@
           "country": "Canada",
           "language": "English",
           "synopsis": "World Premiere Between 1957 and 1958, Robert Bateman and Bristol Foster undertook the adventure of a lifetime \u2014 driving a Land Rover dubbed \u201cthe Grizzly Torque\u201d 30,000 kilometres across Africa, India, Southeast Asia, and Australia. More than just an adrenaline-pumping adventure story of two young men crossing half the planet, The Art of Adventure maps out how Bateman and Foster\u2019s trip inspired a love of nature that would last a lifetime. The film interweaves an account of their travels with a look their lives through the decades that followed: Bateman became a beloved Canadian wildlife painter and Foster a prominent biologist and the first director of BC\u2019s Ecological Reserves program. Through in-depth interviews with friends and family and the original 16mm film footage of their incredible journey, director Alison Reid shows how the trip expanded the pair\u2019s knowledge of the physical world while deepening their spiritual and emotional connection to it. A heartwarming, inspirational love letter to the adventure of life itself. The October 12 screening is a Relaxed Screening. Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience. Learn More Oct 5 & 7: Q&A Presented by Media Partner Community Partner",
-          "wayback_ts": "20251111115704",
+          "wayback_ts": "20250902195542",
           "runtime_min": 90,
           "screenings": [
             {
@@ -28048,8 +28044,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Malcolm Willis & Alex Fegan",
-          "director_resolved": true,
-          "fetch_failed": true
+          "director_resolved": true
         },
         {
           "slug": "viff25-half-moon-kinan-azmeh",
@@ -28075,8 +28070,7 @@
               "start": "2025-10-11T18:00:00",
               "venue": "The Cinematheque"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-i-want-it-all-hildegard-knef",
@@ -28102,8 +28096,7 @@
               "start": "2025-10-11T10:45:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-john-candy-i-like-me",
@@ -28114,7 +28107,7 @@
           "country": "USA",
           "language": "English",
           "synopsis": "A Canadian icon who defined a generation of comedy, John Candy\u2019s presence still looms large in the hearts of fans decades after his tragically early death. Following in his footsteps, director Colin Hanks balances laughs with genuine emotional depth and warmth while revisiting Candy\u2019s life and career. Letting Candy\u2019s star presence speak for itself, this documentary highlights his roles on SCTV and in movies like Uncle Buck and Planes, Trains, and Automobiles, with clips awash in nostalgia and brimming with comedic genius. But even as the world fell in love with John Candy, he struggled to accept himself, suffering from debilitating anxiety attacks and insecurities. Alongside intimate recollections and reflections from his friends and family, an endless roster of actors and comedians share their stories about Candy, from Bill Murray to Catherine O\u2019Hara to Macaulay Culkin, shaping a portrait of the actor as not only a family man, but a man who treated the world like his family. A hilarious, heartwarming celebration of Candy\u2019s generous spirit and singular talent. Presented by Media Partner Community Partner",
-          "wayback_ts": "20250902190237",
+          "wayback_ts": "20250908181703",
           "screenings": [
             {
               "start": "2025-10-04T12:00:00",
@@ -28140,13 +28133,22 @@
           "country": "Colombia/USA",
           "language": "In Spanish with English subtitles",
           "synopsis": "Cali, Colombia: the salsa capital of the world, where the streets are alive with the vibrant sounds of music and dancing. Untangling salsa\u2019s cultural roots, director Juan Carvajal traces the hybrid genre\u2019s dynamic evolution in New York City as an infectious blend of Afro-Cuban styles and American jazz in the 1960s and 70s to Cali, where the tradition endures today, livelier as ever. La Salsa Vive takes on a celebratory atmosphere, exploring salsa\u2019s ability to inspire communities and bring a bit more passion to quotidian life. Against a backdrop of rare archival footage and performances, renowned musicians like Rub\u00e9n Blades and Willie Rosario share stories and perspectives from their careers, emphasizing salsa\u2019s power to enrich the soul. An immersive and beautiful embodiment of the exuberance salsa brings out in people, Carvajal\u2019s documentary highlights the rich legacy of the genre as it reaches new heights with each generation. Presented by Media Partner Community Partner",
-          "wayback_ts": "20251011153437",
+          "wayback_ts": "20251003213850",
           "runtime_min": 103,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Juan Carvajal",
           "director_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2025-10-05T17:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2025-10-07T10:30:00",
+              "venue": "International Village 7"
+            }
+          ]
         },
         {
           "slug": "viff25-painted-life-of-ej-hughes",
@@ -28199,8 +28201,7 @@
               "start": "2025-10-09T12:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-sun-ra-do-the-impossible",
@@ -28211,12 +28212,22 @@
           "country": "USA",
           "language": "English",
           "synopsis": "Canadian Premiere Whether he was just a man or, as he claims, an angel sent from Saturn to spread peace and love through his music, Sun Ra was one of the unique visionaries of the 20th century \u2014 a creator who turned his life into a work of art. Endlessly reinventing himself, Sun Ra\u2019s innovations as a musician and artist extended beyond his groundbreaking works with electronic instruments and free improvisation to radical ideas about culture and performance. Beginning with his childhood as Herman Poole Blount born 1914 in Alabama, director Christine Turner follows the artist\u2019s trajectory as he transforms from a talented musician into Sun Ra: a pioneer embracing new forms of jazz and Afrofuturism while building a home in the avant-garde. Seamlessly blending archival footage, in-depth interviews with scholars and musicians, live performances, and kaleidoscopic imagery, this documentary explores the legacy of one of the most iconoclastic artists of the modern age. Presented by Media Partner Community Partner",
-          "wayback_ts": "20260210111921",
+          "wayback_ts": "20250918060722",
           "runtime_min": 84,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Christine Turner",
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2025-10-03T21:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2025-10-10T13:30:00",
+              "venue": "International Village 10"
+            }
+          ]
         }
       ],
       "hero_image": null,
@@ -29006,7 +29017,8 @@
               "start": "2025-10-09T13:00:00",
               "venue": "International Village 8"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff25-the-great-north",
@@ -29062,7 +29074,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Anas Saeed, Rawia Alhag, Ibrahim Snoopy, Timeea Mohamed Ahmed & Phil Cox",
-          "director_resolved": true
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-memory-of-princess-mumbi",
@@ -29095,12 +29108,22 @@
           "country": "USA",
           "language": "English",
           "synopsis": "International Premiere Though often relegated to a footnote in the aftermath of 9/11, the Battle of Seattle \u2014 otherwise known as the 1999 Seattle World Trade Organization protests \u2014 was a watershed moment foreshadowing 21st century American politics. Tens of thousands of peaceful protesters gathered in downtown Seattle in opposition to the antidemocratic effects of the WTO shaping economic globalization; in response, officials vilified the demonstrations, while ordering police forces to respond with escalating militarized force and tactics. Painstakingly arranged from thousands of hours of archival footage \u2014 from protesters\u2019 personal camcorders, police propaganda, news reports, bystanders \u2014 director Ian Bell reconstructs events with a panoramic view of the conflict from every possible perspective, revealing how narratives were constructed and manipulated in real time along ideological lines. An immersive experience exposing the myopic machinations of politicians and corporate interests in the face of democratic, nonviolent protests, it\u2019s also breathtakingly prescient; a preview of present-day American politics, injustice, and the consolidation of power. Oct 7: Q&A Presented by Community Partner",
-          "wayback_ts": "20251223001309",
+          "wayback_ts": "20250831080118",
           "runtime_min": 100,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Ian Bell",
-          "director_resolved": true
+          "director_resolved": true,
+          "screenings": [
+            {
+              "start": "2025-10-07T18:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-10-08T18:00:00",
+              "venue": "International Village 8"
+            }
+          ]
         },
         {
           "slug": "viff25-your-touch-makes-others-invisible",
@@ -29696,7 +29719,7 @@
           "synopsis": "XINEMA presents: COSMIC QUEERITIES, a seven-film exploration of the intersections between identity & fantasy. Experience the depths of queer imagination and resiliency in the face of earthly alienation \u2013 done through the lens of a Lesbian Vampire, Pink Fairy, Jesus, Tom Waits and more! Screening: MOTHER (2014), Coral Short and Pippi Zornoza, 3 min Kaleidoscopic transmutations of a queer future. You are a Lesbian Vampire (2008), TJ Cuthand, 3 min An Immortal\u2019s immoral dilemma. Jesus\u2019 Blood Never Failed Me Yet (2020), Aryo Khakpour, 8 min An imaginary meeting between Jesus and Tom Waits. The Big Reveal (2022), Paige Smith, 2 min An exploration of women and gender-queer representation through a playful striptease. Pink Fairy (2006), Juli Saragosa, 7 min She could never wear pink until one night when the moon is out and a fairy comes to visit. Defiance (1993), Mo Bradley, 7 min Resilience of lesbian desire in the face of homophobia Supa Powers (2001), Michael Venus, 3 min Have you ever wondered what it\u2019d be like to have super powers? Filmmakers in attendance, Q&A after the screening Stay tuned for a corresponding collaborative workshop series announcement between XINEMA & Echo Park Film Centre North. XINEMA is an ongoing series that showcases emerging and established filmmakers within and around \u201cVancouver\u201d, BC to strengthen and preserve the local experimental film scene. Curated by Sidney Gordon and Celina de Leon",
           "runtime_min": 3,
           "screenings_resolved": true,
-          "wayback_ts": "20251110063948",
+          "wayback_ts": "20240226041058",
           "runtime_resolved": true,
           "director_resolved": true
         },
