@@ -1,7 +1,7 @@
 name: publish-pages
 
-# Publishes data/viff-series.json via GitHub Pages on every push
-# to main. The actual scraping happens in the private repo
+# Publishes every JSON under data/ via GitHub Pages on push to main.
+# The actual scraping happens in the private repo
 # woodthu/marquee-data-private; this workflow only handles the
 # public re-deploy of the JSON.
 
@@ -32,7 +32,12 @@ jobs:
       - name: Stage Pages site
         run: |
           mkdir -p _site
-          cp data/viff-series.json _site/viff-series.json
+          # Copy every JSON in data/ to the Pages root so adding a new
+          # data file only requires committing it under data/ — no
+          # workflow edit. Existing iOS fetchers expect root-level
+          # URLs (e.g. /viff-series.json, /programme-guides.json), so
+          # the flattening matters.
+          cp data/*.json _site/
 
       - uses: actions/upload-pages-artifact@v3
         with:
