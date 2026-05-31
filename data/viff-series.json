@@ -11515,28 +11515,369 @@
     },
     {
       "slug": "live",
-      "name": "Live",
+      "name": "VIFF Live Year-Round",
       "detail_url": "https://viff.org/series/live/",
       "first_seen_wayback": "20221005032844",
       "last_seen_wayback": "20231013143549",
       "film_slugs": [
         {
-          "slug": "live-nosferatu",
-          "date_range": "Oct 1 \u2013 11 2026",
-          "title": "A Symphony of Horror",
-          "poster": "https://images.viff.org/uploads/2022/08/Nosferatu.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20220921045438",
-          "synopsis": "Destructive pop duo BIG KILL (the latest project from We Are the City\u2019s Cayne McKenzie and Andrew Huculiak) resurrects horror centenarian Nosferatu in the gothic setting of St. Andrew\u2019s-Wesley for a spellbinding night of hyper pop frenzy. Tales of the undead feeding on the blood of the living go all the way back to ancient times and crop up in cultures far beyond the borders of Transylvania and Eastern Europe, appearing in South America, East Asia, New England, and olde England, for that matter. It\u2019s generally assumed these tales derive from the once mystifying effects of natural diseases. Tuberculosis, for example, would leave otherworldly, bloated corpses: the victims\u2019 skin might tighten, giving the impression that teeth have extended; hair and fingernails could continue to grow, and there might be bloody spittle around the mouth. That\u2019s a pretty fair thumbnail of cinema\u2019s first iconic vampire, Count Orlok, aka Nosferatu (1922), played by the tall, skeletal Max Schreck* in F.W. Murnau\u2019s hugely influential horror classic, which is celebrating its centenary this year. The first, albeit unofficial, adaptation of Bram Stoker\u2019s novel Dracula, the film differs from subsequent versions in its vivid portrait of the vampire as a ghoulish fiend, bald, with rodent-like teeth, digits and ears. He preys in the shadows and merges with the darkness. If this is a creature of the Expressionist imagination, Nosferatu stands out for Murnau\u2019s decision to film on location in medieval Baltic towns; the horror derives its special frisson from placing the supernatural within the natural world. It\u2019s surely no coincidence that the movie materialized just a few years after the 1918 H1N1 influenza pandemic claimed the lives of 25-50 million souls around the world, fanning fears of immigrants and the Other. 2022 certainly feels like the right time to revive this centenarian of horror. *Weirdly, Schreck is German for \u201cterror.\u201d About the venue: St. Andrew\u2019s-Wesley United Church St. Andrew\u2019s-Wesley is an 89-year-old gothic revival, heritage-listed building. It is modeled on classical European cathedral designs, with a soaring vaulted roof, stained glass windows, and angel reliefs. The 75\u2032 high ceiling makes this the largest sanctuary in the city. St. Andrew\u2019s-Wesley is known for its inclusive, progressive social views, its support for marginalized communities, and its celebration of art as a path towards empathy and the divine. St. Andrew\u2019s-Wesley is located on the corner of Nelson and Burrard. Tickets: $18 Ticket + Live Audio Recording Download: $25 Please call the Box Office (604-683-3456) for VIFF Live Community Access Ticket rates.",
+          "slug": "adventures-of-prince-achmed-live"
+        },
+        {
+          "title": "Alfred Hitchcock's The Lodger",
+          "synopsis": "When a stranger rents a room from model Daisy and her mum and dad, her policeman boyfriend becomes suspicious... Presented with an original live score by Chris Gestrin, the first signature Hitchcock movie is loosely based on the Jack The Ripper murders.",
+          "poster": "https://images.viff.org/uploads/2025/05/Lodger.jpg?resize=960%2C600&gravity",
+          "runtime_min": 98,
+          "slug": "alfred-hitchcock-the-lodger-live"
+        },
+        {
+          "title": "Round Midnight: Ardeshir Plays Dexter Gordon",
+          "synopsis": "Saxophonist Ardeshir channels jazz great Dexter Gordon in his live set, followed by a screening of Round Midnight, maybe the greatest film about jazz.",
+          "poster": "https://images.viff.org/uploads/2026/01/RoundMidnight.jpg?resize=960%2C600&gravity",
+          "runtime_min": 131,
+          "slug": "ardeshir-dexter-gordon-live"
+        },
+        {
+          "title": "A Tribute to Artie Shaw",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2024/10/TimeIsAllYouveGot_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "year": 1985,
+          "director": "Brigitte Berman",
+          "country": "USA",
+          "slug": "artie-shaw-tribute-live"
+        },
+        {
+          "title": "ask\u00eewan \u140a\u1422\u146e\u140a\u1427\u1423",
+          "synopsis": "Through live cinema, music and nehiyawewin song, ask&icirc;wan \u140a\u1422\u146e\u140a\u1427\u1423 reveals how land remembers and how the earth continues to sing through us.",
+          "poster": "https://images.viff.org/uploads/2026/01/askiwan.jpg?resize=960%2C600&gravity",
+          "runtime_min": 60,
+          "slug": "askiwan-live"
+        },
+        {
+          "title": "Beatlemania! Get Back Unplugged",
+          "synopsis": "Enjoy a live show from Get Back Unplugged, a jazzy reinterpretation of Beatles music by six top musicians, followed by a screening of A Hard Day's Night.",
+          "poster": "https://images.viff.org/uploads/2025/10/HardDaysNight.jpg?resize=960%2C600&gravity",
+          "runtime_min": 190,
+          "slug": "beatlemania-live"
+        },
+        {
+          "title": "Biboye Onanuga Plays Monk",
+          "synopsis": "Returning to the VIFF stage, Biboye Onanuga, presents The Music of Monk. The Edmonton-based drummer is joined by an iconoclastic ensemble of Vancouver musicians prior to a screening of the documentary Thelonious Monk: Straight, No Chaser.",
+          "poster": "https://images.viff.org/uploads/2025/03/VIFFLive_Monk.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "year": 1988,
+          "director": "Charlotte Zwerin",
+          "country": "USA",
+          "slug": "biboye-onanuga-plays-monk-live"
+        },
+        {
+          "title": "Blue Horse Opera",
+          "synopsis": "Rick Maddocks' Blue Horse Opera is a visionary song cycle fusing indie, folk, classical music and dance, drawing inspiration from the climate emergency and the cinematic landscapes of spaghetti westerns. This VIFF Live event is followed by Sergio Sollima's The Big Gundown, starring Lee van Cleef.",
+          "poster": "https://images.viff.org/uploads/2025/07/BigGundown.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "blue-horse-opera-big-gundown-live"
+        },
+        {
+          "title": "BC's Blue Note Legacy Quartet",
+          "synopsis": "Four of Vancouver's best jazz musicians come together as BC's Blue Note Legacy Quartet memorializing the iconic recording label (home to Monk, Coltrane, Wayne Shorter and so many others) followed by Sophie Huber's acclaimed 2018 documentary, Blue Note Records: Beyond the Notes.",
+          "poster": "https://images.viff.org/uploads/2025/04/BlueNoteRecords.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "slug": "blue-note-legacy-quartet-live"
+        },
+        {
+          "title": "Bonnie Northgraves Quintet: To Louis with Love",
+          "synopsis": "Join us for To Louis with Love, a joyful celebration of the legendary Louis Armstrong by Bonnie Northgraves and her band, followed by Bert Stern's legendary concert film Jazz on a Summer's Day, featuring Monk, Gerry Mulligan, and of course Satchmo.",
+          "poster": "https://images.viff.org/uploads/2025/06/Louis-Armstrong.jpg?resize=960%2C600&gravity",
+          "runtime_min": 160,
+          "slug": "bonnie-northgraves-quintet-live"
+        },
+        {
+          "title": "Brandon Wint: Moving For Love \u2013 An Evening of Film, Poetry & Music",
+          "synopsis": "Poet and filmmaker Brandon Wint presents two new short films, Moving for Love and Backbone, alongside a live jazz performance with collaborators Feven Kidane, Yoro Noukoussi, and Quincey Mayes, and a poetry reading.",
+          "poster": "https://images.viff.org/uploads/2024/10/MovingForLove.jpg?resize=960%2C600&gravity",
           "runtime_min": 120,
+          "year": 2024,
+          "director": "Brandon Wint",
+          "country": "Canada",
+          "slug": "brandon-wint-moving-for-love-live"
+        },
+        {
+          "title": "Chen Baker Play J-Pop",
+          "synopsis": "Jeffery's Chen Baker band is back (and bigger than ever) to present a set of city pop and jazzy J-pop by the likes of Miki Matsubara, Taeko Ohnuki, Lamp, before the screening of Masayuki Suo's hilarious underdog comedy Sumo Do, Sumo Don't (1992).",
+          "poster": "https://images.viff.org/uploads/2025/05/SumoDoSumoDont_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 103,
+          "slug": "chen-baker-j-pop-live"
+        },
+        {
+          "title": "Coffee House Folk",
+          "synopsis": "Inside Llewyn Davis is the best movie about folk music, bar none. Before the movie, enjoy solo sets from four local singer-songwriters.",
+          "poster": "https://images.viff.org/uploads/2025/11/InsideLlewynDavis.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "coffee-house-folk-live"
+        },
+        {
+          "slug": "cory-weeds-sonny-rollins-live",
+          "title": "Cory Weeds Plays Sonny Rollins",
+          "synopsis": "Local sax legend Cory Weeds is joined by pianist Sharon Minemoto, bassist David Caballero and drummer Jesse Cahill to play music from Sonny Rollins' 1957 Riverside Records release The Sound Of Sonny, plus a screening of the acclaimed Saxophone Colossus doc.",
+          "poster": "https://images.viff.org/uploads/2025/06/Saxophone-Colossus.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150
+        },
+        {
+          "slug": "cousin-harley-walk-hard-live",
+          "title": "Cousin Harley",
+          "synopsis": "Come join Local Hillbilly heroes Cousin Harley, for a night of traditional Rockabilly, Western Swing and early Rock n Roll in VIFF Live at VIFF Centre.",
+          "poster": "https://images.viff.org/uploads/2025/12/WalkHard.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "cowboy-bebop-live",
+          "title": "Cowboy Bebop + The Cowboy Bebop Bebop Band",
+          "synopsis": "Here's the double whammy of the season: The Cowboy Bebop Bebop Band (led by Steven Zhu) paired with a screening of the thrilling 2001 Cowboy Bebop: The Movie.",
+          "poster": "https://images.viff.org/uploads/2024/07/CowboyBebop.jpg?resize=960%2C600&gravity",
+          "runtime_min": 120,
+          "year": 2001,
+          "director": "Shinichir\u014d Watanabe",
+          "country": "Japan"
+        },
+        {
+          "slug": "dawn-pemberton-amazing-grace-live",
+          "title": "Dawn Pemberton Sings Aretha",
+          "synopsis": "One of the all-time great concert films, Aretha Franklin's Amazing Grace, is paired with Canada's own Queen of Soul, Dawn Pemberton, performing.",
+          "poster": "https://images.viff.org/uploads/2025/10/AmazingGrace.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "dean-thiessen-vince-guaraldi-live",
+          "title": "Dean Thiessen Plays Vince Guaraldi",
+          "synopsis": "Dean Thiessen's 5-tet pays tributes to Vince Guaraldi's catchy Charlie Brown soundtrack, followed by a screening of the first Charlie Brown feature film.",
+          "poster": "https://images.viff.org/uploads/2025/10/BoyNamedCharlieBrown.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "duke-ellington-tribute-live",
+          "title": "A Duke Ellington Tribute",
+          "synopsis": "After a scintillating session of Duke standards performed by The Mike Braverman Sextet, enjoy a roundup of Ellingtonia on Film: his first short sound films from the late 20s and 30s, and clips from the scores he composed in the 50s and 60s.",
+          "poster": "https://images.viff.org/uploads/2025/04/DukeEllington_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150
+        },
+        {
+          "slug": "dutcher-obomsawin-live",
+          "title": "Jeremy Dutcher & Alanis Obomsawin",
+          "synopsis": "Two of the most compelling voices in Indigenous music and cinema meet for an intimate, unique, and unforgettable evening of intergenerational story and song featuring award-winning Wolastoq tenor and composer Jeremy Dutcher and renowned Abenaki filmmaker and musician Alanis Obomsawin.",
+          "poster": "https://images.viff.org/uploads/2024/08/LIVE_Jeremy-X-Alanis.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90
+        },
+        {
+          "slug": "elisapie-uvattini-live",
+          "title": "Elisapie - Uvattini",
+          "synopsis": "JUNO Award-winning Inuk artist Elisapie presents the West Coast Premiere of her new multimedia show, Uvattini.",
+          "poster": "https://images.viff.org/uploads/2024/08/LIVE_Elisapie.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90
+        },
+        {
+          "slug": "erika-chow-blue-giant-live",
+          "title": "Erika Chow + Blue Giant",
+          "synopsis": "Erika Chow leads a quartet through selections of the soundtrack from the electrifying jazz anime, Blue Giant, followed by a screening of the film.",
+          "poster": "https://images.viff.org/uploads/2026/01/BlueGiant.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "etiquette-dying-ron-samworth-live"
+        },
+        {
+          "slug": "exterminating-angel-magazinist-live"
+        },
+        {
+          "title": "Magazinist's Faust",
+          "synopsis": "Experimental music duo Magazinist perform an original live score alongside FW Murnau's Faust on April 30, \"Walpurgis Night\" &mdash; the very evening when Faust is led by Mephisto to the mountaintop for a night of infernal revelry in celebration of spring.",
+          "poster": "https://images.viff.org/uploads/2024/02/Faust.jpg?resize=960%2C600&gravity",
+          "runtime_min": 107,
+          "year": 1926,
+          "director": "F.W. Murnau",
+          "country": "Germany",
+          "slug": "faust-magazinist-live"
+        },
+        {
+          "slug": "feven-kidane-ethio-jazz-live"
+        },
+        {
+          "title": "Feven Kidane Quartet: Music Inspired by the Film Soundtrack to a Coup D'Etat + Film Screening",
+          "synopsis": "Trumpeter Feven Kidane, with Quincy Mayes on keys, Bernie Arai on drums, and Milo Johnson on bass, present a special set of original music inspired by Johan Grimonprez's brilliant essay film on the assassination of Patrice Lumumba, Jazz, and the Cold War.",
+          "poster": "https://images.viff.org/uploads/2024/10/SoundtrackToACoupDEtat_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 161,
+          "year": 2024,
+          "director": "Johan Grimonprez",
+          "country": "Belgium/France/Netherlands",
+          "slug": "feven-kidane-quartet-live"
+        },
+        {
+          "title": "Feven Kidane & Tiny Pyramids Play the Music of Sun Ra",
+          "synopsis": "Celebrate the music of Sun Ra with legendary local trumpeter Feven Kidane and Tiny Pyramids, a group of interstellar travellers featuring Dan Gaucher on drums, Colin Cowan on bass, Mary Ancheta on keyboards, and Tom Wherrett on guitar.",
+          "poster": "https://images.viff.org/uploads/2024/12/SpaceIsThePlace.jpg?resize=960%2C600&gravity",
+          "runtime_min": 160,
+          "year": 1974,
+          "director": "John Coney",
+          "country": "USA",
+          "slug": "feven-kidane-tiny-pyramids-live"
+        },
+        {
+          "title": "The Flamenco Guitar of Yerai Cort\u00e9s",
+          "synopsis": "The Flamenco Guitar of Yerai Cort&eacute;s is an exquisite and surprisingly intimate portrait of the brilliant young guitarist Yerai Cort&eacute;s.",
+          "poster": "https://images.viff.org/uploads/2025/11/FlamencoGuitarOfYeraiCortes.jpg?resize=960%2C600&gravity",
+          "runtime_min": 95,
+          "slug": "flamenco-guitar-yerai-cortas-live"
+        },
+        {
+          "title": "George Garzone Live",
+          "synopsis": "Saxophone giant George Garzone celebrates free jazz with the help of the explosive Jerry Steinhilber Trio. Their set will be followed by a screening of Tom Surgal's documentary, Fire Music, featuring John Coltrane, Ornette Coleman and Cecil Taylor.",
+          "poster": "https://images.viff.org/uploads/2025/06/Fire-MusiccLee-Tanner-The-Jazz-Image.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "george-garzone-live"
+        },
+        {
+          "title": "GIFT: A Film by Ryusuke Hamaguchi X Live Score by Eiko Ishibashi",
+          "synopsis": "Multi-instrumentalist and composer Eiko Ishibashi, presents the Canadian Premiere of GIFT&mdash;a new silent film directed by Ry&ucirc;suke Hamaguchi, and accompanied by a dynamic, live soundtrack performed by Ishibashi.",
+          "poster": "https://images.viff.org/uploads/2024/08/ORourke-X-Kojima_1920px.jpg?resize=960%2C600&gravity",
+          "runtime_min": 74,
+          "slug": "gift-hamaguchi-ishibashi-live"
+        },
+        {
+          "title": "Gord Grdina's Qalandar",
+          "synopsis": "With a live jazz set by a contemporary Persian ensemble playing traditional Arabic song and free improv, followed by a screening of Matthew Rankin's hit comedy Universal Language (in Farsi and French), this promises to be a very special evening.",
+          "poster": "https://images.viff.org/uploads/2025/01/UniversalLanguage_Alt.jpg?resize=960%2C600&gravity",
+          "runtime_min": 200,
+          "year": 2024,
+          "director": "Matthew Rankin",
+          "country": "Canada",
+          "slug": "gord-grdina-qalandar-live"
+        },
+        {
+          "title": "H\u00e4xan for Halloween",
+          "synopsis": "Experimental music duo Magazinist stir up a cauldron of sound using an array of occult contraptions, including a homemade tagelharpa, a diatonic dulcimer, detuned zithers, and a box of gravel to live score the legendary cult movie H&auml;xan.",
+          "poster": "https://images.viff.org/uploads/2024/08/Haxan.jpg?resize=960%2C600&gravity",
+          "runtime_min": 105,
+          "year": 1922,
+          "director": "Benjamin Christensen",
+          "country": "Denmark",
+          "slug": "haxan-halloween-live"
+        },
+        {
+          "title": "Jesse Zubot in Concert",
+          "synopsis": "Using a violin, viola and miscellaneous electronics, and incorporating multiple sounds and techniques that relate to his work as a film composer, Jesse Zubot promises a unique and thrilling concert, followed by a preview of the the new BC film Inedia.",
+          "poster": "https://images.viff.org/uploads/2024/07/Inedia.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "jesse-zubot-inedia-live"
+        },
+        {
+          "title": "Jimi James: Blues for Brando",
+          "synopsis": "The Jimi James Quintet pays tribute to the emergence of bebop, in many ways a parallel artistic innovation to Method acting. A set of bebop classics will be followed by a screening of Marlon Brando in The Wild One.",
+          "poster": "https://images.viff.org/uploads/2025/05/WildOne.jpg?resize=960%2C600&gravity",
+          "runtime_min": 140,
+          "slug": "jimi-james-blues-brando-live"
+        },
+        {
+          "title": "John Coltrane's Blue World:",
+          "synopsis": "Join us as we celebrate the 98th birthday of John Coltrane and the 60th Anniversary of the French Canadian new wave classic which he scored. Coltrane's music for the film was only released two years ago, as the album Blue World.",
+          "poster": "https://images.viff.org/uploads/2024/07/LeChatDansLeSac.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1964,
+          "director": "Gilles Groulx",
+          "country": "Canada",
+          "slug": "john-coltrane-blue-world-live"
+        },
+        {
+          "title": "Julian Borkowski: Blues for Brando",
+          "synopsis": "The Julian Borkowski Quintet pays tribute to the emergence of bebop, in many ways a parallel artistic innovation to Method acting. A set of bebop classics will be followed by a screening of Marlon Brando in The Wild One.",
+          "poster": "https://images.viff.org/uploads/2025/05/WildOne.jpg?resize=960%2C600&gravity",
+          "runtime_min": 140,
+          "slug": "julian-borkowski-blues-brando-live"
+        },
+        {
+          "slug": "kevin-romain-live"
+        },
+        {
+          "slug": "kit-eakle-jazntheviolin-live"
+        },
+        {
+          "slug": "krystle-dos-santos-jackie-shane-live",
+          "title": "Krystle Dos Santos Sings Jackie Shane",
+          "synopsis": "Two-time Western Canadian Music Award winner Krystle Dos Santos pays tribute to 60s soul pioneer Jackie Shane in this VIFF Live event.",
+          "poster": "https://images.viff.org/uploads/2025/03/AnyOtherWay.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "laura-crema-lorenz-hart-live",
+          "title": "Laura Crema Sings Lorenz Hart",
+          "synopsis": "Leading jazz vocalist Laura Crema performs some of Lorenz Hart's most memorable songs, paired with a screening of Richard Linklater's new movie, Blue Moon.",
+          "poster": "https://images.viff.org/uploads/2025/08/BlueMoon.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "lee-morgan-tribute-feven-kidane-live"
+        },
+        {
+          "slug": "lets-get-lost-vince-mai-live"
+        },
+        {
+          "slug": "lina-nyberg-norrtull-gang-live"
+        },
+        {
+          "slug": "live-32-sounds",
+          "date_range": "Oct 1 \u2013 11 2026",
+          "title": "32 Sounds",
+          "poster": "https://images.viff.org/uploads/2023/08/32-Sounds-Sam-Green-Featured-Image.jpg?resize=960%2C600&gravity",
+          "wayback_ts": "20230814011603",
+          "synopsis": "An immersive documentary and profound sensory experience from filmmaker Sam Green that explores the elemental phenomenon of sound. The film is a meditation on the power of sound to bend time, cross borders, and profoundly shape our perception of the world around us. The film will be at VIFF 2023 in its \u201clive cinema\u201d form at the Vancouver Playhouse, featuring live narration by Sam Green. Directed and performed by Sam Green, with music composed by JD Samson. 32 Sounds is a piece about sound, and the form itself will be focused on the experience of hearing and listening. 32 Sounds will provide headphones for every audience member to create an incredible binaural sound mix and add a new, deeply immersive element to the live documentary form. Followed by a Q&A with Sam Green & sound designer Mark Mangini",
+          "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
           "screenings": [
             {
-              "start": "2022-10-04T20:00:00",
-              "venue": "St. Andrews Wesley United Church"
+              "start": "2023-10-05T19:00:00",
+              "venue": "Vancouver Playhouse"
             }
           ]
+        },
+        {
+          "slug": "live-ironworks-cris-derksen",
+          "date_range": "Oct 2 \u2013 12 2025",
+          "title": "Cris Derksen",
+          "poster": "https://images.viff.org/uploads/2023/08/Cris-Derksen-Featured-Image-Live.jpg?resize=960%2C600&gravity",
+          "wayback_ts": "20251012102203",
+          "synopsis": "Juno nominated Cris Derksen is an internationally respected Indigenous cellist and composer. Originally from Treaty 8 in Northern Alberta, she comes from NorthTall Cree Reserve on her father\u2019s side and Mennonite homesteaders on her mother\u2019s. Derksen will introduce audiences to the unforgettable virtuosity that has led to her break-out solo career, while also collaborating with some of Canada\u2019s Finest; Tanya Tagaq, Buffy Sainte Marie, Naomi Klein, and Leanne Simpson to name just a few. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
+          "runtime_min": 60,
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "fetch_failed": true
+        },
+        {
+          "slug": "live-ironworks-daniel-barrow",
+          "date_range": "Oct 2 \u2013 12 2025",
+          "title": "Daniel Barrow",
+          "poster": "https://images.viff.org/uploads/2023/08/Daniel-Barrow-Live-Featured-IMAGE.jpg?resize=960%2C600&gravity",
+          "wayback_ts": "20231013080921",
+          "synopsis": "When SHAW Cable purchased Winnipeg\u2019s local cable station VPW, rumor circulated that they had destroyed the public access television archives and were systematically dismantling the public access services. Shortly thereafter, artist Daniel Barrow began researching, compiling and archiving a history of independently produced television in Winnipeg, Manitoba. In the late 70s and throughout the 80s, Winnipeg experienced a golden age of public access television. Anyone with a creative dream, concept or politic would be endowed with airtime and professional production services. Winnipeg Babysitter traces unique vignettes from a brief synapse in broadcasting history when Winnipeg cable companies were mandated to provide public access as a condition of their license. Because the archives were destroyed, programs could only be found in the VHS collections of the original producers, television collectors, fans and enthusiasts. Winnipeg Babysitter is an archival project that restores a previously lost history. Daniel Barrow performs an overhead projected commentary, tracing the histories of public access television in Manitoba, and describing the various biographies of each television producer and personality. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
+          "runtime_min": 90,
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "fetch_failed": true
+        },
+        {
+          "slug": "live-ironworks-matreyek-chien",
+          "date_range": "Oct 1 \u2013 11 2026",
+          "wayback_ts": "20231012005532",
+          "title": "Miwa Matreyek & Sammy Chien",
+          "poster": "https://images.viff.org/uploads/2023/09/VIFF-Live-Feature-Image-Sammy-Chien-VIFF-Live-Featured-Image-Miwa-Matreyek.jpg?resize=960%2C600&gravity",
+          "synopsis": "Note: Unfortunately, we have had to cancel Sammy Chien\u2019s performance. Miwa Matreyek\u2019s performance will continue as scheduled at 9:00 pm. Doors will open at 8:00 pm. Experience VIFF Live Resident Artists Sammy Chien and Miwa Matreyek\u2019s interdisciplinary performances at The Ironworks. One ticket will grant you admission to both performances. Miwa Matreyek Further pushing her signature technique of layered projections, Miwa Matreyek creates an emotional, dreamlike meditation on climate catastrophe and the Anthropocene \u2014 the proposed current era where human influence has affected almost all realms of earth\u2019s natural systems. Miwa\u2019s shadow traverses macro and micro scales, as her silhouette shape-shifts to experience the world from various perspectives. An earth overflowing with trash. A person drowning in a plastic-filled ocean. A school of fish caught in a trawling net. The work will be an emotionally impactful, embodied illustration of the news headlines we see everyday, the complex harm humanity causes to the world \u2014 and what it might mean for all of us; humanity, as well as other life, and the earth itself \u2014 to be living in this changing world. Matreyek will perform The World Made Itself and Infinitely Yours, works that weave surreal and poetic narratives of conflict between humans, nature, and the climate crisis. This project is supported by a 2019 Princess Grace Foundation Special Projects Grant. Winner of Golden Nica award for Computer Animation, Prix Ars Electronica 2020. All music for \u201cInfinitely Yours\u201d is composed, recorded and performed by Morgan Sorne. Sammy Chien Artistic Director of Chimerik \u4f3c\u4e0d\u50cf, Sammy Chien \u7c21\u4e0a\u7fd4 is an interdisciplinary artist pioneering ways of integrating new media into performance. As part of his practice, Chien uses the technologies of real-time performance software to produce deep connections between image, sound and movement. Chien will present samples from ongoing research and a new work-in-progress exemplary of a practice that draws upon a composite of art forms, disciplines and lived experiences. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
+          "runtime_min": 120,
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-machine-folklore",
@@ -11561,61 +11902,257 @@
           "director_resolved": true
         },
         {
-          "slug": "live-32-sounds",
+          "slug": "live-nosferatu",
           "date_range": "Oct 1 \u2013 11 2026",
-          "title": "32 Sounds",
-          "poster": "https://images.viff.org/uploads/2023/08/32-Sounds-Sam-Green-Featured-Image.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20230814011603",
-          "synopsis": "An immersive documentary and profound sensory experience from filmmaker Sam Green that explores the elemental phenomenon of sound. The film is a meditation on the power of sound to bend time, cross borders, and profoundly shape our perception of the world around us. The film will be at VIFF 2023 in its \u201clive cinema\u201d form at the Vancouver Playhouse, featuring live narration by Sam Green. Directed and performed by Sam Green, with music composed by JD Samson. 32 Sounds is a piece about sound, and the form itself will be focused on the experience of hearing and listening. 32 Sounds will provide headphones for every audience member to create an incredible binaural sound mix and add a new, deeply immersive element to the live documentary form. Followed by a Q&A with Sam Green & sound designer Mark Mangini",
-          "runtime_min": 90,
+          "title": "A Symphony of Horror",
+          "poster": "https://images.viff.org/uploads/2022/08/Nosferatu.jpg?resize=960%2C600&gravity",
+          "wayback_ts": "20220921045438",
+          "synopsis": "Destructive pop duo BIG KILL (the latest project from We Are the City\u2019s Cayne McKenzie and Andrew Huculiak) resurrects horror centenarian Nosferatu in the gothic setting of St. Andrew\u2019s-Wesley for a spellbinding night of hyper pop frenzy. Tales of the undead feeding on the blood of the living go all the way back to ancient times and crop up in cultures far beyond the borders of Transylvania and Eastern Europe, appearing in South America, East Asia, New England, and olde England, for that matter. It\u2019s generally assumed these tales derive from the once mystifying effects of natural diseases. Tuberculosis, for example, would leave otherworldly, bloated corpses: the victims\u2019 skin might tighten, giving the impression that teeth have extended; hair and fingernails could continue to grow, and there might be bloody spittle around the mouth. That\u2019s a pretty fair thumbnail of cinema\u2019s first iconic vampire, Count Orlok, aka Nosferatu (1922), played by the tall, skeletal Max Schreck* in F.W. Murnau\u2019s hugely influential horror classic, which is celebrating its centenary this year. The first, albeit unofficial, adaptation of Bram Stoker\u2019s novel Dracula, the film differs from subsequent versions in its vivid portrait of the vampire as a ghoulish fiend, bald, with rodent-like teeth, digits and ears. He preys in the shadows and merges with the darkness. If this is a creature of the Expressionist imagination, Nosferatu stands out for Murnau\u2019s decision to film on location in medieval Baltic towns; the horror derives its special frisson from placing the supernatural within the natural world. It\u2019s surely no coincidence that the movie materialized just a few years after the 1918 H1N1 influenza pandemic claimed the lives of 25-50 million souls around the world, fanning fears of immigrants and the Other. 2022 certainly feels like the right time to revive this centenarian of horror. *Weirdly, Schreck is German for \u201cterror.\u201d About the venue: St. Andrew\u2019s-Wesley United Church St. Andrew\u2019s-Wesley is an 89-year-old gothic revival, heritage-listed building. It is modeled on classical European cathedral designs, with a soaring vaulted roof, stained glass windows, and angel reliefs. The 75\u2032 high ceiling makes this the largest sanctuary in the city. St. Andrew\u2019s-Wesley is known for its inclusive, progressive social views, its support for marginalized communities, and its celebration of art as a path towards empathy and the divine. St. Andrew\u2019s-Wesley is located on the corner of Nelson and Burrard. Tickets: $18 Ticket + Live Audio Recording Download: $25 Please call the Box Office (604-683-3456) for VIFF Live Community Access Ticket rates.",
+          "runtime_min": 120,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
           "screenings": [
             {
-              "start": "2023-10-05T19:00:00",
-              "venue": "Vancouver Playhouse"
+              "start": "2022-10-04T20:00:00",
+              "venue": "St. Andrews Wesley United Church"
             }
           ]
         },
         {
-          "slug": "live-ironworks-daniel-barrow",
-          "date_range": "Oct 2 \u2013 12 2025",
-          "title": "Daniel Barrow",
-          "poster": "https://images.viff.org/uploads/2023/08/Daniel-Barrow-Live-Featured-IMAGE.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20231013080921",
-          "synopsis": "When SHAW Cable purchased Winnipeg\u2019s local cable station VPW, rumor circulated that they had destroyed the public access television archives and were systematically dismantling the public access services. Shortly thereafter, artist Daniel Barrow began researching, compiling and archiving a history of independently produced television in Winnipeg, Manitoba. In the late 70s and throughout the 80s, Winnipeg experienced a golden age of public access television. Anyone with a creative dream, concept or politic would be endowed with airtime and professional production services. Winnipeg Babysitter traces unique vignettes from a brief synapse in broadcasting history when Winnipeg cable companies were mandated to provide public access as a condition of their license. Because the archives were destroyed, programs could only be found in the VHS collections of the original producers, television collectors, fans and enthusiasts. Winnipeg Babysitter is an archival project that restores a previously lost history. Daniel Barrow performs an overhead projected commentary, tracing the histories of public access television in Manitoba, and describing the various biographies of each television producer and personality. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
-          "runtime_min": 90,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "slug": "mary-ancheta-betty-davis-tribute-live",
+          "title": "Mary Ancheta Plays Betty Davis Tribute",
+          "synopsis": "In this VIFF Live event, keyboardist Mary Ancheta and her band channel the phenomenal funk of 70s sensation Betty Davis, featuring Dawn Pemberton on vocals. The live music portion of the event will be followed by Phil Cox's invaluable 2017 documentary, They Say I'm Different.",
+          "poster": "https://images.viff.org/uploads/2025/04/TheySayImDifferent.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "year": 2017,
+          "director": "Phil Cox",
+          "country": "UK"
         },
         {
-          "slug": "live-ironworks-cris-derksen",
-          "date_range": "Oct 2 \u2013 12 2025",
-          "title": "Cris Derksen",
-          "poster": "https://images.viff.org/uploads/2023/08/Cris-Derksen-Featured-Image-Live.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20251012102203",
-          "synopsis": "Juno nominated Cris Derksen is an internationally respected Indigenous cellist and composer. Originally from Treaty 8 in Northern Alberta, she comes from NorthTall Cree Reserve on her father\u2019s side and Mennonite homesteaders on her mother\u2019s. Derksen will introduce audiences to the unforgettable virtuosity that has led to her break-out solo career, while also collaborating with some of Canada\u2019s Finest; Tanya Tagaq, Buffy Sainte Marie, Naomi Klein, and Leanne Simpson to name just a few. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
-          "runtime_min": 60,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "slug": "matt-grinke-jazz-quintet-live",
+          "title": "Matt Grinke's Happiest Jazz Quintet on Earth Plays Pixar",
+          "synopsis": "Enjoy a special set of Pixar tunes arranged by Disney Cruise Line music director and pianist Matt Grinke and his happiest quintet, plus a screening of one of the studio's most beloved movies, Monsters, Inc.",
+          "poster": "https://images.viff.org/uploads/2025/02/Pixar-Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 160,
+          "year": 2001,
+          "director": "Pete Docter",
+          "country": "USA"
         },
         {
-          "slug": "live-ironworks-matreyek-chien",
-          "date_range": "Oct 1 \u2013 11 2026",
-          "wayback_ts": "20231012005532",
-          "title": "Miwa Matreyek & Sammy Chien",
-          "poster": "https://images.viff.org/uploads/2023/09/VIFF-Live-Feature-Image-Sammy-Chien-VIFF-Live-Featured-Image-Miwa-Matreyek.jpg?resize=960%2C600&gravity",
-          "synopsis": "Note: Unfortunately, we have had to cancel Sammy Chien\u2019s performance. Miwa Matreyek\u2019s performance will continue as scheduled at 9:00 pm. Doors will open at 8:00 pm. Experience VIFF Live Resident Artists Sammy Chien and Miwa Matreyek\u2019s interdisciplinary performances at The Ironworks. One ticket will grant you admission to both performances. Miwa Matreyek Further pushing her signature technique of layered projections, Miwa Matreyek creates an emotional, dreamlike meditation on climate catastrophe and the Anthropocene \u2014 the proposed current era where human influence has affected almost all realms of earth\u2019s natural systems. Miwa\u2019s shadow traverses macro and micro scales, as her silhouette shape-shifts to experience the world from various perspectives. An earth overflowing with trash. A person drowning in a plastic-filled ocean. A school of fish caught in a trawling net. The work will be an emotionally impactful, embodied illustration of the news headlines we see everyday, the complex harm humanity causes to the world \u2014 and what it might mean for all of us; humanity, as well as other life, and the earth itself \u2014 to be living in this changing world. Matreyek will perform The World Made Itself and Infinitely Yours, works that weave surreal and poetic narratives of conflict between humans, nature, and the climate crisis. This project is supported by a 2019 Princess Grace Foundation Special Projects Grant. Winner of Golden Nica award for Computer Animation, Prix Ars Electronica 2020. All music for \u201cInfinitely Yours\u201d is composed, recorded and performed by Morgan Sorne. Sammy Chien Artistic Director of Chimerik \u4f3c\u4e0d\u50cf, Sammy Chien \u7c21\u4e0a\u7fd4 is an interdisciplinary artist pioneering ways of integrating new media into performance. As part of his practice, Chien uses the technologies of real-time performance software to produce deep connections between image, sound and movement. Chien will present samples from ongoing research and a new work-in-progress exemplary of a practice that draws upon a composite of art forms, disciplines and lived experiences. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
+          "slug": "max-roach-feven-kidane-sextet-live",
+          "title": "Max Roach: The Drum Also Waltzes",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2024/01/MaxRoach.jpg?resize=960%2C600&gravity",
+          "runtime_min": 82,
+          "year": 2023,
+          "country": "USA"
+        },
+        {
+          "title": "Sal\u00f3n M\u00e9xico + Midnight Boogaloo Live!",
+          "synopsis": "To celebrate VIFF Centre's Mexico Noir series, Midnight Boogaloo gets the party going with salsa, boogaloo and rock &amp; roll in this can't-miss VIFF Live.",
+          "poster": "https://images.viff.org/uploads/2026/02/SalonMexico_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 95,
+          "slug": "midnight-boogaloo-live"
+        },
+        {
+          "slug": "miles-davis-100-julian-borkowski-live"
+        },
+        {
+          "slug": "miles-davis-100-vince-mai-live"
+        },
+        {
+          "title": "Night Moves: Street Photography, Poetry and Music with Rodney DeCroo",
+          "synopsis": "To mark the publication of Night Moves, his first book of street photography (shot in and around Commercial Drive), singer-songwriter, poet and playwright Rodney DeCroo shares his images, stories and music, along with his band The Wise Blood.",
+          "poster": "https://images.viff.org/uploads/2025/03/NightMoves_1920px.jpg?resize=960%2C600&gravity",
           "runtime_min": 120,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "fetch_failed": true
+          "slug": "night-moves-rodney-decroo-live"
+        },
+        {
+          "title": "The Leading Ladies Perform Duke Ellington's The Nutcracker Suite",
+          "synopsis": "Join us for a unique Nutcracker experience: a live jazz rendition of Duke Ellington's take on Tchaikovsky's music, followed by the premiere of The Nutcracker at Wethersfield.",
+          "poster": "https://images.viff.org/uploads/2025/10/NutcrackerAtWethersfield_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "nutcracker-suite-live"
+        },
+        {
+          "title": "Oscar Peterson Centenary Tribute: Triology Plays Peterson",
+          "synopsis": "Celebrates Oscar Peterson's centenary with an evening of Canadian jazz and film. Triology &mdash; Jodi Proznick (bass), Bill Coon (guitar) and Miles Black (piano) &mdash; pays tribute to the legendary Oscar Peterson, followed by cult thriller The Silent Partner.",
+          "poster": "https://images.viff.org/uploads/2025/06/Oscar-Peterson.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "oscar-peterson-centenary-tribute-live"
+        },
+        {
+          "title": "A Page of Madness: Live Score by Anju Singh / The Nausea",
+          "synopsis": "Experimental artist Anju Singh uses her project The Nausea to explore Teinsuke Kinugasa's expressionist horror masterpiece. An asylum janitor wants to help his beloved wife escape, but she doesn't want to leave...",
+          "poster": "https://images.viff.org/uploads/2024/03/PageofMadness.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1926,
+          "director": "Teinosuke Kinugasa",
+          "country": "Japan",
+          "slug": "page-madness-anju-singh-live"
+        },
+        {
+          "title": "A Page of Madness: Live Score by Anju Singh",
+          "synopsis": "Performer Anju Singh premieres a new multi-instrumental live score to Teinsuke Kinugasa's expressionist horror masterpiece. An asylum janitor wants to help his beloved wife escape, but she doesn't want to leave...",
+          "poster": "https://images.viff.org/uploads/2024/03/PageofMadness.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1926,
+          "director": "Teinosuke Kinugasa",
+          "country": "Japan",
+          "slug": "page-madness-somnus-live"
+        },
+        {
+          "title": "Quincy Mayes Brazilian Soul Experience",
+          "synopsis": "The Quincy Mayes Brazilian Soul Experience is thrilled to present a special performance showcasing the diverse, Afro-centric roots of samba, soul, and funk alongside a screening of the essential Brazilian film City of God.",
+          "poster": "https://images.viff.org/uploads/2025/01/CityOfGod.jpg?resize=960%2C600&gravity",
+          "runtime_min": 190,
+          "year": 2002,
+          "country": "Brazil",
+          "slug": "quincy-mayes-brazilian-soul-live"
+        },
+        {
+          "title": "The Rocky Horror Picture Show",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, voted one of the best cinemas in Vancouver and home to the prestigious Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2023/09/RockyHorrorPictureShow_Still.jpg?resize=960%2C600&gravity",
+          "runtime_min": 160,
+          "year": 1975,
+          "director": "Jim Sharman",
+          "country": "USA",
+          "slug": "rocky-horror-picture-show-live"
+        },
+        {
+          "title": "O Brother, Where Art Thou? + The Soda Crackers",
+          "synopsis": "Join us for an afternoon of live music with the Soda Crackers, followed by a special anniversary screening of the Coen brothers' O Brother, Where Art Thou?",
+          "poster": "https://images.viff.org/uploads/2025/10/OBrotherWhereArtThou.jpg?resize=960%2C600&gravity",
+          "runtime_min": 107,
+          "slug": "soda-crackers-live"
+        },
+        {
+          "title": "Canadaland Presents: The Backbench Live!",
+          "synopsis": "Policy and the arts? They're more related than you think. Join our discussion on the nuances of art funding, local filmmaking, and the contentious Bill C-11. You won't want to miss it.",
+          "poster": "https://images.viff.org/uploads/2023/09/Talks-The-Backbench-Feature-No-Text.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "talks-canadaland-backbench-live"
+        },
+        {
+          "title": "The Crowd: Live Score by Chris Gestrin",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2024/02/TheCrowd_v2.jpg?resize=960%2C600&gravity",
+          "runtime_min": 98,
+          "year": 1928,
+          "director": "King Vidor",
+          "country": "USA",
+          "slug": "the-crowd-chris-gestrin-live"
+        },
+        {
+          "title": "Tony Wilson's The Homeless Project",
+          "synopsis": "The Homeless Project is a multimedia piece involving music, text, still photography and film, orchestrated by guitarist Tony Wilson.",
+          "poster": "https://images.viff.org/uploads/2026/02/HomelessProject.jpg?resize=960%2C600&gravity",
+          "runtime_min": 120,
+          "slug": "the-homeless-project-live"
+        },
+        {
+          "title": "True North: Andy Milne in Concert + Film Premiere",
+          "synopsis": "Award-winning jazz pianist Andy Milne will perform a solo set live before the West Coast premiere of Mich&egrave;le Stephenson's brilliant essay film, True North.",
+          "poster": "https://images.viff.org/uploads/2026/01/TrueNorth.jpg?resize=960%2C600&gravity",
+          "runtime_min": 96,
+          "slug": "true-north-andy-milne-concert-live"
+        },
+        {
+          "slug": "vampyr-live",
+          "title": "Vampyr",
+          "synopsis": "This Halloween, experimental music duo Magazinist will perform a live score to 1932 classic Vampyr using an array of supernatural contraptions, including a homemade tagelharpa, dulcimers, zithers, synthesizers, and ethereal vocal drones.",
+          "poster": "https://images.viff.org/uploads/2024/08/Vampyr.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1932,
+          "director": "Carl Theodor Dreyer",
+          "country": "Denmark"
+        },
+        {
+          "slug": "van-django-lacombe-lucien-live"
+        },
+        {
+          "slug": "victor-noriegas-kuyatet-live",
+          "title": "Victor Noriega's Kuyatet + Lino Brocka's Manila in the Claws of Light",
+          "synopsis": "To celebrate our spotlight on Filipino director Lino Brocka, we are pairing a screening of Manila in the Claws of Light with an hour of jazz interpretations of Filipino music led by Victor Noriega, with his band Kuyatet (\"Kuya\" means \"Brother\" in Tagalog).",
+          "poster": "https://images.viff.org/uploads/2024/12/Manila.jpg?resize=960%2C600&gravity",
+          "runtime_min": 200,
+          "year": 1975,
+          "director": "Lino Brocka",
+          "country": "Philippines"
+        },
+        {
+          "slug": "viff24-eno-live",
+          "title": "Eno | A live performance screening and Q&A with Director Gary Hustwit",
+          "synopsis": "Join us for the Vancouver Premiere of Eno, the world's first generative documentary, celebrating the visionary artist and musician Brian Eno. For this special event, the film will be created live in real time, and this version will never be seen again.",
+          "poster": "https://images.viff.org/uploads/2024/08/Live_Eno.jpg?resize=960%2C600&gravity",
+          "runtime_min": 115
+        },
+        {
+          "slug": "viff25-claire-rousay-robert-lowe-live",
+          "title": "claire rousay, The Bloody Lady (Live Score) and Robert Aiki Aubrey Lowe",
+          "synopsis": "An evening of haunted sound and cinema with claire rousay performing her live score of the animated classic The Bloody Lady and composer Robert Aiki Aubrey Lowe presenting a performance tethered to his cinematic sound worlds (Candyman; Seeds; After Life).",
+          "poster": "https://images.viff.org/uploads/2025/08/Hauntings_Collage.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150
+        },
+        {
+          "slug": "viff25-julianna-barwick-loscil-live",
+          "title": "Julianna Barwick and loscil",
+          "synopsis": "Acclaimed ambient, experimental musicians Julianna Barwick and loscil share the stage for the first time to immerse audiences in their ethereal soundscapes and hypnotic new live AV performances.",
+          "poster": "https://images.viff.org/uploads/2025/08/Live_Resonances_Collage.jpg?resize=960%2C600&gravity",
+          "runtime_min": 135
+        },
+        {
+          "slug": "viff25-mad-professor-live",
+          "title": "Mad Professor: Live AV in Dub",
+          "synopsis": "Dub legend Mad Professor performs a rare live set celebrating his No Protection Massive Attack remix album's 30th anniversary &ndash; a hypnotic trip into the psychedelic worlds of dub and trip-hop with live visuals from Vancouver artist Saghi Ehteshamzadeh.",
+          "poster": "https://images.viff.org/uploads/2025/08/Live_MadProfessor_NoTitle.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90
+        },
+        {
+          "slug": "viff25-wilfred-buck-star-stories-live",
+          "title": "Wilfred Buck's Star Stories",
+          "synopsis": "Join renowned Ininew (Cree) astronomer, star knowledge keeper, and author Wilfred Buck for Star Stories: a cosmic journey into teachings and tellings of the northern night sky, narrated live by Buck, and in conversation with co-director Lisa Jackson.",
+          "poster": "https://images.viff.org/uploads/2025/08/WilfredBucksStarStoriescourtesy-ofDoor-Number-3-Productions.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90
+        },
+        {
+          "slug": "vince-mai-mancini-live",
+          "title": "Vince Mai Plays Mancini",
+          "synopsis": "Local trumpeter and film composer Vince Mai returns to the VIFF Centre with his quintet to play selected hits of celebrated film composer Henry Mancini.",
+          "poster": "https://images.viff.org/uploads/2025/12/A-Shot-in-the-Dark.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180
+        },
+        {
+          "slug": "voice-of-a-generation-lost-live",
+          "title": "The Voice of a Generation Lost",
+          "synopsis": "The Voice of a Generation Lost is a suite of Persian music and jazz with a slide montage from the composer's father, photojournalist Jahangir Razmi.",
+          "poster": "https://images.viff.org/uploads/2026/02/SaltOfTheEarth.jpg?resize=960%2C600&gravity",
+          "runtime_min": 110
+        },
+        {
+          "title": "William Basinski: Arcadia Archive",
+          "synopsis": "Acclaimed ambient and experimental composer William Basinski presents the Canadian Premiere of Arcadia Archive&mdash;an immersive, transcendent live performance.",
+          "poster": "https://images.viff.org/uploads/2024/08/Live_WilliamBasinskicJoseRamonCaamano-1.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "william-basinski-arcadia-live"
+        },
+        {
+          "title": "Women in Blues: LJ Mounteney",
+          "synopsis": "Canadian blues vocalist pays LJ Mounteney pays tribute to the pioneering women of the blues and R&amp;B (including Tina Turner and Irma Thomas). After LJ's set, enjoy the Canadian premiere of a new doc on Willie Mae \"Big Mama\" Thornton.",
+          "poster": "https://images.viff.org/uploads/2025/06/BigMamaThorton.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "women-blues-lj-mounteney-live"
+        },
+        {
+          "title": "Zappostrophe",
+          "synopsis": "Enjoy an electrifying set of Frank Zappa tunes resurrected and reimagined by the eclectic 8-piece band Zappostrophe, followed by a rare screening of Zappa's cult movie 200 Motels, with Keith Moon and Ringo Starr.",
+          "poster": "https://images.viff.org/uploads/2025/03/200Motels.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "year": 1971,
+          "country": "USA",
+          "slug": "zappostrophe-live"
         }
       ],
       "hero_image": "https://images.viff.org/uploads/2022/04/RZAlive.png?resize=960%2C600&gravity",
