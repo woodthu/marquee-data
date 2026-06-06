@@ -538,11 +538,12 @@
         }
       ],
       "hero_image": null,
-      "description": "One quarter of the way through the 21st century, what are the outstanding movies of our epoch?",
+      "description": "One quarter of the way through the 21st century, what are the outstanding movies of our epoch?\n\nWe all know the big corporate blockbusters that have dominated the box office; they\u2019re inescapable and built to self-destruct in the brain.\n\nBut in this program, we\u2019re trying to look a little further afield and extend the conversation, to showcase international cinema; movies which speak to our times and push out the boundaries of the art form. These are true modern classics, and we\u2019re confident they will withstand the test of time.",
       "date_range": "Jul 9\u2013Aug 31",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "80s-comedy",
@@ -766,7 +767,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "80s-crime-suspense",
@@ -1083,7 +1085,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "80s-drama",
@@ -2109,7 +2112,7 @@
         {
           "slug": "cinematography-talk-dean-cundey",
           "date_range": "Sep 28 \u2013 Oct 8 2023",
-          "wayback_ts": "20230714091306",
+          "wayback_ts": "20230627144941",
           "title": "On Cinematography, Dean Cundey, Back to The Future",
           "poster": "https://images.viff.org/uploads/2023/06/VIFF-Talk-Dean-Cundey.png?resize=960%2C600&gravity",
           "synopsis": "With 50 years of working experience on some of the most iconic movie sets, Academy Award-nominated cinematographer Dean Cundey is a long-time collaborator to many of cinema\u2019s most prominent directors including Robert Zemeckis (Back to the Future Trilogy, Who Framed Roger Rabbit), Steven Spielberg (Jurassic Park, Hook) and John Carpenter (Escape from New York, The Thing, Halloween). Dean will join us in person at the VIFF Centre to share his experiences, his stories, and to discuss his process in bringing to life some of our most beloved and cherished cinematic masterpieces. Media Partner",
@@ -2143,7 +2146,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -2239,7 +2243,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "american-animation-film-studies",
@@ -2310,8 +2315,7 @@
           "runtime_min": 25,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -3467,7 +3471,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20220602202917",
+          "title": "Crash",
+          "poster": "https://images.viff.org/uploads/2022/05/Crash.jpg?resize=150%2C150",
+          "synopsis": "Sex drive, David Cronenberg-style. With Cronenberg\u2019s career turning full circle with the return to Body Horror in Crimes of the Future, what better time to revisit one of his most controversial mid-career highlights? Few filmmakers have been so fixated on the human body as the vessel of desire while also probing the outer limits of carnal recreation\u2026 just as Seth Brundle wants to escape the confines of his physical form in The Fly, so the car-crash fetishists who orbit JG Ballard\u2019s metropolis here (they include James Spader, Deborah Kara Unger, Holly Hunter and Elias Koteas) obsessively seek a fusion of metal and flesh\u2026 fender bender as the the ultimate orgasm, always just tantalizingly out of reach. Crash is a sleekly seductive sex comedy stripped of passion, laughter, comedy and human connection. In the UK, Crash was banned by several councils after a tabloid controversy spearheaded by the Evening Standard and the Daily Mail, newspapers which failed to appreciate the witty nihilistic comedy inherent in Cronenberg\u2019s circular couplings. \u201cSome of the most perverted acts and theories of sexual deviance I have ever seen propagated in mainline cinema,\u201d fumed veteran critic Alexander Walker. \u201cThe point at which a liberal society must draw the line,\u201d pronounced the Mail\u2019s Chris Tookey. Meanwhile in North America, mogul Ted Turner disowned the movie his own company picked up. Today it\u2019s these gentleman\u2019s outrage which seems perverse. Beautifully contained, the film is dispassionate auto-erotica, clinical, uncomfortably numb, and very deeply in sync with our times. Content Consideration: features perverse and sexually explicit scenes",
+          "director": "David Cronenberg",
+          "year": 1996,
+          "runtime_min": 100,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "fargo",
@@ -4282,8 +4298,29 @@
         {
           "slug": "belle-movies-apostles-cinema",
           "date_range": null,
-          "wayback_ts": "20260312201354",
-          "fetch_failed": true
+          "wayback_ts": "20251027184226",
+          "title": "La Belle at the Movies",
+          "poster": "https://images.viff.org/uploads/2025/10/LaBelleAtTheMovies.jpg?resize=960%2C600&gravity",
+          "synopsis": "La Belle at the Movies examines the decline of the movie business in the Democratic Republic of the Congo\u2019s capital city by putting us in touch with audiences cut adrift from their beloved theaters. Through passionate, insightful, and deeply nostalgic interviews with filmmakers, cinema owners, government officials, and film lovers, Cecilia Zoppelletto\u2019s lyrical documentary reveals complex politics and past events inexorably linked to the fate of \u201cthe movies\u201d \u2014 an industry feeling orphaned but living in hope for a brighter future. + Apostles of Cinema (Cece Mlay, Jesse Gerard Mpango, Gertrude Malizana & Darragh Amelia; Tanzania; 2022; 17 min) Apostles of Cinema (or Tenzi za Sinema) follows Frank, DJ Black, and Rehema \u2014 three devoted film workers in Tanzania \u2014 as they reintroduce a classic piece of the country\u2019s film history to their audiences of working-class cinephiles. Curators\u2019 Note: In both films in this program, we are witness to a cinema culture with a defiant will to survive. La Belle At the Movies is an unsurprising yet shocking look at a city(Kinshasa) that has developed a rich film history, but no longer has a single functioning cinema. It\u2019s left to roadside traders of foreign DVD films to create a third space for movie-lovers to congregate. In Apostles of Cinema, self-appointed apostles spread the gospel of cinema by providing third-space cinema houses and translating foreign films for local consumption. This process involves not only subtitling but also a form of audio dubbing that serves as its own cultural translation. \u2014 Kika Memeh and Ogheneofegor Obuwoma, Akojo Film Collective",
+          "director": "Cecilia Zoppelletto",
+          "year": 2016,
+          "runtime_min": 67,
+          "country": "UK/Belgium/Congo",
+          "language": "In French with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-11-12T18:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-11-17T20:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "sembene",
@@ -4334,7 +4371,18 @@
           "slug": "my-fathers-shadow",
           "date_range": null,
           "wayback_ts": "20260312201354",
-          "fetch_failed": true
+          "title": "My Father's Shadow",
+          "poster": "https://images.viff.org/uploads/2026/02/MyFathersShadow.jpg?resize=960%2C600&gravity",
+          "synopsis": "We invite you to join us for a special screening of My Father\u2019s Shadow directed by Akinola Davies Jr. The BAFTA-winning film and recipient of Cannes\u2019 Cam\u00e9ra d\u2019Or Special Mention follows two boys on an adventure with their father through the streets of Lagos. The day-long adventure amidst the pressures of the 1993 Nigerian election crisis offers them an intimate glimpse into their father\u2019s inner world. Through a tender and refreshing lens, My Father\u2019s Shadow tackles an age-old story of the home and inheritance, offering a take that adequately complicates the family drama genre. As Davies\u2019 debut feature, this film echoes the quiet, haunting tone of his 2020 short film Lizard, once again exploring tangled family relationships through the vivid lens of childhood and the unique sense of wonder that only children possess. Akojo Film Collective is proud to present My Father\u2019s Shadow as our first film of the year, launching African Cinema Now! into a new year of vibrant programming at the VIFF Centre. The screening sets the tone for our upcoming installment, A Familial Matter, a dedicated showcase of African films shaping key conversations that speak to a new global filmic relationship to cinema from Africa. The event will feature a short presentation by Akojo Film Collective on African cinema trends reflected through our collective\u2019s work and research so far. We look forward to welcoming you to the collective learning experience that continues to be African Cinema Now! Free admission to all self-identifying members of the Black community. To claim, enter the promo code VFC26ACNFREE in the \u201cDiscounts\u201d box at the end of check-out. Virtual talk with director Akinola Davies Jr.",
+          "director": "Akinola Davies Jr.",
+          "year": 2025,
+          "runtime_min": 94,
+          "country": "UK/Nigeria",
+          "language": "In Nigerian Pidgin, Yoruba, and English with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -5053,8 +5101,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -5073,7 +5120,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "scarface",
@@ -6058,7 +6106,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "hollywood-shuffle",
@@ -6400,7 +6449,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "80s-mystery-film",
@@ -6480,7 +6530,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -7866,7 +7917,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -9028,7 +9080,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "cinema-salon",
@@ -9367,7 +9420,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-long-goodbye",
@@ -9534,11 +9588,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Enjoy great movies at the luxurious VIFF Centre, voted one of the best cinemas in Vancouver and home to the prestigious Vancouver International Film Festival.",
+      "description": "Thursdays through July and August, as a sidebar to our Ragged Glory: Summer in the 70s series , we\u2019re casting a (private) eye on crime thrillers, detectives, mystery and suspense.\n\nThe series kicks off on July 21 and continues July 28 with two variations on the classic P.I. film: Altman\u2019s The Long Goodbye with Elliott Gould as Philip Marlowe, and Jack Nicholson as JJ Gittes in Chinatown .",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "dispatches",
@@ -9872,7 +9927,8 @@
       "last_seen_live": "20260606",
       "hero_image": null,
       "date_range": null,
-      "showtimes_resolved": true
+      "showtimes_resolved": true,
+      "desc_rewalked": true
     },
     {
       "slug": "film-studies-adaptation",
@@ -9991,11 +10047,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Tickets: $18",
+      "description": "In the first Film Studies series of 2025, filmmaker and educator Patricia Gruben \u2013 founder of the Praxis Centre for Screenwriters \u2013 unpacks different approaches to writing for the screen, focusing here on adaptation from literary sources. In this six-week course, combining 30-minute talks, film screenings and group discussion, Patricia examines how Jane Austen, Shakespeare and Virginia Woolf have been translated to the screen, and shows works by film giants like Stanley Kubrick, Atom Egoyan and Akira Kurosawa.",
       "date_range": "Monday Afternoons Feb 3 \u2013 Mar 10",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "film-studies-hollywood",
@@ -10091,11 +10148,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Tickets: $18",
+      "description": "Hollywood has always had an inherently self-absorbed quality that continues to fascinate us, so perhaps it comes as no surprise that many film directors choose to explore their own artistic obsessions via the vehicle of Hollywood mythology itself, past and present.\n\nThis series explores some of the movie industry\u2019s own reflections on itself as a dream factory, from one of the earliest examples, George Cukor\u2019s pre-code examination of the seductive pitfalls of an actress\u2019s hungry aspirations, to one of the latest, Damien Chazelle\u2019s mesmerizing trip through a director\u2019s looking glass world. Along the way, our guided tour makes memorable stops that ask us all what makes our never ending appetite for screen dreams so tantalizing. Could it be that in the end it\u2019s something as simple as the deft observation once made by songwriter Van Dyke Parks? \u201cMovies are magic.\u201d No matter how weird and challenging our daily lives might be, we\u2019ll always have the welcome escape of a dark cinema, where we can sit with complete strangers and dream together with our eyes wide open.",
       "date_range": "Monday Mornings Nov 11 \u2013 Dec 9",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "finding-our-truth",
@@ -10165,11 +10223,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Enjoy great movies at the luxurious VIFF Centre, voted one of the best cinemas in Vancouver and home to the prestigious Vancouver International Film Festival.",
+      "description": "Curated by Rylan Friday (Plains Cree & Saulteaux Ojibway, Cote First Nation), Finding Our Truth features work from First Nations and allied filmmakers, centering on Indigenous narratives with strong female leads, coupled with humour, determination, strength and resiliency.\n\nThe three films highlighted in this series challenge pervasive stereotypes by expressing the diversity of Indigenous experience \u2013 whether they are framed as historical or contemporary, speak to gender equality and sexuality, or are based in urban or rural settings, and all showcase Indigeneity in an equally authentic manner.\n\nIn honour of National Indigenous Peoples Day, the screenings of Beans and Run Woman Run on June 21 are free to Indigenous Peoples.\n\nIn addition, as we work to make our programming accessible and dismantle financial barriers, VIFF is offering everyone free admission to the June 19 screening of Before They Fall + Q&A .",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "france-noir",
@@ -12237,11 +12296,12 @@
         }
       ],
       "hero_image": null,
-      "description": "What is this place we call home? We invite you to take a closer look at the evolving face of a country busily reimagining itself.",
+      "description": "What is this place we call home? We invite you to take a closer look at the evolving face of a country busily reimagining itself.\n\nThis series includes some of the most acclaimed new dramas to hit the festival circuit, as well as several revelatory local documentaries.\n\nAnthony Shim\u2019s semi-autobiographical Riceboy Sleeps (from March 24) charts the travails of a South Korean immigrant family in a Vancouver suburb in the \u201890s, was named Best Canadian Film at VIFF, and scored TIFF\u2019s prestigious Platform Prize; Sophie Jarvis\u2019s Okanagan-set Until Branches Bend (from March 24) melds social realism, an acute psychological study, and sinister, surreal undercurrents; and, from Nova Scotia, Ashley McKenzie\u2019s marvelous, surprising Queens of the Qing Dynasty (from March 17) delicately sketches the friendship between a neuro-diverse teen and a queer Chinese volunteer caregiver. Finally, Tenzin (from March 18), the first feature made in collaboration with Ontario\u2019s Tibetan community, is a Buddhist soul-searcher about a young man struggling to make sense of his brother\u2019s suicide.\n\nOn the documentary front, Nisha Platzer\u2019s locally made, deeply personal back home (from April 14) also unpicks the heart-rending aftermath of a sibling\u2019s decision to end his life, sifting the loving remembrances of friends and family for solace and insight. Leslie D. Bland and Harold C. Joe\u2019s A Cedar Is Life (from March 31) and Alexi Liotti\u2019s Rematriation (April 22) are two more BC-produced documentaries, both focusing on the spiritual significance of our forests and the emerging coalition between the First Nations and environmentalists. Finally, on a lighter note, Brian D. Johnson\u2019s The Colour of Ink (from April 7) looks at what goes into artisanal inks, which is to say, almost anything, from berries and grapes to industrial rust to mollusc milk, blood, sweat, and tears. If we only look for it, there is an entire spectrum right in our own backyard.\n\nLook for further announcements of filmmaker Q&As and National Canadian Film Day programming soon.",
       "date_range": "Starts March 17",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "icons",
@@ -12594,8 +12654,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-international-coproduction",
@@ -12646,7 +12705,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -12654,7 +12714,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "insights",
@@ -13269,11 +13330,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
+      "description": "The Zone of Interest director Jonathan Glazer has only made four feature films across the past quarter century. But each one has been singular, a shock to the system, and each time you wonder how he got away with so much. Unlike more prolific directors, Glazer doesn\u2019t bend his work to the dictates of the industry, but rather it\u2019s the other way round: his films are audaciously conceived, radical, and purposefully unsettling. Kubrick is his avowed master, and Glazer has the same perfectionism and single-minded focus, as well as a similar gift for taking in the bigger picture. They\u2019re anthropologists, but Glazer has a more surrealist vision, humanity often seems like an alien species in his work, prey to impulses and desires we can only attempt to contain.\n\nThis short series includes Glazer\u2019s rarely screened debut feature, Sexy Beast (2000), with Ray Winstone squaring off against Ben Kingsley, as well has his controversial second film, Birth (2004), with Nicole Kidman. Both are showing on 35mm film. Composer Cayne McKenzie will give a Film Studies talk on composer Mica Levi, alongside a screening of their collaborations on the short films, The Fall (2019) and Strasbourg 1518 (2020), and we\u2019re showing the first Glazer/Levi collaboration, Under the Skin (2013).",
       "date_range": "Mar 29 \u2013 Apr 4",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "kdocsff-2023",
@@ -14128,11 +14190,12 @@
         }
       ],
       "hero_image": null,
-      "description": "We\u2019ve got a new look! Read how our website and ticketing have changed.",
+      "description": "Continuing the recognition and celebration of Black history and achievements beyond the month of February, VIFF is proud to announce Landmarks: Black Atlantic Independent Film 1961-1969 , a series curated by Nya Lewis , which will play out with monthly screenings into May.\n\nThe Landmarks series frames a community of producers, actors, directors and screenwriters, whose work created an unofficial counter-archive, and self-prophesied a definitive vernacular of Black film and American life. Precursors to the \u201cBlaxploitation\u201d era, this restorative anthology of \u201cinvisible classic\u201d Black Atlantic films endeavours to make visible an often diminished or erased era in Black image-making, revealing a unique moment in history \u2013 an emerging vision of cinema that underlines the revolutionary possibilities of Black representation in Hollywood.\n\nThis eclectic and exciting series unearths films and filmmakers often overlooked by those responsible for constructing the canon, such as the playwright Lorraine Hansberry ( A Raisin in the Sun ), photographer/filmmaker Gordon Parks ( The Learning Tree ), actor/poet Ruby Dee and writer Julian Mayfield ( Uptight ), even cabaret artist/hustler Jason Holliday, the subject of Shirley Clarke\u2019s cinema-verite Portrait of Jason .",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "lina-nyberg-norrtull-gang-live",
@@ -14179,8 +14242,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "live-32-sounds",
@@ -14199,7 +14261,8 @@
               "venue": "Vancouver Playhouse"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-ironworks-daniel-barrow",
@@ -14226,7 +14289,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-ironworks-matreyek-chien",
@@ -14239,7 +14303,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "miles-davis-100-julian-borkowski-live",
@@ -14278,7 +14343,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "lino-brocka",
@@ -14621,11 +14687,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Lunar New Year Splash celebrates the Year of the Horse with films from Asia.",
+      "description": "Lunar New Year Splash celebrates the Year of the Horse with films from Asia.\n\nIn some Asian cultures, Lunar New Year is an extended holiday \u2014 the perfect time for friends and family to gather at the theatres to watch some goofy classics. We invite Vancouverites to join us in giving this tradition a Canadian twist!\n\nEnjoy stories about family, self-discovery, and love as we share the warmth of the new year together.",
       "date_range": "Feb 15 \u2013 16",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "love-sex-dreams",
@@ -14727,7 +14794,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "masayuki-suo",
@@ -14832,8 +14900,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -15151,7 +15218,8 @@
       "date_range": "November 26-December 1",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "mena-2024",
@@ -15267,7 +15335,8 @@
           "wayback_ts": "20240126230621",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -15286,8 +15355,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-stop-bundle",
@@ -15363,7 +15431,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -15382,8 +15451,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-the-burdened",
@@ -15415,7 +15483,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-award-ceremony",
@@ -15685,7 +15754,8 @@
           "wayback_ts": "20260221172959",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -15965,7 +16035,8 @@
       "meta_resolved": true,
       "hero_image": null,
       "date_range": null,
-      "showtimes_resolved": true
+      "showtimes_resolved": true,
+      "desc_rewalked": true
     },
     {
       "slug": "morricone",
@@ -16187,7 +16258,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "national-indigenous-history-month",
@@ -16309,7 +16381,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "new-chapter",
@@ -16382,11 +16455,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Curated by Jamila Pomeroy",
+      "description": "I am so pleased to guest-curate VIFF Centre\u2019s 2024 Black History & Futures Month programming. It\u2019s a great joy to share my film Union Street with VIFF Centre audiences again, after a successful world premiere at the 2023 Vancouver International Film Festival. The excitement and unwavering support of the community with Union Street thus far has not only reinvigorated my passion for writing and filmmaking; but underlined the need for African Canadians to see themselves represented in film; and emboldened the importance of creating space for Black and African cinema in Vancouver.\n\nVIFF Centre has invited me to share two Black films that have inspired me as a filmmaker, and could serve as companion films to Union Street . With so many incredible Black films to choose from, this was certainly no easy feat. There are of course pioneers like the Grandfather of Black cinema, Oscar Micheaux, or Kathleen Collins, the first Black woman to write, direct and produce a feature-length film; Melvin Van Peebles and Gordon Park, who cemented the blaxploitation genre in the 70s; Spike Lee and John Singleton who brought inner-city Black stories and commentary on racial tension to the screen in the 80s and 90s. Then there are filmmakers like Jordan Peele, Shonda Rhimes and Ava Duvernay who are making massive waves in Hollywood today. Looking back at the last 100 years of cinema, it\u2019s hard not to see the social progress embedded in storylines and the many triumphs made by Black filmmakers along the way, in an industry that has historically excluded Black people and stories.\n\nThese selections honor a new chapter in Black cinema. Each film has inspiring characters that stand in their power and are community leaders; and instead of centering Black pain, they prioritize Black joy and ask us to look beyond the tired Black cultural archetypes we\u2019ve been fed by film and media. Sorry To Bother You , Talking About Trees and Union Street together challenge the idea of a Black cultural monolith, expand our ideas of Blackness, and showcase rich African and African diasporic cultures. Centering community, resilience and positive action, these films invite us to break generational cycles, laugh and co-create an afrofuturism that honors a multiplicity of African experiences for years to come.",
       "date_range": "Feb 2 \u2013 7",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "new-spanish-cinema",
@@ -16749,11 +16823,12 @@
         }
       ],
       "hero_image": null,
-      "description": "This year's New Spanish Cinema is packed with an exceptionally strong line-up \u2014 award-winning cinema, plus a flamenco-inspired VIFF Live.",
+      "description": "This year\u2019s crop of new Spanish films is exceptionally strong\u2026 We started out with plans to show four films, but the quality was such, we\u2019ve ended up with 13 (and one classic, The Executioner , often described as \u201cthe greatest Spanish film ever made\u201d).\n\nThe selection includes multiple Goya (Spanish Oscar) winners, including El 47 (Best Film), Saturn Return (Best Director), The Blue Star (Best New Director), The Flamenco Guitar of Yerai Cort\u00e9s (Best Documentary) and Black Butterflies (Best Animation), as well as award-winners from many festivals and acclaimed new works from such established auteurs as Julio Medem ( 8 ), Albert Serra ( Afternoons of Solitude ) and Alejandro Amen\u00e1bar ( The Captive ). All of these films, barring The Executioner , are Vancouver premieres.\n\nJoin us for a tapas buffet and wine-tasting January 9 or a live flamenco show , January 11.",
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 11
+      "consecutive_404s": 12,
+      "desc_rewalked": true
     },
     {
       "slug": "northern-lights",
@@ -17140,7 +17215,8 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "you-can-live-forever",
@@ -17194,7 +17270,8 @@
           "runtime_resolved": true,
           "director": "Chandler Levack",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220907223051",
@@ -17525,7 +17602,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "flow",
@@ -17995,7 +18073,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "one-battle-after-another",
@@ -18912,7 +18991,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "what-we-do-next",
@@ -19025,12 +19105,56 @@
         {
           "slug": "sansho-the-bailiff",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260317000701",
+          "title": "Sansho the Bailiff",
+          "poster": "https://images.viff.org/uploads/2025/12/SanshoTheBailiff.jpg?resize=960%2C600&gravity",
+          "synopsis": "11th Century Japan. A mother and two young children journey through the marshlands alone, until a kindly old woman offers them shelter for the night and promises to find them safe passage the next morning. What happens next is shocking and brutal. The third of the great Japanese masters, Mizoguchi is a poet of suffering; temperamentally he falls midway between the restless dynamism of Kurosawa and the calm contemplation of Ozu. He is a pictorialist, renowned for his long, flowing takes, but watching Sansho the Bailiff (his 81st film, and his most acclaimed in the West) you\u2019re as likely to be impressed by the harrowing tragedy that unfolds as the exquisite imagery. Based on a traditional Japanese fable, this is a film about the struggle between the powerful and the enslaved, and humanity\u2019s capacity to endure and withstand oppression and injustice. (Not that compassion gets these characters very far.) Sunday\u2019s Pantheon screening will feature a 15-minute introduction by a local film scholar and be followed by an audience talkback. Apr 19: Oct 19: Intro by Dr. Su-Anne Yeo, who teaches in the Department of Theatre & Film and the Department of Asian Studies at UBC",
+          "director": "Kenji Mizoguchi",
+          "year": 1954,
+          "runtime_min": 124,
+          "country": "Japan",
+          "language": "In Japanese with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-04-19T11:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-04-21T17:50:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "m",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260316233450",
+          "title": "M",
+          "poster": "https://images.viff.org/uploads/2025/12/M.jpg?resize=960%2C600&gravity",
+          "synopsis": "Although Fritz Lang is more famous today for his silent sci-fi epic Metropolis, he considered M his masterpiece. We could make the case that many of his American film noir thrillers from the 1940s and 50s are equally fine \u2014 movies like The Big Heat, The Woman in the Window and Scarlet Street \u2014 but they all track back to this, a sophisticated and gripping suspense drama about the hunt for a child murderer, played with disturbing compassion by the great Peter Lorre. M was Lang\u2019s first sound film, and it\u2019s thrilling to experience how this master technician embraced the creative possibilities of the medium. In the same way, it\u2019s a very early police procedural. Lang and his wife, Thea von Harbou, based the screenplay on the shocking case of Peter Kurten, the \u201cMonster of Dusseldorff\u201d, whose exploits were front page news in Germany in 1930, and they pored over police files. But even more importantly, this is the movie where Lang became interested in psychology \u2014 an aspect which would be the catalyst for his American career after the Nazis came to power. (Seeing M, Joseph Goebbels noted in his diary: \u201cFantastic! Against huminitarian soppiness. For the death penalty. Well made. Lang will be our director one day.\u201d In fact he was half right: while Lang fled Germany, von Harbou embraced the party.) Sunday\u2019s Pantheon screening will feature a 15-minute introduction by a local film scholar and be followed by an audience talkback. May 17: Intro by Devan Scott, cinematographer, film colourist and educator",
+          "director": "Fritz Lang",
+          "year": 1931,
+          "runtime_min": 110,
+          "country": "Germany",
+          "language": "In German with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-05-17T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-05-19T17:50:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-leopard",
@@ -19638,11 +19762,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Spring Break | March 17 \u2013 30",
+      "description": "Join us as we celebrate the achievements of Pixar\u2019s early years with a run of 11 extraordinary films that have left an indelible imprint on children either side of the millennium \u2014 and their parents! Our line up includes a live music performance of beloved Pixar tunes, a Pixar trivia night, and exclusive behind-the-scenes talks.\n\nYouth Tickets are just $10 \u2014 and adults can save with a 3-show pack for $42\n\nBuy Ticket Pack\n\n*Ticket Packs are not valid for VIFF Live or Trivia",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "portraits",
@@ -20423,7 +20548,8 @@
       "date_range": "Sept 1 \u2013 25",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "pta",
@@ -21538,11 +21664,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Film scholar Michael van den Bos takes us on a whirlwind tour of comedy classics from Hollywood\u2019s Golden Age.",
+      "description": "Film scholar Michael van den Bos takes us on a whirlwind tour of comedy classics from Hollywood\u2019s Golden Age.\n\nPut a spring in your step and get the week off to a flying start with VIFF\u2019s new six-part Film Studies course, a celebration of a genuine American art form: Screwball Comedy.\n\nIn this series Michael van den Bos explores different aspects of Screwball, unpacking the conventions of the genre and illuminating the contributions of key artists, including leading directors Howard Hawks, Frank Capra and Preston Sturges.\n\nTalks will last 25 minutes, followed by a film screening and an audience talk-back.",
       "date_range": "Monday Mornings Mar 18 \u2013 Apr 29",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "sensory-cinema",
@@ -21596,11 +21723,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Great cinema engages all the senses, if only through the imagination. But bringing the sensation of taste to life in the VIFF Centre\u2019s luxury theatre? That\u2019s truly a mouthwatering prospect!",
+      "description": "Great cinema engages all the senses, if only through the imagination. But bringing the sensation of taste to life in the VIFF Centre\u2019s luxury theatre? That\u2019s truly a mouthwatering prospect!\n\nSensory Cinema is an immersive experience that combines cinematic masterpieces with food from Vancouver\u2019s best kitchens. Guest chefs select their favourite movie moments and playfully pair them with a selection of sweet and savoury bites delivered to your seat. This is where film and food collide. Bon app\u00e9tit\u2026",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "showcase",
@@ -23087,8 +23215,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mean-streets",
@@ -24004,7 +24131,7 @@
         {
           "slug": "summer-in-the-70s-epilogue-film",
           "date_range": null,
-          "wayback_ts": "20220828212306",
+          "wayback_ts": "20220829040115",
           "title": "Film #70 (Surprise Film)",
           "poster": "https://images.viff.org/uploads/2022/06/VIFFDefault.jpg?resize=150%2C150",
           "synopsis": "As our epic Ragged Glory: Summer in the 70s season comes to an end, we couldn\u2019t resist throwing our pass holders a parting gift and adding an epilogue, appropriately enough the 70th feature film in the series that began, back in mid-July, with the epochal rock concert film, Gimme Shelter. Just for fun, we are keeping the identity of the movie in question a closely guarded secret. But we will give you a few clues: It comes from the latter half of the 1970s. The director has featured previously in this season. And as far as star power goes, this one is hard to top. Thanks for your support for our series\u2026 See you next year for Summer in the 80s\u2026 ?",
@@ -24177,7 +24304,18 @@
           "slug": "maudie",
           "date_range": null,
           "wayback_ts": "20260519192541",
-          "fetch_failed": true
+          "title": "Maudie",
+          "poster": "https://images.viff.org/uploads/2025/11/Maudie.jpg?resize=960%2C600&gravity",
+          "synopsis": "The life of legendary Canadian folk artist Maud Lewis is painted in exquisite detail in this impeccably acted, incredibly affecting biopic. At the beating heart of Aisling Walsh\u2019s film is Sally Hawkins, who not only captures the contorted physicality of this self-taught painter, who contended with rheumatoid arthritis, but also exudes the creative spirit raging within her despite her debilitated frame. The film\u2019s backdrop is undeniably cinematic: the rugged beauty and expansive vistas of 1930s Nova Scotia. Likewise, its primary setting is unspeakably intimate: the comically tiny one-room house that Maud shares with misanthropic fish peddler Everett (Ethan Hawke), initially as his housekeeper but soon as his wife\u2014albeit still placing behind his dogs and chickens in terms of his favoured tenants. Undaunted by his curmudgeonly nature, she\u2019s inspired by the natural splendour surrounding their hovel to take up a paint brush. Operating with no preconceptions of what \u201cart\u201d should be, her charmingly unsophisticated, uniquely one-dimensional paintings strike a chord with tastemakers and soon she\u2019s a leading figure in the Na\u00efve Art movement. Of course, Maud isn\u2019t motivated by fame but rather the creative act itself. Her exuberance proves infectious. Aimed at film lovers 55+, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two for $16!",
+          "director": "Aisling Walsh",
+          "year": 2016,
+          "runtime_min": 115,
+          "country": "Canada/Ireland",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "cold-war",
@@ -24227,7 +24365,11 @@
         {
           "slug": "the-other-side-of-hope",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260520184530",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         }
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
@@ -24892,11 +25034,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Jan 1 \u2013 Feb 12",
+      "description": "In December, the New York Film Critics Circle bestowed their Director of the Year award to S.S. Rajamouli for his work on the blockbuster historical action epic RRR . This capped a remarkable year for the Telugu-speaking Tollywood auteur. RRR has become such a critical success there is a real prospect he will snag an Academy Award nomination. A first ever retrospective of his films at BeyondFest in Los Angeles proved revelatory.\n\nHere is a pop Cinema prodigy who doesn\u2019t play by the rules, a movie magician pulling bouquets of dynamite out of his hat. Give Rajamouli three hours, he\u2019ll give you non-stop action, comedy, spectacle, costume drama, a love story and a musical, all at once. In India, he has three of the top five biggest ever box office hits to his name. If you\u2019re not familiar with popular cinema from the subcontinent, now is the time to discover what the world outside North America already knows: Rajamouli\u2019s supercharged entertainments are bona fide blockbusters.\n\nTollywood or Bust plays Sunday afternoons through January and February.*\n\nThanks to JJ Hurtado / Potentate Films\n\n*New screenings of RRR have just been added on Saturday, February 4 and Saturday, February 11!",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "total-cinema",
@@ -25969,7 +26112,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "vancouver-romanian-film-festival",
@@ -26648,7 +26792,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "boy-from-heaven",
@@ -27582,8 +27727,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "huesera",
@@ -28653,7 +28797,8 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "pacifiction",
@@ -28856,7 +29001,8 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "riceboy-sleeps",
@@ -28982,7 +29128,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "scarlet",
@@ -29328,7 +29475,8 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "thunder",
@@ -29720,7 +29868,8 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "a-woman-escapes",
@@ -30224,8 +30373,8 @@
           "slug": "viff22-riceboy-sleeps",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "viff22-rodeo",
@@ -30410,7 +30559,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260606"
+      "last_seen_live": "20260606",
+      "desc_rewalked": true
     },
     {
       "slug": "viff-connect",
@@ -30689,7 +30839,8 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -31250,7 +31401,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-michael-abels",
@@ -31263,8 +31415,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -31277,7 +31428,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-deepa-mehta",
@@ -31296,7 +31447,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film": "I Am Sirat",
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-building-closet-oppenheimer",
@@ -31316,8 +31468,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Oppenheimer",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-canadaland-backbench-live",
@@ -31369,7 +31520,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -33050,7 +33202,8 @@
           "runtime_resolved": true,
           "director": "David Bickerstaff & Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-the-essence-of-eva",
@@ -33148,7 +33301,8 @@
           "director": "Colin Hanks",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-la-salsa-vive",
@@ -33202,7 +33356,8 @@
           "runtime_resolved": true,
           "director": "Jenn Strom",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-particle-dance",
@@ -34199,8 +34354,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-your-touch-makes-others-invisible",
@@ -34439,11 +34593,12 @@
         }
       ],
       "hero_image": null,
-      "description": "Enjoy great movies at the luxurious VIFF Centre, voted one of the best cinemas in Vancouver and home to the prestigious Vancouver International Film Festival.",
+      "description": "In recognition of National Indigenous History Month, we present We Are All Different , a collection of contemporary Indigenous shorts that explore heritage, lived experiences, relationships, and identity. Each film is accompanied by an interview with its creator, offering greater insights into their respective practices, approaches, and motivations.\n\nSupported by",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "wes-world",
@@ -34818,8 +34973,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-7",
@@ -34849,8 +35003,7 @@
           "wayback_ts": "20240226041058",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-9-phosphenia",
@@ -34865,8 +35018,7 @@
           "wayback_ts": "20240308132941",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-10-domestic-cinema",
@@ -34911,8 +35063,7 @@
           "wayback_ts": "20241126204058",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-farther-eye-see",
