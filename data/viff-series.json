@@ -2220,8 +2220,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -2259,8 +2258,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "synth-scores-film-studies",
@@ -2288,13 +2286,12 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "wayback_ts": "20230814013558",
+          "wayback_ts": "20230813180632",
           "runtime_min": 25,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -2739,11 +2736,6 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "category",
-          "date_range": null,
           "fetch_failed": true
         },
         {
@@ -4274,7 +4266,18 @@
           "slug": "nollywood-filmbusiness-african-style",
           "date_range": null,
           "wayback_ts": "20260312201354",
-          "fetch_failed": true
+          "title": "Filmbusiness African Style",
+          "poster": "https://images.viff.org/uploads/2025/10/Nollywood.jpg?resize=960%2C600&gravity",
+          "synopsis": "Curators\u2019 Note If you\u2019ve ever wondered how one of the world\u2019s highest-producing film industries sustains itself, this documentary breaks down the inner workings of Nigeria\u2019s most lucrative creative economy. It explores the various motivations behind Nigerian filmmaking that help strike an ample balance between quantity and quality. From directors navigating the tension between creative vision and economic realities to entrepreneurs focused on maximizing profits by churning out 100 films monthly, this documentary reveals the \u2018indi-genius\u2019 ways filmmakers and industry players collaborate to keep this surprisingly well-oiled machine running. \u2014 Kika Memeh and Ogheneofegor Obuwoma, Akojo Film Collective Nov 5: Intro by curator Kika Memeh",
+          "director": "Johannes Preuss",
+          "year": 2020,
+          "runtime_min": 65,
+          "country": "Germany",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "belle-movies-apostles-cinema",
@@ -4285,8 +4288,29 @@
         {
           "slug": "sembene",
           "date_range": null,
-          "wayback_ts": "20260312201354",
-          "fetch_failed": true
+          "wayback_ts": "20251027041425",
+          "title": "Sembene!",
+          "poster": "https://images.viff.org/uploads/2025/10/Sembene.jpg?resize=960%2C600&gravity",
+          "synopsis": "In 1952, Ousmane Sembene, a dockworker and fifth-grade dropout from Senegal, began dreaming an impossible dream: to become the storyteller for a new Africa. Sembene! tells the unbelievable true story of the father of African cinema, the self- taught novelist and filmmaker who fought, against enormous odds, a 50-year battle to return African stories to Africans. Sembene! is told through the experiences of the man who knew him best, colleague and biographer Samba Gadjigo, using rare archival footage and more than 100 hours of exclusive materials. Curators\u2019 Note Samba Gadjigo holistically brings to life a seminal figure in African cinema, portraying him as a fully realized, three-dimensional man. In doing so, we see the person behind the title \u201cFather of African Cinema\u201d, his real-time influence on the careers of those around him and the making of some of his most critically acclaimed films (including Black Girl, Xala, Ceddo, and Moolade). It\u2019s a refreshing look into cinematic history and a compelling glimpse into the life that shaped a brilliant thinker. \u2014 Kika Memeh and Ogheneofegor Obuwoma, Akojo Film Collective",
+          "director": "Jason Silverman & Samba Gadjigo",
+          "year": 2015,
+          "runtime_min": 89,
+          "country": "USA/Senegal",
+          "language": "In English and French with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-11-19T18:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-11-24T19:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-eyes-of-ghana",
@@ -4612,7 +4636,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "9-to-5",
@@ -5028,7 +5053,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -5395,8 +5421,7 @@
           "wayback_ts": "20230714112900",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "first-blood",
@@ -5710,7 +5735,8 @@
           "wayback_ts": "20230816225335",
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film": "Blue Velvet",
+          "featured_film_resolved": true
         },
         {
           "slug": "something-wild",
@@ -7840,8 +7866,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "when-morning-comes",
@@ -9191,7 +9216,7 @@
           "poster": "https://images.viff.org/uploads/2024/07/CreatingColour1.jpg?resize=960%2C600&gravity",
           "director": "Various",
           "country": "Various",
-          "wayback_ts": "20240731215828",
+          "wayback_ts": "20240731092533",
           "synopsis": "Across five Monday afternoons, cinematographer, film colourist and educator Devan Scott will illuminate the distinctive ways in which filmmakers have created mood and meaning through the manipulation of colour. Each 40-minute talk will examine a different colour process \u2013 including lighting, tinting, production design \u2013 within its historical context, and exploring its aesthetic, artistic and storytelling attributes. This introductory talk will incorporate a curated program of colour-tinted silent and experimental short films. Color in cinema did not begin with color film stock but with techniques such as dye-bath tinting and toning and the hand-painting of individual film frames: tools which allowed filmmakers to impart color palettes onto monochromatic images. We\u2019ll investigate how filmmakers such as Georges M\u00e9li\u00e8s and F.W. Murnau used these techniques to develop codes of representation, and how later filmmakers like Stan Brakhage leveraged them for experimental purposes. Devan Scott is a graduate of Simon Fraser University\u2019s film program and has worked as a cinematographer, colourist, and director for ten years. As a cinematographer, his work has screened around the world at the Toronto International Film Festival, Locarno Film Festival, Clermont Short Film Festival, and Busan International Film Festival among many others. As a colourist, his clients have included Google, Film Boldly, the Vancouver Canucks, the NFB, Wondershare, and Global Media. Devan is also an experienced educator, at UBC and other institutions, and has lectured regularly at the VIFF Centre. His podcast, How Would Lubitsch Do It? has found international acclaim.",
           "runtime_min": 100,
           "screenings_resolved": true,
@@ -12550,8 +12575,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-showrunners-scifi",
@@ -12570,7 +12594,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-international-coproduction",
@@ -12589,8 +12614,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -14132,8 +14156,7 @@
               "venue": "St. Andrews Wesley United Church"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "live-machine-folklore",
@@ -14156,7 +14179,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-32-sounds",
@@ -14224,7 +14248,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "feven-kidane-ethio-jazz-live",
@@ -14996,8 +15021,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -15153,8 +15177,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-rewind-bundle",
@@ -15244,8 +15267,7 @@
           "wayback_ts": "20240126230621",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-swana-panel",
@@ -15264,7 +15286,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-stop-bundle",
@@ -15283,11 +15306,10 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "wayback_ts": "20240127051848",
+          "wayback_ts": "20240127023248",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-animalia",
@@ -15341,8 +15363,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -15361,7 +15382,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-the-burdened",
@@ -15413,8 +15435,7 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -15664,8 +15685,7 @@
           "wayback_ts": "20260221172959",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -16733,7 +16753,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 10
+      "consecutive_404s": 11
     },
     {
       "slug": "northern-lights",
@@ -17975,8 +17995,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "one-battle-after-another",
@@ -18893,8 +18912,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "what-we-do-next",
@@ -19102,7 +19120,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20251213222515",
+          "title": "Sunless",
+          "poster": "https://images.viff.org/uploads/2025/12/Sunless.jpg?resize=960%2C600&gravity",
+          "synopsis": "Filmed with a silent 16mm camera and a rudimentary tape recorder, Chris Marker\u2019s essay film could be described as the most dazzling home movie you\u2019ll ever see. Not that Marker \u2014 a Frenchman who rubbed shoulders with the nouvelle vague \u2014 spends much time at home. There\u2019s footage here he shot in Iceland (supposedly for a planned sci-fi film), Japan, Guinea-Bissau, Cape Verde and San Francisco. Incorporating movie clips and early digital post-production effects, Marker \u2014 using the alias Sandor Krasna \u2014 ruminates on topics that range freely from ritual, philosophy, politics, movies and memory. It\u2019s a work of great erudition but also poetic and playful, a movie for the permanently curious, a movie about connection, the creation of meaning, souvenirs for the mind. Sunday\u2019s Pantheon screening will feature a 15-minute introduction by a local film scholar and be followed by an audience talkback.",
+          "director": "Chris Marker",
+          "year": 1983,
+          "runtime_min": 103,
+          "country": "France",
+          "language": "In English, French and Japanese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "meet-me-in-st-louis",
@@ -22691,7 +22721,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-tale-of-the-princess-kaguya",
@@ -23056,7 +23087,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mean-streets",
@@ -24013,7 +24045,18 @@
             }
           ],
           "wayback_ts": "20220817105458",
-          "fetch_failed": true
+          "title": "Ali & Ava",
+          "poster": "https://images.viff.org/uploads/2022/06/AliAva.jpg?resize=150%2C150",
+          "synopsis": "The fourth feature by Clio Barnard is set in her favourite location, Bradford, West Yorkshire, like The Arbor and The Selfish Giant (it\u2019s her home town). It\u2019s inspired by two people she met while making those films, though the story is fiction. Ali (Adeel Akhtar) is a music nut, and undoubtedly the most sympathetic landlord you will meet in a movie this year. He\u2019s also reeling after his marriage has hit the rocks. Ava (Claire Rushbrook) is a teacher, a widow, and a grandmother. These are two warm, generous individuals and they take an instant liking to each other. But cultural forces \u2013 and family \u2013 ensure their relationship will be tested. British realism often equates with miserabilism, but that\u2019s absolutely not the case here. The film is full of joy and hope in the face of adversity and prejudice. That\u2019s largely down to the exuberance of Adeel Akhtar and the sensitivity of Claire Rushbrook\u2026 these are people you would love to have in your own life. It\u2019s also about the filmmaking\u2026 at times Barnard seems on the point of making a fully-fledged musical (Ali\u2019s into the Buzzcocks and Sylvan Esso, Ava prefers Karen Dalton and Bob Dylan\u2026 just another example of how they\u2019re an interesting mash-up.)",
+          "director": "Clio Barnard",
+          "year": 2021,
+          "runtime_min": 95,
+          "country": "UK",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "woman-at-war",
@@ -24028,7 +24071,19 @@
         {
           "slug": "two-of-us",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260106160545",
+          "title": "Two of Us",
+          "poster": "https://images.viff.org/uploads/2025/06/TwoOfUs.jpg?resize=960%2C600&gravity",
+          "synopsis": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+ (but open to all), Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two tickets for $16! Something more than a love story (though it is certainly that), this gripping French psychological drama is as tense and edgy as a thriller. Nina (former Fassbinder muse Barbara Sukowa) has the apartment immediately adjacent to Madeleine\u2019s (Martine Chevallier), which is convenient: the two women have been lovers for decades, though Mado has kept this a secret from her grown children. Then a stroke renders Madeleine paralyzed and incapable of speech, and Nina falls into a bitter duel with her round-the-clock caregiver, who doesn\u2019t appreciate this assertive neighbour\u2019s persistent offers of help\u2026",
+          "director": "Filippo Meneghetti",
+          "year": 2020,
+          "runtime_min": 95,
+          "country": "France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-lunchbox",
@@ -24038,17 +24093,63 @@
         {
           "slug": "karaoke",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20220908194213",
+          "title": "Karaoke",
+          "poster": "https://images.viff.org/uploads/2022/08/Karaoke.jpg?resize=150%2C150",
+          "synopsis": "Meir (Sasson Gabay) is slumping towards retirement and no longer has any fight in him. When the new guy in the penthouse suite double parks in front of Meir\u2019s car, well, it just sums up the kind of day/week/life he\u2019s having. But Itsik (Lior Ashkenazi) apologizes profusely and insists Meir and his wife Tova (Rita Shukrun) come up for a glass of wine. Turns out Itsik isn\u2019t just rich and successful, he\u2019s also charming and gregarious. Under the bright wattage of his attentive smile, Meir and Tova start to feel better about themselves and imagine a new chapter is possible. Moshe Rosenthal\u2019s comedy of vanities (the Audience Award winner at the recent Jerusalem Film Festival) has a deft, light touch, but hits harder than you might expect. That\u2019s down to a sharp, keen script, and to the excellence of the performances\u2014with special mention reserved for Gabay, who shows us a decent, downtrodden man willing to do almost anything (karaoke!) to recover his self-respect. That this is a grave error of judgment should go without saying.",
+          "director": "Moshe Rosenthal",
+          "year": 2022,
+          "runtime_min": 103,
+          "country": "Israel",
+          "language": "In Hebrew with English subtitles",
+          "screenings": [
+            {
+              "start": "2022-09-29T21:00:00",
+              "venue": "SFU Woodwards"
+            },
+            {
+              "start": "2022-10-09T19:00:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-second-mother",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20251216170933",
+          "title": "The Second Mother",
+          "poster": "https://images.viff.org/uploads/2025/04/SecondMother.jpg?resize=960%2C600&gravity",
+          "synopsis": "Val (Brazilian household name Regina Cas\u00e9), a cheerful S\u00e3o Paulo live-in housekeeper who\u2019s taken care of a rich family for some time, finds her life turned upside down when her estranged and decidedly intelligent teenaged daughter, Jessica (Camila M\u00e1rdila), comes to stay, thereby unleashing a welter of issues that make Val question her whole existence. Long divorced from Jessica\u2019s father, Val has had no contact with her university-aged daughter in a decade, preferring to devote herself to the care and comfort of Dr. Carlos (Louren\u00e7o Mutarelli), his wife Barbara (Karine Teles) and, most especially, spoiled son Fabinho (Michel Joelsas), to whom she devotes a disproportionate amount of time and affection. When Jessica comes to stay for a few days while she takes her university entrance exams, the family\u2019s delicate equilibrium is disturbed: Jessica questions everything, becomes the focus of the male members of the family and, basically, refuses to \u201cstay in her place\u2026\u201d Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get the second ticket for $16.",
+          "director": "Anna Muylaert",
+          "year": 2015,
+          "runtime_min": 112,
+          "country": "Brazil",
+          "language": "In Portuguese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "after-life",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20251215201557",
+          "title": "After Life",
+          "poster": "https://images.viff.org/uploads/2025/09/AfterLife.jpg?resize=960%2C600&gravity",
+          "synopsis": "A group of strangers assemble at a way station in limbo. The staff gently interview them about their lives, and give them an assignment. They have one week to choose a single memory of pure bliss, a moment of joy. For this will be the paradise that they will inherit for eternity. For all its fantastical premise, Kore-eda Hirokazu\u2019s second feature film was born of hundreds of interviews he conducted with ordinary Japanese citizens. The result reflects keenly on the very fabric of Japanese society, and also our own priorities, be they business, sex, family or what have you. For many of us, After Life is a very special film, even in the context of Kore-eda\u2019s rich and long career, which went on to include Still Walking, Shoplifters, Like Father Like Son, etc etc. Tuesday\u2019s screening is presented in our Talking Pictures series: Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+ (but open to all), Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two tickets for $16!",
+          "director": "Hirokazu Kore-eda",
+          "year": 1998,
+          "runtime_min": 119,
+          "country": "Japan",
+          "language": "In Japanese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "my-fathers-glory",
@@ -24075,6 +24176,7 @@
         {
           "slug": "maudie",
           "date_range": null,
+          "wayback_ts": "20260519192541",
           "fetch_failed": true
         },
         {
@@ -27480,7 +27582,8 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "huesera",
@@ -28045,7 +28148,8 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "modes-1",
@@ -29760,7 +29864,18 @@
           "slug": "viff22-all-that-breathes",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "All That Breathes",
+          "poster": "https://images.viff.org/uploads/2022/08/AllThatBreathes.jpg?resize=960%2C600&gravity",
+          "synopsis": "The air in New Delhi is so polluted that birds of prey are falling from the skies. Notable amongst the casualties are the megacity\u2019s ubiquitous black kites\u2014so named for their ability to gracefully soar. Two brothers from a Muslim family\u2014former bodybuilders Nadeem Shehzad and Mohammad Saud\u2014have dedicated the past two decades of their lives to taking in over 20,000 black kites through the Wildlife Rescue clinic that they established in their garage. Treating record numbers of ill and injured birds, Nadeem, Saud, and their endearingly curious volunteer assistant Salik strive to keep the operation afloat despite understaffing and funding issues. Meanwhile, political tensions loom over their neighbourhood as ominously as the smog. Bolstered by incredible soundscapes and breathtaking cinematography that casts Delhi\u2019s ecology in an otherworldly light, Shaunak Sen\u2019s sophomore documentary provides intriguing insights into animals\u2019 behavioural adaptations to a polluted urban environment. A deeply moving story of devotion to birds, All That Breathes delivers a powerful meditation on the climate crisis and the interconnectedness of all living organisms. World Cinema Grand Jury Prize: Documentary, Sundance 2022; Oeil d\u2019or Award for Best Documentary, Cannes 2022",
+          "director": "Shaunak Sen",
+          "year": 2022,
+          "runtime_min": 94,
+          "country": "India/USA/UK",
+          "language": "In Hindi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-back-home",
@@ -29782,20 +29897,53 @@
         {
           "slug": "viff22-the-beasts",
           "date_range": null,
-          "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "wayback_ts": "20240224221139",
+          "title": "The Beasts",
+          "poster": "https://images.viff.org/uploads/2022/08/Beasts.jpg?resize=960%2C600&gravity",
+          "synopsis": "North American Premiere In this gripping, tense rural thriller about a French couple trying to make a new life by starting a farm and fixing abandoned homes in Galicia, Spain, director Rodrigo Sorogoyen presents the feral underbelly of country life where tensions between foreigners and locals, educated and uneducated, brutally come to the fore. The sense of immediacy and undercurrent of aggression\u2014emphasized by a pulsing, suspenseful score\u2014permeate each masterful scene, as the conflict between French farmer Antoine and local brothers Xan and Lorenzo, escalates scene by scene. Filled with powerful performances, especially by the brilliant Marina Fo\u00efs, who dominates the latter half of the film with her stubborn determination.",
+          "director": "Rodrigo Sorogoyen",
+          "year": 2022,
+          "runtime_min": 137,
+          "country": "Spain/France",
+          "language": "In Spanish, French, and Galician with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-the-blue-caftan",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "The Blue Caftan",
+          "poster": "https://images.viff.org/uploads/2022/08/BlueCaftan.jpg?resize=960%2C600&gravity",
+          "synopsis": "Richly erotic and deeply moving, Maryam Touzani\u2019s film takes us to urban Morocco and into the lives of three beautiful souls. Halim (Saleh Bakri) is a master tailor; Mina (Lubna Azabal) is his loyal wife; Youssef (Ayoub Missioui) is the man who slowly comes between them. It all looks innocent enough at first: Halim hires Youssef as his apprentice, seemingly impressed by the younger man\u2019s skill and dedication. It soon becomes clear, however, that Halim hides a queer sexuality, and that he deeply desires his new employee. Shot in subdued shadow and colour by Virginie Surdej, The Blue Caftan is work of palpable sensuality. Every act, from the peeling of tangerines to the gestures of human intimacy, registers like the touch of satin on skin: soft, smooth, deeply tender. Touzani\u2019s direction is subtle and assured, and she creates human portraits that are as powerful in their physicality as they are relatable in their psychology. This is a loving, gently radiant film\u2014a triumph of sympathetic imagination. FIPRESCI Prize, Cannes (Un Certain Regard) 2022",
+          "director": "Maryam Touzani",
+          "year": 2022,
+          "runtime_min": 122,
+          "country": "Morocco/France/Belgium/Denmark",
+          "language": "In Arabic with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-bones-of-crows",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "Bones of Crows",
+          "poster": "https://images.viff.org/uploads/2022/09/BonesOfCrows.jpg?resize=960%2C600&gravity",
+          "synopsis": "VIFF 2022 Opening Film In these troubled and lopsided times, we need our storytellers to help us understand our inheritance, be it pain or privilege, and to lay the intellectual and emotional groundwork not only for reconciliation, but for reparation and restoration. Vancouver-born Dene/M\u00e9tis writer-director Marie Clements (whose previous films The Road Forward and Red Snow have been part of VIFF\u2019s year-round and festival programming) squares up to the challenge with this bold, necessarily harrowing tale of oppression and resilience which spans the greater part of the 20th century. Aline Spears (played at different ages by Grace Dove, Summer Testawich, and Carla Rae) is a happy, gifted child, until she and her siblings are removed to a residential school. The scars of that experience will run deep through the remainder of their days, though it will not be the only time that official government policy will act as an instrument of abuse and trauma. Despite this, Aline enlists in WWII, where, ironically, her fluency in Cree becomes a national asset. The reward for her service is yet more anguish and struggle. This is a tough film, but it has epic ambition, deep-rooted conviction, anger, and urgency. Clements is not afraid to make provocative and important connections, and she marshals an outstanding cast of Indigenous actors with care and compassion. This program contains scenes that may distress some viewers, especially those who have experienced harm, abuse, violence, and/or intergenerational trauma due to colonial practices. Support is available 24 hours a day for anyone affected by their experience at residential schools and for those who may be triggered by content dealing with residential schools, child abuse, emotional trauma, and racism. The national Indian Residential Schools Crisis Line is available at 1-866-925-4419. Note: The Opening Gala screening will take place Thursday, September 29, 6 pm at the Centre for Performing Arts. Q&A Sept 29 & Oct 4",
+          "director": "Marie Clements",
+          "year": 2022,
+          "runtime_min": 127,
+          "country": "Canada",
+          "language": "In English, Cree, \u0294ay\u0294aju\u03b8\u0259m, and Italian with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-broker",
@@ -29903,8 +30051,19 @@
         {
           "slug": "viff22-geographies-of-solitude",
           "date_range": null,
-          "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "wayback_ts": "20250105231614",
+          "title": "Geographies of Solitude",
+          "poster": "https://images.viff.org/uploads/2022/08/GeographiesofSolitude.jpg?resize=960%2C600&gravity",
+          "synopsis": "300 kilometres southwest of Halifax lies Sable Island, a crescent moon-shaped sliver of land that seems to have manifested from a fable. Naturalist/researcher Zoe Lucas has called Sable home for four decades, sharing the land with roaming wild horses, fluttering sparrows, and practically imperceptible invertebrates. Joining Lucas for a residency, Jacquelyn Mills, a one-person film team, fully immerses us in the natural wonders of this stunning ecosystem while allowing us to witness an uncommon friendship unfold. Winner of multiple awards at the Berlinale and Hot Docs, the captivating Geographies of Solitude is one of the year\u2019s most celebrated, accomplished, and innovative documentaries. Utilizing techniques like exposing her 16mm film stock to starlight and hand-processing footage in seaweed, Mills also employs homemade microphones and electrodes to elicit melodies from the island and its animal inhabitants. Sable isn\u2019t so much captured on film as incorporated into the very fabric of this documentary. This is a cinematic experience unlike anything you\u2019ve ever encountered. Best Canadian Feature Documentary Award, Hot Docs 2022",
+          "director": "Jacquelyn Mills",
+          "year": 2022,
+          "runtime_min": 103,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-golden-delicious",
@@ -29974,7 +30133,18 @@
           "slug": "viff22-modes-1",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "MODES 1",
+          "poster": "https://images.viff.org/uploads/2022/08/ItSRainingFrogs.jpg?resize=960%2C600&gravity",
+          "synopsis": "Visions of dark impulses are given the spotlight and invite an opportunity to reflect on the personal in relation to the political, examining structural inequity and its impact on the individual, as well as individual acts and their impacts on our structures. From Congo to China, and the Philippines to Poland, the end is nigh. This short film program includes the following films: Lake of Fire NEOZOON, Germany (11 min) Fear of death and interpretations of hell filter through online social bubbles to distill a singular divine message. The Stopover Collectif Faire-part, Belgium/DR Congo (14 min) Travelling from Kinshasa to Frankfurt, filmmakers Paul Shemisi and Nizar Saleh find themselves unjustly relegated to airport purgatory. Very, Very, Tremendously Guangli Liu, China/France (12 min) Virtual currency and digital junk, along with virtual acts of production and consumption, interact with systems in our lived reality, highlighting their coexistence in geopolitical conflicts. It\u2019s Raining Frogs Outside Maria Estela Paiso, Philippines (14 min) Forced to return to the Philippines as the world abruptly closes, Maya recedes into a terrorizing solitude and a fever dream of mixed animation ensues. The Earth Will Swallow it All Dominik Ritszel, Poland (9 min) A period of rapid modernization in Poland in the 1990s brought with it anxiety and fears inflicted by hegemonic order and a complete disregard for the social costs or traumatic after-effects. Watch the Fire or Burn Inside it Caroline Poggi, Jonathan Vinel, France (19 min) In Corsica, a woman chooses to care for the earth by burning it.",
+          "director": "Various",
+          "year": 2021,
+          "runtime_min": 79,
+          "country": "Various",
+          "language": "Various with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-modes-2",
@@ -30014,13 +30184,35 @@
           "slug": "viff22-north-of-normal",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "North of Normal",
+          "poster": "https://images.viff.org/uploads/2022/09/NorthOfNormal.jpg?resize=960%2C600&gravity",
+          "synopsis": "Adapting Cea Sunrise Person\u2019s beloved memoir for the big screen, Carly Stone (The New Romantic) brings both compassion and energy to this tale of a young woman\u2019s bid to come of age while living with a mother experiencing arrested development. Having spent her early years in a wilderness commune founded in the 1970s by her anti-establishment grandfather Dick (Robert Carlyle), Cea (initially River Price-Maenpaa, then Amanda Fix) is forced to shed her alternative upbringing and acclimatize to civilization when her mother, Michelle (Sarah Gadon), tires of Dick\u2019s chauvinistic reign. Granted, this doesn\u2019t keep Michelle from careening between bad romances as she and Cea carve out a nomadic existence. Adorning every scene with enticing period details, Stone ensures that Gadon and Fix\u2019s exceptional performances serve as her film\u2019s foundation. Detailing the humour and heartbreak that come from family dysfunction, North of Normal derives engrossing drama from the difficult decisions these women must make to survive and thrive. Q&A Oct 5",
+          "director": "Carly Stone",
+          "year": 2022,
+          "runtime_min": 90,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-one-fine-morning",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "One Fine Morning",
+          "poster": "https://images.viff.org/uploads/2022/09/OneFineMorning.jpg?resize=960%2C600&gravity",
+          "synopsis": "Living in a small Parisian apartment, Sandra (L\u00e9a Seydoux) is barely able to support herself and her eight-year-old daughter Linn as a freelance translator. As her father Georg (Pascal Greggory) continues to lose his sight and memory from Benson\u2019s syndrome, Sandra must navigate the labyrinthine system of national care homes, with all their financial burdens and logistical nightmares. As her entire life begins to revolve around her banal obligations, Sandra has a chance encounter with an old friend, Cl\u00e9ment (Melvil Poupaud), which blossoms into a passionate affair. After experiencing her daily life for so long as a series of duties and responsibilities towards others, Sandra attempts to reconcile her role as mother and caretaker to her nascent love affair with Cl\u00e9ment, feeling almost guilty at the sudden, unexpected burst of love and happiness as her father\u2019s condition worsens. In her intimate, thoughtful exploration through the fragile vagaries of love\u2014romantic, filial, domestic\u2014Mia Hansen-L\u00f8ve (Things to Come, Bergman Island), delivers another poignant, personal film that resonates long after it ends.",
+          "director": "Mia Hansen-L\u00f8ve",
+          "year": 2022,
+          "runtime_min": 112,
+          "country": "France/Germany",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-queens-of-the-qing-dynasty",
@@ -30032,7 +30224,8 @@
           "slug": "viff22-riceboy-sleeps",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff22-rodeo",
@@ -30180,8 +30373,19 @@
         {
           "slug": "viff22-short-forum-program-6",
           "date_range": null,
-          "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "wayback_ts": "20240224232010",
+          "title": "Program 6",
+          "poster": "https://images.viff.org/uploads/2022/08/VIFFShortForum6_Nxaxaitkw.jpg?resize=960%2C600&gravity",
+          "synopsis": "Cinematic form is given to life\u2019s big mysteries: luck and fate, love and loss, and the spiritual supernatural. Q&A Oct 6 & Oct 9 This short film program includes the following films: The Flying Sailor Amanda Forbis, Wendy Tilby, AB (8 min) Based on the true events of the Halifax Explosion in 1917, a sailor soars above the blast towards the great unknown. Meeting With Robert Dole Fran\u00e7ois Harvey, QC (16 min) Dialectical in form and content, this documentary explores the connection between schizophrenia and theology through the life of Robert Dole. N\u2019xaxaitkw Asia Youngman, BC (17 min) New to town, Zaraya befriends her next-door neighbour, who invites her to go on a search for the legendary lake monster, N\u2019xaxaitkw\u2014known to settlers as Ogopogo. I, Sun Julien Falardeau, QC (12 min) A sun worshipper\u2019s commitment grows desperate when he catches a sunflower turning towards him. Baba Meran Ismailsoy, Anya Chirkova, ON (14 min) All hell breaks loose when a depressed father calls in his son to help mediate an argument with the landlord. Grown in Darkness Devin Shears, NL (17 min) Emmanuel pays his longtime friend, Henry, a visit on his rhubarb farm during harvest. Through the next few days, the two examine the nature of their relationship. La Plage aux \u00eatres Kendra McLaughlin, ON (20 min) Time, memory, and grief are explored in this close look at the preservation of an unidentified creature.",
+          "director": "Various",
+          "year": 2021,
+          "runtime_min": 104,
+          "country": "Canada",
+          "language": "Various with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-women-talking",
@@ -30553,7 +30757,8 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "soviet-bus-stops-viff-connect",
@@ -31006,7 +31211,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -31045,8 +31250,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-michael-abels",
@@ -31059,7 +31263,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -31111,7 +31316,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Oppenheimer",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-canadaland-backbench-live",
@@ -31124,8 +31330,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -31145,8 +31350,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -31165,7 +31369,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -31620,7 +31824,7 @@
               "venue": "International Village 8"
             }
           ],
-          "wayback_ts": "20250908125058",
+          "wayback_ts": "20251001233325",
           "runtime_min": 108,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -33995,7 +34199,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-your-touch-makes-others-invisible",
@@ -34006,7 +34211,7 @@
           "country": "Sri Lanka/USA",
           "language": "In Tamil, Sinhala, English and Russian with English subtitles",
           "synopsis": "Canadian Premiere Sri Lanka has one of the highest numbers of unresolved enforced disappearances in the world \u2014 losses stemming from its decades-long civil war and endured largely by Tamil civilians. In Your Touch Makes Others Invisible, Sinhalese filmmaker Rajee Samarasinghe works closely with Tamil mothers and villagers in the militarized north to craft a hybrid narrative blending factual accounts with magical realism. At its center is a Tamil woman whose son has vanished, possibly taken by a supernatural force haunting her war-torn community. Her story is interwoven with firsthand testimonies from women who continue to search for their disappeared loved ones. Filmed clandestinely in regions still under military occupation, Samarasinghe\u2019s debut resists linear storytelling. Drone shots sweep across quiet towns; ritual fires crackle beside scenes of everyday life. Memory and grief share space with silence and resilience. A documentary shaped by collaboration and restraint, Your Touch Makes Others Invisible is a haunting, formally daring meditation on absence, history, and survival, where loss becomes part of the landscape and remembrance its own form of resistance. Oct 9: Q&A Presented by Community Partner",
-          "wayback_ts": "20250914094638",
+          "wayback_ts": "20250829233519",
           "runtime_min": 70,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -34022,8 +34227,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -34614,7 +34818,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-7",
@@ -34706,7 +34911,8 @@
           "wayback_ts": "20241126204058",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-farther-eye-see",
@@ -34722,8 +34928,7 @@
           "wayback_ts": "20240609232527",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-blue",
