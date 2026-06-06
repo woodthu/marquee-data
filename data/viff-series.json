@@ -517,7 +517,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "parasite",
@@ -543,7 +544,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "80s-comedy",
@@ -768,7 +770,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "80s-crime-suspense",
@@ -1086,7 +1089,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "80s-drama",
@@ -1311,7 +1315,9 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606",
+      "desc_rewalked": true
     },
     {
       "slug": "80s-family-friendly",
@@ -1372,7 +1378,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "who-framed-roger-rabbit",
@@ -1577,7 +1584,9 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606",
+      "desc_rewalked": true
     },
     {
       "slug": "80s-horror-sci-fi",
@@ -1848,7 +1857,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "80s-indie",
@@ -2100,7 +2110,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "80s-talks-special-events",
@@ -2146,8 +2157,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -2204,7 +2214,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "david-lynch-film-studies",
@@ -2224,7 +2235,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -2243,8 +2255,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "american-animation-film-studies",
@@ -2323,7 +2334,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "80s-women",
@@ -2584,7 +2596,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "90s",
@@ -4390,7 +4403,23 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260606"
+      "last_seen_live": "20260606",
+      "backfill_walked": "20260606"
+    },
+    {
+      "slug": "altered-states",
+      "name": "Altered States",
+      "detail_url": "https://viff.org/series/altered-states/",
+      "first_seen_wayback": "20220909010453",
+      "last_seen_wayback": "20260312200402",
+      "film_slugs": [],
+      "backfill_walked": "20260606",
+      "hero_image": null,
+      "description": "Don\u2019t let all that talk of death in the film titles get you down. Rest assured, Altered States is as rowdy as ever. This time around, it even boasts a romantic streak (as long as you\u2019re permissive with your definition of romance). It\u2019s here that you\u2019ll find the festival\u2019s pulpiest and trashiest fare in the forms of Night Stage and Fucktoys . Elsewhere, Canadian indie icons Grace Glowicki and Ben Petrie star in two tales of weird science and strange love (with Grace directing one of them). And while Radu Jude skewers AI with his wantonly ridiculous Dracula , the endearing OBEX is an ode to simpler technological times.",
+      "date_range": null,
+      "meta_resolved": true,
+      "desc_rewalked": true,
+      "showtimes_resolved": true
     },
     {
       "slug": "asian-heritage-month",
@@ -4543,7 +4572,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "back-to-the-80s",
@@ -4684,8 +4714,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "9-to-5",
@@ -5469,7 +5498,8 @@
           "wayback_ts": "20230714112900",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "first-blood",
@@ -5784,7 +5814,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "something-wild",
@@ -6010,7 +6041,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -6029,7 +6061,8 @@
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "fatal-attraction",
@@ -6449,8 +6482,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "80s-mystery-film",
@@ -6530,8 +6562,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -6539,7 +6570,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "best-of-2022",
@@ -6822,7 +6854,8 @@
       "date_range": "Dec 26 \u2013 Jan 5",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "best-of-2023",
@@ -7094,7 +7127,8 @@
       "date_range": "Dec 26 \u2013 Jan 4",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "best-of-2024",
@@ -7289,13 +7323,14 @@
       "date_range": "Dec 26 \u2013 Jan 2",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "best-of-2025",
       "name": "Best of 2025",
       "detail_url": "https://viff.org/series/best-of-2025/",
-      "first_seen_wayback": "20251129235257",
+      "first_seen_wayback": "20251129230137",
       "last_seen_wayback": "20260129171219",
       "film_slugs": [
         {
@@ -7600,14 +7635,15 @@
       "date_range": "Dec 26 \u2013 Jan 8",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "beyond-ghibli",
       "name": "Beyond Ghibli",
       "detail_url": "https://viff.org/series/beyond-ghibli/",
       "first_seen_wayback": "20240304215455",
-      "last_seen_wayback": "20250105205312",
+      "last_seen_wayback": "20250829081002",
       "film_slugs": [
         {
           "slug": "on-gaku-our-sound",
@@ -7777,7 +7813,8 @@
       "date_range": "New Japanese Anime | Mar 18 \u2013 30",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "black-history-month",
@@ -8290,7 +8327,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "bong-1-7",
@@ -8457,7 +8495,8 @@
       "date_range": "Jan 17 \u2013 23",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "canadian-film-week",
@@ -8854,7 +8893,82 @@
       "date_range": "Apr 11 \u2013 Apr 17",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
+    },
+    {
+      "slug": "celebrating-black-futures",
+      "name": "Celebrating Black Futures",
+      "detail_url": "https://viff.org/series/celebrating-black-futures/",
+      "first_seen_wayback": "20240125061258",
+      "last_seen_wayback": "20260203013058",
+      "film_slugs": [
+        {
+          "slug": "max-roach-feven-kidane-sextet-live",
+          "date_range": null,
+          "wayback_ts": "20260203013058",
+          "title": "The Drum Also Waltzes + Feven Kidane Sextet Live",
+          "poster": "https://images.viff.org/uploads/2024/01/MaxRoach.jpg?resize=960%2C600&gravity",
+          "synopsis": "Born in January, 1924, Maxwell Roach would become one of the defining percussionists of his era. A pioneer in bebop, he played with game-changers like Charlie Parker, Dizzy Gillespie, Charlie Mingus, Thelonious Monk and Miles Davis, led a sublime quintet with Clifford Brown in the 1950s, and kept reinventing his sound, exploring free jazz and even delving into hip-hop. Roach was a political animal, and his music was inextricable from his activism. With his wife Abby Lincoln he recorded We Insist! in 1960, a seminal protest record at the advent of the Civil Rights period. Based on interviews recorded with Roach by co-directors Sam Pollard (Two Trains Runnin\u2019; MLK/FBI; Mr Soul!) and Ben Shapiro in the 1980s, The Drum Also Waltzes is a landmark celebration of a colossus in African American music. In advance of the screening, we\u2019re kicking off the Celebrating Black Futures series with a specially commissioned jazz set by the Feven Kidane Sextet and produced by the Jazz Infidels. Trumpeter Feven Kidane brings a dynamic group of six to play the music of Max Roach in belated 100th birthday and Black History Month celebrations. She is delighted to bring aboard Quincy Mayes on keys, Nebyu Yohannes on trombone, John Nicholson on sax, Bella Fedrigo on bass, and Edmonton\u2019s Biboye Onanuga on drums. Band: Feven Kidane \u2013 Trumpet Nebyu Yohannes \u2013 Trombone Quincy Mayes \u2013 Piano Biboye Onanuga \u2013 Drums John Nicholson \u2013 Sax Bella Fedrigo \u2013 Bass Feven Kidane Sextet: 6:30 pm (approx 50 minute set + ten minute intermission) Max Roach: The Drum Also Waltzes: 7:50 pm approx Celebrating Black Futures is co-presented with the Vancouver Art Gallery and curated by Kika Memeh Your ticket to this event includes free admission to the Vancouver Art Gallery (value $29). In order to remove financial barriers to participate in this premium event, VIFF and the VAG are making a limited number of tickets available at a lower price point to those in the community who are fiscally disadvantaged.",
+          "director": "Sam Pollard & Ben Shapiro",
+          "year": 2023,
+          "runtime_min": 82,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "all-colours-world-black-white",
+          "date_range": null,
+          "wayback_ts": "20260203013058",
+          "title": "All the Colours of the World Are Between Black and White",
+          "poster": "https://images.viff.org/uploads/2024/01/AllTheColoursOfTheWorld.jpg?resize=960%2C600&gravity",
+          "synopsis": "Babatunde Apalowo\u2019s debut feature is a brave, empathetic treatment of a Nigerian man struggling to come to terms with his sexuality. Bambino (Tope Tedela) has a job as a delivery driver. He\u2019s a popular figure in the neighbourhood, known for his kindness and generosity. But when his friend Ifeyinwa (Martha Ehinome) confides that she\u2019d like to have sex, he\u2019s hesitant. And in fact he gravitates more to the company of Bawa (Riyo David), a photographer with whom he is collaborating on an art project. However, the taboos \u2014 and laws \u2014 around homosexuality cut deep in this part of the world. As its name suggests, Apalowo\u2019s film pays scrupulous attention to its colour palette, imbuing this tender, sensitive drama with radiance and warmth.",
+          "director": "Babatunde Apalowo",
+          "year": 2023,
+          "runtime_min": 93,
+          "country": "Nigeria",
+          "language": "In English, Igbo and Nigerian Pidgin with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "bhm-shorts-program",
+          "date_range": null,
+          "wayback_ts": "20260203013058",
+          "fetch_failed": true
+        },
+        {
+          "slug": "when-morning-comes",
+          "date_range": null,
+          "wayback_ts": "20260203013058",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-inheritance",
+          "date_range": null,
+          "wayback_ts": "20260203013058",
+          "fetch_failed": true
+        },
+        {
+          "slug": "mami-wata",
+          "date_range": null,
+          "wayback_ts": "20260203013058",
+          "fetch_failed": true
+        }
+      ],
+      "backfill_walked": "20260606",
+      "hero_image": null,
+      "description": "For Black History Month, VIFF partners once again with the Vancouver Art Gallery to present Celebrating Black Futures, curated by Kika Memeh.\n\nThis year\u2019s selections are both BC premieres of powerful and inspiring documentaries about resilience and pride: Black is Beautiful: The Kwame Brathwaite Story (Feb 11), directed by Yemi Bamiro, and Mich\u00e8le Stephenson\u2019s True North (Feb 28). Our back-to-back True North screenings are accompanied by a solo piano performance by Juno-winning composer Andy Milne, who created the extraordinary score for the film.\n\nCo-Presented by",
+      "date_range": null,
+      "meta_resolved": true,
+      "desc_rewalked": true,
+      "showtimes_resolved": true
     },
     {
       "slug": "cinema-en-francais",
@@ -9081,7 +9195,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "cinema-salon",
@@ -9253,7 +9368,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "creating-colour",
@@ -9281,7 +9397,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "film-studies-lighting",
@@ -9392,7 +9509,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "crime-scenes",
@@ -9420,8 +9538,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-long-goodbye",
@@ -9593,7 +9710,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "dispatches",
@@ -9723,11 +9841,13 @@
         }
       ],
       "hero_image": null,
-      "description": "Our BHM Dispatches series presents critical non-fiction work by and about Black artists, activists and thinkers, touching on race, gender, equity and identity, \u201cfamily\u201d and society.",
+      "description": "Our BHM Dispatches series presents critical non-fiction work by and about Black artists, activists and thinkers, touching on race, gender, equity and identity, \u201cfamily\u201d and society.\n\nThe series includes a free screening of Dear Jackie (Feb 9), a letter to Jackie Robinson, the first African American player accepted in Major League Baseball, who broke the colour-barrier when he signed for the Montreal Royals in 1946.\n\nThe centrepiece of the series is James Baldwin Abroad: Istanbul \u2013 Paris \u2013 London (Feb 17-19), three fascinating short portraits of the firebrand novelist and essayist during his self-imposed exile from the US, 1968-1973.\n\nThis Time It\u2019s Personal: Films by Camille Billops & James Hatch (Feb 26-27) comprises four pieces (split across two programmes) by the groundbreaking independent partnership, idiosyncratic films excavating family history with defiance and hope, including Suzanne, Suzanne and Finding Christa .\n\nAnd concluding the series, Our Dance of Revolution (Feb 27) is an inspiring, celebratory history of Black queer activism in Toronto from the 1980s to the present day.",
       "date_range": "Feb 1 \u2013 28",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606",
+      "desc_rewalked": true
     },
     {
       "slug": "erickson-on-film",
@@ -9811,7 +9931,201 @@
       "date_range": "A Centennial Celebration | June 14 \u2013 18",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
+    },
+    {
+      "slug": "family-films",
+      "name": "VIFF Kids Club",
+      "detail_url": "https://viff.org/series/family-films/",
+      "first_seen_wayback": "20241114225230",
+      "last_seen_wayback": "20250130120053",
+      "film_slugs": [
+        {
+          "slug": "ghost-cat-anzu",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "title": "Ghost Cat Anzu",
+          "poster": "https://images.viff.org/uploads/2024/10/GhostCatAnzu.jpg?resize=960%2C600&gravity",
+          "synopsis": "Fifth grader Karin is unceremoniously dumped on her grandfather for the summer by her deadbeat dad, a widower. Unhappily adjusting to village life, Karin has a series of run-ins with her grandad\u2019s giant talking cat, Anzu, a mild reprobate who resembles Garfield and by and large does what he pleases \u2014 but who keeps a considerate eye on the newcomer even so. Through Anzu, Karin befriends a bunch of local spirits \u2014 a giant frog, a talking mushroom \u2014 and eventually encounters the God of Poverty, who agrees to take her into the underworld to visit her mom\u2026 Even by anime standards this is a wildly unpredictable tale, slamming from sentimental coming-of-age sequences to juvenile (but funny) fart jokes to chase scenes and low-key riffs on Spirited Away. It shouldn\u2019t work but it does, not least because the animation is lovely through out. The film is co-directed by Y\u00f4ko Kuno (her debut) and live action veteran Nobuhiro Yamashita (Linda Linda Linda). It\u2019s family (and ghost cat) friendly.",
+          "director": "Y\u00f4ko Kuno & Nobuhiro Yamashita",
+          "year": 2024,
+          "runtime_min": 94,
+          "country": "Japan/France",
+          "language": "In Japanese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "flow",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "title": "Flow",
+          "poster": "https://images.viff.org/uploads/2024/08/Flow.jpg?resize=960%2C600&gravity",
+          "synopsis": "In a future without humans, a solitary black cat survives a tsunami and finds refuge on a sailboat with a ragtag crew of animals: an excitable Labrador, a drowsy capybara, a materialistic lemur, and a gallant secretary bird. As he navigates a mystical, flooded world with his new companions, the cat must overcome both his fear of water and his wariness of others. Having made a splash at Cannes 2024, this atmospheric animated feature, complete with an orchestral score, provides an enthralling, emotional adventure for all ages. Grounded with the use of animal sound recordings in lieu of any dialogue, Latvian director Gints Zibalodis\u2019 sophomore feature deploys a dynamic virtual camera and gorgeously rendered environmental detail to bring to life a mysterious post-apocalyptic setting in which only artifacts of humanity\u2019s influence remain. An entertaining allegory about the challenges and virtues of teamwork plays out through Flow\u2019s delightful cast of critters. Relaxed Screening The Sunday, Dec 8 12:30 pm screening and Sunday, December 22 screening are Relaxed Screenings. Our monthly Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.",
+          "director": "Gints Zilbalodis",
+          "year": 2024,
+          "runtime_min": 84,
+          "country": "Latvia/France/Belgium",
+          "language": "No Dialogue",
+          "screenings": [
+            {
+              "start": "2025-02-02T12:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-08T12:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "wallace-gromit-vengeance-most-fowl",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-count-of-monte-cristo",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "its-a-wonderful-life",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "gremlins",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "universal-language",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "title": "Universal Language",
+          "poster": "https://images.viff.org/uploads/2024/08/UniversalLanguage.jpg?resize=960%2C600&gravity",
+          "synopsis": "In a wintery, Farsi-speaking city that\u2019s equal measures Winnipeg and Tehran, three narratives converge. Schoolchildren Negin (Rojina Esmaeili) and Nazgol (Saba Vahedyousefi) are tormented by a considerable sum of cash that\u2019s encased in Manitoban-grade ice. Meanwhile, Massoud (co-writer Pirouz Nemati) shepherds a group of confounded visitors to tourist attractions such as the Kleenex Repository and the brutalist Beige District. Finally, Matthew Rankin (the film\u2019s director and co-writer) abandons soul-crushing bureaucratic life in Quebec to reunite with his mother in this peculiar prairie outpost. As these storylines become comically entangled, the concepts of space, time, and identity grow increasingly opaque. On the heels of The Twentieth Century (an absurdist, expressionistic reimagining of William Lyon Mackenzie King\u2019s origin story), Rankin dreams a sophomore feature that\u2019s every bit as deliriously entertaining and visually inventive but possesses considerably more emotional weight. While indebted to the meta-realist work of Abbas Kiarostami and Jafar Panahi, Rankin\u2019s humorous, poetic fable establishes him as a singular voice in international cinema and reminds us that Winnipeg is indeed a wonderland.",
+          "director": "Matthew Rankin",
+          "year": 2024,
+          "runtime_min": 89,
+          "country": "Canada",
+          "language": "In Farsi and French with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-01-31T13:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-01-31T18:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-01T16:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-02T14:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-02T19:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-03T18:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-04T18:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-05T17:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-05T19:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-06T16:20:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-06T18:20:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-07T18:20:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-10T17:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-12T18:40:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-02-13T17:50:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "the-adventures-of-robin-hood",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "hao-are-you",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "granny-must-die",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "come-home-my-child",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        },
+        {
+          "slug": "picnic",
+          "date_range": null,
+          "wayback_ts": "20250130120053",
+          "fetch_failed": true
+        }
+      ],
+      "backfill_walked": "20260606",
+      "hero_image": null,
+      "description": "Come together to enjoy a curated selection of the best all-ages films on VIFF\u2019s big screen. Enjoy a classic matinee with fun activities inspired by the film, with big, comfy seats, space to chill out in our atrium, and tasty snack specials at our concession. See you at the cinema!\n\nYouth Tickets are just $12, including a film screening and family activities.\n\nActivities begin at 11:00 am; films screen at 12:00 pm. See you at the cinema!\n\nPlease note: VIFF Kids Club is designed for families to attend together. Adults can only attend if they\u2019re bringing a child, and children can only attend if accompanied by an adult.",
+      "date_range": null,
+      "meta_resolved": true,
+      "desc_rewalked": true,
+      "showtimes_resolved": true
     },
     {
       "slug": "festival-encores",
@@ -9831,7 +10145,11 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20260206170615",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "silent-friend",
@@ -9846,6 +10164,7 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         },
         {
@@ -9861,6 +10180,7 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         },
         {
@@ -9880,6 +10200,7 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         },
         {
@@ -9899,26 +10220,413 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
           "date_range": null,
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         },
         {
           "slug": "women-talking",
           "date_range": null,
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         },
         {
           "slug": "the-lives-of-others",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260317000017",
+          "title": "The Lives of Others",
+          "poster": "https://images.viff.org/uploads/2026/02/LivesOfOthers.jpg?resize=960%2C600&gravity",
+          "synopsis": "\u201cThe Stasi\u2014East Germany\u2019s omnipotent and greatly feared secret police \u2014 employed some 100,000 people, in addition to the 200,000 informers who could be counted on to spy on their neighbors, their friends and their own families. The waking nightmare of this \u201csocialist paradise,\u201d a country with the second highest suicide rate in the world, is unforgettably captured in The Lives of Others. Writer-director Florian Henckel von Donnersmarck sets his tale of betrayal, corruption and moral awakening in East Berlin in 1984, five years before the fall of the wall. The system may be rotting from within, but Capt. Gerd Wiesler (Ulrich M\u00fche), one of the Stasi\u2019s most skilled officers, is still a true believer, rooting out the enemies of East German socialism with a ruthless precision born of genuine ideological commitment. The humourless, ascetic Wiesler is assigned to spy on the celebrated playwright Georg Dreyman (Sebastian Koch) and his lover and star actress, Christa-Maria Sieland (Martina Gedeck). Bugging the couple\u2019s apartment, he sits monklike in a secret attic, earphones on his head, listening for hours to their lovers\u2019 quarrels, their discussions of art and the music they play. What Wiesler discovers is that his assignment is about more than state security: Hempf, a high government minister (Thomas Thieme), lusts after Christa-Maria and wants to see his rival taken off the field. It\u2019s made clear to Wiesler that finding dirt on Dreyman could do wonders for the Stasi officer\u2019s career. Suddenly Wiesler, against all his training and convictions, begins to feel a strange sympathy for the man and woman whose lives he\u2019s secretly entered. [\u2026] It\u2019s hard to believe this is von Donnersmarck\u2019s first feature. His storytelling gifts have the novelistic richness of a seasoned master. The accelerating plot twists are more than just clever surprises; they reverberate with deep and painful ironies, creating both suspense and an emotional impact all the more powerful because it creeps up so quietly. He creates edge-of-your-seat tension without a single gunshot, car chase or fight scene. Even more remarkable is his grasp of character [\u2026] The Lives of Others shows, with devastating clarity and intelligence, how the virus of corruption spreads from a political system into the hearts and souls of its citizens, infecting everything it touches.\u201d David Ansen, Newsweek Talking Pictures is a monthly matinee series catering to the 55+ community. Patrons are encouraged to stay and chat about the movie and enjoy coffee and cookies on the house. Tickets are only $10, or two for $16.",
+          "director": "Florian Henkel von Donnesmarck",
+          "year": 2006,
+          "runtime_min": 137,
+          "country": "Germany",
+          "language": "In German with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-04-28T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-golden-spurtle",
           "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "bird",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-chef-the-daruma",
+          "date_range": null,
+          "wayback_ts": "20241008043658",
+          "title": "The Chef & the Daruma",
+          "poster": "https://images.viff.org/uploads/2024/08/ChefTheDaruma.jpg?resize=960%2C600&gravity",
+          "synopsis": "For 36 years, Tojo\u2019s has been a mainstay in the Vancouver food scene, beloved by critics, foodies, and a plethora of celebrities. A pioneer of Japanese cuisine in the West, chef Hidekazu Tojo helped bring sushi to the mainstream and is known as the inventor of the California Roll. Still working in his seventies, chef Tojo is inspired to look back on his life and ponder the legacy he will leave behind. He recalls his early years as a Japanese immigrant, coming to Canada at the age of 21, and his ambition to create a singular culinary path. We also accompany the chef on a return trip to Japan, where he connects with locals and explores new food trends. Shot in Vancouver, Vancouver Island, and Japan, The Chef & the Daruma is a mouth-watering film tracing a journey of immigration, identity, and reinvention. Mads K. Baekkevold, in his first feature documentary, creates a loving tribute to a man who has devoted his life to sharing food.",
+          "director": "Mads K. Baekkevold",
+          "year": 2024,
+          "runtime_min": 90,
+          "country": "Canada",
+          "language": "In English and Japanese with English subtitles",
+          "screenings": [
+            {
+              "start": "2024-10-16T15:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-10-22T15:45:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-10-25T21:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2024-10-26T20:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2024-10-27T20:45:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2024-10-29T14:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2024-10-31T12:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "rumours",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "all-we-imagine-as-light",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "All We Imagine as Light",
+          "poster": "https://images.viff.org/uploads/2024/08/AllWeImagineAsLight.jpg?resize=960%2C600&gravity",
+          "synopsis": "The lives of three women nurses are front and centre in Payal Kapadia\u2019s luminous Mumbai-set drama. Prabha (Kani Kusruti) works long hours to avoid thinking about her husband, who left for Germany long ago and eventually stopped calling. Her younger roommate, Anu (Divya Prabha), spends her evenings with her Muslim boyfriend, while dodging calls from her parents, who are looking to set her up with a Hindi husband. Meanwhile, Parvaty (Chhaya Kadam), an older widow, is being pushed out of her home by greedy property developers. Winner of the Grand Prix at this year\u2019s Cannes Film Festival (a historic first for an Indian film), All We Imagine as Light derives considerable power from its steady accumulation of quotidian detail. As a minor character puts it in a line of poetry, \u201cMy dreams are made of everyday things.\u201d A moving portrait of resistance and camaraderie, it is a film that finds beauty and solace in the unlikeliest of places. Captioned Screening The Wednesday, Nov 27 screening is a Captioned Screening. Our Wednesday matinee Captioned Screenings welcome Deaf and hard of hearing audiences, along with anyone who benefits from captions. Films will screen with subtitles or (when available) open captions.",
+          "director": "Payal Kapadia",
+          "year": 2024,
+          "runtime_min": 115,
+          "country": "India/France",
+          "language": "In Malayalam and Hindi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "inay",
+          "date_range": null,
+          "wayback_ts": "20241110121837",
+          "title": "Inay (Mama)",
+          "poster": "https://images.viff.org/uploads/2024/08/InayMama.jpg?resize=960%2C600&gravity",
+          "synopsis": "From the 1990s, the Live-In Caregiver Program attracted thousands of Filipino women to Canada as migrant workers, enabling them to send money back home and gain permanent residency. In Inay (Tagalog for \u201cMama\u201d), director Thea Loo and cinematographer Jeremiah Reyes (a husband and wife duo) turn the camera on themselves to explore the cultural and psychological impact on the children who were abandoned by their mothers out of economic necessity. With remarkable frankness, Jeremiah and their friend Shirley testify to similar narratives of secrets, anger, a lack of belonging, and the depression that results from intergenerational trauma, revealing that childhood wounds linger even into adulthood. The documentary examines the repercussions of systemic policies and government legislation which are only now being felt and spoken about by generations of Filipino Canadians. Deeply personal and self-reflective, Inay reveals the hidden pain behind the lives of women who sacrificed themselves to take care of Canada\u2019s children and elderly, and the loved ones they had to leave behind. + short film: Dear Watsonville (Sondy Lucille, USA, 2024, 18 mins) A mixed-media documentary offering an intimate glimpse into the lives of the manong generation, the first generation of Filipino migrants to arrive en masse to the U.S., as seen through the eyes of their children.",
+          "director": "Thea Loo",
+          "year": 2024,
+          "runtime_min": 74,
+          "country": "Canada/Philippines",
+          "language": "In English and Kapampangan with English subtitles",
+          "screenings": [
+            {
+              "start": "2024-11-14T18:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "physician-heal-thyself",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "Physician, Heal Thyself",
+          "poster": "https://images.viff.org/uploads/2023/09/PhysicianHealThyself.jpg?resize=960%2C600&gravity",
+          "synopsis": "Dr Gabor Mat\u00e9 has become one of the world\u2019s most influential thinkers about addiction, trauma and childhood development on the back of books like In the Realm of Hungry Ghosts, The Myth of Normal and When the Body Says No. He\u2019s pioneered the idea of Compassionate Inquiry as a therapeutic approach, and worked for over a decade on Vancouver\u2019s Downtown Eastside. In Asher Penn\u2019s Physician, Heal Thyself Dr Mat\u00e9 shares not only his theories, but also his personal story: his difficult early childhood in Hungary, immigrating to Canada, his experience as a journalist for the Ubyssey, and his early reputation as a contrarian. Mat\u00e9 candidly discusses his own struggles with pain, his complicated behaviours and fractured relationships. Physician, Heal Thyself offers hope and comfort, encouraging us to own our failings, share our struggles, and accept our imperfections. Oct 11, 1:00 pm screening*: Q&A with Gabor Mat\u00e9 & filmmaker Asher Penn; moderated by Am Johal, Director of Community Engagement at SFU\u2019s Vancity Office of Community Engagement & VIFF Board Chair",
+          "director": "Asher Penn",
+          "year": 2023,
+          "runtime_min": 78,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "flow",
+          "date_range": null,
+          "wayback_ts": "20250918145751",
+          "fetch_failed": true
+        },
+        {
+          "slug": "queens",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-girl-with-the-needle",
+          "date_range": null,
+          "wayback_ts": "20241123182638",
+          "title": "The Girl With the Needle",
+          "poster": "https://images.viff.org/uploads/2024/08/GirlWithTheNeedle.jpg?resize=960%2C600&gravity",
+          "synopsis": "With her husband missing in action, Karoline (Vic Carmen Sonne), a young seamstress, struggles to survive in post-WWI Copenhagen. An affair with the owner of the clothing factory she works at brings temporary relief from her poverty, but leads to still worse complications. Left with few other options, she turns to a charismatic candy shop owner, Dagmar (Trine Dyrholm), who offers special services to women in need. But as it turns out, the woman\u2019s placid fa\u00e7ade hides deeper layers of disquiet. Inspired by the real-life story of one of Denmark\u2019s most infamous serial killers, The Girl with the Needle renders this true-crime story as an expressionist fairytale, with a nightmarish atmosphere reminiscent of Tod Browning and Carl Theodor Dreyer. Featuring lustrous black-and-white cinematography, an ominous soundscape, and bolstered by fearless performances by Sonne and Dryholm, it is a chilling, unforgettable look at the horrors that people are capable of\u2014as well as the social conditions that make them possible.",
+          "director": "Magnus von Horn",
+          "year": 2024,
+          "runtime_min": 115,
+          "country": "Denmark/Poland/Sweden",
+          "language": "In Danish with English subtitles",
+          "screenings": [
+            {
+              "start": "2024-12-06T20:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-12-07T20:40:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-12-08T14:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2024-12-09T20:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-12-10T17:30:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-12-11T19:30:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2024-12-13T13:45:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2024-12-15T20:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "the-end",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "who-by-fire",
+          "date_range": null,
+          "wayback_ts": "20251110082133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "so-surreal-behind-the-masks",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "Behind the Masks",
+          "poster": "https://images.viff.org/uploads/2024/08/SoSurreal.jpg?resize=960%2C600&gravity",
+          "synopsis": "From 1885 to 1951, Canadian law banned the Indigenous Potlatch ceremony. Those who defied the ban were arrested, and masks and ceremonial objects were confiscated. The Kwakwa\u0331ka\u0331\u02bcwakw nation has made it their quest to track down these sacred items. In some cases, the masks traveled across the country and eventually to Europe, finding their way into museums and private art collections, as well as ending up in the hands of surrealists like Max Ernst, Andr\u00e9 Breton, and Joan Mir\u00f3. So Surreal: Behind the Masks traces the delightful confluence of the Yup\u2019ik sensibility and the Western avant-garde movement and demonstrates the tremendous impact of Indigenous art in the most unexpected corners. Neil Diamond and Joanne Roberton\u2019s hugely entertaining film is part detective movie, part art doc. As it moves back and forth between Alert Bay, New York, and Paris, it provides an unusual and little-known perspective on art history, while highlighting the crucial work of redressing the cultural genocide perpetrated by Canadian and American authorities. Vital and vibrant, this film is an outstanding achievement. Dec 27 & 28: Q&A with filmmaker Joanne Robertson",
+          "director": "Neil Diamond & Joanne Robertson",
+          "year": 2024,
+          "runtime_min": 88,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "emilia-perez",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "Emilia P\u00e9rez",
+          "poster": "https://images.viff.org/uploads/2024/08/EmiliaPerez.jpg?resize=960%2C600&gravity",
+          "synopsis": "Undefeated in the courtroom, Rita (Zoe Saldana), a Mexico City defence attorney, is enlisted to tend to the affairs of a notorious drug lord (Karla Sof\u00eda Gasc\u00f3n) who has grown contrite and is now completing gender affirmation surgery. Rechristened Emilia P\u00e9rez and determined to right a litany of past misdeeds, she relies on Rita to reintegrate her in the lives of her wife Jessi (Selena Gomez) and young children. However, in Emilia\u2019s past, there is more than one score to settle; there will be blood, ballads, and dance numbers. Several decades into his distinguished career, Jacques Audiard (A Prophet; Rust and Bone) has delivered the most outr\u00e9 entry in his oeuvre with this maximalist musical that\u2019s punctuated by gunplay and buoyed by unabashed melodrama. Gasc\u00f3n is absolutely mesmerising to behold as a woman striving for actualization and redemption. And everyone in the ensemble is singing from the same hymn sheet, staging a cinematic spectacle that needs to be seen and heard to be believed. Captioned Screening: Screening with Open Captions The Wednesday, Jan 22 screening is a Captioned Screening. Our Wednesday matinee Captioned Screenings welcome Deaf and hard of hearing audiences, along with anyone who benefits from captions. Films will screen with subtitles or (when available) open captions. This film will screen with open captions.",
+          "director": "Jacques Audiard",
+          "year": 2024,
+          "runtime_min": 132,
+          "country": "France",
+          "language": "In Spanish with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "universal-language",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "Universal Language",
+          "poster": "https://images.viff.org/uploads/2024/08/UniversalLanguage.jpg?resize=960%2C600&gravity",
+          "synopsis": "This distinctly odd Canadian movie is a delightful deadpan comedy about the kindness of strangers, and as such a profound film about what constitutes home in a globalized age. In wintery Winnipeg, Massoud (cowriter Pirouz Nemati) conducts a sightseeing tour around the Beige District. Meanwhile two school friends try to find Nazgol\u2019s lost specs in the snow, and Matthew (Matthew Rankin) arrives from Quebec to visit his mother. For reasons which remain obscure everyone here speaks Farsi, and the mise-en-scene will remind cinephiles of Iranian masters like Abbas Kiarostami. None of this should work, but the movie is both very funny and surprisingly poignant.",
+          "director": "Matthew Rankin",
+          "year": 2024,
+          "runtime_min": 89,
+          "country": "Canada",
+          "language": "In Farsi and French with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-12-28T19:45:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-12-29T17:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "mongrels",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "Mongrels",
+          "poster": "https://images.viff.org/uploads/2024/08/Mongrels.jpg?resize=960%2C600&gravity",
+          "synopsis": "The howling of wild dogs through the windows of a summer evening\u2026 In the middle of the night, a man talks to his dead wife on a disconnected telephone\u2026 In rural Canada in the 1990s, a Korean family \u2013 a widower, his teenage son, and young daughter \u2013 attempts to find footing in a new land while navigating the dark forests of grief. Sonny has been hired to eradicate the feral canines plaguing the town, while sensitive Hajoon figures out what it means to be a man. Finally, young Hana, missing her mother, dreams up ways to make her return. Gorgeous and brilliantly structured, Jerome Yoo\u2019s first feature film is a lyrical and gut-wrenching tale of immigrant survival and resilience in Canada. Dreamlike, surreal, and filled with raw emotion, Mongrels is a remarkable study of family, loss, and hope in the midst of profound uprooting. Feb 16: Q&A with cast and crew, including producer Nach Dudsdeemaytha, actor Sein Jin, production designer Adriana Marchand and 1st AD Derek Kwan",
+          "director": "Jerome Yoo",
+          "year": 2024,
+          "runtime_min": 111,
+          "country": "Canada",
+          "language": "In English and Korean with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "paying-for-it",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "anora",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "no-other-land",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "soundtrack-to-a-coup-detat",
+          "date_range": null,
+          "wayback_ts": "20250105201424",
+          "title": "Soundtrack to a Coup D'Etat",
+          "poster": "https://images.viff.org/uploads/2024/08/SoundtrackToACoupDEtat.jpg?resize=960%2C600&gravity",
+          "synopsis": "On January 17, 1961, seven months after Congolese independence, Patrice Lumumba, the nation\u2019s first democratically elected prime minister, is assassinated. How did this political murder come about? And what role did Black jazz legends such as Louis Armstrong and Dizzy Gillespie play within the larger context of the era, amid the decolonization movements then sweeping across Africa? These questions are at the heart of Soundtrack to a Coup d\u2019\u00c9tat, a riveting, essayistic investigation of the complex and unlikely intersections of American jazz and Cold War geopolitics. Directed by Belgian multimedia artist Johan Grimonprez, the film deftly weaves together archival footage, political speeches, journalistic interviews, personal memoirs, and historical studies, demonstrating how the struggle for civil rights in the United States was deeply intertwined with decolonial movements in Africa and elsewhere. Recipient of the World Cinema Documentary Special Jury Award for Cinematic Innovation at Sundance, Soundtrack pulses with anti-colonialist fervor, putting a spotlight on a dark chapter of history that has lost none of its urgency or import today.",
+          "director": "Johan Grimonprez",
+          "year": 2024,
+          "runtime_min": 150,
+          "country": "Belgium/France/Netherlands",
+          "language": "In English, French, Russian, and Dutch with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-01-24T17:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2025-01-25T16:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-01-26T19:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2025-01-27T13:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2025-01-28T14:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            },
+            {
+              "start": "2025-01-30T20:30:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "the-seed-of-the-sacred-fig",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "title": "The Seed of the Sacred Fig",
+          "poster": "https://images.viff.org/uploads/2024/08/SeedOfTheSacredFig.jpg?resize=960%2C600&gravity",
+          "synopsis": "Misagh Zare is Iman, a newly promoted \u201cinvestigator\u201d for the Iranian government in the early days of the Women, Life, Freedom rebellion. Iman\u2019s handgun goes missing, and it could only have been taken by one of his family members. His wife Najmeh (Soheila Golestani) proclaims innocence, as do his daughters Rezvan (Mahsa Rostami) and Sana (Setareh Maleki). As the strife in the streets ratchets up, so do Iman\u2019s anger and paranoia. With every passing moment, the women in his life grow more afraid\u2014and yet none of them will confess\u2026 The latest from Mohammad Rasoulof (There Is No Evil; A Man of Integrity) is a gripping metaphorical drama that triumphs on multiple levels: as a mystery, it\u2019s tense and absorbing; as a portrait of family division, it\u2019s moving; and as an act of political protest, it\u2019s urgent and powerful. A subversive to his core, Rasoulof has paid a price for his art: sentenced to eight years in prison plus flogging, he now lives as an exile in Europe.",
+          "director": "Mohammad Rasoulof",
+          "year": 2024,
+          "runtime_min": 167,
+          "country": "Iran/France/Germany",
+          "language": "In Farsi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "conclave",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-stand",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
+          "fetch_failed": true
+        },
+        {
+          "slug": "luther-never-too-much",
+          "date_range": null,
+          "wayback_ts": "20260206170615",
           "fetch_failed": true
         }
       ],
@@ -9928,7 +10636,53 @@
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "first_seen_wayback": "20241120082551",
+      "last_seen_wayback": "20260206170615",
+      "backfill_walked": "20260606"
+    },
+    {
+      "slug": "film-studies",
+      "name": "Film Studies",
+      "detail_url": "https://viff.org/series/film-studies/",
+      "first_seen_wayback": "20250315103833",
+      "last_seen_wayback": "20260519193842",
+      "film_slugs": [
+        {
+          "slug": "the-music-room",
+          "date_range": null,
+          "wayback_ts": "20260519193842",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "black-bag",
+          "date_range": null,
+          "wayback_ts": "20260519193842",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-doll",
+          "date_range": null,
+          "wayback_ts": "20260519193842",
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-grapes-of-wrath",
+          "date_range": null,
+          "wayback_ts": "20260519193842",
+          "fetch_failed": true
+        }
+      ],
+      "backfill_walked": "20260606",
+      "hero_image": null,
+      "description": "On Thursday mornings through May, cinematographer Devan Scott takes us on a journey through the history of lighting in cinema, tracing its development from the sunlit studios of early silent film through the three-point setups that defined classical Hollywood realism and film noir to modern techniques of motivated lighting. We\u2019ll explore how artistic trends and evolving technologies \u2014 from early incandescent studio lamps to today\u2019s RGB LEDs and digital workflows \u2014 have shaped cinema throughout the past century, unpacking the linguistics of lighting via interactive live workshops.\n\nEach talk will last approximately 45 minutes, with case study screenings starting at 12:00 pm.",
+      "date_range": null,
+      "meta_resolved": true,
+      "desc_rewalked": true,
+      "showtimes_resolved": true
     },
     {
       "slug": "film-studies-adaptation",
@@ -10052,7 +10806,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "film-studies-hollywood",
@@ -10153,7 +10908,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "finding-our-truth",
@@ -10228,7 +10984,228 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
+    },
+    {
+      "slug": "focus",
+      "name": "Focus: Edges of Belonging",
+      "detail_url": "https://viff.org/series/focus/",
+      "first_seen_wayback": "20230908005810",
+      "last_seen_wayback": "20260519194118",
+      "film_slugs": [
+        {
+          "slug": "viff23-seven-winters-in-tehran",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "title": "Seven Winters in Tehran",
+          "poster": "https://images.viff.org/uploads/2023/08/SevenWintersinTehran.jpg?resize=960%2C600&gravity",
+          "synopsis": "Steffi Niederzoll delicately and with great care lays out the story of 19-year-old architecture student Reyhaneh Jabbari, who, in 2007, stabbed a man in self-defence after he tried to rape her. Jabbari was then arrested and sentenced to death. During the next seven years of the judicial process, Jabbari\u2019s supporters scramble to save her, revealing the rotten, prejudiced state of Iran\u2019s justice system. Drawing on footage smuggled out of the country, the film includes interviews with Jabbari\u2019s family members and former prison inmates, who bravely criticize Iran\u2019s patriarchal establishment. Both infuriating and heartbreaking, Niederzoll\u2019s film is another reminder of the suffering Iranian women have endured for decades. And of the resilience of those who are still speaking up and sharing their voices and their stories for the world to hear. Seven Winters in Tehran is a compelling true-crime narrative using the facts of the case to call attention to the dissolution of women\u2019s rights in Iran. For those interested in human rights, true-crime, masterful documentaries or cinema that is urgent, compelling and profoundly moving, this is strongly recommended.",
+          "director": "Steffi Niederzoll",
+          "year": 2023,
+          "runtime_min": 97,
+          "country": "Germany/France",
+          "language": "In Farsi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff23-terrestrial-verses",
+          "date_range": null,
+          "wayback_ts": "20231210170257",
+          "title": "Terrestrial Verses",
+          "poster": "https://images.viff.org/uploads/2023/08/TerrestrialVerses.jpg?resize=960%2C600&gravity",
+          "synopsis": "Nine stories from contemporary Iran, where everyone is at the mercy of government and religious authorities\u2026 Different settings and circumstances, with characters varying in age, gender, class and status\u2026 But all linked by the ubiquitous impact of patriarchy on everyone, including the unborn. In Alireza Khatami and Ali Asgari\u2019s Terrestrial Verses, we see nine encounters between everyday Iranians interrogated by some manner of authority figure. These static vignettes place the audience in the position of the interviewer, the camera subverting the position of the subject and allowing the spectator to examine (and occupy) a point of view that is both uncomfortable and unjust. The film\u2019s title is a reference to the famous Iranian female poet Forough Farrokhzad, who challenged oppression and patriarchy in her personal life and her poetry. Terrestrial Verses is an audacious and beautiful film, especially in the context of the Women Life-Freedom movement, as it portrays the people and situations of everyday life in Iran with humor and masterful cinematography.",
+          "director": "Ali Asgari, Alireza Khatami",
+          "year": 2023,
+          "runtime_min": 77,
+          "country": "Iran",
+          "language": "In Farsi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff23-joonam",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
+        },
+        {
+          "slug": "viff23-valley-of-exile",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-numb",
+          "date_range": null,
+          "wayback_ts": "20230908044750",
+          "title": "Numb",
+          "poster": "https://images.viff.org/uploads/2023/08/Numb.jpg?resize=960%2C600&gravity",
+          "synopsis": "North American Premiere Under Iranian law, from elementary school, boys and girls attend school separately. But in kindergarten and preschool there is no gender division. Numb follows a handful of boys and girls in their last year of pre-school as they learn to navigate gender whilst imitating the world of adults through make-believe and childhood games. Roham, the protagonist, is a six-year-old boy whose innocent love for classmate Rana and his curiosity about her shy and reluctant personality unravel dark and horrifying secrets of her life. Amir Toodehroosta beautifully depicts the innocence that exists in childhood, even in a society where religion and pain cast a constant shadow. The filmmaker does not force these issues but allows them to surface through the gaze of this six-year-old boy who tries to make sense of the world and his place in it. The film\u2019s stunning cinematography transports us directly into the world of childhood, as we see things through their lens not only conceptually but technically.",
+          "director": "Amir Toodehroosta",
+          "year": 2022,
+          "runtime_min": 91,
+          "country": "Iran",
+          "language": "In Farsi with English subtitles",
+          "screenings": [
+            {
+              "start": "2023-10-07T21:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2023-10-08T16:15:00",
+              "venue": "SFU Woodwards"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-ouaga-girls",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "title": "Ouaga Girls",
+          "poster": "https://images.viff.org/uploads/2024/08/OuagaGirls.jpg?resize=960%2C600&gravity",
+          "synopsis": "A group of young women tweak machines and hammer away at a school for auto mechanics in Ouagadougou in this poetic story about life choices, sisterhood and the endeavour to find your own way. In a country with youth unemployment at 52 percent, jobs are a hot issue. The young girls at a mechanics school in Burkina Faso\u2019s capital Ouagadougou are right in the middle of a crucial point in life when their dreams, hopes and courage are confronted with opinions, fears and society\u2019s expectations of what a woman should be. Using interesting narrative solutions, Theresa Traore Dahlberg depicts their last school years and at the same time succeeds in showing the country\u2019s violent past and present. This is a feature-film debut and coming-of-age film with much warmth, laughs, heartbreak and depth.",
+          "director": "Theresa Traore Dahlberg",
+          "year": 2017,
+          "runtime_min": 83,
+          "country": "Sweden/Burkina Faso/ France/Qatar",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-a-tooth-for-a-tooth",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "title": "Tooth for Tooth",
+          "poster": "https://images.viff.org/uploads/2024/08/ToothForATooth.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere Idrissa lives in the suburbs of Dakar, Senegal. As a result of budgetary restrictions imposed by the IMF, then headed by Dominique Strauss-Kahn, he lost his job as a civil servant. Since then, Idrissa has been looking for work, without success. His pride as an African man is all the more affected by the fact that he is now entirely dependent on his wife, Viviane, who somehow manages to support the family through her medical practice. Aminata (Idrissa and Viviane\u2019s daughter) and Moussa, two young students in love with each other, also see their lives disrupted by the economic situation imposed on the country. After yet another humiliation, Idrissa, who holds Strauss-Kahn responsible for his misfortune, decides to go and see a marabout to prepare his revenge\u2026",
+          "director": "Ottis Ba",
+          "year": 2023,
+          "runtime_min": 84,
+          "country": "Senegal/Belgium/France/ Rwanda",
+          "language": "In Wolof and French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-coconut-head-generation",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-eyimofe",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-felicite",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-rafiki",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff25-cyclemahesh",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "title": "CycleMahesh",
+          "poster": "https://images.viff.org/uploads/2025/08/CycleMahesh.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere The hybrid documentary CycleMahesh explores one of India\u2019s most significant yet often overlooked social issues: migration. When a nationwide lockdown is imposed across India during the COVID-19 pandemic \u2014 shutting down all forms of transportation \u2014 22-year-old migrant labourer Mahesh decides to cycle 1,700 kilometres to return home. Through sheer determination, he completes the arduous journey in seven days, spurring widespread media attention \u2014 as well as a trail of empty promises from those following along. Director Suhel Banerjee blends documentary realism with a fictional reconstruction of Mahesh\u2019s journey, crafting a poignant film that examines the personal toll of systemic neglect, the illusion of celebrity, and the capacity of the human spirit to endure. Banerjee\u2019s multi-layered narrative stands out not just for its compelling story but also for its unique structure, creative editing, and use of sound and music to deliver a profound experience. Banerjee\u2019s experimental and rewarding documentary feature debut had its world premiere at the International Documentary Film Festival Amsterdam, where it won Best First Feature. Best First Feature, IDFA 2024",
+          "director": "Suhel Banerjee",
+          "year": 2024,
+          "runtime_min": 61,
+          "country": "India",
+          "language": "In Hindi, Marathi and Odia with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-10-08T20:45:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2025-10-09T11:00:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff25-secrets-mountain-serpent",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "title": "Secrets of a Mountain Serpent",
+          "poster": "https://images.viff.org/uploads/2025/08/SecretsOfAMountainSerpent.jpg?resize=960%2C600&gravity",
+          "synopsis": "North American Premiere Set in a remote Himalayan town in India during the Kargil War, Secrets of a Mountain Serpent is a haunting tale where absence and silence set the rhythm of daily life. When a mysterious outsider arrives in the village, his presence stirs buried feelings among its women \u2014 including Barkha, a school teacher whose husband is stationed at the border. Director Nidhi Saxena\u2019s film weaves together personal desire with ancient folklore in the form of a serpent that lives in the forbidden river, still waiting after a thousand years for a love left unfulfilled. A meditation on desire, duty, memory, and freedom, Saxena\u2019s film blurs myth and reality. Each frame is composed with lyrical restraint, and sound design is used to deepen the film\u2019s mythical elements. Pointing her camera away from the frontlines of war, Saxena focuses on those who were left behind, and in doing so asks a pertinent question: Can you belong to someone and still belong to yourself?",
+          "director": "Nidhi Saxena",
+          "year": 2025,
+          "runtime_min": 108,
+          "country": "India/Italy/Sri Lanka",
+          "language": "In Hindi with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-10-09T20:45:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2025-10-10T10:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff25-hidden-tremors",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff25-bad-girl",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff25-i-am-revathi",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        }
+      ],
+      "backfill_walked": "20260606",
+      "hero_image": null,
+      "description": "Prominent themes among this year\u2019s Indian submissions include migration, displacement, and the complexities of womanhood within a patriarchal society, all converging on the pivotal question of belonging \u2014 how it is defined, constructed, denied, and reclaimed. In this program, I wanted to focus on lives on the edges of belonging, specifically those of transgender individuals, migrant labourers, climate-displaced people, and women navigating patriarchal structures. The program aims to amplify these voices and explore the complexities of its subjects\u2019 experiences.\n\n\u2014 Deepika Suseelan, Guest Programmer\n\nFull Curatorial Statement\n\nProminent themes among this year\u2019s Indian submissions include migration, displacement, and the complexities of womanhood within a patriarchal society, all converging on the pivotal question of belonging \u2014 how it is defined, constructed, denied, and reclaimed. These films often move with a quiet grace revealing not just the weight of survival, but the beauty of resilience and enduring human capacity to find meaning, connection, and hope in the margins.\n\nIn this program, I wanted to focus on lives on the edges of belonging \u2014 those of transgender individuals, migrant labourers, climate-displaced people, and women navigating patriarchal structures. The program aims to amplify these voices and explore the complexities of its subjects\u2019 experiences.\n\nDespite legal recognition, transgender people in India face a range of systemic challenges: social discrimination and violence, legal and bureaucratic barriers, lack of access to employment, police abuse, and criminalization. In spite of these challenges, they continue to reclaim space and visibility.\n\nIn a patriarchal society, women are often denied the ability to fully belong, and their identities are shaped by roles imposed upon them. Those who choose not to fit in invite consequences. But in the resulting conflict lie quests to belong.\n\nMigrant labourers are the invisible backbone of India, the silent architects of its cities and infrastructure who hold up the country \u2014 and yet the country rarely holds them in return.\n\nFamilies displaced as a result of climate change are caught between government apathy and environmental uncertainty.\n\nTogether, these stories reveal that survival is not only a fight to stay alive, but also a claim to belonging. I hope this section of five films offers you meaningful moments to explore, reflect upon, engage with, and enjoy.\n\n\u2014 Deepika Suseelan",
+      "date_range": null,
+      "meta_resolved": true,
+      "desc_rewalked": true,
+      "showtimes_resolved": true
     },
     {
       "slug": "france-noir",
@@ -10473,7 +11450,8 @@
       "date_range": "April 7 \u2013 May 3",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "galas-special-presentations",
@@ -10873,6 +11851,163 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-aris-theme",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "title": "Ari's Theme",
+          "poster": "https://images.viff.org/uploads/2024/07/ArisTheme.jpg?resize=960%2C600&gravity",
+          "synopsis": "Ari Kinarthy\u2019s existence is marked by worry and vigilance around his health, as he struggles with spinal muscular atrophy which has progressively weakened his muscles and left him vulnerable to infection and sickness. Yet he was born with the soul of an artist and a passion for music and remains curious and eager to collaborate with other musicians despite his limited physical strength. Anticipating the end of his life, Ari has an ambitious goal: to create music that will capture his experiences and memories and to leave a legacy through which people will remember him. This documentary is a rare gem, borne of profound contemplation and insight. Intimate, honest, and inspiring, Ari eloquently narrates his own story and shares his artistic process. Ari\u2019s Theme is visually captivating, incorporating animation, dramatic recreations, and imaginative dream sequences. Thoroughly engaging and beautifully made, this film demonstrates what a determined soul can achieve. It will make you weep and smile, all the while appreciating life\u2019s tender workings and the constant movement of time. The September 30 screening of Ari\u2019s Theme is a Relaxed Screening. Relaxed Screenings are open to ANYONE who would benefit from a less restrictive and sensory-friendly experience. Learn more about Relaxed Screenings here. Sept 28: Q&A with directors Nathan Drillot & Jeff Lee Petry and Ari Kinarthy Opening Gala Screening \u2013 September 26, 6:30 pm \u2013 Standby Tickets Standby tickets will be available to the Opening Gala screening of Ari\u2019s Theme on September 26 at 6:30 pm at the Vancouver Playhouse. At the Opening Gala screening, members of the Vancouver Symphony Orchestra will live score key passages within the film and lend Ari\u2019s compositions even greater resonance.",
+          "director": "Nathan Drillot & Jeff Lee Petry",
+          "year": 2024,
+          "runtime_min": 98,
+          "country": "Canada",
+          "language": "In English with open captions",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-the-seed-of-the-sacred-fig",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "title": "The Seed of the Sacred Fig",
+          "poster": "https://images.viff.org/uploads/2024/08/SeedOfTheSacredFig.jpg?resize=960%2C600&gravity",
+          "synopsis": "Misagh Zare is Iman, a newly promoted \u201cinvestigator\u201d for the Iranian government in the early days of the Women, Life, Freedom rebellion. Iman\u2019s handgun goes missing, and it could only have been taken by one of his family members. His wife Najmeh (Soheila Golestani) proclaims innocence, as do his daughters Rezvan (Mahsa Rostami) and Sana (Setareh Maleki). As the strife in the streets ratchets up, so do Iman\u2019s anger and paranoia. With every passing moment, the women in his life grow more afraid\u2014and yet none of them will confess\u2026 The latest from Mohammad Rasoulof (There Is No Evil; A Man of Integrity) is a gripping metaphorical drama that triumphs on multiple levels: as a mystery, it\u2019s tense and absorbing; as a portrait of family division, it\u2019s moving; and as an act of political protest, it\u2019s urgent and powerful. A subversive to his core, Rasoulof has paid a price for his art: sentenced to eight years in prison plus flogging, he now lives as an exile in Europe. Special Prize, Cannes 2024; FIPRESCI Prize, Cannes 2024",
+          "director": "Mohammad Rasoulof",
+          "year": 2024,
+          "runtime_min": 167,
+          "country": "Iran/France/Germany",
+          "language": "In Farsi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-emilia-perez",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-nightbitch",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-the-end",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-tragically-hip-no-dress-rehearsal",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-the-piano-lesson",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-bird",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "title": "Bird",
+          "poster": "https://images.viff.org/uploads/2024/08/Bird.jpg?resize=960%2C600&gravity",
+          "synopsis": "Street-smart 12-year-old Bailey (played by terrific newcomer Nykiya Adams) lives in a graffiti-tagged squat near the British seaside with her reckless half-brother Hunter (Jason Buda) and her heavily tattooed man-child father, Bug (a perfectly chaotic Barry Keoghan), who\u2019s rushing into a wedding he can\u2019t afford to a woman he barely knows. Adrift in the confusion of adolescence, Bailey finds a kindred spirit in a magnetic stranger named Bird (Franz Rogowski), whose quest to find his estranged family leads Bailey to confront her own mother\u2019s abusive new boyfriend. This touching coming-of-age drama from three-time Cannes Jury Prize-winning filmmaker Andrea Arnold (American Honey; Fish Tank) matches seasoned actors Keoghan and Rogowski with an authentic cast of first-time performers. With its inventive editing, killer soundtrack, and top-notch cinematography by Robbie Ryan (Poor Things), the film immerses us in the hidden beauty of North Kent through Bailey\u2019s young eyes. The result is a tender portrait of girlhood on the fringes, with a magical realist twist.",
+          "director": "Andrea Arnold",
+          "year": 2024,
+          "runtime_min": 119,
+          "country": "UK/USA/France/Germany",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-anora",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-can-i-get-a-witness",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-the-girl-with-the-needle",
+          "date_range": null,
+          "wayback_ts": "20250810043324",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-conclave",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-rumours",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-all-we-imagine-as-light",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "title": "All We Imagine as Light",
+          "poster": "https://images.viff.org/uploads/2024/08/AllWeImagineAsLight.jpg?resize=960%2C600&gravity",
+          "synopsis": "The lives of three women nurses are front and centre in Payal Kapadia\u2019s luminous Mumbai-set drama. Prabha (Kani Kusruti) works long hours to avoid thinking about her husband, who left for Germany long ago and eventually stopped calling. Her younger roommate, Anu (Divya Prabha), spends her evenings with her Muslim boyfriend while dodging calls from her parents, who are looking to set her up with a Hindi husband. Meanwhile, Parvaty (Chhaya Kadam), an older widow, is being pushed out of her home by greedy property developers. Winner of the Grand Prix at this year\u2019s Cannes Film Festival (a historic first for an Indian film), All We Imagine as Light derives considerable power from its steady accumulation of quotidian detail. As a minor character puts it in a line of poetry, \u201cMy dreams are made of everyday things.\u201d A moving portrait of resistance and camaraderie, it is a film that finds beauty and solace in the unlikeliest of places. Grand Prix, Cannes 2024",
+          "director": "Payal Kapadia",
+          "year": 2024,
+          "runtime_min": 115,
+          "country": "France/India/Netherlands/ Luxembourg",
+          "language": "In Malayalam and Hindi with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-my-favourite-cake",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff24-saturday-night",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "title": "Saturday Night",
+          "poster": "https://images.viff.org/uploads/2024/09/SaturdayNight.jpg?resize=960%2C600&gravity",
+          "synopsis": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television\u2014and culture\u2014forever. Directed by Jason Reitman and written by Gil Kenan & Reitman, Saturday Night is based on the true story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live. Full of humor, chaos, and the magic of a revolution that almost wasn\u2019t, we count down the minutes in real time until we hear those famous words\u2026 Featuring a spectacular ensemble cast, including Gabriel LaBelle, Rachel Sennott, Cory Michael Smith, Ella Hunt, Dylan O\u2019Brien, Emily Fairn, Matt Wood, Lamorne Morris, Kim Matula, Finn Wolfhard, Nicholas Braun, Cooper Hoffman, Andrew Barth Feldman, Kaia Gerber, Tommy Dewey, Willem Dafoe, Matthew Rhys, and J.K. Simmons.",
+          "director": "Jason Reitman",
+          "year": 2024,
+          "runtime_min": 109,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff24-im-still-here",
+          "date_range": null,
+          "wayback_ts": "20250612030021",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220928083520",
@@ -10882,7 +12017,8 @@
       "description": "This year\u2019s Special Presentations lineup is the largest in VIFF\u2019s history, with every one of the films fully deserving of the designation. As always, Cannes standouts are well-represented, including a riveting Palme d\u2019Or winner from Jafar Panahi and a nerve-rattling desert odyssey courtesy of \u00d3liver Laxe. The section boasts the Canadian premieres of new work by arthouse mainstays Jim Jarmusch and Noah Baumbach, as well as outstanding features from rising talents like Chandler Levack and Hikari. Be it the engrossing mystery of the latest Knives Out entry or a historical epic detailing Palestine\u2019s Great Arab Revolt, these are films that sweep you up in their thrall.",
       "date_range": null,
       "meta_resolved": true,
-      "showtimes_resolved": true
+      "showtimes_resolved": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "gena",
@@ -11075,7 +12211,8 @@
       "date_range": "Apr 25 \u2013 Jun 3",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "getting-real",
@@ -11592,7 +12729,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "The Wild One",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "wild-river",
@@ -11780,6 +12918,12 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "julian-borkowski-blues-brando-live",
+          "date_range": null,
+          "wayback_ts": "20251115053543",
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -11787,7 +12931,8 @@
       "date_range": "Jun 11\u2013Aug 31",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "hal-hartley",
@@ -11895,7 +13040,8 @@
       "date_range": "Jan 2 \u2013 Jan 8",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "highsmith",
@@ -12053,7 +13199,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "home-truths",
@@ -12301,7 +13448,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "icons",
@@ -12454,7 +13602,8 @@
       "date_range": "Feb 1 \u2013 28",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "indigenous-history-month-2022",
@@ -12609,7 +13758,9 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606",
+      "desc_rewalked": true
     },
     {
       "slug": "industry-panels",
@@ -12635,7 +13786,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-showrunners-scifi",
@@ -12662,7 +13814,7 @@
           "title": "Challenges and Opportunities",
           "poster": "https://images.viff.org/uploads/2022/09/InternationalCoproduction.jpg?resize=150%2C150",
           "synopsis": "Producers\u2019 work is constantly evolving, and that requires being increasingly adaptable. Canada has the largest number of bilateral treaties in the world, which gives producers and filmmakers more opportunities to co-create and co-fund their projects. Join VIFF\u2019s recent and previous producers and directors as they explore their most recent international collaborations and share their experiences and advice. Presented by",
-          "wayback_ts": "20221003114825",
+          "wayback_ts": "20220928084107",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -12692,7 +13844,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-dgc-visionaries",
@@ -12705,8 +13858,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -12715,7 +13867,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "insights",
@@ -13053,7 +14206,8 @@
           "runtime_resolved": true,
           "director": "Matthew Heineman",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "unarchived",
@@ -13081,6 +14235,109 @@
           "director": "Hayley Gray & Elad Tzadok",
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff23-lynx-man",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-winter-chants",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-the-invention-of-the-other",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "title": "The Invention of the Other",
+          "poster": "https://images.viff.org/uploads/2023/08/TheInventionofTheOther.jpg?resize=960%2C600&gravity",
+          "synopsis": "North American Premiere An intimate portrait of people who have never encountered an \u201cother\u201d. In 2019, FUNAI, a Brazilian state protection agency which works for Indigenous rights, sent an expedition of 30 people into the heart of the Amazon rainforest, to make first contact, provide medical services, locate and reunite separated family members with the Korubo, an isolated Indigenous group. As they travel between the borders of Brazil, Peru, and Colombia, alert to the constant dangers in the deep jungle, the lines between subject and object are blurred and at times reversed, as the natural dynamic and camaraderie of the group is reshaped around Bruno Pereira, a FUNAI veteran who was killed while working in the same region several years after filming, and Xuxu, a charismatic Korubo leader separated from his family. Director Bruno Jorge crafts an immersive ethnographic journey that breaks apart monolithic assumptions in favour of an honest perspective of the Korubo that defies easy classification. A powerful, essential film, deftly blending poignancy and human dignity against a background of unanswered political and ethical questions.",
+          "director": "Bruno Jorge",
+          "year": 2022,
+          "runtime_min": 145,
+          "country": "Brazil",
+          "language": "In Portuguese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff23-common-ground",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "title": "Common Ground",
+          "poster": "https://images.viff.org/uploads/2023/07/CommonGround.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere An impassioned plea to care for the very thing that feeds us, balances the climate, and sustains life on earth: soil. An eye-opening invective against the harmful methods of American agriculture, Common Ground exposes the hidden agendas of agricultural giants, corporations, and government lobbyists, while unveiling the powerful potential of regenerative farming \u2013 how saving the soil can help save us along with it. Interweaving intimate stories of contemporary regenerative farms, to the pioneering soil research by Dr. Washington Carver and the long standing sustainable practices of Indigenous peoples, while uncovering the devastating effects of industrial farming by tracing a history of destructive tillage and soil erosion of the 1930\u2019s Dust Bowl to the post WWII boom of machinery and fertilizer technology, to the cancerous herbicides and pesticides of Monsanto and emphasis on monocultures of corn and soy crops in the present day, filmmakers Josh and Rebecca Tickell (Kiss the Ground) reveal how soil regeneration is not about merely restoring the past, but improving the land and looking toward the future. The October 1 screening of Common Ground is a relaxed screening. Relaxed screenings are open to ANYONE who would benefit from a less restrictive and sensory-friendly experience including (but not limited to) people living with dementia; Autistic people; people with learning difficulties; people with a sensory or communication disorder; parents with young babies; and anyone who feels they would benefit from a more supportive and inclusive experience. How much are tickets? That\u2019s up to you! Pay what you can for tickets to relaxed screenings. We do not want the cost of tickets to hinder your ability to attend. Click on \u201cBook Tickets\u201d and select the amount ($0, $7, $15, $20) you can pay per ticket. At a relaxed screening you can expect:",
+          "director": "Josh Tickell & Rebecca Tickell",
+          "year": 2023,
+          "runtime_min": 105,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff23-the-mission",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-waapake",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-mareya-shot-keetah-goal",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-deep-rising",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-on-the-adamant",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff23-physician-heal-thyself",
+          "date_range": null,
+          "wayback_ts": "20230929134014",
+          "title": "Physician, Heal Thyself",
+          "poster": "https://images.viff.org/uploads/2023/09/PhysicianHealThyself.jpg?resize=960%2C600&gravity",
+          "synopsis": "World Premiere Dr Gabor Mat\u00e9 has become one of the world\u2019s most influential thinkers about addiction, trauma and childhood development on the back of books like In the Realm of Hungry Ghosts, The Myth of Normal and When the Body Says No. He\u2019s pioneered the idea of Compassionate Inquiry as a therapeutic approach, and worked for over a decade on Vancouver\u2019s Downtown Eastside. In Asher Penn\u2019s Physician, Heal Thyself Dr Mat\u00e9 shares not only his theories, but also his personal story: his difficult early childhood in Hungary, immigrating to Canada, his experience as a journalist for the Ubyssey, and his early reputation as a contrarian. Mat\u00e9 candidly discusses his own struggles with pain, his complicated behaviours and fractured relationships. Physician, Heal Thyself offers hope and comfort, encouraging us to own our failings, share our struggles, and accept our imperfections. October 5 & 6: Q&A with director Asher Penn & crew",
+          "director": "Asher Penn",
+          "year": 2023,
+          "runtime_min": 78,
+          "country": "Canada",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2023-10-05T18:00:00",
+              "venue": "SFU Woodwards"
+            },
+            {
+              "start": "2023-10-06T15:30:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220909223027",
@@ -13090,7 +14347,8 @@
       "description": "There\u2019s an art to communication, and documentaries help capture it. Insights gathers films that confront power, displacement, and environmental collapse through acts of witnessing, listening, and resistance.\n\nFrom Kenya to Iran, Turtle Island to Gaza, these stories examine Indigenous sovereignty, ecological crises, archival memory, and radical pedagogy. Whether rebuilding libraries, protecting land, or challenging state violence, these documentaries move with clarity and conviction. They don\u2019t just inform \u2014 they expose, ignite, and offer blueprints for survival and futures that are yet to be written.",
       "date_range": null,
       "meta_resolved": true,
-      "showtimes_resolved": true
+      "showtimes_resolved": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "international-shorts",
@@ -13230,7 +14488,22 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "backfill_walked": "20260606"
+    },
+    {
+      "slug": "italian-film-festival",
+      "name": "Italian Film Festival",
+      "detail_url": "https://viff.org/series/italian-film-festival/",
+      "first_seen_wayback": "20140808230605",
+      "last_seen_wayback": "20160529063402",
+      "film_slugs": [],
+      "backfill_walked": "20260606",
+      "hero_image": null,
+      "date_range": null,
+      "meta_resolved": true,
+      "desc_rewalked": true,
+      "showtimes_resolved": true
     },
     {
       "slug": "jonathan-glazer",
@@ -13308,8 +14581,7 @@
             }
           ],
           "featured_film": "Under the Skin",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-zone-of-interest",
@@ -13335,7 +14607,8 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "desc_rewalked": true
+      "desc_rewalked": true,
+      "backfill_walked": "20260606"
     },
     {
       "slug": "kdocsff-2023",
@@ -13748,7 +15021,8 @@
       "date_range": "Feb 22 \u2013 26",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "kdocsff-2024",
@@ -14011,8 +15285,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -14191,155 +15464,6 @@
       ],
       "hero_image": null,
       "description": "Continuing the recognition and celebration of Black history and achievements beyond the month of February, VIFF is proud to announce Landmarks: Black Atlantic Independent Film 1961-1969 , a series curated by Nya Lewis , which will play out with monthly screenings into May.\n\nThe Landmarks series frames a community of producers, actors, directors and screenwriters, whose work created an unofficial counter-archive, and self-prophesied a definitive vernacular of Black film and American life. Precursors to the \u201cBlaxploitation\u201d era, this restorative anthology of \u201cinvisible classic\u201d Black Atlantic films endeavours to make visible an often diminished or erased era in Black image-making, revealing a unique moment in history \u2013 an emerging vision of cinema that underlines the revolutionary possibilities of Black representation in Hollywood.\n\nThis eclectic and exciting series unearths films and filmmakers often overlooked by those responsible for constructing the canon, such as the playwright Lorraine Hansberry ( A Raisin in the Sun ), photographer/filmmaker Gordon Parks ( The Learning Tree ), actor/poet Ruby Dee and writer Julian Mayfield ( Uptight ), even cabaret artist/hustler Jason Holliday, the subject of Shirley Clarke\u2019s cinema-verite Portrait of Jason .",
-      "date_range": null,
-      "meta_resolved": true,
-      "showtimes_resolved": true,
-      "consecutive_404s": 1,
-      "desc_rewalked": true
-    },
-    {
-      "slug": "lina-nyberg-norrtull-gang-live",
-      "name": "Live",
-      "detail_url": "https://viff.org/series/live/",
-      "film_slugs": [
-        {
-          "slug": "live-nosferatu",
-          "date_range": "Oct 1 \u2013 11 2026",
-          "title": "A Symphony of Horror",
-          "poster": "https://images.viff.org/uploads/2022/08/Nosferatu.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20220921045438",
-          "synopsis": "Destructive pop duo BIG KILL (the latest project from We Are the City\u2019s Cayne McKenzie and Andrew Huculiak) resurrects horror centenarian Nosferatu in the gothic setting of St. Andrew\u2019s-Wesley for a spellbinding night of hyper pop frenzy. Tales of the undead feeding on the blood of the living go all the way back to ancient times and crop up in cultures far beyond the borders of Transylvania and Eastern Europe, appearing in South America, East Asia, New England, and olde England, for that matter. It\u2019s generally assumed these tales derive from the once mystifying effects of natural diseases. Tuberculosis, for example, would leave otherworldly, bloated corpses: the victims\u2019 skin might tighten, giving the impression that teeth have extended; hair and fingernails could continue to grow, and there might be bloody spittle around the mouth. That\u2019s a pretty fair thumbnail of cinema\u2019s first iconic vampire, Count Orlok, aka Nosferatu (1922), played by the tall, skeletal Max Schreck* in F.W. Murnau\u2019s hugely influential horror classic, which is celebrating its centenary this year. The first, albeit unofficial, adaptation of Bram Stoker\u2019s novel Dracula, the film differs from subsequent versions in its vivid portrait of the vampire as a ghoulish fiend, bald, with rodent-like teeth, digits and ears. He preys in the shadows and merges with the darkness. If this is a creature of the Expressionist imagination, Nosferatu stands out for Murnau\u2019s decision to film on location in medieval Baltic towns; the horror derives its special frisson from placing the supernatural within the natural world. It\u2019s surely no coincidence that the movie materialized just a few years after the 1918 H1N1 influenza pandemic claimed the lives of 25-50 million souls around the world, fanning fears of immigrants and the Other. 2022 certainly feels like the right time to revive this centenarian of horror. *Weirdly, Schreck is German for \u201cterror.\u201d About the venue: St. Andrew\u2019s-Wesley United Church St. Andrew\u2019s-Wesley is an 89-year-old gothic revival, heritage-listed building. It is modeled on classical European cathedral designs, with a soaring vaulted roof, stained glass windows, and angel reliefs. The 75\u2032 high ceiling makes this the largest sanctuary in the city. St. Andrew\u2019s-Wesley is known for its inclusive, progressive social views, its support for marginalized communities, and its celebration of art as a path towards empathy and the divine. St. Andrew\u2019s-Wesley is located on the corner of Nelson and Burrard. Tickets: $18 Ticket + Live Audio Recording Download: $25 Please call the Box Office (604-683-3456) for VIFF Live Community Access Ticket rates.",
-          "runtime_min": 120,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "screenings": [
-            {
-              "start": "2022-10-04T20:00:00",
-              "venue": "St. Andrews Wesley United Church"
-            }
-          ],
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "live-machine-folklore",
-          "date_range": "Oct 2 \u2013 12 2025",
-          "title": "Machine Folklore",
-          "poster": "https://images.viff.org/uploads/2023/08/Machine-Folklore-NAX-Future-Featured-Image.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20230923044549",
-          "synopsis": "A limited number of chairs are available at this performance. Mats on the floor will also be available, along with space for standing. In this immersive audio-visual performance screening, artificial intelligence meets virtual consciousness and together, we see humanity through non-human A.I. eyes. Using music, imagery, and light design, Machine Folklore is a glimpse into the infinite possibilities of the future of digital culture and virtual technology in this hypnotic audio-visual work. Software2050 and NAXS FUTURE are interdisciplinary new media art collectives from Taiwan. Their practice focuses on experimental creations that take audiences into the metaverse, exploring the forefront of the digital world and the infinite possibilities of future aesthetics. NAXS FUTURE is a creative studio evolved from NAXS CORP, which is committed to creating online experiences, VR theater and audiovisual performances. The team focused on the accelerated transformation of human experiences. NAXS investigates the dialectic relation between posthuman mythology, animism ritual practices, creating its fictional framework for the internet society. Each of NAXS\u2019s work is an unique attempt exploring the boundary of embodied experiences along with the digital migration. They have been awarded the first prize in the Digital Art Performance Award with the VR theater production \u201cRender Ghost\u201d, and presented the piece at Ars Electronica in Austria and Times Art Museum in Beijing. Based on the self-developed multi-player experiment framework, NAXS has released a series of game-style online experimental performances at UNSOUND, LEV, Rewire, Soft Centre and Now or Never Festival since 2020.",
-          "runtime_min": 60,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "screenings": [
-            {
-              "start": "2023-10-01T19:00:00",
-              "venue": "Roundhouse"
-            },
-            {
-              "start": "2023-10-01T21:00:00",
-              "venue": "Roundhouse"
-            }
-          ],
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "live-32-sounds",
-          "date_range": "Oct 1 \u2013 11 2026",
-          "title": "32 Sounds",
-          "poster": "https://images.viff.org/uploads/2023/08/32-Sounds-Sam-Green-Featured-Image.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20230814011603",
-          "synopsis": "An immersive documentary and profound sensory experience from filmmaker Sam Green that explores the elemental phenomenon of sound. The film is a meditation on the power of sound to bend time, cross borders, and profoundly shape our perception of the world around us. The film will be at VIFF 2023 in its \u201clive cinema\u201d form at the Vancouver Playhouse, featuring live narration by Sam Green. Directed and performed by Sam Green, with music composed by JD Samson. 32 Sounds is a piece about sound, and the form itself will be focused on the experience of hearing and listening. 32 Sounds will provide headphones for every audience member to create an incredible binaural sound mix and add a new, deeply immersive element to the live documentary form. Followed by a Q&A with Sam Green & sound designer Mark Mangini",
-          "runtime_min": 90,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "screenings": [
-            {
-              "start": "2023-10-05T19:00:00",
-              "venue": "Vancouver Playhouse"
-            }
-          ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-ironworks-daniel-barrow",
-          "date_range": "Oct 2 \u2013 12 2025",
-          "title": "Daniel Barrow",
-          "poster": "https://images.viff.org/uploads/2023/08/Daniel-Barrow-Live-Featured-IMAGE.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20231013080921",
-          "synopsis": "When SHAW Cable purchased Winnipeg\u2019s local cable station VPW, rumor circulated that they had destroyed the public access television archives and were systematically dismantling the public access services. Shortly thereafter, artist Daniel Barrow began researching, compiling and archiving a history of independently produced television in Winnipeg, Manitoba. In the late 70s and throughout the 80s, Winnipeg experienced a golden age of public access television. Anyone with a creative dream, concept or politic would be endowed with airtime and professional production services. Winnipeg Babysitter traces unique vignettes from a brief synapse in broadcasting history when Winnipeg cable companies were mandated to provide public access as a condition of their license. Because the archives were destroyed, programs could only be found in the VHS collections of the original producers, television collectors, fans and enthusiasts. Winnipeg Babysitter is an archival project that restores a previously lost history. Daniel Barrow performs an overhead projected commentary, tracing the histories of public access television in Manitoba, and describing the various biographies of each television producer and personality. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
-          "runtime_min": 90,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film": "Winnipeg Babysitter",
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "live-ironworks-cris-derksen",
-          "date_range": "Oct 2 \u2013 12 2025",
-          "title": "Cris Derksen",
-          "poster": "https://images.viff.org/uploads/2023/08/Cris-Derksen-Featured-Image-Live.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20251012102203",
-          "synopsis": "Juno nominated Cris Derksen is an internationally respected Indigenous cellist and composer. Originally from Treaty 8 in Northern Alberta, she comes from NorthTall Cree Reserve on her father\u2019s side and Mennonite homesteaders on her mother\u2019s. Derksen will introduce audiences to the unforgettable virtuosity that has led to her break-out solo career, while also collaborating with some of Canada\u2019s Finest; Tanya Tagaq, Buffy Sainte Marie, Naomi Klein, and Leanne Simpson to name just a few. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
-          "runtime_min": 60,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-ironworks-matreyek-chien",
-          "date_range": "Oct 1 \u2013 11 2026",
-          "wayback_ts": "20231012005532",
-          "title": "Miwa Matreyek & Sammy Chien",
-          "poster": "https://images.viff.org/uploads/2023/09/VIFF-Live-Feature-Image-Sammy-Chien-VIFF-Live-Featured-Image-Miwa-Matreyek.jpg?resize=960%2C600&gravity",
-          "synopsis": "Note: Unfortunately, we have had to cancel Sammy Chien\u2019s performance. Miwa Matreyek\u2019s performance will continue as scheduled at 9:00 pm. Doors will open at 8:00 pm. Experience VIFF Live Resident Artists Sammy Chien and Miwa Matreyek\u2019s interdisciplinary performances at The Ironworks. One ticket will grant you admission to both performances. Miwa Matreyek Further pushing her signature technique of layered projections, Miwa Matreyek creates an emotional, dreamlike meditation on climate catastrophe and the Anthropocene \u2014 the proposed current era where human influence has affected almost all realms of earth\u2019s natural systems. Miwa\u2019s shadow traverses macro and micro scales, as her silhouette shape-shifts to experience the world from various perspectives. An earth overflowing with trash. A person drowning in a plastic-filled ocean. A school of fish caught in a trawling net. The work will be an emotionally impactful, embodied illustration of the news headlines we see everyday, the complex harm humanity causes to the world \u2014 and what it might mean for all of us; humanity, as well as other life, and the earth itself \u2014 to be living in this changing world. Matreyek will perform The World Made Itself and Infinitely Yours, works that weave surreal and poetic narratives of conflict between humans, nature, and the climate crisis. This project is supported by a 2019 Princess Grace Foundation Special Projects Grant. Winner of Golden Nica award for Computer Animation, Prix Ars Electronica 2020. All music for \u201cInfinitely Yours\u201d is composed, recorded and performed by Morgan Sorne. Sammy Chien Artistic Director of Chimerik \u4f3c\u4e0d\u50cf, Sammy Chien \u7c21\u4e0a\u7fd4 is an interdisciplinary artist pioneering ways of integrating new media into performance. As part of his practice, Chien uses the technologies of real-time performance software to produce deep connections between image, sound and movement. Chien will present samples from ongoing research and a new work-in-progress exemplary of a practice that draws upon a composite of art forms, disciplines and lived experiences. About the Ironworks Series VIFF Live is giving four Resident Artists the opportunity to immerse themselves in the 2023 Festival and perform at The Ironworks. Learn more Community Partner",
-          "runtime_min": 120,
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
-        },
-        {
-          "slug": "miles-davis-100-julian-borkowski-live",
-          "date_range": null,
-          "wayback_ts": "20260520184530",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
-        },
-        {
-          "slug": "feven-kidane-ethio-jazz-live",
-          "date_range": null,
-          "wayback_ts": "20231013143549",
-          "fetch_failed": true
-        },
-        {
-          "slug": "van-django-lacombe-lucien-live",
-          "date_range": null,
-          "wayback_ts": "20231013143549",
-          "fetch_failed": true
-        },
-        {
-          "slug": "lina-nyberg-norrtull-gang-live",
-          "date_range": null,
-          "wayback_ts": "20231013143549",
-          "fetch_failed": true
-        }
-      ],
-      "first_seen_wayback": "20221005032844",
-      "last_seen_wayback": "20231013143549",
-      "last_seen_live": "20260526",
-      "hero_image": "https://images.viff.org/uploads/2022/04/RZAlive.png?resize=960%2C600&gravity",
-      "description": "Live performances that push the boundaries of traditional film programming, intersecting cinema culture with music, comedy, podcasting, and performance in unique, cinema-infused live shows.",
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
@@ -15210,7 +16334,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -15483,8 +16608,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-award-ceremony",
@@ -15504,7 +16628,8 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -15754,8 +16879,7 @@
           "wayback_ts": "20260221172959",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -17111,7 +18235,9 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -17215,8 +18341,7 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "you-can-live-forever",
@@ -17243,7 +18368,8 @@
           "runtime_resolved": true,
           "director": "Sarah Watts, Mark Slutsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "i-like-movies",
@@ -17602,8 +18728,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "flow",
@@ -18073,8 +19198,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "one-battle-after-another",
@@ -18198,7 +19322,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "panorama",
@@ -18991,8 +20116,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "what-we-do-next",
@@ -19271,7 +20395,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20260316235953",
+          "title": "Meet Me In St. Louis",
+          "poster": "https://images.viff.org/uploads/2025/12/MeetMeInStLouis.jpg?resize=960%2C600&gravity",
+          "synopsis": "A year comes in and a year goes out\u2026 Vincente Minnelli\u2019s heartwarming evergreen chronicles an ordinarily tumultuous year in the life of a prosperous household in 1904, when the worst prospect that faces them is a potential move to New York City. It\u2019s frightening because it means change, and that\u2019s inevitable \u2013 but it doesn\u2019t mean we shouldn\u2019t cherish what we share now, our past together. It\u2019s debatable that MGM ever conjured a more affecting musical, and producer Arthur Freed, who headed their musical department, considered this one his personal favourite. Tunes include The Trolley Song, The Boy Next Door, and Have Yourself a Merry Little Christmas. Sunday\u2019s Pantheon screening will feature a 15-minute introduction by a local film scholar and be followed by an audience talkback.",
+          "director": "Vincente Minnelli",
+          "year": 1944,
+          "runtime_min": 113,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         }
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.",
@@ -24215,7 +25351,19 @@
         {
           "slug": "the-lunchbox",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260109125612",
+          "title": "The Lunchbox",
+          "poster": "https://images.viff.org/uploads/2025/04/The-Lunchbox-1.jpg?resize=960%2C600&gravity",
+          "synopsis": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two for $16! Talking Pictures happens the last Tuesday of the month, 11:00 am, at the most comfortable theatre in the city, the VIFF Centre. Ila is trying once again to add some spice to her marriage, this time through her cooking. She desperately hopes that this new recipe will finally arouse some kind of reaction from her neglectful husband. She prepares a special lunchbox to be delivered to him at work, but, unbeknownst to her, it is mistakenly delivered to another office worker, Saajan, a lonely man on the verge of retirement. Curious about the lack of reaction from her husband, Ila puts a little note in the following day\u2019s lunchbox, in the hopes of getting to the bottom of the mystery. This begins a series of lunchbox notes between Saajan and Ila, and the mere comfort of communicating with a stranger anonymously soon evolves into an unexpected friendship. Veteran Indian star Irfan Khan gives a magnetic performance as the lonely Saajan in this irresistibly charming rom-com.",
+          "director": "Ritesh Batra",
+          "year": 2013,
+          "runtime_min": 104,
+          "country": "India",
+          "language": "In Hindi and English with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "karaoke",
@@ -24298,7 +25446,19 @@
         {
           "slug": "smoke-sauna-sisterhood",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260312195644",
+          "title": "Smoke Sauna Sisterhood",
+          "poster": "https://images.viff.org/uploads/2023/08/SmokeSaunaSisterhood.jpg?resize=960%2C600&gravity",
+          "synopsis": "Within the sheltered confines of a traditional smoke sauna deep in an Estonian forest, groups of women gather to cleanse themselves in both body and soul. On and off through the seasons, this intimate locale becomes a space for female togetherness, giving the women room not just to indulge in traditional sauna-based rituals (included on UNESCO\u2019s Intangible Cultural Heritage of Humanity list), but also to share intensely personal hurts and longings, joys and pains. In Smoke Sauna Sisterhood, a hotbox becomes a place of healing. A deserving winner of the directing award in Sundance\u2019s World Cinema Documentary category, filmmaker Anna Hints boldly combines an intimate non-fiction approach with sensuous lyrical expressionism, balancing the disarming frankness of her subjects\u2019 conversations with ravishing, lushly photographed textures of fire, wood, steam, smoke, and flesh. Less an act of individual portraiture than a kind of collective diary, or even an exorcism of experience, the film is a moving tribute to female resilience and community. Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+ (but open to all), Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two tickets for $16!",
+          "director": "Anna Hints",
+          "year": 2023,
+          "runtime_min": 89,
+          "country": "Estonia/France/Iceland",
+          "language": "In Estonian, Seto and V\u00f5ro with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "maudie",
@@ -26046,7 +27206,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "paying-for-it",
@@ -26388,13 +27549,19 @@
           "country": "Germany",
           "language": "In Italian with English subtitles",
           "synopsis": "North American Premiere Fausto and Ivan finally meet before getting settled at Fausto\u2019s vacant family house, where they will have the necessary privacy to execute their plan. Everything has been thoroughly discussed, arranged, and agreed upon, and the day is looming. But they keep finding excuses to push the event back. In the process, they inadvertently get to know more about each other, boundaries start to blur, and suddenly, moving forward with the plan is no longer as straightforward as it once seemed. Brilliantly scripted and meticulously structured, Other Cannibals leans cheekily into cultural stereotyping and fetishization to craft an existentialist subversion that draws from the Italian culture of food and family. The black and white film adopts a languid, measured approach, taking time to reveal its hand, each bizarre development and interaction increasingly more insightful. Newcomer Francesco Sossai delivers a deliciously dark comedic curve ball grounded in wonderfully calibrated lead performances, ultimately finding deep humanity amidst the cannibalistic fantasies. Q&A Oct 3 & Oct 5 Presented by Supported by",
-          "wayback_ts": "20251110065510",
+          "wayback_ts": "20221005015137",
           "runtime_min": 95,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2022-10-05T18:30:00",
+              "venue": "The Cinematheque"
+            }
+          ]
         },
         {
           "slug": "tortoise-under-the-earth",
@@ -26792,8 +27959,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "boy-from-heaven",
@@ -28292,8 +29458,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "modes-1",
@@ -28797,8 +29962,7 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "pacifiction",
@@ -29001,8 +30165,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "riceboy-sleeps",
@@ -29128,8 +30291,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "scarlet",
@@ -29475,8 +30637,7 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "thunder",
@@ -29797,8 +30958,7 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-whale",
@@ -29868,8 +31028,7 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "a-woman-escapes",
@@ -30104,7 +31263,18 @@
           "slug": "viff22-brother",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "Brother",
+          "poster": "https://images.viff.org/uploads/2022/09/Brother.jpg?resize=960%2C600&gravity",
+          "synopsis": "Clement Virgo (The Book of Negroes) makes a brilliant return to feature filmmaking with this propulsive adaptation of David Chariandy\u2019s celebrated novel. Set against the backdrop of suburban Scarborough, Brother follows siblings Michael (Lamar Johnson) and Francis (Aaron Pierre) as they strive to justify the sacrifices of their devoting mother (Marsha Stephanie Blake) and realise their own ambitions: for Francis, that\u2019s a career in hip-hop; for Michael, it\u2019s the love of Aisha (Kiana Madeira). However, fates has other plans for this pair and all those they hold dear. While maintaining the precision of Chariandy\u2019s prose, Virgo\u2019s film is a wholly cinematic and remarkably sensorial work. Skipping between past and present to explore masculinity, race, and family, Virgo\u2019s direction is elegant in its handling of evolving character dynamics and authoritative in ensuring that instances of brutality possess harrowing verisimilitude. While detailing the devastating repercussions of senseless acts of violence, Brother also distinguishes itself with its powerful depictions of the healing process. Q&A Oct 1",
+          "director": "Clement Virgo",
+          "year": 2022,
+          "runtime_min": 119,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-close",
@@ -30275,8 +31445,19 @@
         {
           "slug": "viff22-the-melt-goes-on-forever",
           "date_range": null,
-          "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "wayback_ts": "20230818201715",
+          "title": "The Art and Times of David Hammons",
+          "poster": "https://images.viff.org/uploads/2022/08/MeltGoesOnForever.jpg?resize=960%2C600&gravity",
+          "synopsis": "North American Premiere An astonishing documentary about the elusive and provocative African-American artist David Hammons, The Melt Goes On Forever chronicles the legendary artist\u2019s incredible body of work, from his body prints in the 1960s, to found object sculptures, to cheeky installations in upper crust galleries, which overtly mock the elite art world and critique the capitalist and arbitrary notions of value in art. Hammons\u2019 work is often blistering, firmly rooted in questioning the dominant culture and exposing racial injustice, and exploring the space that Black people hold in America. Hammons is notoriously private, and this conflict between his personal reticence and worldwide attention is fascinating to watch. The film reveals the tension between insiders and outsiders in art, and explores the fickleness and push-pull antics of the established art world. Using archival footage, interviews with artists, curators, and critics, alongside animation, this film is a remarkable record of the work of an artist who constantly defies the establishment and remains subversive at every turn. Q&A Sept 30 & Oct 2",
+          "director": "Judd Tully, Harold Crooks",
+          "year": 2022,
+          "runtime_min": 101,
+          "country": "USA/Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-modes-1",
@@ -30373,8 +31554,18 @@
           "slug": "viff22-riceboy-sleeps",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "title": "Riceboy Sleeps",
+          "poster": "https://images.viff.org/uploads/2022/09/Riceboy-Sleeps.png?resize=960%2C600&gravity",
+          "synopsis": "Raising her young son Dong-hyun (Dohyun Noel Hwang) in Vancouver\u2019s suburbs in the 90s, So-young (Choi Seung-yoon), a South Korean immigrant and single mom, desperately wants to instill a sense of pride in the boy. In turn, he only wants to be considered \u201cCanadian\u201d in hopes of avoiding bullying at school. As Dong-hyun (now played by Ethan Hwang) grows older, his frustrations over knowing nothing about his father are only exasperated when So-young introduces a surrogate patriarch into his life. A cruel twist of fate sends the pair back to South Korea, where all will be revealed about the family\u2019s history. Elegantly interweaving social realism with fable-like sequences, Anthony Shim (Daughter, VIFF 2019) makes sublime use of Christopher Lew\u2019s glorious cinematography and Andrew Yong Hoon Lee\u2019s expressive score to craft a film that\u2019s both emotionally and sensorially rich. Wedding autobiographical elements with more universal concerns, he likewise achieves an exquisite balance between Dong-hyun and So-young\u2019s perspectives. The generosity extended to his characters makes the ensuing drama all the more rewarding. Platform Award, TIFF 2022 Q&A Sept 30 & Oct 3",
+          "director": "Anthony Shim",
+          "year": 2022,
+          "runtime_min": 117,
+          "country": "Canada",
+          "language": "In English and Korean with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-rodeo",
@@ -30454,7 +31645,18 @@
           "slug": "viff22-until-branches-bend",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "Until Branches Bend",
+          "poster": "https://images.viff.org/uploads/2022/09/UntilBranchesBend.jpg?resize=960%2C600&gravity",
+          "synopsis": "Discovering an unusual, potentially invasive insect inside a peach, fruit packer Robin (Grace Glowicki) immediately reports it. When the powers that be refuse to take action, she goes public with her concerns and precipitates a widescale shutdown that threatens to devastate her Okanagan town. Branded a pariah and effectively exiled with her younger sister Laney (Alexandra Roberts), Robin must also deal with the complications of terminating an unwanted pregnancy. Meanwhile, the townsfolk are about to learn that nature won\u2019t be denied. Parallels and allegories abound as Sophie Jarvis\u2019 psychological drama delves into the ills of this seemingly postcard-perfect community. Boasting a layered narrative and impeccable performances, Until Branches Bend is also suffused with the sensorial elements of an Okanagan summer: from the dusty cinematography to a sweltering atmosphere that leaves everyone on edge. What starts out as an intimate whistleblowing drama ultimately grows apocalyptic in scale, all while preserving the human story at its core. Q&A Oct 2 & Oct 7",
+          "director": "Sophie Jarvis",
+          "year": 2022,
+          "runtime_min": 98,
+          "country": "Canada/Switzerland",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-short-forum-program-1",
@@ -30646,7 +31848,7 @@
           "country": "Canada",
           "language": "In English and Arabic with English subtitles",
           "synopsis": "Among the massive concrete block towers of Toronto\u2019s Thorncliffe Park neighborhood, a Syrian doctor struggles to hold on to his cultural identity as his family begins to grow roots in their new community. Working as an unlicensed physician for his neighbors in an attempt to cling to his old identity, tensions rise and begin to threaten his fragile marriage. Understated cinematography and a patient camera disguise the fraught drama at the heart of Antoine Bourges\u2019 (Fail to Appear) sophomore feature. Bressonian in its approach, employing minimalism, non-professional actors, and a deceptively simple plot, the film blends fact and fiction into a quietly gripping drama with an unshakeable sense of realism. Anchored by the lead performances and a pair of unforgettable scenes in an English as a Second Language class, Bourges crafts a tender portrait that asks if adjusting to a new culture always costs one a piece of their identity. This film is also available in-cinema Presented by Media Partner",
-          "wayback_ts": "20220928084648",
+          "wayback_ts": "20220929023128",
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -30754,7 +31956,8 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "if-you-are-a-man-viff-connect",
@@ -30839,8 +32042,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -31362,7 +32564,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -31381,8 +32584,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-katie-byron",
@@ -31415,7 +32617,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -31448,7 +32651,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "I Am Sirat",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-building-closet-oppenheimer",
@@ -31481,7 +32685,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -31501,7 +32706,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -33202,8 +34408,7 @@
           "runtime_resolved": true,
           "director": "David Bickerstaff & Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-the-essence-of-eva",
@@ -33301,8 +34506,7 @@
           "director": "Colin Hanks",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-la-salsa-vive",
@@ -33356,8 +34560,7 @@
           "runtime_resolved": true,
           "director": "Jenn Strom",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-particle-dance",
@@ -33411,7 +34614,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -34121,7 +35325,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-always",
@@ -34175,7 +35380,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-blknws-terms-conditions",
@@ -34192,7 +35398,8 @@
           "runtime_resolved": true,
           "director": "Kahlil Joseph",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-edhi-alice-take",
@@ -34203,7 +35410,7 @@
           "country": "South Korea",
           "language": "In Korean with English subtitles",
           "synopsis": "Canadian Premiere Kim Ilrhan\u2019s documentary takes an unconventional form, as befits a work about two brave souls defying convention. The first section focuses on Alice, a trans woman who works as a lighting director on films (including, in a self-reflexive twist, this one). Alice is a dedicated craftswoman, and she pushes her tenacity further in pursuit of her real dream: to become a dancer. Eventually, the focus switches to Edhi, a counsellor who is preparing for gender-affirming surgery. Facing down skepticism from others as well as internal trepidation, Edhi undergoes the procedure, and Kim documents her post-operation life in which she feels, as she puts it, \u201clighter\u201d. Besides its gentleness and obvious affection for its two subjects, what gives Edhi Alice: Take its distinction is Kim\u2019s attention to detail, both physical and psychological. From the specifics of post-op dilation to the pain of repression, she explores trans identity with curiosity and deep respect. Her subjects repay that respect, disclosing their thoughts and feelings with commendable honesty. Oct 4 & 5: Q&A Presented by Cooperating Organizations Media Partner Community Partner",
-          "wayback_ts": "20250829224653",
+          "wayback_ts": "20250901224057",
           "runtime_min": 130,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -34246,7 +35453,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-the-great-north",
@@ -35111,6 +36319,456 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1
+    },
+    {
+      "slug": "live",
+      "name": "VIFF Live Year-Round",
+      "detail_url": "https://viff.org/series/live-year-round/",
+      "film_slugs": [
+        {
+          "slug": "adventures-of-prince-achmed-live"
+        },
+        {
+          "slug": "alfred-hitchcock-the-lodger-live"
+        },
+        {
+          "slug": "ardeshir-dexter-gordon-live"
+        },
+        {
+          "slug": "artie-shaw-tribute-live"
+        },
+        {
+          "slug": "askiwan-live"
+        },
+        {
+          "slug": "beatlemania-live"
+        },
+        {
+          "slug": "biboye-onanuga-plays-monk-live"
+        },
+        {
+          "title": "Blue Horse Opera",
+          "synopsis": "Rick Maddocks' Blue Horse Opera is a visionary song cycle fusing indie, folk, classical music and dance, drawing inspiration from the climate emergency and the cinematic landscapes of spaghetti westerns. This VIFF Live event is followed by Sergio Sollima's The Big Gundown, starring Lee van Cleef.",
+          "poster": "https://images.viff.org/uploads/2025/07/BigGundown.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "blue-horse-opera-big-gundown-live"
+        },
+        {
+          "title": "BC's Blue Note Legacy Quartet",
+          "synopsis": "Four of Vancouver's best jazz musicians come together as BC's Blue Note Legacy Quartet memorializing the iconic recording label (home to Monk, Coltrane, Wayne Shorter and so many others) followed by Sophie Huber's acclaimed 2018 documentary, Blue Note Records: Beyond the Notes.",
+          "poster": "https://images.viff.org/uploads/2025/04/BlueNoteRecords.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "slug": "blue-note-legacy-quartet-live"
+        },
+        {
+          "title": "Bonnie Northgraves Quintet: To Louis with Love",
+          "synopsis": "Join us for To Louis with Love, a joyful celebration of the legendary Louis Armstrong by Bonnie Northgraves and her band, followed by Bert Stern's legendary concert film Jazz on a Summer's Day, featuring Monk, Gerry Mulligan, and of course Satchmo.",
+          "poster": "https://images.viff.org/uploads/2025/06/Louis-Armstrong.jpg?resize=960%2C600&gravity",
+          "runtime_min": 160,
+          "slug": "bonnie-northgraves-quintet-live"
+        },
+        {
+          "title": "Brandon Wint: Moving For Love \u2013 An Evening of Film, Poetry & Music",
+          "synopsis": "Poet and filmmaker Brandon Wint presents two new short films, Moving for Love and Backbone, alongside a live jazz performance with collaborators Feven Kidane, Yoro Noukoussi, and Quincey Mayes, and a poetry reading.",
+          "poster": "https://images.viff.org/uploads/2024/10/MovingForLove.jpg?resize=960%2C600&gravity",
+          "runtime_min": 120,
+          "year": 2024,
+          "director": "Brandon Wint",
+          "country": "Canada",
+          "slug": "brandon-wint-moving-for-love-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "title": "Chen Baker Play J-Pop",
+          "synopsis": "Jeffery's Chen Baker band is back (and bigger than ever) to present a set of city pop and jazzy J-pop by the likes of Miki Matsubara, Taeko Ohnuki, Lamp, before the screening of Masayuki Suo's hilarious underdog comedy Sumo Do, Sumo Don't (1992).",
+          "poster": "https://images.viff.org/uploads/2025/05/SumoDoSumoDont_Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 103,
+          "slug": "chen-baker-j-pop-live"
+        },
+        {
+          "title": "Coffee House Folk",
+          "synopsis": "Inside Llewyn Davis is the best movie about folk music, bar none. Before the movie, enjoy solo sets from four local singer-songwriters.",
+          "poster": "https://images.viff.org/uploads/2025/11/InsideLlewynDavis.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "coffee-house-folk-live"
+        },
+        {
+          "title": "Cory Weeds Plays Sonny Rollins",
+          "synopsis": "Local sax legend Cory Weeds is joined by pianist Sharon Minemoto, bassist David Caballero and drummer Jesse Cahill to play music from Sonny Rollins' 1957 Riverside Records release The Sound Of Sonny, plus a screening of the acclaimed Saxophone Colossus doc.",
+          "poster": "https://images.viff.org/uploads/2025/06/Saxophone-Colossus.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "slug": "cory-weeds-sonny-rollins-live"
+        },
+        {
+          "title": "Cousin Harley",
+          "synopsis": "Come join Local Hillbilly heroes Cousin Harley, for a night of traditional Rockabilly, Western Swing and early Rock n Roll in VIFF Live at VIFF Centre.",
+          "poster": "https://images.viff.org/uploads/2025/12/WalkHard.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "cousin-harley-walk-hard-live"
+        },
+        {
+          "slug": "cowboy-bebop-live"
+        },
+        {
+          "slug": "dawn-pemberton-amazing-grace-live"
+        },
+        {
+          "title": "Dean Thiessen Plays Vince Guaraldi",
+          "synopsis": "Dean Thiessen's 5-tet pays tributes to Vince Guaraldi's catchy Charlie Brown soundtrack, followed by a screening of the first Charlie Brown feature film.",
+          "poster": "https://images.viff.org/uploads/2025/10/BoyNamedCharlieBrown.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "dean-thiessen-vince-guaraldi-live"
+        },
+        {
+          "slug": "duke-ellington-tribute-live"
+        },
+        {
+          "title": "Jeremy Dutcher & Alanis Obomsawin",
+          "synopsis": "Two of the most compelling voices in Indigenous music and cinema meet for an intimate, unique, and unforgettable evening of intergenerational story and song featuring award-winning Wolastoq tenor and composer Jeremy Dutcher and renowned Abenaki filmmaker and musician Alanis Obomsawin.",
+          "poster": "https://images.viff.org/uploads/2024/08/LIVE_Jeremy-X-Alanis.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "dutcher-obomsawin-live"
+        },
+        {
+          "title": "Elisapie - Uvattini",
+          "synopsis": "JUNO Award-winning Inuk artist Elisapie presents the West Coast Premiere of her new multimedia show, Uvattini.",
+          "poster": "https://images.viff.org/uploads/2024/08/LIVE_Elisapie.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "elisapie-uvattini-live"
+        },
+        {
+          "title": "Erika Chow + Blue Giant",
+          "synopsis": "Erika Chow leads a quartet through selections of the soundtrack from the electrifying jazz anime, Blue Giant, followed by a screening of the film.",
+          "poster": "https://images.viff.org/uploads/2026/01/BlueGiant.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "erika-chow-blue-giant-live"
+        },
+        {
+          "slug": "etiquette-dying-ron-samworth-live"
+        },
+        {
+          "slug": "exterminating-angel-magazinist-live"
+        },
+        {
+          "slug": "faust-magazinist-live"
+        },
+        {
+          "slug": "feven-kidane-ethio-jazz-live"
+        },
+        {
+          "slug": "feven-kidane-quartet-live"
+        },
+        {
+          "slug": "feven-kidane-tiny-pyramids-live"
+        },
+        {
+          "slug": "flamenco-guitar-yerai-cortas-live"
+        },
+        {
+          "slug": "george-garzone-live"
+        },
+        {
+          "title": "GIFT: A Film by Ryusuke Hamaguchi X Live Score by Eiko Ishibashi",
+          "synopsis": "Multi-instrumentalist and composer Eiko Ishibashi, presents the Canadian Premiere of GIFT&mdash;a new silent film directed by Ry&ucirc;suke Hamaguchi, and accompanied by a dynamic, live soundtrack performed by Ishibashi.",
+          "poster": "https://images.viff.org/uploads/2024/08/ORourke-X-Kojima_1920px.jpg?resize=960%2C600&gravity",
+          "runtime_min": 74,
+          "slug": "gift-hamaguchi-ishibashi-live"
+        },
+        {
+          "title": "Gord Grdina's Qalandar",
+          "synopsis": "With a live jazz set by a contemporary Persian ensemble playing traditional Arabic song and free improv, followed by a screening of Matthew Rankin's hit comedy Universal Language (in Farsi and French), this promises to be a very special evening.",
+          "poster": "https://images.viff.org/uploads/2025/01/UniversalLanguage_Alt.jpg?resize=960%2C600&gravity",
+          "runtime_min": 200,
+          "year": 2024,
+          "director": "Matthew Rankin",
+          "country": "Canada",
+          "slug": "gord-grdina-qalandar-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "title": "H\u00e4xan for Halloween",
+          "synopsis": "Experimental music duo Magazinist stir up a cauldron of sound using an array of occult contraptions, including a homemade tagelharpa, a diatonic dulcimer, detuned zithers, and a box of gravel to live score the legendary cult movie H&auml;xan.",
+          "poster": "https://images.viff.org/uploads/2024/08/Haxan.jpg?resize=960%2C600&gravity",
+          "runtime_min": 105,
+          "year": 1922,
+          "director": "Benjamin Christensen",
+          "country": "Denmark",
+          "slug": "haxan-halloween-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "slug": "jesse-zubot-inedia-live"
+        },
+        {
+          "title": "Jimi James: Blues for Brando",
+          "synopsis": "The Jimi James Quintet pays tribute to the emergence of bebop, in many ways a parallel artistic innovation to Method acting. A set of bebop classics will be followed by a screening of Marlon Brando in The Wild One.",
+          "poster": "https://images.viff.org/uploads/2025/05/WildOne.jpg?resize=960%2C600&gravity",
+          "runtime_min": 140,
+          "slug": "jimi-james-blues-brando-live"
+        },
+        {
+          "title": "John Coltrane's Blue World:",
+          "synopsis": "Join us as we celebrate the 98th birthday of John Coltrane and the 60th Anniversary of the French Canadian new wave classic which he scored. Coltrane's music for the film was only released two years ago, as the album Blue World.",
+          "poster": "https://images.viff.org/uploads/2024/07/LeChatDansLeSac.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1964,
+          "director": "Gilles Groulx",
+          "country": "Canada",
+          "slug": "john-coltrane-blue-world-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "slug": "julian-borkowski-blues-brando-live"
+        },
+        {
+          "slug": "kevin-romain-live"
+        },
+        {
+          "slug": "kit-eakle-jazntheviolin-live"
+        },
+        {
+          "slug": "krystle-dos-santos-jackie-shane-live"
+        },
+        {
+          "title": "Laura Crema Sings Lorenz Hart",
+          "synopsis": "Leading jazz vocalist Laura Crema performs some of Lorenz Hart's most memorable songs, paired with a screening of Richard Linklater's new movie, Blue Moon.",
+          "poster": "https://images.viff.org/uploads/2025/08/BlueMoon.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "laura-crema-lorenz-hart-live"
+        },
+        {
+          "title": "A Tribute to Lee Morgan: Feven Kidane Plays Lee Morgan",
+          "synopsis": "In this VIFF Live, Feven Kidane pays tribute to one of the greatest trumpeters in Jazz history, Lee Morgan. Paired with a screening of I Called Him Morgan.",
+          "poster": "https://images.viff.org/uploads/2026/01/ICalledHimMorgan.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "lee-morgan-tribute-feven-kidane-live"
+        },
+        {
+          "slug": "lets-get-lost-vince-mai-live"
+        },
+        {
+          "slug": "lina-nyberg-norrtull-gang-live"
+        },
+        {
+          "slug": "live-32-sounds"
+        },
+        {
+          "title": "The Ironworks Series: Cris Derksen",
+          "synopsis": "Juno-nominated Cris Derksen, an internationally respected Indigenous cellist and composer, introduces audiences to the unforgettable virtuosity that led to working with some of Canada's finest - and her break-out solo career.",
+          "poster": "https://images.viff.org/uploads/2023/08/Cris-Derksen-Featured-Image-Live.jpg?resize=960%2C600&gravity",
+          "runtime_min": 60,
+          "slug": "live-ironworks-cris-derksen"
+        },
+        {
+          "title": "The Ironworks Series: Daniel Barrow",
+          "synopsis": "In the late 70s and 80s, Winnipeg experienced a golden age of public access television. Winnipeg Babysitter traces unique vignettes from a brief synapse in broadcasting history when Winnipeg cable companies were mandated to provide public access.",
+          "poster": "https://images.viff.org/uploads/2023/08/Daniel-Barrow-Live-Featured-IMAGE.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "live-ironworks-daniel-barrow"
+        },
+        {
+          "title": "The Ironworks Series: Miwa Matreyek & Sammy Chien",
+          "synopsis": "A unique opportunity to experience two performances. Miwa Matreyek creates a dreamlike meditation on climate catastrophe, whilst Sammy Chien uses the technologies of real-time performance software to create connections between image, sound and movement.",
+          "poster": "https://images.viff.org/uploads/2023/09/VIFF-Live-Feature-Image-Sammy-Chien-VIFF-Live-Featured-Image-Miwa-Matreyek.jpg?resize=960%2C600&gravity",
+          "runtime_min": 120,
+          "slug": "live-ironworks-matreyek-chien"
+        },
+        {
+          "title": "Machine Folklore",
+          "synopsis": "Experience humanity in the metaverse through the lens of AI in a hypnotic audio-visual performance by two of Taiwan's top art collectives.",
+          "poster": "https://images.viff.org/uploads/2023/08/Machine-Folklore-NAX-Future-Featured-Image.jpg?resize=960%2C600&gravity",
+          "runtime_min": 60,
+          "slug": "live-machine-folklore"
+        },
+        {
+          "title": "NOSFERATU 100 by BIG KILL: A Symphony of Horror",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2022/08/Nosferatu.jpg?resize=960%2C600&gravity",
+          "runtime_min": 120,
+          "slug": "live-nosferatu"
+        },
+        {
+          "title": "Mary Ancheta Plays Betty Davis Tribute",
+          "synopsis": "In this VIFF Live event, keyboardist Mary Ancheta and her band channel the phenomenal funk of 70s sensation Betty Davis, featuring Dawn Pemberton on vocals. The live music portion of the event will be followed by Phil Cox's invaluable 2017 documentary, They Say I'm Different.",
+          "poster": "https://images.viff.org/uploads/2025/04/TheySayImDifferent.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "year": 2017,
+          "director": "Phil Cox",
+          "country": "UK",
+          "slug": "mary-ancheta-betty-davis-tribute-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "slug": "matt-grinke-jazz-quintet-live"
+        },
+        {
+          "slug": "max-roach-feven-kidane-sextet-live"
+        },
+        {
+          "slug": "midnight-boogaloo-live"
+        },
+        {
+          "slug": "miles-davis-100-julian-borkowski-live"
+        },
+        {
+          "slug": "miles-davis-100-vince-mai-live"
+        },
+        {
+          "slug": "night-moves-rodney-decroo-live"
+        },
+        {
+          "slug": "nutcracker-suite-live"
+        },
+        {
+          "title": "Oscar Peterson Centenary Tribute: Triology Plays Peterson",
+          "synopsis": "Celebrates Oscar Peterson's centenary with an evening of Canadian jazz and film. Triology &mdash; Jodi Proznick (bass), Bill Coon (guitar) and Miles Black (piano) &mdash; pays tribute to the legendary Oscar Peterson, followed by cult thriller The Silent Partner.",
+          "poster": "https://images.viff.org/uploads/2025/06/Oscar-Peterson.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "oscar-peterson-centenary-tribute-live"
+        },
+        {
+          "title": "A Page of Madness: Live Score by Anju Singh / The Nausea",
+          "synopsis": "Experimental artist Anju Singh uses her project The Nausea to explore Teinsuke Kinugasa's expressionist horror masterpiece. An asylum janitor wants to help his beloved wife escape, but she doesn't want to leave...",
+          "poster": "https://images.viff.org/uploads/2024/03/PageofMadness.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1926,
+          "director": "Teinosuke Kinugasa",
+          "country": "Japan",
+          "slug": "page-madness-anju-singh-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "title": "A Page of Madness: Live Score by Anju Singh",
+          "synopsis": "Performer Anju Singh premieres a new multi-instrumental live score to Teinsuke Kinugasa's expressionist horror masterpiece. An asylum janitor wants to help his beloved wife escape, but she doesn't want to leave...",
+          "poster": "https://images.viff.org/uploads/2024/03/PageofMadness.jpg?resize=960%2C600&gravity",
+          "runtime_min": 73,
+          "year": 1926,
+          "director": "Teinosuke Kinugasa",
+          "country": "Japan",
+          "slug": "page-madness-somnus-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "title": "Quincy Mayes Brazilian Soul Experience",
+          "synopsis": "The Quincy Mayes Brazilian Soul Experience is thrilled to present a special performance showcasing the diverse, Afro-centric roots of samba, soul, and funk alongside a screening of the essential Brazilian film City of God.",
+          "poster": "https://images.viff.org/uploads/2025/01/CityOfGod.jpg?resize=960%2C600&gravity",
+          "runtime_min": 190,
+          "year": 2002,
+          "country": "Brazil",
+          "slug": "quincy-mayes-brazilian-soul-live",
+          "featured_film_resolved": true
+        },
+        {
+          "title": "The Rocky Horror Picture Show",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, voted one of the best cinemas in Vancouver and home to the prestigious Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2023/09/RockyHorrorPictureShow_Still.jpg?resize=960%2C600&gravity",
+          "runtime_min": 160,
+          "year": 1975,
+          "director": "Jim Sharman",
+          "country": "USA",
+          "slug": "rocky-horror-picture-show-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "title": "O Brother, Where Art Thou? + The Soda Crackers",
+          "synopsis": "Join us for an afternoon of live music with the Soda Crackers, followed by a special anniversary screening of the Coen brothers' O Brother, Where Art Thou?",
+          "poster": "https://images.viff.org/uploads/2025/10/OBrotherWhereArtThou.jpg?resize=960%2C600&gravity",
+          "runtime_min": 107,
+          "slug": "soda-crackers-live"
+        },
+        {
+          "title": "Canadaland Presents: The Backbench Live!",
+          "synopsis": "Policy and the arts? They're more related than you think. Join our discussion on the nuances of art funding, local filmmaking, and the contentious Bill C-11. You won't want to miss it.",
+          "poster": "https://images.viff.org/uploads/2023/09/Talks-The-Backbench-Feature-No-Text.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "talks-canadaland-backbench-live"
+        },
+        {
+          "title": "The Crowd: Live Score by Chris Gestrin",
+          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
+          "poster": "https://images.viff.org/uploads/2024/02/TheCrowd_v2.jpg?resize=960%2C600&gravity",
+          "runtime_min": 98,
+          "year": 1928,
+          "director": "King Vidor",
+          "country": "USA",
+          "slug": "the-crowd-chris-gestrin-live",
+          "featured_film_resolved": true,
+          "director_resolved": true
+        },
+        {
+          "title": "Tony Wilson's The Homeless Project",
+          "synopsis": "The Homeless Project is a multimedia piece involving music, text, still photography and film, orchestrated by guitarist Tony Wilson.",
+          "poster": "https://images.viff.org/uploads/2026/02/HomelessProject.jpg?resize=960%2C600&gravity",
+          "runtime_min": 120,
+          "slug": "the-homeless-project-live"
+        },
+        {
+          "slug": "true-north-andy-milne-concert-live"
+        },
+        {
+          "slug": "vampyr-live"
+        },
+        {
+          "slug": "van-django-lacombe-lucien-live"
+        },
+        {
+          "slug": "victor-noriegas-kuyatet-live"
+        },
+        {
+          "slug": "viff24-eno-live"
+        },
+        {
+          "title": "claire rousay, The Bloody Lady (Live Score) and Robert Aiki Aubrey Lowe",
+          "synopsis": "An evening of haunted sound and cinema with claire rousay performing her live score of the animated classic The Bloody Lady and composer Robert Aiki Aubrey Lowe presenting a performance tethered to his cinematic sound worlds (Candyman; Seeds; After Life).",
+          "poster": "https://images.viff.org/uploads/2025/08/Hauntings_Collage.jpg?resize=960%2C600&gravity",
+          "runtime_min": 150,
+          "slug": "viff25-claire-rousay-robert-lowe-live"
+        },
+        {
+          "title": "Julianna Barwick and loscil",
+          "synopsis": "Acclaimed ambient, experimental musicians Julianna Barwick and loscil share the stage for the first time to immerse audiences in their ethereal soundscapes and hypnotic new live AV performances.",
+          "poster": "https://images.viff.org/uploads/2025/08/Live_Resonances_Collage.jpg?resize=960%2C600&gravity",
+          "runtime_min": 135,
+          "slug": "viff25-julianna-barwick-loscil-live"
+        },
+        {
+          "title": "Mad Professor: Live AV in Dub",
+          "synopsis": "Dub legend Mad Professor performs a rare live set celebrating his No Protection Massive Attack remix album's 30th anniversary &ndash; a hypnotic trip into the psychedelic worlds of dub and trip-hop with live visuals from Vancouver artist Saghi Ehteshamzadeh.",
+          "poster": "https://images.viff.org/uploads/2025/08/Live_MadProfessor_NoTitle.jpg?resize=960%2C600&gravity",
+          "runtime_min": 90,
+          "slug": "viff25-mad-professor-live"
+        },
+        {
+          "slug": "viff25-wilfred-buck-star-stories-live"
+        },
+        {
+          "title": "Vince Mai Plays Mancini",
+          "synopsis": "Local trumpeter and film composer Vince Mai returns to the VIFF Centre with his quintet to play selected hits of celebrated film composer Henry Mancini.",
+          "poster": "https://images.viff.org/uploads/2025/12/A-Shot-in-the-Dark.jpg?resize=960%2C600&gravity",
+          "runtime_min": 180,
+          "slug": "vince-mai-mancini-live"
+        },
+        {
+          "slug": "voice-of-a-generation-lost-live"
+        },
+        {
+          "slug": "william-basinski-arcadia-live"
+        },
+        {
+          "slug": "women-blues-lj-mounteney-live"
+        },
+        {
+          "slug": "zappostrophe-live"
+        }
+      ]
     }
   ]
 }
