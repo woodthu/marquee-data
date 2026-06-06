@@ -2220,7 +2220,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -2258,7 +2259,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "synth-scores-film-studies",
@@ -2271,7 +2273,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "movie-poster-design-film-studies",
@@ -2290,7 +2293,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -2309,7 +2313,8 @@
           "runtime_min": 25,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -2588,7 +2593,6 @@
         {
           "slug": "goodfellas",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-19T14:00:00",
@@ -2598,12 +2602,12 @@
               "start": "2026-06-24T20:25:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "pulp-fiction",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-20T15:00:00",
@@ -2613,12 +2617,12 @@
               "start": "2026-06-21T19:15:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "titanic",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-08T19:30:00",
@@ -2628,12 +2632,12 @@
               "start": "2026-08-11T15:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "schindlers-list",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-15T19:00:00",
@@ -2643,12 +2647,12 @@
               "start": "2026-07-16T14:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "heat",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-24T19:30:00",
@@ -2658,12 +2662,12 @@
               "start": "2026-07-30T15:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "dazed-and-confused",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-10T18:30:00",
@@ -2677,12 +2681,12 @@
               "start": "2026-07-15T20:10:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "gummo",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-08T20:30:00",
@@ -2696,12 +2700,12 @@
               "start": "2026-08-11T20:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "buffalo-66",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-16T15:30:00",
@@ -2715,12 +2719,12 @@
               "start": "2026-08-20T17:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "my-own-private-idaho",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-26T18:00:00",
@@ -2734,7 +2738,8 @@
               "start": "2026-07-02T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "category",
@@ -2744,7 +2749,6 @@
         {
           "slug": "trust",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-19T14:15:00",
@@ -2758,12 +2762,12 @@
               "start": "2026-06-23T15:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "paris-is-burning",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-19T17:45:00",
@@ -2773,23 +2777,23 @@
               "start": "2026-06-25T20:20:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "pulp-fiction-reviberators-live",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-19T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "madonna-truth-or-dare",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-19T19:30:00",
@@ -2803,12 +2807,12 @@
               "start": "2026-06-25T17:55:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "total-recall",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-20T18:00:00",
@@ -2818,12 +2822,12 @@
               "start": "2026-06-24T18:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "reservoir-dogs",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-20T18:30:00",
@@ -2837,12 +2841,12 @@
               "start": "2026-06-25T20:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "jacobs-ladder",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-20T20:20:00",
@@ -2852,12 +2856,12 @@
               "start": "2026-06-24T15:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "true-romance",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-20T20:40:00",
@@ -2871,12 +2875,12 @@
               "start": "2026-06-25T18:20:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-company-of-strangers",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-21T14:00:00",
@@ -2890,23 +2894,23 @@
               "start": "2026-06-24T18:30:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "dances-with-wolves",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-21T15:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "thelma-louise",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-26T18:30:00",
@@ -2916,12 +2920,12 @@
               "start": "2026-06-30T20:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "boyz-n-the-hood",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-26T20:15:00",
@@ -2931,23 +2935,23 @@
               "start": "2026-07-02T20:40:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "terminator-2-judgment-day",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-26T21:15:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "a-brighter-summer-day",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-27T13:00:00",
@@ -2957,23 +2961,23 @@
               "start": "2026-06-30T14:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "julio-avila-cuban-band-mambo-kings-live",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-27T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-silence-of-the-lambs",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-27T19:30:00",
@@ -2983,12 +2987,12 @@
               "start": "2026-06-30T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "delicatessen",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-28T15:00:00",
@@ -2998,12 +3002,12 @@
               "start": "2026-07-02T16:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "unforgiven",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-03T17:50:00",
@@ -3013,12 +3017,12 @@
               "start": "2026-07-09T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "one-false-move",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-03T20:30:00",
@@ -3028,12 +3032,12 @@
               "start": "2026-07-07T18:10:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "waynes-world",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-04T18:30:00",
@@ -3043,12 +3047,12 @@
               "start": "2026-07-09T20:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "malcolm-x",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-04T19:00:00",
@@ -3058,12 +3062,12 @@
               "start": "2026-07-09T13:45:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "bram-stokers-dracula",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-04T20:40:00",
@@ -3073,12 +3077,12 @@
               "start": "2026-07-08T20:20:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "orlando",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-05T14:00:00",
@@ -3088,12 +3092,12 @@
               "start": "2026-07-07T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-crying-game",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-05T16:15:00",
@@ -3107,12 +3111,12 @@
               "start": "2026-07-08T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "basic-instinct",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-05T18:45:00",
@@ -3122,12 +3126,12 @@
               "start": "2026-07-07T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "thirty-two-short-films-glenn-gould",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-10T16:20:00",
@@ -3137,12 +3141,12 @@
               "start": "2026-07-15T16:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "groundhog-day",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-10T20:40:00",
@@ -3152,12 +3156,12 @@
               "start": "2026-07-15T18:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "short-cuts",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-11T19:30:00",
@@ -3167,12 +3171,12 @@
               "start": "2026-07-15T15:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "three-colours-blue",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-12T13:30:00",
@@ -3182,12 +3186,12 @@
               "start": "2026-07-16T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "three-colours-white",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-12T15:30:00",
@@ -3197,23 +3201,23 @@
               "start": "2026-07-16T20:40:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "chungking-express-chen-baker-live",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-12T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-last-seduction",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-14T18:20:00",
@@ -3223,12 +3227,12 @@
               "start": "2026-07-16T20:10:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "serial-mom",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-14T20:30:00",
@@ -3238,12 +3242,12 @@
               "start": "2026-07-16T18:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "three-colours-red",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-17T18:30:00",
@@ -3253,12 +3257,12 @@
               "start": "2026-07-19T14:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-shawshank-redemption",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-17T20:45:00",
@@ -3268,34 +3272,34 @@
               "start": "2026-07-23T16:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "chungking-express",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-18T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "four-weddings-and-a-funeral",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-19T17:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-lion-king",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-19T19:30:00",
@@ -3305,12 +3309,12 @@
               "start": "2026-07-23T17:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "to-die-for",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-21T20:20:00",
@@ -3320,12 +3324,12 @@
               "start": "2026-07-23T19:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "casino",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-23T19:30:00",
@@ -3335,12 +3339,12 @@
               "start": "2026-07-29T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-usual-suspects",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-24T17:00:00",
@@ -3350,12 +3354,12 @@
               "start": "2026-07-30T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "seven",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-25T14:00:00",
@@ -3365,23 +3369,23 @@
               "start": "2026-07-30T20:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "andrea-superstein-austin-powers-live",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-25T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "ghost-in-the-shell",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-26T15:00:00",
@@ -3395,12 +3399,12 @@
               "start": "2026-07-30T18:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "before-sunrise",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-26T17:00:00",
@@ -3410,12 +3414,12 @@
               "start": "2026-07-28T16:15:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "la-haine",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-26T19:30:00",
@@ -3425,23 +3429,23 @@
               "start": "2026-07-29T16:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "clueless",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-28T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "trainspotting",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-31T18:30:00",
@@ -3451,12 +3455,12 @@
               "start": "2026-08-06T20:45:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "crash",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-31T20:40:00",
@@ -3470,12 +3474,12 @@
               "start": "2026-08-06T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "fargo",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-01T18:20:00",
@@ -3485,12 +3489,12 @@
               "start": "2026-08-04T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "set-it-off",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-01T20:00:00",
@@ -3504,12 +3508,12 @@
               "start": "2026-08-06T20:10:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "lone-star",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-01T20:30:00",
@@ -3523,12 +3527,12 @@
               "start": "2026-08-04T16:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "secrets-lies",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-02T14:00:00",
@@ -3542,23 +3546,23 @@
               "start": "2026-08-06T17:20:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "90s-mystery-movie-trivia-night",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-03T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "la-confidential",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-07T17:30:00",
@@ -3568,12 +3572,12 @@
               "start": "2026-08-13T20:10:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "princess-mononoke",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-07T20:20:00",
@@ -3583,12 +3587,12 @@
               "start": "2026-08-09T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "jackie-brown",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-11T19:00:00",
@@ -3598,12 +3602,12 @@
               "start": "2026-08-13T17:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "out-of-sight",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-14T18:30:00",
@@ -3613,12 +3617,12 @@
               "start": "2026-08-20T20:30:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-big-lebowski",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-14T21:00:00",
@@ -3628,12 +3632,12 @@
               "start": "2026-08-20T17:50:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-truman-show",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-15T20:00:00",
@@ -3643,12 +3647,12 @@
               "start": "2026-08-19T18:20:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "run-lola-run",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-16T14:30:00",
@@ -3658,12 +3662,12 @@
               "start": "2026-08-18T20:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-thin-red-line",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-16T16:30:00",
@@ -3673,12 +3677,12 @@
               "start": "2026-08-20T19:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "rushmore",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-16T20:00:00",
@@ -3688,12 +3692,24 @@
               "start": "2026-08-19T20:40:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "wayback_ts": "20221212231453",
+          "title": "Rushmore",
+          "poster": "https://images.viff.org/uploads/2022/11/Rushmore.jpg?resize=150%2C150",
+          "synopsis": "His grades are so poor he risks being thrown out of school, but precocious 15-year-old Max Fischer (Jason Schwartzman) isn\u2019t about to let a academic performance cramp his career at Rushmore Academy. He\u2019s editor of the student paper, president of the chess, astronomy, German and French clubs, captain of the fencing and debate teams, and the creative force of the Max Fischer Players. Then there\u2019s his unreciprocated passion for Miss Cross (Olivia Williams), the new first grade teacher. With the help of his industrialist friend Mr Blume (Murray), Max reckons he can win her heart by constructing an aquarium on the school baseball field. Anderson\u2019s oddball second feature picked up rave reviews and remains one of his touchstone pictures. Even by his own standards, this is a peculiarly poignant comedy, with an outstanding character turn from Bill Murray as\u2026 a depressed middle aged man obsessed with a 15-year-old boy? Granted, Max is 15 going on 50. With his beret, braces and blazer, he\u2019s part Ferris Bueller, part Jay Gatsby. And yet it\u2019s Blume, the first of Anderson\u2019s lost father figures, who gives the movie it\u2019s gravity \u2013 and this movie was central to Bill Murray\u2019s late career resurgence. Line for line this is as witty as any Anderson movie, and the lopsided love triangle at its heart makes this one of his most emotionally accessible films.",
+          "director": "Wes Anderson",
+          "year": 1998,
+          "runtime_min": 93,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-blair-witch-project",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-21T18:30:00",
@@ -3707,23 +3723,23 @@
               "start": "2026-08-23T17:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-matrix",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-21T20:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-sixth-sense",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-22T18:00:00",
@@ -3733,12 +3749,12 @@
               "start": "2026-08-23T14:30:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "office-space",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-22T18:30:00",
@@ -3748,12 +3764,12 @@
               "start": "2026-08-31T18:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "being-john-malkovich",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-22T20:30:00",
@@ -3763,12 +3779,12 @@
               "start": "2026-08-27T16:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "lessons-of-darkness",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-23T12:30:00",
@@ -3778,12 +3794,12 @@
               "start": "2026-08-25T17:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "beau-travail",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-23T14:00:00",
@@ -3793,23 +3809,23 @@
               "start": "2026-08-25T18:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "eyes-wide-shut",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-23T16:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "three-kings",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-23T19:15:00",
@@ -3819,12 +3835,12 @@
               "start": "2026-08-25T20:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "but-im-a-cheerleader",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-25T18:30:00",
@@ -3834,12 +3850,12 @@
               "start": "2026-08-27T20:10:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "10-things-i-hate-about-you",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-25T20:30:00",
@@ -3849,45 +3865,45 @@
               "start": "2026-08-27T18:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "magnolia",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-27T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "ghost-dog-way-of-the-samurai",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-28T20:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "90s-surprise-film",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-29T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-wind-will-carry-us",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-30T14:00:00",
@@ -3897,23 +3913,24 @@
               "start": "2026-08-31T20:15:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "fight-club",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-31T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         }
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true
@@ -4301,7 +4318,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "asian-heritage-month",
@@ -4595,8 +4612,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "9-to-5",
@@ -5208,7 +5224,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "paris-texas",
@@ -5920,8 +5936,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -7825,7 +7840,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -9725,7 +9741,6 @@
         {
           "slug": "blue-heron",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-06T15:50:00",
@@ -9735,12 +9750,12 @@
               "start": "2026-06-07T17:10:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "silent-friend",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-12T19:00:00",
@@ -9750,12 +9765,12 @@
               "start": "2026-06-13T18:30:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "hanami",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-16T19:00:00",
@@ -9765,12 +9780,12 @@
               "start": "2026-06-20T15:40:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "the-company-of-strangers",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-21T14:00:00",
@@ -9784,12 +9799,12 @@
               "start": "2026-06-24T18:30:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "romeria",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-03T12:30:00",
@@ -9803,7 +9818,8 @@
               "start": "2026-07-05T16:50:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
@@ -9828,1361 +9844,10 @@
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
-    },
-    {
-      "slug": "fight-club",
-      "name": "90s, Baby!",
-      "detail_url": "https://viff.org/series/90s/",
-      "film_slugs": [
-        {
-          "slug": "goodfellas",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-19T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-24T20:25:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "pulp-fiction",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-20T15:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-21T19:15:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "titanic",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-08T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-11T15:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "schindlers-list",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-15T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-16T14:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "heat",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-24T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-30T15:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "dazed-and-confused",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-10T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-12T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-07-15T20:10:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "gummo",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-08T20:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-09T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-11T20:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "buffalo-66",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-16T15:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-18T20:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-20T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "my-own-private-idaho",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-26T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-28T14:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-07-02T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "category",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "trust",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-19T14:15:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-21T19:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-23T15:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "paris-is-burning",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-19T17:45:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-25T20:20:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "pulp-fiction-reviberators-live",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-19T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "madonna-truth-or-dare",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-19T19:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-23T17:15:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-25T17:55:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "total-recall",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-20T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-24T18:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "reservoir-dogs",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-20T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-24T20:50:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-25T20:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "jacobs-ladder",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-20T20:20:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-24T15:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "true-romance",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-20T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-21T16:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-25T18:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-company-of-strangers",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-21T14:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-23T16:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-24T18:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "dances-with-wolves",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-21T15:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "thelma-louise",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-26T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-30T20:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "boyz-n-the-hood",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-26T20:15:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-07-02T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "terminator-2-judgment-day",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-26T21:15:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "a-brighter-summer-day",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-27T13:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-30T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "julio-avila-cuban-band-mambo-kings-live",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-27T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-silence-of-the-lambs",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-27T19:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-30T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "delicatessen",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-06-28T15:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-02T16:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "unforgiven",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-03T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-09T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "one-false-move",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-03T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-07T18:10:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "waynes-world",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-04T18:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-07-09T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "malcolm-x",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-04T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-09T13:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "bram-stokers-dracula",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-04T20:40:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-07-08T20:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "orlando",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-05T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-07T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-crying-game",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-05T16:15:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-07T15:45:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-07-08T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "basic-instinct",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-05T18:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-07T20:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "thirty-two-short-films-glenn-gould",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-10T16:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-15T16:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "groundhog-day",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-10T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-15T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "short-cuts",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-11T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-15T15:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "three-colours-blue",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-12T13:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-16T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "three-colours-white",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-12T15:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-16T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "chungking-express-chen-baker-live",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-12T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-last-seduction",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-14T18:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-16T20:10:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "serial-mom",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-14T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-16T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "three-colours-red",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-17T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-19T14:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-shawshank-redemption",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-17T20:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-23T16:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "chungking-express",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-18T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "four-weddings-and-a-funeral",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-19T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-lion-king",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-19T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-23T17:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "to-die-for",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-21T20:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-23T19:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "casino",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-23T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-29T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-usual-suspects",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-24T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-30T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "seven",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-25T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-30T20:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "andrea-superstein-austin-powers-live",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-25T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "ghost-in-the-shell",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-26T15:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-28T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-30T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "before-sunrise",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-26T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-28T16:15:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "la-haine",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-26T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-29T16:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "clueless",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-28T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "trainspotting",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-31T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-06T20:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "crash",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-07-31T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-02T19:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-06T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "fargo",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-01T18:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-04T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "set-it-off",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-01T20:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-04T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-06T20:10:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "lone-star",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-01T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-02T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-04T16:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "secrets-lies",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-02T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-04T15:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-06T17:20:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "90s-mystery-movie-trivia-night",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-03T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "la-confidential",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-07T17:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-13T20:10:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "princess-mononoke",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-07T20:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-09T20:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "jackie-brown",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-11T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-13T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "out-of-sight",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-14T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-20T20:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-big-lebowski",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-14T21:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-20T17:50:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-truman-show",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-15T20:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-19T18:20:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "run-lola-run",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-16T14:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-18T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-thin-red-line",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-16T16:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-20T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "rushmore",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-16T20:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-19T20:40:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-blair-witch-project",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-21T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-22T20:15:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-23T17:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-matrix",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-21T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-sixth-sense",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-22T18:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-23T14:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "office-space",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-22T18:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-08-31T18:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "being-john-malkovich",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-22T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-27T16:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "lessons-of-darkness",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-23T12:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-25T17:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "beau-travail",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-23T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-25T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "wayback_ts": "20260312200118",
-          "title": "Beau Travail",
-          "poster": "https://images.viff.org/uploads/2022/12/BeauTravail.jpg?resize=960%2C600&gravity",
-          "synopsis": "Prior to 2022, no films by women directors cracked the top ten in Sight & Sound\u2019s Greatest Films Ever Made poll. This time, there were two: Chantal Ackerman\u2019s Jeanne Dielman and Claire Denis\u2019s Beau Travail (which came #7). Ironically, perhaps, Beau Travail (literally, Nice Work) is a film about men, male bodies, male psyches. That said, this very evidently a film from \u201cthe female gaze\u201d, and after all, the commission from which Denis worked was to explore \u201cforeigness\u201d. Inspired by Herman Melville\u2019s Billy Budd, it is set in East Africa, Djbouti, where Claire Denis grew up. Sgt Galoup (Denis Lavant) reflects back on his time in the French Foreign Legion, and in particular the impact of the handsome Sentain (Gregoire Colin) on the other soldiers, and on the commanding officer (Michael Subor). It is intrinsically a film about homosexual attraction, but no more explicitly than Melville\u2019s novella. Physical and abstract, sensual and distant, the film climaxes with one of the most memed dance sequences in cinema (rightly so), but the entire movie is a kind of militarized ballet of bodies in rest and motion (the score includes Benjamin Britten, Neil Young, and Corona\u2019s disco anthem Rhythm of the Night). Sunday\u2019s screening in our PANTHEON series will feature free refreshments and a short introduction by Dr. Sarah Shamash, media artist and educator, Emily Carr University of Art + Design.",
-          "director": "Claire Denis",
-          "year": 1999,
-          "runtime_min": 93,
-          "country": "France",
-          "language": "In French, Italian, and Russian with English subtitles",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "eyes-wide-shut",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-23T16:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "three-kings",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-23T19:15:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-25T20:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "but-im-a-cheerleader",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-25T18:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-27T20:10:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "10-things-i-hate-about-you",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-25T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-27T18:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "magnolia",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-27T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "ghost-dog-way-of-the-samurai",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-28T20:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "90s-surprise-film",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-29T20:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-wind-will-carry-us",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-30T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-31T20:15:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ],
-          "fetch_failed": true
-        },
-        {
-          "slug": "fight-club",
-          "date_range": null,
-          "screenings": [
-            {
-              "start": "2026-08-31T20:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "fetch_failed": true
-        }
-      ],
-      "last_seen_live": "20260605",
-      "hero_image": null,
-      "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
-      "date_range": "Jun 19 \u2013 Aug 31",
-      "meta_resolved": true,
-      "showtimes_resolved": true,
-      "consecutive_404s": 1
     },
     {
       "slug": "film-studies-adaptation",
@@ -12128,7 +10793,7 @@
       ],
       "first_seen_wayback": "20220928083520",
       "last_seen_wayback": "20250612030021",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "hero_image": null,
       "description": "This year\u2019s Special Presentations lineup is the largest in VIFF\u2019s history, with every one of the films fully deserving of the designation. As always, Cannes standouts are well-represented, including a riveting Palme d\u2019Or winner from Jafar Panahi and a nerve-rattling desert odyssey courtesy of \u00d3liver Laxe. The section boasts the Canadian premieres of new work by arthouse mainstays Jim Jarmusch and Noah Baumbach, as well as outstanding features from rising talents like Chandler Levack and Hikari. Be it the engrossing mystery of the latest Knives Out entry or a historical epic detailing Palestine\u2019s Great Arab Revolt, these are films that sweep you up in their thrall.",
       "date_range": null,
@@ -13885,7 +12550,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-showrunners-scifi",
@@ -13923,7 +12589,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -14301,8 +12968,7 @@
           "runtime_resolved": true,
           "director": "Matthew Heineman",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "unarchived",
@@ -14334,7 +13000,7 @@
       ],
       "first_seen_wayback": "20220909223027",
       "last_seen_wayback": "20260213185049",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "hero_image": null,
       "description": "There\u2019s an art to communication, and documentaries help capture it. Insights gathers films that confront power, displacement, and environmental collapse through acts of witnessing, listening, and resistance.\n\nFrom Kenya to Iran, Turtle Island to Gaza, these stories examine Indigenous sovereignty, ecological crises, archival memory, and radical pedagogy. Whether rebuilding libraries, protecting land, or challenging state violence, these documentaries move with clarity and conviction. They don\u2019t just inform \u2014 they expose, ignite, and offer blueprints for survival and futures that are yet to be written.",
       "date_range": null,
@@ -15466,7 +14132,8 @@
               "venue": "St. Andrews Wesley United Church"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "live-machine-folklore",
@@ -16140,7 +14807,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -16149,162 +14817,6 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1
-    },
-    {
-      "slug": "meet-me-in-st-louis",
-      "name": "Pantheon",
-      "detail_url": "https://viff.org/series/pantheon/",
-      "film_slugs": [
-        {
-          "slug": "breaking-the-waves",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "atalante",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "antonias-line",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "sansho-the-bailiff",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "m",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-leopard",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-06-21T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-23T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "rear-window",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-07-19T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-21T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "xala",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-08-16T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-08-18T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "andrei-rublev",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-09-20T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-09-22T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "day-of-wrath",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-10-18T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-10-20T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "sunless",
-          "date_range": null,
-          "wayback_ts": "20251213222515",
-          "title": "Sunless",
-          "poster": "https://images.viff.org/uploads/2025/12/Sunless.jpg?resize=960%2C600&gravity",
-          "synopsis": "Filmed with a silent 16mm camera and a rudimentary tape recorder, Chris Marker\u2019s essay film could be described as the most dazzling home movie you\u2019ll ever see. Not that Marker \u2014 a Frenchman who rubbed shoulders with the nouvelle vague \u2014 spends much time at home. There\u2019s footage here he shot in Iceland (supposedly for a planned sci-fi film), Japan, Guinea-Bissau, Cape Verde and San Francisco. Incorporating movie clips and early digital post-production effects, Marker \u2014 using the alias Sandor Krasna \u2014 ruminates on topics that range freely from ritual, philosophy, politics, movies and memory. It\u2019s a work of great erudition but also poetic and playful, a movie for the permanently curious, a movie about connection, the creation of meaning, souvenirs for the mind. Sunday\u2019s Pantheon screening will feature a 15-minute introduction by a local film scholar and be followed by an audience talkback.",
-          "director": "Chris Marker",
-          "year": 1983,
-          "runtime_min": 103,
-          "country": "France",
-          "language": "In English, French and Japanese with English subtitles",
-          "screenings": [
-            {
-              "start": "2026-11-15T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-11-17T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "meet-me-in-st-louis",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-12-20T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-12-22T17:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        }
-      ],
-      "last_seen_live": "20260605",
-      "consecutive_404s": 1,
-      "hero_image": null,
-      "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.",
-      "date_range": null,
-      "meta_resolved": true,
-      "showtimes_resolved": true
     },
     {
       "slug": "mena-2022",
@@ -16484,7 +14996,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -16640,7 +15153,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-rewind-bundle",
@@ -16730,7 +15244,8 @@
           "wayback_ts": "20240126230621",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -16771,7 +15286,8 @@
           "wayback_ts": "20240127051848",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-animalia",
@@ -16825,7 +15341,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -16896,7 +15413,8 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -17146,7 +15664,8 @@
           "wayback_ts": "20260221172959",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -17421,7 +15940,7 @@
       ],
       "first_seen_wayback": "20220924173013",
       "last_seen_wayback": "20251111112540",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "MODES is a place for video art, experimentation, the avant-garde, and exciting interpretations of screen-based work \u2014 an invitation to submit to the artist.",
       "meta_resolved": true,
       "hero_image": null,
@@ -18214,7 +16733,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 9
+      "consecutive_404s": 10
     },
     {
       "slug": "northern-lights",
@@ -18547,8 +17066,7 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "until-branches-bend",
@@ -18661,7 +17179,7 @@
       ],
       "first_seen_wayback": "20220907223051",
       "last_seen_wayback": "20260312191821",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "Hosting seven world premieres and welcoming several films that have already earned considerable acclaim on the festival circuit, Northern Lights once again serves notice that Canadian and Indigenous filmmakers are a force to be reckoned with. Many of the films found here take the form of involving journeys, be they across oceans or into the depths of memory. Elsewhere, there are accounts of indoctrination, incarceration, and fumbling bids for sexual liberation.",
       "meta_resolved": true,
       "hero_image": null,
@@ -19457,7 +17975,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "one-battle-after-another",
@@ -20374,7 +18893,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "what-we-do-next",
@@ -20457,7 +18977,7 @@
       ],
       "first_seen_wayback": "20220908193017",
       "last_seen_wayback": "20260210122118",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "This year\u2019s Panorama selection is customarily sprawling, with dozens of countries represented. Particularly noteworthy is the inclusion of accomplished work from several Latin American nations, as well as a rare feature film produced in Iraq. A number of these titles have been submitted by their nation for Oscar consideration, with more certain to follow. In addition to platforming a wealth of East Asian talent, Panorama also introduces audiences to some vital voices causing a clamour in the independent American filmmaking scene.",
       "meta_resolved": true,
       "hero_image": null,
@@ -20497,7 +19017,6 @@
         {
           "slug": "the-leopard",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-21T11:00:00",
@@ -20507,12 +19026,12 @@
               "start": "2026-06-23T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "rear-window",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-07-19T11:00:00",
@@ -20522,12 +19041,12 @@
               "start": "2026-07-21T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "xala",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-08-16T11:00:00",
@@ -20537,12 +19056,12 @@
               "start": "2026-08-18T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "andrei-rublev",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-09-20T11:00:00",
@@ -20552,12 +19071,12 @@
               "start": "2026-09-22T19:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "day-of-wrath",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-10-18T11:00:00",
@@ -20567,12 +19086,12 @@
               "start": "2026-10-20T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "sunless",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-11-15T11:00:00",
@@ -20582,12 +19101,12 @@
               "start": "2026-11-17T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "meet-me-in-st-louis",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-12-20T11:00:00",
@@ -20597,12 +19116,13 @@
               "start": "2026-12-22T17:50:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         }
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.",
       "meta_resolved": true,
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -21397,7 +19917,7 @@
       ],
       "first_seen_wayback": "20220922004632",
       "last_seen_wayback": "20251129163506",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "Chosen with the \u201cbig screen and sound\u201d experience in mind, Portraits offers a diverse selection of documentary features about music, art, and design. From salsa and Sun Ra to Caravaggio, Kengo Kuma, and Kinan Azmeh, Portraits tours the world, providing access to great artists in intimate settings \u2014 and even some voguing AI! The home team is represented by Robert Bateman and E.J. Hughes.",
       "meta_resolved": true,
       "hero_image": null,
@@ -22242,7 +20762,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "relaxed-screenings",
@@ -22314,7 +20834,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -23435,7 +21955,7 @@
       ],
       "first_seen_wayback": "20220909022431",
       "last_seen_wayback": "20260210112133",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "The impressive roll call for this year\u2019s Showcase proves just how bountiful the cinema of 2025 has proven to be. This is also where you\u2019ll find several director-actor teams continuing their longstanding collaborations, including Richard Linklater and Ethan Hawke, Paulo Sorrentino and Tony Servillo, Christian Petzold and Paula Beer, and Hong Sangsoo and Kwon Haehyo. Meanwhile, Shih-Ching Tsou, Chie Hayakawa, and Mascha Schilinski all demonstrate a remarkable capacity for eliciting astonishing performances from their youngest cast members.",
       "meta_resolved": true,
       "hero_image": null,
@@ -23609,7 +22129,7 @@
       ],
       "first_seen_wayback": "20220910180025",
       "last_seen_wayback": "20260312192925",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "Spectrum is the festival\u2019s most expansive space for boundary-breaking nonfiction \u2014 where form ruptures and futures flicker. These films rewire documentary grammar through mythic conjurings, archival remixes, and radical aesthetics.\n\nFrom media uprisings and protest movements to quiet reckonings with grief, memory, and belonging, this program spans the globe \u2014 from the Black diaspora in the Global North to intimate, place-rooted visions from Sri Lanka, Kenya, China, and South Korea. Together, these works speak in cinematic frequencies tuned to risk, reinvention, and revelation.",
       "meta_resolved": true,
       "hero_image": null,
@@ -24171,7 +22691,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-tale-of-the-princess-kaguya",
@@ -24536,8 +23056,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mean-streets",
@@ -25487,13 +24006,14 @@
         {
           "slug": "ali-ava",
           "date_range": null,
-          "fetch_failed": true,
           "screenings": [
             {
               "start": "2026-06-30T11:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "wayback_ts": "20220817105458",
+          "fetch_failed": true
         },
         {
           "slug": "woman-at-war",
@@ -25533,7 +24053,19 @@
         {
           "slug": "my-fathers-glory",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260114032321",
+          "title": "My Father's Glory",
+          "poster": "https://images.viff.org/uploads/2025/11/MyFathersGlory.jpg?resize=960%2C600&gravity",
+          "synopsis": "Marcel Pagnol is best known in North America for Jean de Florette and Manon des sources, both successfully filmed in the 1980s by Claude Berri. But his first memoir \u2014 written when the veteran playwright and filmmaker was 62 \u2014 was this idyllic evocation of his childhood in Provence in 1905, when he was ten or 11 years old. This is a rare film in which there\u2019s virtually no dramatic conflict, and yet it\u2019s as entrancing as a soft breeze on a warm summer\u2019s day. Pagnol loved and respected his parents, and looked back on his childhood with an enviable serenity. If there\u2019s an element of nostalgia, well, why not? Director Yves Robert (The War of the Buttons) filmed the rolling mountains of Provence in the manner of an Impressionist painter of the era, and watching the movie is like stepping into a canvas by Cezanne. Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+ (but open to all), Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two tickets for $16!",
+          "director": "Yves Robert",
+          "year": 1990,
+          "runtime_min": 110,
+          "country": "France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
@@ -25553,123 +24085,19 @@
         {
           "slug": "women-talking",
           "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-lives-of-others",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-other-side-of-hope",
-          "date_range": null,
-          "fetch_failed": true
-        }
-      ],
-      "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
-      "meta_resolved": true,
-      "last_seen_live": "20260605",
-      "hero_image": null,
-      "date_range": null,
-      "showtimes_resolved": true
-    },
-    {
-      "slug": "the-golden-spurtle",
-      "name": "Festival Encores",
-      "detail_url": "https://viff.org/series/festival-encores/",
-      "film_slugs": [
-        {
-          "slug": "blue-heron",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-06-06T15:50:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-07T17:10:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "silent-friend",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-06-12T19:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-13T18:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ]
-        },
-        {
-          "slug": "hanami",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-06-16T19:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-20T15:40:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ]
-        },
-        {
-          "slug": "the-company-of-strangers",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-06-21T14:00:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            },
-            {
-              "start": "2026-06-23T16:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-06-24T18:30:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ]
-        },
-        {
-          "slug": "romeria",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-07-03T12:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-04T16:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-07-05T16:50:00",
-              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
-            }
-          ]
-        },
-        {
-          "slug": "smoke-sauna-sisterhood",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "women-talking",
-          "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20221011052241",
+          "title": "Women Talking",
+          "poster": "https://images.viff.org/uploads/2022/09/WomenTalking.jpg?resize=150%2C150",
+          "synopsis": "Sarah Polley\u2019s riveting adaptation of Miriam Toews\u2019 novel catapults her to the forefront of North American filmmakers. This is the strongest and most compelling movie to come out of the #MeToo movement to date. The subject matter is unquestionably daunting, but the treatment is impassioned and fierce\u2014and, often, also, desperately funny. Some background: Toews grew up in a Mennonite community in Manitoba. Her 2018 novel was a response to a horrific news story exposing the systemic abuse of more than 130 women who were repeatedly drugged and raped in a Mennonite colony in Bolivia between the years 2005-09. Polley (who also wrote the screenplay) doesn\u2019t shy away from the challenge of the title: as in the book, the action here centres on a secret meeting eight women hold in a hayloft as they come to terms with the revelation that they were not assaulted by \u201cdemons,\u201d but by their supposed \u201cprotectors,\u201dthe husbands and fathers at the heart of their enclosed community. The stellar cast (including Oscar nominees Jessie Buckley and Rooney Mara, and Oscar winner Frances McDormand) unearths every shred of human dignity in this nightmarish scenario. People\u2019s Choice Award\u2019s first runner-up, TIFF 2022",
+          "director": "Sarah Polley",
+          "year": 2022,
+          "runtime_min": 104,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-lives-of-others",
@@ -25695,136 +24123,16 @@
           "featured_film_resolved": true
         },
         {
-          "slug": "the-golden-spurtle",
-          "date_range": null,
-          "fetch_failed": true
-        }
-      ],
-      "last_seen_live": "20260605",
-      "consecutive_404s": 1,
-      "hero_image": null,
-      "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
-      "date_range": null,
-      "meta_resolved": true,
-      "showtimes_resolved": true
-    },
-    {
-      "slug": "the-other-side-of-hope",
-      "name": "Talking Pictures",
-      "detail_url": "https://viff.org/series/talking-pictures/",
-      "film_slugs": [
-        {
-          "slug": "ali-ava",
-          "date_range": null,
-          "fetch_failed": true,
-          "screenings": [
-            {
-              "start": "2026-06-30T11:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ]
-        },
-        {
-          "slug": "woman-at-war",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "capernaum",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "two-of-us",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-lunchbox",
-          "date_range": null,
-          "wayback_ts": "20260109125612",
-          "title": "The Lunchbox",
-          "poster": "https://images.viff.org/uploads/2025/04/The-Lunchbox-1.jpg?resize=960%2C600&gravity",
-          "synopsis": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two for $16! Talking Pictures happens the last Tuesday of the month, 11:00 am, at the most comfortable theatre in the city, the VIFF Centre. Ila is trying once again to add some spice to her marriage, this time through her cooking. She desperately hopes that this new recipe will finally arouse some kind of reaction from her neglectful husband. She prepares a special lunchbox to be delivered to him at work, but, unbeknownst to her, it is mistakenly delivered to another office worker, Saajan, a lonely man on the verge of retirement. Curious about the lack of reaction from her husband, Ila puts a little note in the following day\u2019s lunchbox, in the hopes of getting to the bottom of the mystery. This begins a series of lunchbox notes between Saajan and Ila, and the mere comfort of communicating with a stranger anonymously soon evolves into an unexpected friendship. Veteran Indian star Irfan Khan gives a magnetic performance as the lonely Saajan in this irresistibly charming rom-com.",
-          "director": "Ritesh Batra",
-          "year": 2013,
-          "runtime_min": 104,
-          "country": "India",
-          "language": "In Hindi and English with English subtitles",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "karaoke",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-second-mother",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "after-life",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "my-fathers-glory",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "smoke-sauna-sisterhood",
-          "date_range": null,
-          "wayback_ts": "20260312195644",
-          "title": "Smoke Sauna Sisterhood",
-          "poster": "https://images.viff.org/uploads/2023/08/SmokeSaunaSisterhood.jpg?resize=960%2C600&gravity",
-          "synopsis": "Within the sheltered confines of a traditional smoke sauna deep in an Estonian forest, groups of women gather to cleanse themselves in both body and soul. On and off through the seasons, this intimate locale becomes a space for female togetherness, giving the women room not just to indulge in traditional sauna-based rituals (included on UNESCO\u2019s Intangible Cultural Heritage of Humanity list), but also to share intensely personal hurts and longings, joys and pains. In Smoke Sauna Sisterhood, a hotbox becomes a place of healing. A deserving winner of the directing award in Sundance\u2019s World Cinema Documentary category, filmmaker Anna Hints boldly combines an intimate non-fiction approach with sensuous lyrical expressionism, balancing the disarming frankness of her subjects\u2019 conversations with ravishing, lushly photographed textures of fire, wood, steam, smoke, and flesh. Less an act of individual portraiture than a kind of collective diary, or even an exorcism of experience, the film is a moving tribute to female resilience and community. Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Aimed at film lovers 55+ (but open to all), Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie. Tickets are just $10. Bring a buddy and get two tickets for $16!",
-          "director": "Anna Hints",
-          "year": 2023,
-          "runtime_min": 89,
-          "country": "Estonia/France/Iceland",
-          "language": "In Estonian, Seto and V\u00f5ro with English subtitles",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "maudie",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "cold-war",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "women-talking",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-lives-of-others",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
           "slug": "the-other-side-of-hope",
           "date_range": null,
           "fetch_failed": true
         }
       ],
-      "last_seen_live": "20260605",
-      "consecutive_404s": 1,
-      "hero_image": null,
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
-      "date_range": null,
       "meta_resolved": true,
+      "last_seen_live": "20260606",
+      "hero_image": null,
+      "date_range": null,
       "showtimes_resolved": true
     },
     {
@@ -27493,8 +25801,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "paying-for-it",
@@ -27841,8 +26148,7 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "tortoise-under-the-earth",
@@ -27881,7 +26187,7 @@
       ],
       "first_seen_wayback": "20220913184538",
       "last_seen_wayback": "20260312195834",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "Introducing a new wave of gifted storytellers to Canadian audiences, the films in this series reflect the well of ingenuity and cinematic prowess emerging from all corners of the world. Form, style and genre either blur, bend or extend in these works, weaving regional flourishes and breathing fresh air into familiar narratives. Or inventing entirely new ones. This is the place to surrender expectations and discover a hidden gem.\n\n\u2014 Sonja Baksa, Vanguard Curator",
       "meta_resolved": true,
       "hero_image": null,
@@ -31239,7 +29545,8 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-whale",
@@ -31459,7 +29766,18 @@
           "slug": "viff22-back-home",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "back home",
+          "poster": "https://images.viff.org/uploads/2022/09/BackHome.jpg?resize=960%2C600&gravity",
+          "synopsis": "World Premiere In 1999, 11-year-old Nisha Platzer lost her older brother, Josh, to suicide. Twenty years later, her search for a specialized medical treatment leads her to the door of someone who was once exceptionally close to Josh. And so it is that she finally has the chance to truly know her brother through his chosen family. Captured over five years in which synchronicities continually manifested, Platzer\u2019s documentation of these encounters gently asserts that both grieving and healing are meant to be communal experiences. The resulting back home includes candid interviews, lyrical visuals, evocative motifs, and segments in which filmstock has been hand-processed in seawater, plants, soil, and Josh\u2019s ashes. Eloquently edited, the film establishes a meditative pace that allows a viewer space to reflect upon what\u2019s being imparted and draw parallels to their own experiences. And, as it builds to a quietly staggering close, Platzer\u2019s film instills in a viewer a desire to connect with those they hold dear. Q&A Sept 30 & Oct 2",
+          "director": "Nisha Platzer",
+          "year": 2022,
+          "runtime_min": 90,
+          "country": "Canada/Cuba",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-the-beasts",
@@ -31598,7 +29916,18 @@
           "slug": "viff22-the-grizzlie-truth",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true
+          "title": "The Grizzlie Truth",
+          "poster": "https://images.viff.org/uploads/2022/08/GrizzlieTruth.jpg?resize=960%2C600&gravity",
+          "synopsis": "World Premiere Having successfully tracked down NBA enigma Bryant Reeves in 2018\u2019s festival hit Finding Big Country, director Kathleen S. Jayme now investigates a sprawling true sports crime: who\u2019s responsible for robbing us of the Vancouver Grizzlies? In revisiting the short history of the bad luck bears who racked up all the wrong kinds of records (see that 23-game losing streak in the 1995-1996 season), Jayme\u2019s documentary doubles as a testament to the enduring passion of true teal blue fans. It\u2019s this passion that fuels a dogged odyssey that finds Jayme infiltrating corridors of power at the NBA\u2019s head offices and knocking on doors as she connects the dots and reconnects with the heroes and villains of Grizzlies lore, including former players like Shareef Abdur-Rahim and Mike Bibby, and the team\u2019s architect, Stu Jackson. The level of access is astonishing\u2014there are \u201cgets\u201d that we don\u2019t dare reveal\u2014and so too is the candour of the interviewees. What emerges is a rousing story about the irrational fervour of fandom and sport\u2019s unique ability to create identity, strengthen family ties, and forge community. Q&A Oct 1 & Oct 5 Vancouver Grizzlies reunion The world premiere of The Grizzlie Truth on Saturday, Oct. 1 will mark the first Vancouver Grizzlies reunion in 20 years with former players Antonio Harvey, George Lynch, and Tony Massenburg and Steve Francis in attendance at The Centre of Performing Arts, joined by the original Vancouver Grizzlies Extreme Dance team, Super Grizz mascot, and PA announcer Al Murdoch! The Grizz family reunion continues after the screening, from 5pm at the VIFF Plaza (\u0161x\u02b7\u019b\u0313ex\u0259n Xwtl\u2019a7shn located outside Queen Elizabeth Theatre), with the chance for autographs with the former Grizzlies, photo opps, and entertainment programmed by Basketball BC.",
+          "director": "Kathleen S. Jayme",
+          "year": 2022,
+          "runtime_min": 97,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-the-hermit-of-treig",
@@ -31743,8 +30072,18 @@
           "slug": "viff22-soft",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Soft",
+          "poster": "https://images.viff.org/uploads/2022/08/Pussy.jpg?resize=960%2C600&gravity",
+          "synopsis": "Roaming wild in Toronto\u2019s streets, three queer adolescents hone their survival skills and scheme to run amok in a gay club. Julien (Matteus Lunot), a brash runaway, serves as pack leader, with timid Otis (Harlow Joy) and buoyant Tony (Zion Matheson) following in his wake. When some impetuous petty crime admits them into the promised land (and ushers in exhilarating depictions of beat-driven youthful abandon), it also imperils Dawn (Miyoko Anderson), Julien\u2019s de facto guardian. Once Dawn fails to return home, the guilt-ridden kids form a search party that ultimately uncovers darker realities. Joseph Amenta\u2019s first feature is an open-hearted love letter to childhood friendships and a powerful testament to the queer community\u2019s perseverance and adaptability. Through rhythmic cutting and sublime compositions, they capture moments of revelry and repose, and coax increasingly complex performances from their young cast. Serving up a cocktail of irreverence and melancholy, Amenta lends intoxicating atmosphere and intimate understanding to these precious kids\u2019 quest for belonging. Q&A Sept 30 & Oct 2",
+          "director": "Joseph Amenta",
+          "year": 2022,
+          "runtime_min": 84,
+          "country": "Canada",
+          "language": "English and Tagalog with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff22-smoking-causes-coughing",
@@ -31867,7 +30206,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff-connect",
@@ -32644,7 +30983,7 @@
       ],
       "first_seen_wayback": "20220919220046",
       "last_seen_wayback": "20251012183750",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "As the chaos and heaviness of the world crisscross our circuits, filmmakers process our collective urgency by way of metaphor and poetics, using the short form to provide much needed grace. Difficult subjects are padded by recurring themes of kinship, faith, and the body, as we grasp for solidarity and resistance. The cozy compositions found in this year\u2019s Short Forum offer a humble embrace through which to recharge our spirit.",
       "meta_resolved": true,
       "hero_image": null,
@@ -32686,7 +31025,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-katie-byron",
@@ -32705,7 +31045,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-michael-abels",
@@ -32718,7 +31059,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -32769,7 +31110,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "fetch_failed": true
+          "featured_film": "Oppenheimer",
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-canadaland-backbench-live",
@@ -32782,7 +31124,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -32802,7 +31145,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -32826,7 +31170,7 @@
       ],
       "first_seen_wayback": "20220928083612",
       "last_seen_wayback": "20230930222331",
-      "last_seen_live": "20260605",
+      "last_seen_live": "20260606",
       "description": "From creators and showrunners to directors, writers, producers, and craftspeople, VIFF Talks draw from a finely curated group of key creatives. Whether they\u2019re responsible for critically acclaimed films or groundbreaking TV series, they provide a treasure trove of information and inspiration for fellow creators, filmmakers, industry professionals, and, of course, fans of their work.",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2023/01/DeborahScottVIFF2022.png?resize=960%2C600&gravity",
@@ -33140,7 +31484,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-focus",
@@ -33290,7 +31634,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-insights",
@@ -33636,7 +31980,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-panorama",
@@ -34421,7 +32765,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-portraits",
@@ -34600,8 +32944,7 @@
           "director": "Colin Hanks",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-la-salsa-vive",
@@ -34682,8 +33025,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-sun-ra-do-the-impossible",
@@ -34718,7 +33060,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-showcase",
@@ -35382,7 +33724,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-spectrum",
@@ -35680,7 +34022,8 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -35688,7 +34031,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "viff25-vanguard",
@@ -35849,7 +34192,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260605"
+      "last_seen_live": "20260606"
     },
     {
       "slug": "we-are-all-different",
@@ -36301,7 +34644,8 @@
           "wayback_ts": "20240226041058",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-9-phosphenia",
@@ -36316,7 +34660,8 @@
           "wayback_ts": "20240308132941",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-10-domestic-cinema",
@@ -36377,7 +34722,8 @@
           "wayback_ts": "20240609232527",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-blue",
