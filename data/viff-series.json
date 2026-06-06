@@ -2161,8 +2161,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -2181,8 +2180,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "fluorescent-desert-film-studies",
@@ -2201,8 +2199,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "masculinity-80s-film-studies",
@@ -2221,8 +2218,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "david-lynch-film-studies",
@@ -2242,8 +2238,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -2262,8 +2257,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "american-animation-film-studies",
@@ -2282,7 +2276,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "synth-scores-film-studies",
@@ -2314,7 +2309,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -2333,7 +2329,8 @@
           "runtime_min": 25,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -3107,7 +3104,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "orlando",
@@ -3302,7 +3300,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20250810035520",
+          "title": "The Shawshank Redemption (30th Anniversary)",
+          "poster": "https://images.viff.org/uploads/2024/11/ShawshankRedemption.jpg?resize=960%2C600&gravity",
+          "synopsis": "In 1946 a young New England banker, Andy Dufresne (Tim Robbins), is convicted of murdering his wife and her lover and sentenced to life at the Shawshank State Prison \u2014 twice over. Quiet and introspective, he gradually strikes up a friendship with the prison \u2019fixer\u2019, Red (Morgan Freeman), and over the next two decades wins the trust of the governor and guards, but in his heart, he still yearns for freedom. Even thirty years ago when it was released, Frank Darabont\u2019s adaptation of a Stephen King novella was seen as a throwback to the kind of serious, literate drama Hollywood used to make back in the day. He himself considered it a \u201ctall tale\u201d in the spirit of one his favourite filmmakers, Frank Capra. Here is a first-time director with evident respect for the intelligence of his audience, brave enough to let character details accumulate without recourse to the fast-forward button. Darabont plays the long game and wins: this is an engrossing, superbly acted yarn, and while the movie wasn\u2019t a blockbuster hit on release, its fan base grew and grew, to the point where it is now regarded as one of the finest films of the 90s and a firm favourite for many.",
+          "director": "Frank Darabont",
+          "year": 1994,
+          "runtime_min": 142,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "chungking-express",
@@ -3642,7 +3652,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "jackie-brown",
@@ -3802,7 +3813,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "the-sixth-sense",
@@ -3900,7 +3912,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "three-kings",
@@ -4554,7 +4567,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "july-rhapsody",
@@ -4806,8 +4820,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "9-to-5",
@@ -5223,7 +5236,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -5242,7 +5256,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "scarface",
@@ -5909,7 +5924,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "something-wild",
@@ -6135,8 +6151,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -6155,7 +6170,8 @@
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "fatal-attraction",
@@ -6232,7 +6248,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "hollywood-shuffle",
@@ -6594,7 +6611,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "80s-fan-choice",
@@ -6636,8 +6654,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -8024,7 +8041,7 @@
         {
           "slug": "bhm-shorts-program",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240127021028",
+          "wayback_ts": "20240222102801",
           "title": "Short Film Showcase",
           "poster": "https://images.viff.org/uploads/2024/01/BHMShorts_Collage.jpg?resize=960%2C600&gravity",
           "director": "Various",
@@ -8044,8 +8061,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "when-morning-comes",
@@ -8581,12 +8597,13 @@
         }
       ],
       "hero_image": null,
-      "description": "Bong 1-7 Symposium: Jan 18 & 19",
+      "description": "Bong Joon-ho and VIFF go back a long way. Tony Rayns programmed his short film Memories in My Frame in 1994 and invited Bong to attend as a guest with another short, Incoherence , a year later. Tony continued to champion his work until everybody else in the world fell into line (which didn\u2019t take all that long as it turned out).\n\nIn fact, all seven of Bong\u2019s features have screened at the festival, barring Snowpiercer , which we ran at the VIFF Centre, and Bong himself has been back a couple of times in various capacities.\n\nIt\u2019s been gratifying to see him establish himself not only as the preeminent South Korean director of his era ( The Host remains the most popular Korean film ever made), but as one of the key filmmakers of our time, an artist keenly attuned to the forces around us \u2013 class inequality, institutional failure, corporate and individual avarice and arrogance, environmental crises, the sheer, terrifying stupidity of the world \u2013 but who isn\u2019t about to let any of us off the hook.\n\nHis movies are sharply satirical, violent, high concept, and yet, somehow, irrefutably human. One minute we\u2019re laughing at these fools and dunderheads on screen, the next, we\u2019re choking back the shock of recognition.\n\nOur complete retrospective of all seven of Bong\u2019s features also includes a symposium across the weekend, January 18-19, with presentations from half a dozen expert speakers. Discover the symposium schedule and speaker line-up by following the links to each film below.",
       "date_range": "Jan 17 \u2013 23",
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1,
-      "backfill_walked": "20260606"
+      "backfill_walked": "20260606",
+      "desc_rewalked": true
     },
     {
       "slug": "canadian-film-week",
@@ -9040,7 +9057,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -9897,8 +9915,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "this-time-its-personal-programme-1",
@@ -10288,37 +10305,139 @@
           "slug": "hao-are-you",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true
+          "title": "Hao Are You?",
+          "poster": "https://images.viff.org/uploads/2025/01/HaoAreYou.jpg?resize=960%2C600&gravity",
+          "synopsis": "In this emotional documentary, director Dieu Hao Do explores the fragmentation of his family. The American War in Vietnam scattered them across three continents. Nearly 50 years after their escape, contact between the seven family members has all but broken down. How have traumas from persecution and violence inscribed themselves on the bodies and souls of the survivors and their children? After the fall of Saigon on April 30 in 1975, more than 1.5 million people fled the communist regime, many of them including the director\u2019s family belonging to the Chinese minority there. Dieu Hao Do visits relatives in Vietnam, Hong Kong, California and Germany. A road trip into the history of Vietnam after the withdrawal of the Americans: emotional, sobering, insightful, sad and uplifting. Director\u2019s Statement:",
+          "director": "Dieu Hao Do",
+          "year": 2023,
+          "runtime_min": 93,
+          "country": "Germany/Vietnam",
+          "language": "In German, Vietnamese, and Cantonese with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-02-08T14:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "granny-must-die",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true
+          "title": "Granny Must Die",
+          "poster": "https://images.viff.org/uploads/2025/01/GrannyMustDie.jpg?resize=960%2C600&gravity",
+          "synopsis": "An absurd comedy about the daily life of a three-generational Hakka household in Taipei. Huichiao, her grandmother Chunmei, Chunmei\u2019s son Fusang, and daughter-in-law Lichun live together in a three-generational household in Taipei. The story begins on a stormy night when Huichiao quietly approaches and kills the sleeping Chunmei: \u201cGranny, just die!\u201d Their conflict stems not only from daily trivialities but also from past memories and complex family relationships. Fusang, the silent and steady member of the family, tries to mediate the disputes among his mother, wife, and daughter, feeling powerless amidst the constant bickering. Meanwhile, Huichiao\u2019s relationship with her colleague A-jie gradually comes to light. A-jie\u2019s seemingly accidental presence triggers a series of events, raising suspicions about everyone\u2019s motives and true intentions. Through multiple perspectives and intertwined timelines, the film delves into this quirky family, uncovering each member\u2019s secrets and sorrows, leading to a dramatic escape where the truth finally emerges. Director Statement:",
+          "director": "Yi-Jung Chen",
+          "year": 2024,
+          "runtime_min": 87,
+          "country": "Taiwan",
+          "language": "In Mandarin, Hakka, and Taiwanese with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-02-08T19:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "come-home-my-child",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true
+          "title": "Come Home, My Child",
+          "poster": "https://images.viff.org/uploads/2025/01/ComeHomeMyChild.jpg?resize=960%2C600&gravity",
+          "synopsis": "After the death of her husband and her son, Mama Yang immigrated to New York from Taiwan at the age of sixty for a new life. For more than two decades, Mama Yang has been corresponding with inmates serving long-term imprisonment in New York. The documentary follows Mama Yang\u2019s extraordinary life journey to tell the stories of a group of people searching for a way out of tragedy, who encounter each other in a world of loneliness. How do they cope with the pain of loss and how do they survive? Filmed over the course of ten years, Come Home, My Child narrates the American Dream through the eyes of Mama Yang and these inmates.",
+          "director": "Jasmine Chinghui Lee",
+          "year": 2023,
+          "runtime_min": 91,
+          "country": "Taiwan",
+          "language": "In English and Mandarin with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-02-09T17:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "picnic",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true
+          "title": "Picnic",
+          "poster": "https://images.viff.org/uploads/2025/01/Picnic.jpg?resize=960%2C600&gravity",
+          "synopsis": "After a surprise visit from her friend Geum-sun, Eun-sim is headed to her hometown with Geum-sun for the first time in 60 years. There, she catches up with Tae-ho who had feelings for her when they were teenagers. Her long-lost memories come to life one by one and they decide to go for a picnic \u2014 after all, it may be their last\u2026",
+          "director": "Kim Yong-gyun",
+          "year": 2024,
+          "runtime_min": 114,
+          "country": "South Korea",
+          "language": "In Korean with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-02-09T19:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "james-and-the-giant-peach",
           "date_range": null,
-          "wayback_ts": "20250130120053",
-          "fetch_failed": true
+          "wayback_ts": "20250207164634",
+          "title": "James and the Giant Peach",
+          "poster": "https://images.viff.org/uploads/2025/01/JamesTheGiantPeach_1920Alt.jpg?resize=960%2C600&gravity",
+          "synopsis": "Join us on BC Family Day for a classic family matinee with fun activities! Arrive at 11 am to create your own bug antennae headband, have your favorite fruit or bug face painted on your cheek, and enjoy peachy snacks from concession before our noon screening of James and the Giant Peach. Featuring stop-motion animation and live action, this inventive adaptation of Roald Dahl\u2019s beloved children\u2019s tale follows the adventures of James (Paul Terry), an orphaned young British boy and his band of enchanted insect friends. Forced to live with his cruel aunts (Joanna Lumley, Miriam Margolyes), James escapes his bleak existence when he is given a bag full of magic that creates an enormous enchanted peach. Climbing inside, he meets a group of friendly and caring insects who welcome him with open arms. Rolling into the sea inside the buoyant fruit, James and his new friends set sail for adventure and head for New York City to create a better life together. James and his friends offer young audiences positive messages about friendship, bravery, acceptance, and teamwork. We see a strong role model in James, who\u2019s courageous in the face of challenges, showing us the importance of facing your fears and finding people who love you for you. Directed by Henry Selick and produced by Tim Burton, the duo who brought us The Nightmare Before Christmas, this film took three years to produce, one animated frame at a time. All tickets are just $10, including a film screening and family activities. Preorder a James and the Giant Peach snack box for $5 + tax Small Peach Juice or Soda + Small Popcorn + Pack of Maynard\u2019s Fuzzy Peach candy Please note: Kids Club screenings are designed for families to attend together. Children must be accompanied by an adult.",
+          "director": "Henry Selick",
+          "year": 1996,
+          "runtime_min": 139,
+          "country": "USA",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2025-02-17T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "finding-nemo-kids-club",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true
+          "title": "Finding Nemo",
+          "poster": "https://images.viff.org/uploads/2025/02/FindingNemo_KidsClub.jpg?resize=960%2C600&gravity",
+          "synopsis": "Join us for VIFF Kids Club \u2013 our monthly family matinee series with fun film-inspired activities and themed concession snacks before the show! Doors open at 11:00 am for activities, with the film screening at 12:00 pm. This Month\u2019s Film Trying to prove himself, young clown fish Nemo swims too far from the Great Barrier Reef and the next thing he knows he\u2019s captive in a fish tank in a Sydney dentist\u2019s office. Protective dad Marlin (Albert Brooks) bravely follows in his wake. New friend Dory (Ellen DeGeneres), a big-hearted but forgetful blue tang fish, tags along for moral support and comic relief. Together they face sharks and a few scary sea creatures, make new friends on their journey, and persevere against the odds. In this rescue story, so much of the magic of Finding Nemo is in its under water world-building: this shimmering movie brings to life the tropical ocean world and coral reef of the Pacific Ocean, and offers exciting adventure and an unforgettable cast of lovable characters. This Month\u2019s Activities Before the film gets started, kids will have the opportunity to create their own underwater flipbooks, and we\u2019ll be screening a beautiful animated short film from the National Film Board of Canada (NFB). A Sea Turtle Story by Kathy Shultz chronicles the life cycle of the critically endangered sea turtle. This 9 min short will be screened multiple times between 11:00 am and 12:00 pm. Preorder a VIFF Kids Snack Pack! Kids size juice or soda, popcorn and candy: $7 Please note: VIFF Kids Club is designed for families to attend together. Adults can only attend if they\u2019re bringing a child, and children can only attend if accompanied by an adult.",
+          "director": "Andrew Stanton",
+          "year": 2003,
+          "runtime_min": 160,
+          "country": "USA",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2025-03-15T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-little-prince",
@@ -10393,8 +10512,8 @@
           "slug": "happy-feet",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-kids-club-shorts",
@@ -10516,8 +10635,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "silent-friend",
@@ -11086,8 +11204,45 @@
         {
           "slug": "the-stand",
           "date_range": null,
-          "wayback_ts": "20260206170615",
-          "fetch_failed": true
+          "wayback_ts": "20250215153744",
+          "title": "The Stand",
+          "poster": "https://images.viff.org/uploads/2024/08/Stand.jpg?resize=960%2C600&gravity",
+          "synopsis": "Mixing animation with a wealth of archival footage, Chris Auchter\u2019s film explores the 1985 dispute over logging on Haida Gwaii. On one side are Western Forest Products and Frank Beban Logging, who plan to engage in clearcut logging on Tllga Kun Gwaayaay (Lyell Island) and are supported by the BC government. On the other side is the Haida Nation, which wishes to protect its lands against further destruction. The confrontation involves court proceedings and a blockade, and Auchter takes us from canny retrospective commentary to the thick of the action. Crucial to The Stand\u2019s political aims is its depiction of simple human grace. The pride and passion of the Haida Nation representatives are foregrounded; especially stirring are spokesperson Miles Richardson, Jr. and the elders who are willing to be arrested for their actions. There is no harsh rhetoric (save for the bloviation of TV commentator Jack Webster, who strenuously supports the loggers); instead, the controversy is marked by a respect that does not at all undermine moral conviction. Feb 28, 12:45 pm screening: Q&A with director Christopher Auchter",
+          "director": "Christopher Auchter",
+          "year": 2024,
+          "runtime_min": 95,
+          "country": "Canada",
+          "language": "In English and Haida with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-02-28T12:45:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-02-28T19:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-03-01T19:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-03-03T14:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2025-03-06T14:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-03-10T18:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "luther-never-too-much",
@@ -11121,9 +11276,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "black-bag",
@@ -11517,8 +11670,29 @@
         {
           "slug": "viff23-valley-of-exile",
           "date_range": null,
-          "wayback_ts": "20260519194118",
-          "fetch_failed": true
+          "wayback_ts": "20230909082916",
+          "title": "Valley of Exile",
+          "poster": "https://images.viff.org/uploads/2023/08/Valley-of-Exile.png?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere Set in the early years of the Syrian war, Valley of Exile chronicles the journey of Rima and Nour, two sisters who find unexpected refuge in a makeshift settlement in Lebanon\u2019s Bekaa Valley after fleeing war-torn Damascus. Older sister Rima, who is eight months pregnant, is set on reuniting with her husband and rebuilding their lives in Lebanon, while younger sister Nour is determined to find their missing brother and eventually returns home to Syria.\u200b In the camp, the sisters forge alliances with other women who are similarly forced to live without the support of family they\u2019ve lost to the war. This propels them onto separate paths. But as days in the camp turn to weeks, Rima and Nour begin to realize that their exile is not only a struggle for survival, but ultimately a test of loyalty to their country, their family and each other. Director Anna Fahr portrays the beauty that exists in humanity in even the hardest times. The strong female leads and matriarchal emphasis distinguish this movie from other films of this type.",
+          "director": "Anna Fahr",
+          "year": 2023,
+          "runtime_min": 106,
+          "country": "Canada/Lebanon",
+          "language": "In Arabic with English subtitles",
+          "screenings": [
+            {
+              "start": "2023-09-30T21:15:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2023-10-01T21:00:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff23-numb",
@@ -11584,8 +11758,29 @@
         {
           "slug": "viff24-coconut-head-generation",
           "date_range": null,
-          "wayback_ts": "20260519194118",
-          "fetch_failed": true
+          "wayback_ts": "20240914213421",
+          "title": "Coconut Head Generation",
+          "poster": "https://images.viff.org/uploads/2024/08/CoconutHeadGeneration.jpg?resize=960%2C600&gravity",
+          "synopsis": "Every Thursday, a group of students from the University of Ibadan, the oldest in Nigeria, organizes a film club, transforming a small lecture hall into a political agora where they develop a critical voice. \u201cCoconut Head Generation\u201d, a scornful expression to designate a stubborn and brainless youth, takes on a whole new meaning when the students turn this stigma around to claim their freedom of thought.",
+          "director": "Alain Kassandra",
+          "year": 2023,
+          "runtime_min": 89,
+          "country": "France/Nigeria",
+          "language": "In English, French and Yoruba with English subtitles and open captions",
+          "screenings": [
+            {
+              "start": "2024-10-02T21:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2024-10-03T16:15:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff24-eyimofe",
@@ -12594,6 +12789,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20260504203352",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12610,6 +12806,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12638,6 +12835,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12662,6 +12860,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12690,6 +12889,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12710,6 +12910,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12726,6 +12927,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12762,6 +12964,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12790,6 +12993,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12818,6 +13022,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12834,6 +13039,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12866,6 +13072,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12886,6 +13093,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12898,6 +13106,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12914,6 +13123,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12946,6 +13156,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12962,6 +13173,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12982,6 +13194,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -12998,6 +13211,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13010,6 +13224,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13030,6 +13245,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13046,6 +13262,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13062,6 +13279,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13082,6 +13300,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13098,6 +13317,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13118,6 +13338,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13134,6 +13355,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13154,6 +13376,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13174,6 +13397,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13186,6 +13410,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13202,6 +13427,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13222,6 +13448,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13238,6 +13465,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13254,6 +13482,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13266,6 +13495,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13282,6 +13512,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13294,6 +13525,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13310,6 +13542,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13326,6 +13559,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13338,6 +13572,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13361,7 +13596,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "milisuthando",
@@ -13377,6 +13613,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13405,6 +13642,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13433,6 +13671,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13449,6 +13688,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13465,6 +13705,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13481,6 +13722,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13497,7 +13739,19 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
-          "fetch_failed": true
+          "correction_swept": true,
+          "title": "Malcolm X",
+          "poster": "https://images.viff.org/uploads/2023/01/MalcolmX.jpg?resize=150%2C150",
+          "synopsis": "\u201cThis is a story about the evolution of a man. It\u2019s a spiritual, philosophical, political evolution. My prayer is to illustrate that and have that be some kind of a healing for people.\u201d Denzel Washington Canadian filmmaker Norman Jewison (In the Heat of the Night) was originally attached to direct this adaptation of Arthur Hailey\u2019s biography, but when Spike Lee suggested in the media that a Black director should do it, Jewison and his producers took a meeting with the Do the Right Thing sensation and became convinced he was right. Denzel Washington \u2013 who had played Malcolm on stage ten years before and who had just made Mo Better Blues with Lee \u2013 was the ideal choice for the title role, and paints not only a precise portrait of the charismatic leader familiar from newsreels, but a layered, compassionate, conflicted man who finds the strength in Islam to transcend his demons and confront the inequity and racism in America. Lee insisted on an epic canvas and sought to emulate the scope he admired in the films of David Lean (Lawrence of Arabia; The Bridge on the River Kwai). He even hit up Black celebrities (Oprah, Prince, Michael Jordan) for donations when the budget ran out. His efforts and their faith were more than justified. The film stands as a powerful testament to the man and his times. \u201cOne of the great American films not only of the decade but the century\u2026 Spike Lee poured everything he had learned about cinema, politics, behavior and culture into one 201-minute Molotov cocktail of epic filmmaking. An eloquent and intimate character study as well as a sweeping portrait of America in the second half of the 20th century.\u201d Jim Hemphill, Indiewire",
+          "director": "Spike Lee",
+          "year": 1992,
+          "runtime_min": 201,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "bram-stokers-dracula",
@@ -13513,6 +13767,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13529,6 +13784,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13549,6 +13805,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13565,6 +13822,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13581,6 +13839,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13601,6 +13860,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13617,6 +13877,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13633,6 +13894,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13649,7 +13911,19 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
-          "fetch_failed": true
+          "correction_swept": true,
+          "title": "Blue",
+          "poster": "https://images.viff.org/uploads/2024/07/ThreeColoursBlue.jpg?resize=960%2C600&gravity",
+          "synopsis": "The first of Polish filmmaker\u2019s acclaimed Three Colours Trilogy, inspired by the French Revolutionary ideals of liberty, equality and fraternity and the French flag, the Tricolour, Blue stars Juliette Binoche as the wife of a celebrated composer who loses her husband and child in a car accident. Depressed and detached, Julie is nevertheless drawn back towards life. The cinematography by Kieslowski\u2019s regular collaborator S\u0142awomir Idziak is simply transcendent. Three Colours: Blue won the Golden Lion for Best Film at the Venice Film Festival. This film will also play as part of the Film Studies: Creating Colour series.",
+          "director": "Krzysztof Kie\u015blowski",
+          "year": 1993,
+          "runtime_min": 98,
+          "country": "Poland/France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "three-colours-white",
@@ -13665,6 +13939,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13677,6 +13952,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13693,6 +13969,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13709,6 +13986,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13725,6 +14003,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13741,6 +14020,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13768,7 +14048,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "chungking-express",
@@ -13780,6 +14061,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13796,6 +14078,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13808,6 +14091,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13824,6 +14108,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13840,6 +14125,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13856,6 +14142,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13872,6 +14159,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13888,6 +14176,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13904,6 +14193,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13916,6 +14206,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13936,6 +14227,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13952,6 +14244,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13968,6 +14261,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13980,6 +14274,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -13996,6 +14291,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14016,6 +14312,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14032,6 +14329,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14052,6 +14350,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14072,6 +14371,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14092,6 +14392,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14104,6 +14405,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14120,6 +14422,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14147,7 +14450,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "titanic",
@@ -14163,6 +14467,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14183,6 +14488,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14195,6 +14501,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14211,6 +14518,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14227,6 +14535,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14243,7 +14552,19 @@
           ],
           "date_range": null,
           "wayback_ts": "20241217221308",
-          "fetch_failed": true
+          "correction_swept": true,
+          "title": "The Big Lebowski",
+          "poster": "https://images.viff.org/uploads/2023/11/BigLebowski_Still-11.jpg?resize=960%2C600&gravity",
+          "synopsis": "Jeff Bridges is the Dude, a drop out looking for his virtue, and his rug, in the moral free-zone of contemporary Malibu.",
+          "director": "Joel Coen & Ethan Coen",
+          "year": 1998,
+          "runtime_min": 127,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-truman-show",
@@ -14259,6 +14580,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14275,6 +14597,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14291,6 +14614,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14311,6 +14635,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14327,6 +14652,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14343,6 +14669,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14363,6 +14690,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14375,6 +14703,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14391,6 +14720,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14407,6 +14737,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14423,6 +14754,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14439,6 +14771,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14455,6 +14788,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14478,7 +14812,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "correction_swept": true
         },
         {
           "slug": "three-kings",
@@ -14494,6 +14829,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14510,6 +14846,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14526,6 +14863,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14538,6 +14876,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14550,6 +14889,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14562,6 +14902,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14578,6 +14919,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14590,6 +14932,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14606,6 +14949,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14622,6 +14966,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14638,6 +14983,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -14654,6 +15000,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20250612030021",
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
@@ -16510,7 +16857,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -16993,20 +17341,52 @@
           "slug": "viff23-mareya-shot-keetah-goal",
           "date_range": null,
           "wayback_ts": "20260213185049",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Make the Shot",
+          "poster": "https://images.viff.org/uploads/2023/08/MareyaShotKeetahGoalMakeTheShot.jpg?resize=960%2C600&gravity",
+          "synopsis": "World Premiere From local co-directors Baljit Sangra (Because We Are Girls) and Nilesh Patel, this spirited documentary follows four junior hockey players of South Asian descent throughout the 2021-2022 season as they strive to be drafted into the NHL. Arjun Bawa and Kayden Sadhra-Kang skate in the footsteps of their father Robin Bawa, who made history in 1989 as the first South Asian to play in the NHL. Meanwhile, seasoned defenseman Arvin Atwal seeks to shed the fighter reputation he acquired in the American Hockey League by transferring to Slovakia. And, in an uplifting turn of events, the film traces the journey of Surrey\u2019s own Arshdeep Bains to signing with the Vancouver Canucks. The passion for Canada\u2019s national sport is contagious as Coach Harbs Bains\u2014 owner of the Lake Cowichan Kraken and past president of the Surrey Minor Hockey Association\u2014 and Hockey Night in Canada: Punjabi Edition commentator Harnarayan Singh unpack the revolutionary, life-changing power of diverse representation on screen and on ice: \u201cMareya shot, keetah goal!\u201d October 2 & 7: Q&A with directors Baljit Sangra & Nilesh Patel & crew",
+          "director": "Baljit Sangra & Nilesh Patel",
+          "year": 2023,
+          "runtime_min": 72,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff23-deep-rising",
           "date_range": null,
           "wayback_ts": "20260213185049",
-          "fetch_failed": true
+          "title": "Deep Rising",
+          "poster": "https://images.viff.org/uploads/2023/07/DeepRising.jpg?resize=960%2C600&gravity",
+          "synopsis": "Who owns the depths of the ocean? Can we power our green future efficiently and responsibly? Exploring the luminous ecosystems deep in the Pacific Ocean alongside the countries and companies that hope to gain access to the lucrative deposits of precious metals lining the ocean floor kilometers beneath the surface, Deep Rising intertwines these questions, wondering if we\u2019re simply going to repeat history, or find a new future without exploitation. As scientists learn more about deep sea nodules\u2013 ore deposits resting on the ocean bed which contain enough rare metals such as manganese, cobalt, and nickel to potentially power the next wave of the \u201cgreen revolution\u201d and electric vehicles \u2013industrialized nations and corporations are scrambling for to harvest them. Alongside beautiful footage of translucent jellyfish and denizens of the deep ocean, far more strange and wondrous than anything from the latest Avatar film, Director Mathieu Rytz asks if we are capable of gathering these deep sea nodules without disturbing the ecosystems that make up more than 95% of earth\u2019s biosphere.",
+          "director": "Matthieu Rytz",
+          "year": 2023,
+          "runtime_min": 94,
+          "country": "USA",
+          "language": "In English and Spanish with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff23-on-the-adamant",
           "date_range": null,
           "wayback_ts": "20260213185049",
-          "fetch_failed": true
+          "title": "On the Adamant",
+          "poster": "https://images.viff.org/uploads/2023/08/OnTheAdamant_still-2_x.jpg?resize=960%2C600&gravity",
+          "synopsis": "Moored on the Seine in central Paris, not far from the city\u2019s main cultural landmarks, is a huge, floating barge known as The Adamant, an institutional psychotherapy day centre where patients are \u201cco-authors of their care.\u201d A sanctuary for adults with mental disorders, the institution is unique in both architecture and approach, offering its visitors a range of counseling, education, and cultural activity, with a special emphasis on art therapy. Indeed, its focus on the latter is such that Nicolas Philibert\u2019s humane documentary at times plays like a paean to outsider art. Winner of the Golden Bear at this year\u2019s Berlinale, the latest from veteran documentarian Nicolas Philibert (Etre et Avoir) offers a compassionate look at the human workings of this singular care-based facility. Less focused on institutional nuts and bolts than on the patients, the film maintains an intimate but respectful distance from its subjects, always allowing them to speak and reveal themselves on their own terms. Tender and perceptive in equal measure, it is a moving testament to the vital importance of human expression. Golden Bear, Berlin 2023",
+          "director": "Nicolas Philibert",
+          "year": 2023,
+          "runtime_min": 109,
+          "country": "France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff23-physician-heal-thyself",
@@ -17983,7 +18363,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -18757,8 +19138,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-constellations",
@@ -18851,8 +19231,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-geographies",
@@ -18913,8 +19292,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -19007,8 +19385,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-the-stranger",
@@ -19037,8 +19414,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -19073,8 +19449,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-rewind-bundle",
@@ -19100,8 +19475,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-three-promises",
@@ -19165,8 +19539,7 @@
           "wayback_ts": "20240126230621",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-swana-panel",
@@ -19208,8 +19581,7 @@
           "wayback_ts": "20240127023248",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-animalia",
@@ -19254,7 +19626,7 @@
           "country": "Various",
           "language": "Various with English subtitles",
           "screenings_resolved": true,
-          "wayback_ts": "20240127021850",
+          "wayback_ts": "20240720065151",
           "runtime_resolved": true,
           "director_resolved": true,
           "screenings": [
@@ -19263,8 +19635,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -19272,7 +19643,7 @@
           "title": "Project Funding and Pitch Workshop",
           "poster": "https://images.viff.org/uploads/2024/01/Workshop.jpg?resize=960%2C600&gravity",
           "synopsis": "Following the successful How to Finance Your Film workshop, MENA is hosting representatives from the top regional and national funding organizations for an Industry Rendezvous. This expanded session is a chance to both hear about each funder\u2019s programs and requirements, as well as to share your work and ask specific questions to each body about their programs in an informal one-on-one format. You will have the opportunity to receive feedback about your ideas, learn more about opportunities available, and meet the faces behind the organizations! Food and refreshments provided. Limited seating available. Featuring Presented in Partnership with Catering by",
-          "wayback_ts": "20240127051735",
+          "wayback_ts": "20240720071427",
           "runtime_min": 150,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -19283,8 +19654,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-the-burdened",
@@ -19316,8 +19686,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-award-ceremony",
@@ -19588,8 +19957,7 @@
           "wayback_ts": "20260221172959",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -19608,8 +19976,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "el-this-strange-passion",
@@ -20500,8 +20867,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "black-butterflies",
@@ -20659,7 +21025,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 13,
+      "consecutive_404s": 14,
       "desc_rewalked": true
     },
     {
@@ -20692,8 +21058,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "back-home",
@@ -20814,8 +21179,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "north-of-normal",
@@ -20918,8 +21282,7 @@
           "runtime_resolved": true,
           "director": "Gail Maurice",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "soft",
@@ -20946,9 +21309,7 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -21052,7 +21413,8 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "you-can-live-forever",
@@ -21834,7 +22196,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "one-battle-after-another",
@@ -22718,7 +23081,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "what-we-do-next",
@@ -22821,7 +23185,25 @@
         {
           "slug": "atalante",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260216153108",
+          "title": "L'Atalante",
+          "poster": "https://images.viff.org/uploads/2025/12/LAtalante.jpg?resize=960%2C600&gravity",
+          "synopsis": "Jean Vigo didn\u2019t live very long. He was 29 when he died from TB in 1934. His films comprise one feature (L\u2019Atalante), and three shorts. But two of these movies are masterpieces, and everything is fired with imagination, zeal, and wit. Vigo was only 12 when his father \u2014 an anarchist agitator \u2014 was murdered in police custody. Inspired by his idealism, he set out to make revolutionary films \u2014 first with the satiric documentary A Propos de Nice (1930), then with the anarchic boarding school memoir, Z\u00e9ro de Conduite \u2014 an inspiration for Lindsay Anderson\u2019s If. (The third short, Taris, is a nine minute expermental fragment.) These first films are angry and polemical, but liberating in their fervour for the transformative power of cinema. Vigo didn\u2019t incite the revolution he hoped for, but his innovative art would inspire future generations of filmmakers. His most enduring testament is L\u2019Atalante, completed the year of his death, and evidence of a more tender, compassionate and lyrical sensibility. A love story, about newlyweds working on a coal barge on the Seine, this is rated one of the ten best films ever made by many critics. Sunday\u2019s Pantheon screening will feature a 15-minute introduction by a local film scholar and be followed by an audience talkback. Feb 15: Intro by Laura U. Marks, Grant Strate University Professor, School for the Contemporary Arts, SFU; founder, Small File Media Festival",
+          "director": "Jean Vigo",
+          "year": 1934,
+          "runtime_min": 89,
+          "country": "France",
+          "language": "In French with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-02-17T18:20:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "antonias-line",
@@ -27885,6 +28267,7 @@
         {
           "slug": "woman-at-war",
           "date_range": null,
+          "wayback_ts": "20260302034859",
           "fetch_failed": true
         },
         {
@@ -28090,7 +28473,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
@@ -32335,8 +32719,7 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "pacifiction",
@@ -32539,8 +32922,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "riceboy-sleeps",
@@ -32653,8 +33035,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "scarlet",
@@ -32852,8 +33233,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-son",
@@ -33001,8 +33381,7 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "thunder",
@@ -33323,8 +33702,7 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-whale",
@@ -34573,7 +34951,8 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 1
+      "consecutive_404s": 1,
+      "desc_rewalked": true
     },
     {
       "slug": "viff-repeats",
@@ -34950,8 +35329,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -34959,7 +35337,7 @@
           "title": "Way of Water, Titanic and more",
           "poster": "https://images.viff.org/uploads/2022/09/Talk-Avatar.jpg?resize=960%2C600&gravity",
           "synopsis": "Best known for her work in James Cameron\u2019s record-breaking blockbuster Titanic, which won her the Academy Award for Best Costume Design, Deborah Lynn Scott has over 50 credits for her work. Recently, she reunited with Cameron to work on Avatar: The Way of Water, and her distinguished film career also includes the iconic films Back to the Future, Minority Report, E.T. the Extra-Terrestrial, and Transformers, to name just a few. Join us for a fascinating conversation about Scott\u2019s process: designing costumes for action movies versus period pieces, the importance of research, and creative collaboration required to pull off a director\u2019s vision. Presented by Supported by Community Broadcast Partner",
-          "wayback_ts": "20231204085616",
+          "wayback_ts": "20220915230120",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -34989,8 +35367,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-michael-abels",
@@ -35012,7 +35389,7 @@
           "title": "Marcel the Shell With Shoes On",
           "poster": "https://images.viff.org/uploads/2022/09/Talk-MarcelTheShell.jpg?resize=960%2C600&gravity",
           "synopsis": "In 2010, Dean Fleischer Camp, an award-winning filmmaker and New York Times bestselling author, along with Jenny Slate, created a short film about Marcel, an endearingly cheerful talking shell with one eye and little shoes. The little character became a viral hit, leading to a feature adaptation produced by A24. We\u2019re excited to hear Fleischer Camp share his singular process about creating a feature film that combines elements of narrative, documentary feature, improvisation, and two forms of animation. Join us for stories about his one-of-a-kind characters, voice actors Jenny Slate as Marcel, and Isabella Rossellini as grandma Connie, and what adventures Marcel is up to next. Supported by Community Broadcast Partner",
-          "wayback_ts": "20260216151544",
+          "wayback_ts": "20220928085433",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -35037,8 +35414,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "I Am Sirat",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-building-closet-oppenheimer",
@@ -35063,7 +35439,7 @@
         {
           "slug": "talks-canadaland-backbench-live",
           "date_range": null,
-          "wayback_ts": "20260210115628",
+          "wayback_ts": "20230907163657",
           "title": "The Backbench Live!",
           "poster": "https://images.viff.org/uploads/2023/09/Talks-The-Backbench-Feature-No-Text.jpg?resize=960%2C600&gravity",
           "synopsis": "When you think about film, art, and creativity, government policy probably isn\u2019t the first thing that comes to mind. Make no mistake about it, our policy makers and politicians can crucially impact the art we make, who gets to make it, and the culture we consume. Good policy can create a thriving, diverse culture \u2014 and bad policy can destroy it. Join Backbench host Mattea Roach and special guests for an unforgettable LIVE podcast taping! Be part of our urgent, thoughtful, and entertaining conversation exploring the contentious Bill C-11 with its potential to disrupt the status quo, the challenges of filmmaking in Canada, and the David-and-Goliath-like struggle of independent art venues against the dominance of the industry giant. Media Partner",
@@ -35072,7 +35448,12 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2023-10-03T18:30:00",
+              "venue": "The Rio Theatre"
+            }
+          ]
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -35092,8 +35473,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -35112,8 +35492,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -35493,7 +35872,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff25-hidden-tremors",
@@ -35516,7 +35897,7 @@
           ],
           "runtime_min": 81,
           "screenings_resolved": true,
-          "wayback_ts": "20250919223136",
+          "wayback_ts": "20251002012257",
           "runtime_resolved": true,
           "director": "Sreekanth Pangapattu",
           "director_resolved": true,
@@ -35547,7 +35928,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -35574,7 +35956,8 @@
           "runtime_resolved": true,
           "director": "Nidhi Saxena",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -35639,7 +36022,8 @@
           "director": "Jereme Watt",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-factory",
@@ -37000,8 +37384,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -37711,8 +38094,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-always",
@@ -37766,8 +38148,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-blknws-terms-conditions",
@@ -37784,8 +38165,7 @@
           "runtime_resolved": true,
           "director": "Kahlil Joseph",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-edhi-alice-take",
@@ -37812,7 +38192,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-fiume-o-morte",
@@ -37909,7 +38290,7 @@
           "country": "Kenya/Switzerland",
           "language": "English",
           "synopsis": "In the year 2093, a filmmaker named Kuve arrives in the fictional African nation of Umata, where generative AI has been used to digitally resurrect the continent\u2019s ancient kingdoms. There, he meets Princess Mumbi, a magnetic young woman torn between royal duty and her dream of becoming an actress. As their encounter unfolds, Kuve is drawn into a layered triangle of memory, mythology, and authorship\u2014one that quietly interrogates the role of technology in shaping historical narratives. What does it mean to revive the past with tools that never knew it? Directed by Swiss-Kenyan filmmaker Damien Hauser, Memory of Princess Mumbi is a daringly self-reflexive debut that blends mockumentary, romantic drama, and political satire into a low-budget speculative fable. Entirely self-produced and built with digital worldbuilding tools, the film is less interested in prediction than in provocation. At its heart is a question that lingers long after the credits: Can storytelling remain sovereign in an age of artificial memory, or has the archive already been rewritten? Presented by Community Partner",
-          "wayback_ts": "20251010201932",
+          "wayback_ts": "20250905044155",
           "screenings": [
             {
               "start": "2025-10-10T18:30:00",
@@ -38612,7 +38993,8 @@
           "wayback_ts": "20240308132941",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-10-domestic-cinema",
@@ -38670,7 +39052,7 @@
           "synopsis": "XINEMA presents: Farther Than the Eye Can See, a screening of five short experimental films by local and international Palestinian filmmakers. These works observe Palestinian place, relation, and history as they are and have been represented through images and artifacts; and reflects on each filmmakers\u2019 experience in and apart from their homeland, and speaks to personal and familial perspectives on displacement and occupation. The program will begin with an original spoken word poem presented by Hira Rashid, and conclude with a Q&A with filmmaker Natali Karajeh. Balconies \u0627\u0644\u0634\u0631\u0641 Kamal Aljafari (Germany, 2007), 8 min An experimental meditation focusing on the deteriorated and unfinished balconies of the hometown of Kamal Aljafari, Ramla, and inspired by Romance son\u00e1mbulo by Federico Garc\u00eda Lorca: \u201cBut now I am no longer me, and my house is no longer my House\u2026\u201d Wild Plants of Palestine Alaa Abu Asad (Netherlands/Palestine, 2018), 10 min Journeys of observational tours solicited by the Palestinian Museum and conducted by two professors from Birzeit University to collect photos and information about Palestinian flora. WARNING: Depictions of military invasion. Your father was born 100 years old, and so was the Nakba \u0627\u0628\u0648\u0643\u064a \u062e\u0644\u0642 \u0639\u0645\u0631\u0647 \u0661\u0660\u0660 \u0633\u0646\u0629\u060c \u0632\u064a \u0627\u0644\u0646\u0643\u0628\u0629 Razan AlSalah (Canada, 2018), 7 min A Palestinian grandmother returns to her hometown Haifa through Google Streetview, today, the only way she can see Palestine. Farther Than the Eye Can See Basma al-Sharif (Germany, 2012), 13 min An essayistic exploration of statelessness is conveyed through this visually gripping and astutely constructed tale of a mass exodus of Palestinians from Jerusalem, recounted over a dense, stroboscopic cityscape. WARNING: Prolonged strobing, gunshot sounds, and an audio recollection of military occupation forced displacement. My Grandmothers Keys \u2013 \u0633\u062a\u064a \u0645\u0641\u062a\u0627\u062d Natali Karajeh (Canada, 2021), 13 min An experimental documentary about the Palestinian woman who took refuge in Jordan, what they have built, and what they left behind. WARNING: Audio recollections of military occupation and forced displacement. Q&A with filmmaker Natali Karajeh XINEMA [zin-em-a] is an artist-run experimental film series founded and based on on the traditional, ancestral and unceded territory of the Musqueam and the Tsleil-Wautuh Nations (Vancouver, BC). They began operation in VIFF Centre\u2019s 41 seat Studio Theatre, with a focus on BC-based and connected media artists, stringing emerging and established artists together into monthly thematic programs. With a home-ground of VIFF Centre, they now operate between spaces and regions, facilitating screenings, workshops and related events, with a focus on local wherever that may be.\u200b Their main priorities are to remain low-barrier, accepting free ongoing and unlimited submissions of any year or premiere status; prioritize underrepresented artists and media forms; and connect filmmakers and film-lovers of various backgrounds, disciplines and career levels.",
           "runtime_min": 8,
           "screenings_resolved": true,
-          "wayback_ts": "20240609232527",
+          "wayback_ts": "20241126232200",
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
