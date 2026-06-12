@@ -187,6 +187,30 @@ Add a `FilmsArchiveFetcher` mirroring `VIFFArchiveFetcher` exactly:
   `screeningsByCinema`** (keep it a separate corpus the way the VIFF archive
   bundle is), so the live-fetch cycle can't act on it.
 
+### LIVE IS AUTHORITATIVE FOR CURRENT/UPCOMING — archive is PAST only
+
+This is the boundary to get exactly right. The archive's screening *times* must
+NEVER override or supplement what the Live API / `What's On` shows for a
+currently-playing film:
+
+- The **scraper side already enforces this in practice**: it freezes (stops
+  re-fetching) a film once its run is over, so the archive's live edge is only
+  ever past/just-passed dates; current dates keep flowing from the cinema's
+  live calendar into `screeningsByCinema`, not here.
+- The **app side must enforce it structurally**: when a film id exists in BOTH
+  the live schedule and the archive, the live record WINS for everything
+  user-facing — showtimes, "Going", What's On rows. The archive contributes
+  that film to **search only**, and even there it's deduped by id so the live
+  entry is the one shown. The archive's `screenings` are used solely to render
+  a *past* film's history (muted/"PAST"), exactly like the VIFF series archive
+  already does — never to assert a current showtime.
+- Concretely: do NOT union archive `screenings` into a live film's showtimes.
+  The VIFF series union (`unionedProgramme`) merges live∪archive because there
+  the archive is the ONLY source of a mid-run film's already-passed dates; for
+  this all-films archive the live schedule is always present for current films,
+  so archive dates for a live film are redundant at best and stale at worst —
+  drop them in favour of live.
+
 Then extend `SearchView.rebuildCorpus()` to add a third source after series:
 films from the archive, deduped by id against what What's On + series already
 contributed (so a currently-playing film isn't doubled). **De-rank / section**
