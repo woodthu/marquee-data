@@ -16,9 +16,17 @@ permissions:
   pages: write
   id-token: write
 
+# Only one Pages deploy at a time, and let a newer run CANCEL an older
+# queued/in-progress one. GitHub Pages allows a single active deployment per
+# environment, so with cancel-in-progress:false two runs stacked close together
+# (e.g. a data push plus a manual re-run) fight over the environment and the
+# superseded one reports "Deployment failed, try again later." Cancelling the
+# stale run instead is GitHub's recommended setting for Pages and clears those
+# spurious failures. The site content is unaffected either way — the newest
+# run always wins — this just stops the loser from reporting a red X.
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
