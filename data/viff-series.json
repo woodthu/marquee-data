@@ -2276,7 +2276,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "synth-scores-film-studies",
@@ -2295,7 +2296,9 @@
               "start": "2023-08-01T19:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "movie-poster-design-film-studies",
@@ -2314,7 +2317,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -2333,7 +2337,8 @@
           "runtime_min": 25,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -2990,7 +2995,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "boyz-n-the-hood",
@@ -3647,6 +3653,10 @@
             {
               "start": "2026-07-28T18:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-07-30T20:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
           "wayback_ts": "20260626230325",
@@ -4291,7 +4301,7 @@
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260707",
+      "last_seen_live": "20260710",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -4779,7 +4789,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260707",
+      "last_seen_live": "20260710",
       "backfill_walked": "20260701"
     },
     {
@@ -5580,7 +5590,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "july-rhapsody",
@@ -5832,9 +5843,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "9-to-5",
@@ -6250,7 +6259,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -6269,7 +6279,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "scarface",
@@ -6450,8 +6461,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "paris-texas",
@@ -6622,8 +6632,7 @@
           "wayback_ts": "20230714112900",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "first-blood",
@@ -7184,8 +7193,7 @@
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "fatal-attraction",
@@ -9073,7 +9081,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -11302,7 +11311,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -12105,7 +12115,8 @@
           "slug": "caught-by-the-tides",
           "date_range": null,
           "wayback_ts": "20260206170615",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "karaoke",
@@ -12241,8 +12252,19 @@
         {
           "slug": "on-becoming-a-guinea-fowl",
           "date_range": null,
-          "wayback_ts": "20260206170615",
-          "fetch_failed": true
+          "wayback_ts": "20250516184217",
+          "title": "On Becoming a Guinea Fowl",
+          "poster": "https://images.viff.org/uploads/2024/08/OnBecomingAGuineaFowl.jpg?resize=960%2C600&gravity",
+          "synopsis": "When Shula (Susan Chardy) returns home to Zambia and finds her uncle\u2019s dead body on the roadside by a brothel, the last thing she wants is to mourn him. Her boisterously drunk cousin Nsansa (Elizabeth Chisela) can\u2019t stop laughing, because Uncle Fred died as he lived: a pervert. But when their aunties shame them into helping with three intense days of traditional funeral rites, the cousins must wrestle with the sanctification of a man who caused great harm in his lifetime. Kicking off our latest installment of African Cinema Now!, On Becoming a Guinea Fowl is the second feature from writer-director Rungano Nyoni (I Am Not a Witch), who was awarded a Best Director prize in Cannes\u2019 Un Certain Regard. Darkly humorous and occasionally surrealist, her writing is matched by razor-sharp editing and immersive sound design to expose the absurdity of the family\u2019s over-the-top demands. The pressure cooker of the funeral is contrasted with the joys and catharsis of stolen moments between the cousins. On Becoming a Guinea Fowl is a defiant warning call to families who hide predators in their midst. Akojo Film Collective says:",
+          "director": "Rungano Nyoni",
+          "year": 2024,
+          "runtime_min": 95,
+          "country": "Zambia/UK/Ireland",
+          "language": "In Bemba and English with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "julie-keeps-quiet",
@@ -13732,8 +13754,36 @@
           "slug": "fiume-o-morte",
           "date_range": null,
           "wayback_ts": "20260513012730",
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "title": "Fiume o Morte!",
+          "poster": "https://images.viff.org/uploads/2025/08/Fiume-O-Morte.jpg?resize=960%2C600&gravity",
+          "synopsis": "The Croatian city of Rijeka rediscovers its own forgotten history in this delightfully unconventional hybrid documentary. In 1919, the decadent Italian poet, lothario, general, and proto-fascist Gabriele D\u2019Annunzio takes great interest in the city known in Italian as Fiume \u2014 occupying it and proclaiming himself ruler. His short-lived regency causes an international uproar and local consternation before his ouster. In the present, director Igor Bezinovi\u0107 invites hundreds of locals to take part in a new documentary, turning the film into a citywide occasion of participation and collective storytelling. A shifting, protean film, Fiume o Morte! moves between absurdist re-enactments and documented record. From whimsical sight gags to a sobering examination of fascism, Bezinovi\u0107 plays with history, inviting the viewer to laugh at the seams between history and invention while recognizing D\u2019Annunzio\u2019s self-aggrandizing vision of rule as an absurd act of invention in itself. This is a charming tour de force of cinematic storytelling that brings a truly fascinating piece of forgotten history to life.",
+          "director": "Igor Bezinovi\u0107",
+          "year": 2025,
+          "runtime_min": 112,
+          "country": "Croatia/Italy/Slovenia",
+          "language": "In Croatian and Italian with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-05-22T17:10:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-05-23T14:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-05-24T17:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-05-28T18:10:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "clan-of-the-painted-lady",
@@ -13765,12 +13815,13 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260707",
+      "last_seen_live": "20260710",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -13789,16 +13840,31 @@
         {
           "slug": "the-music-room",
           "date_range": null,
-          "wayback_ts": "20260520184530",
+          "wayback_ts": "20260514074036",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "title": "The Music Room",
+          "poster": "https://images.viff.org/uploads/2026/04/MusicRoom.jpg?resize=960%2C600&gravity",
+          "synopsis": "Cinematographer Devan Scott continues his journey through the history of lighting in cinema. This week, he credits Satyajit Ray\u2019s director of photography Subrata Mitra for profound innovations that laid the foundation for ideas of motivated lighting that dominated the latter half of the twentieth century. Devan\u2019s workshop (approx 50 min) will be followed by a screening of The Music Room (1958), for many critics Ray\u2019s finest film. About the film: The Music Room (99 min) Satyajit Ray brilliantly evokes the crumbling opulence of the world of a fallen aristocrat (the beloved actor Chhabi Biswas) desperately clinging to a fading way of life. His greatest joy is the music room in which he has hosted lavish concerts over the years \u2014 now a shadow of its former vivid self. An incandescent depiction of the clash between tradition and modernity, and a showcase for some of India\u2019s most popular musicians of the day, The Music Room is a defining work by the great Bengali filmmaker.",
+          "director": "Satyajit Ray",
+          "year": 1958,
+          "runtime_min": 159,
+          "country": "India",
+          "language": "In Bengali with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-05-21T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ]
         },
         {
           "slug": "black-bag",
           "date_range": null,
           "wayback_ts": "20260519193842",
+          "fetch_attempts": 1,
           "fetch_failed": true,
           "fetch_failed_definitive": true
         },
@@ -13854,7 +13920,8 @@
           "date_range": null,
           "wayback_ts": "20260519193842",
           "fetch_attempts": 1,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "scarface",
@@ -17815,7 +17882,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-showrunners-scifi",
@@ -17842,7 +17910,7 @@
           "title": "Challenges and Opportunities",
           "poster": "https://images.viff.org/uploads/2022/09/InternationalCoproduction.jpg?resize=150%2C150",
           "synopsis": "Producers\u2019 work is constantly evolving, and that requires being increasingly adaptable. Canada has the largest number of bilateral treaties in the world, which gives producers and filmmakers more opportunities to co-create and co-fund their projects. Join VIFF\u2019s recent and previous producers and directors as they explore their most recent international collaborations and share their experiences and advice. Presented by",
-          "wayback_ts": "20220928084107",
+          "wayback_ts": "20230204222751",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -17872,7 +17940,9 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "industry-dgc-visionaries",
@@ -18453,8 +18523,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff24-blink",
@@ -18857,12 +18926,29 @@
         {
           "slug": "viff25-shifting-baselines",
           "date_range": null,
-          "wayback_ts": "20260213185049",
+          "wayback_ts": "20250827222228",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "title": "Shifting Baselines",
+          "poster": "https://images.viff.org/uploads/2025/08/ShiftingBaselines.jpg?resize=960%2C600&gravity",
+          "synopsis": "In the quiet border village of Boca Chica, Texas \u2014 hemmed in by the Gulf of Mexico and the Rio Grande \u2014 life once moved to the rhythm of waves and wildlife. But the landscape is shifting. Beaches have closed, homes bought out, and wetlands drained to make way for SpaceX\u2019s colossal 50-story rockets. Hovering above the village like steel deities, these rockets mark not just the privatization of space, but the violent remapping of Earth itself, fueled by the ambitions of a tech mogul with a messianic vision for humanity\u2019s future. Filmed in stark black and white and shaped by postwar sci-fi aesthetics, Shifting Baselines is a haunting observational essay about how speculative futures displace real communities, rewrite land, and recast technology as divine intervention. Following scientists, spectators, and residents on both sides of the U.S.-Mexico border, director Julien Elie captures a surreal moment in which space conquest is marketed as environmental salvation. Winner of the Green Dox Award at DokuFest 2025, this film reveals how cosmic ambition often begins with earthly erasure.",
+          "director": "Julien Elie",
+          "year": 2025,
+          "runtime_min": 100,
+          "country": "Canada",
+          "language": "In English, French and Spanish with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-10-06T17:30:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2025-10-07T12:00:00",
+              "venue": "International Village 8"
+            }
+          ]
         },
         {
           "slug": "viff25-remaining-native",
@@ -21581,7 +21667,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -22059,7 +22146,9 @@
           "wayback_ts": "20240127023248",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "mena-animalia",
@@ -22113,7 +22202,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -22160,11 +22250,17 @@
           "language": "Various with English subtitles",
           "synopsis": "A highly experimental bundle, these films use neorealism, experimentation with the 8/16mm film medium, editing, and breaking the fourth wall to push the boundaries of what narratives can include and how audiences experience them. The moped and the goldfinch dir. by Amir Bensaifi Algeria | Algerian Arabic | 12 min This project is a short film that tells us the story of Moufida , from a village in eastern Algeria, who decides to go and see his lover in Algiers by crossing the country on a moped. She finds herself confronted with the author of her story. A discussion between the two begins generating some tension. Ariha dir. by Malak Jabareen Palestine | Arabic | 11 min Ariha is a collection of small moments captured through the director\u2019s point of view on a family trip to Ariha (Jericho). I\u2019ve Known Rivers dir. by Saif Fradj and Esraa Elfeky Egypt/Tunisia | Arabic | 18 min \u201cSouth of Ajdabya\u201d, founded by Esraa Elfeky from Egypt and Saif Fradj from Tunisia, is a 2022 made collective of filmmakers interested in the north African desert, its mythologies, geologies, and anthropology. Using a mix of old filmmaking techniques (analog) with digital drawings and contemporary audio-visual effects, the collective aims to rewrite a common lost memory of the North African region on which the subjective imagination interacts. Fariha dir. by Negine Jasmine Sekandari USA | Dari | 5 min In the media, there is a huge disconnect between Afghans represented and Afghans that I grew up with. I wanted to create a film showcasing a glimpse of my grandmother, Fariha, as to me, she embodies most of the Afghan women that I am surrounded by. Afghans are complex, joyful, humorous, emotional, and deeply intelligent people \u2013 too many times those qualities are overlooked by the shadow of violence, war, and oppression \u2013 but my people are so much more than that. Where we are is always too far away dir. by Mivan Makia Canada | No Dialogue, Arabic song in background | 6 min Where we are is always too far away\u201d is an auto-portrait conceived as a diptych, presenting linear and non-linear spaces as a transient body. Shifting between movement and stillness, time speeds up, slows down, and gets lost in the landscapes of memory. Sister Mother Lover Child dir. by Nadia Shihab Canada/US | Turkman/Iraqi Turkish | 12 min It is spring yet all is coloured by a season of grief. A child dances, the grapevine ripens. We press our ears to the glass and hear singing from afar. Suspended, together, we are an unlikely constellation. I hold the frame until I find the form. Dear F\u2026 dir. by Hannan Jones Scotland | English | 7 min Dear F\u2026 is a hybrid documentary that navigates the intricate connections between personal and collective histories. Intertwining stories of Algerian migrants and the diaspora. Born in the early 90s, the filmmaker discovers a collection of letters from this turbulent time that sheds light on the challenges faced by Algerians. A Kurdish Melody: Past & Present dir. by Beizar Aradini USA | Kurdish | 8 min This short film takes the viewer on a journey through the heart of Nashville\u2019s Kurdish community, sharing stories that resonate across generations. The film underscores the significance of archival work in preserving the rich history and traditions of the Nashville Kurdish community. It highlights the urgency of documenting the personal narratives, cultural practices, and communal struggles, ensuring that they are not lost to time. Frescos of a ruined memory dir. by Adnan Kayssi Lebanon/France | Arabic & French | 20 min Kamal and Jad two men in their twenties live together in an apartment. Kamal, traumatized from his nightmares, projects his fears on his boyfriend Jad. Their relationship becomes unstable until one of them realizes he can\u2019t go on with it. He ends by leaving for another city. Co-Presented by",
           "runtime_min": 12,
-          "wayback_ts": "20250318071839",
+          "wayback_ts": "20240127051835",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2024-01-30T18:15:00",
+              "venue": "VIFF Centre - Studio Theatre"
+            }
+          ]
         },
         {
           "slug": "mena-award-ceremony",
@@ -23502,7 +23598,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 19,
+      "consecutive_404s": 20,
       "desc_rewalked": true
     },
     {
@@ -25977,7 +26073,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260707",
+      "last_seen_live": "20260710",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -26287,12 +26383,18 @@
           "title": "Pixar Trivia Night",
           "poster": "https://images.viff.org/uploads/2025/02/PixarTriviaNIght_1920px.jpg?resize=960%2C600&gravity",
           "synopsis": "Think you know your Pixar flicks? Get your buzz on at our themed trivia night. Prizes! Beer! And an extra pair of angry eyes, just in case\u2026 Teams of up to five are welcome \u2014 or come singly and we\u2019ll find you some buddies on the night. Space is limited, so advance booking is recommended. Preorder a highball at a reduced price when purchasing your ticket You must be 19+ to order a highball. Proof of age will be required when picking up your drink. Media Partner Community Partner",
-          "wayback_ts": "20250323103040",
+          "wayback_ts": "20250222082238",
           "runtime_min": 100,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2025-03-19T20:15:00",
+              "venue": "VIFF Centre Atrium"
+            }
+          ]
         },
         {
           "slug": "monsters-inc",
@@ -26656,7 +26758,8 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "music-pictures-new-orleans",
@@ -27737,11 +27840,39 @@
           "runtime_resolved": true,
           "featured_film_resolved": true,
           "director_resolved": true
+        },
+        {
+          "slug": "king-arthurs-night",
+          "screenings": [
+            {
+              "start": "2026-07-10T18:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-07-11T16:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-07-12T13:45:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-07-14T20:10:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-07-18T14:20:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "wayback_ts": "20241003223342",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260610",
+      "last_seen_live": "20260710",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -29594,9 +29725,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_attempts": 2,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 3,
+          "fetch_exhausted": true
         },
         {
           "slug": "the-tale-of-the-princess-kaguya",
@@ -29961,8 +30091,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mean-streets",
@@ -31166,7 +31295,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "glory",
@@ -31182,7 +31313,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260707",
+      "last_seen_live": "20260710",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -32840,9 +32971,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "paying-for-it",
@@ -34909,7 +35038,8 @@
           "runtime_resolved": true,
           "director": "Graham Foy",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "maigret",
@@ -35424,7 +35554,8 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "pacifiction",
@@ -37217,9 +37348,8 @@
           "slug": "viff22-short-forum-program-4",
           "date_range": null,
           "wayback_ts": "20250215220148",
-          "fetch_attempts": 2,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 3,
+          "fetch_exhausted": true
         },
         {
           "slug": "viff22-short-forum-program-5",
@@ -37474,7 +37604,8 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "if-you-are-a-man-viff-connect",
@@ -37559,7 +37690,9 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -37621,7 +37754,7 @@
           "country": "Canada",
           "language": "English and Tagalog with English subtitles",
           "synopsis": "Roaming wild in Toronto\u2019s streets, three queer adolescents hone their survival skills and scheme to run amok in a gay club. Julien (Matteus Lunot), a brash runaway, serves as pack leader, with timid Otis (Harlow Joy) and buoyant Tony (Zion Matheson) following in his wake. When some impetuous petty crime admits them into the promised land (and ushers in exhilarating depictions of beat-driven youthful abandon), it also imperils Dawn (Miyoko Anderson), Julien\u2019s de facto guardian. Once Dawn fails to return home, the guilt-ridden kids form a search party that ultimately uncovers darker realities. Joseph Amenta\u2019s first feature is an open-hearted love letter to childhood friendships and a powerful testament to the queer community\u2019s perseverance and adaptability. Through rhythmic cutting and sublime compositions, they capture moments of revelry and repose, and coax increasingly complex performances from their young cast. Serving up a cocktail of irreverence and melancholy, Amenta lends intoxicating atmosphere and intimate understanding to these precious kids\u2019 quest for belonging. This film is also available in-cinema Presented by Media Partner Community Partner",
-          "wayback_ts": "20220928082107",
+          "wayback_ts": "20221003105828",
           "runtime_min": 84,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -38100,7 +38233,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-katie-byron",
@@ -38119,7 +38253,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-michael-abels",
@@ -38204,8 +38339,7 @@
               "start": "2023-10-03T18:30:00",
               "venue": "The Rio Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -38706,7 +38840,8 @@
           "runtime_resolved": true,
           "director": "Nidhi Saxena",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -40139,8 +40274,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-sun-ra-do-the-impossible",
@@ -40931,7 +41065,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-blknws-terms-conditions",
@@ -40948,7 +41083,8 @@
           "runtime_resolved": true,
           "director": "Kahlil Joseph",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-edhi-alice-take",
@@ -40975,7 +41111,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-fiume-o-morte",
@@ -41002,8 +41139,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-the-great-north",
@@ -41030,7 +41166,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-khartoum",
@@ -41041,7 +41178,7 @@
           "country": "UK/Sudan/Germany/Qatar",
           "language": "In Arabic with English subtitles",
           "synopsis": "Filmed before and during Sudan\u2019s latest civil war, Khartoum is a collaborative hybrid documentary that follows five residents from the capital city into exile. Lokain and Wilson, two young bottle collectors, dream of new shirts and soccer glory; Jawad volunteers with the resistance; Khadmallah serves tea on a street corner; Majdi tries to protect his family while working for the regime. When the war erupts, the filmmakers and their subjects flee to Nairobi; here, they work together to convey their experiences, discovering new forms of collective expression through green screen, animation, and performance. Directed by Anas Saeed, Rawia Alhag, Ibrahim \u201cSnoopy\u201d Ahmad, Timeea M. Ahmed, and Phil Cox, Khartoum is born of necessity, intimacy, and invention. As the protagonists reenact the day war began \u2014 playing themselves and each other \u2014 the film\u2019s authorship is absorbed into the community, and what begins as five threads becomes a shared act of resistance, healing, and remembrance. Winner of the Peace Film Prize at Berlinale and the Gilda Vieira de Mello Award at FIFDH Geneva. Oct 7 & 11: Q&A Presented by Community Partner",
-          "wayback_ts": "20251003090751",
+          "wayback_ts": "20250912194310",
           "runtime_min": 80,
           "screenings": [
             {
@@ -41072,7 +41209,7 @@
           "country": "Kenya/Switzerland",
           "language": "English",
           "synopsis": "In the year 2093, a filmmaker named Kuve arrives in the fictional African nation of Umata, where generative AI has been used to digitally resurrect the continent\u2019s ancient kingdoms. There, he meets Princess Mumbi, a magnetic young woman torn between royal duty and her dream of becoming an actress. As their encounter unfolds, Kuve is drawn into a layered triangle of memory, mythology, and authorship\u2014one that quietly interrogates the role of technology in shaping historical narratives. What does it mean to revive the past with tools that never knew it? Directed by Swiss-Kenyan filmmaker Damien Hauser, Memory of Princess Mumbi is a daringly self-reflexive debut that blends mockumentary, romantic drama, and political satire into a low-budget speculative fable. Entirely self-produced and built with digital worldbuilding tools, the film is less interested in prediction than in provocation. At its heart is a question that lingers long after the credits: Can storytelling remain sovereign in an age of artificial memory, or has the archive already been rewritten? Presented by Community Partner",
-          "wayback_ts": "20250905044155",
+          "wayback_ts": "20250906003133",
           "screenings": [
             {
               "start": "2025-10-10T18:30:00",
@@ -41084,8 +41221,7 @@
           "director": "Damien Hauser",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-wto99",
@@ -41112,7 +41248,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-your-touch-makes-others-invisible",
