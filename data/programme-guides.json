@@ -1,6 +1,14 @@
 {
   "viff": [
     {
+      "id": "viff-VIFFCentre_Jul17-Aug6_dl.pdf",
+      "cinemaId": "viff",
+      "title": "Jul 17–Aug 6, 2026",
+      "pdfURL": "https://images.viff.org/uploads/2026/07/VIFFCentre_Jul17-Aug6_dl.pdf",
+      "coverURL": null,
+      "period": "2026-07-17"
+    },
+    {
       "id": "viff-VIFFCentre_Jul3-16_dl.pdf",
       "cinemaId": "viff",
       "title": "Jul 3–16, 2026",
@@ -1219,5 +1227,5 @@
       "period": "2000-01-01"
     }
   ],
-  "updatedAt": "2026-07-16T20:14:57+00:00"
+  "updatedAt": "2026-07-17T20:25:17+00:00"
 }
