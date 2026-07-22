@@ -2218,7 +2218,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "david-lynch-film-studies",
@@ -2226,7 +2228,7 @@
           "title": "Post-Modernity in Lumberton",
           "poster": "https://images.viff.org/uploads/2023/06/Talks_DavidLynch.jpg?resize=960%2C600&gravity",
           "synopsis": "After the commercial misfire of Dune, David Lynch went to the suburbs and pulled off the most hotly debated and influential American movie of the decade. Blue Velvet mixed the familiar with the deeply strange, it broke taboos in the depiction of sex and violence (and repetitive swearing), and in its post-modern mix-and-match of cinematic styles: the coming-of-age film, noir mystery, camp comedy, melodrama, and surrealism. A film that both lingers and boils over. In this mid-length film talk, UBC professor Ernest Mathijs explores an endlessly fascinating film in the context of Lynch\u2019s artistic development, the nostalgic impulse in 80s culture, and dark sexuality in Hollywood movies. Media Partner",
-          "wayback_ts": "20230706094644",
+          "wayback_ts": "20230714112858",
           "runtime_min": 30,
           "screenings_resolved": true,
           "screenings": [
@@ -2295,7 +2297,9 @@
               "start": "2023-08-01T19:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "movie-poster-design-film-studies",
@@ -2879,7 +2883,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "reservoir-dogs",
@@ -2958,8 +2963,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "dances-with-wolves",
@@ -3010,8 +3014,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "terminator-2-judgment-day",
@@ -3026,8 +3029,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "a-brighter-summer-day",
@@ -3046,8 +3048,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "julio-avila-cuban-band-mambo-kings-live",
@@ -3827,6 +3828,10 @@
             {
               "start": "2026-08-09T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-08-12T17:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
           "wayback_ts": "20231207055708",
@@ -4295,7 +4300,7 @@
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260719",
+      "last_seen_live": "20260722",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -4783,7 +4788,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260719",
+      "last_seen_live": "20260722",
       "backfill_walked": "20260715"
     },
     {
@@ -5572,7 +5577,7 @@
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Raagaverse Plays Bollywood",
           "poster": "https://images.viff.org/uploads/2024/03/RaagaversePlaysBollywood.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20250122134428",
+          "wayback_ts": "20250425113103",
           "synopsis": "Get your tickets before April 26 at the early bird price of $25 (regular $30). Raagaverse is an exciting Indo-Jazz fusion project spearheaded by Shruti Ramani (voice) in a collaboration with the award-winning Jodi Proznick (bass), the supremely talented Noah Franche-Nolan (piano, Nord), and the fiery Nicholas Bracewell (drums). Raagaverse\u2019s music melds ancient and rich Hindustani melodies with dense and dynamic Jazz harmonies. For this special show, Raagaverse will be delving into the vibrant world of Bollywood, from Lata Mangeshkar classics to A.R. Rahman\u2019s magic. Shruti will share clips from the legendary Bollywood musicals which inspire her, counter-pointing them with the band\u2019s unique take on these songs, in Raagaverse\u2019s iconic jazz quartet sound. The show will also feature other extraordinary musical guests; Kiarah O\u2019Kane on backing vocals, Thad Bailey-Mai on Trumpet and Curtis Andrews on percussion alongside Raagaverse. Thanks to",
           "runtime_min": 90,
           "screenings_resolved": true,
@@ -5584,8 +5589,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "july-rhapsody",
@@ -6935,11 +6939,17 @@
           "synopsis": "After the commercial misfire of Dune, David Lynch went to the suburbs and pulled off the most hotly debated and influential American movie of the decade. Blue Velvet mixed the familiar with the deeply strange, it broke taboos in the depiction of sex and violence (and repetitive swearing), and in its post-modern mix-and-match of cinematic styles: the coming-of-age film, noir mystery, camp comedy, melodrama, and surrealism. A film that both lingers and boils over. In this mid-length film talk, UBC professor Ernest Mathijs explores an endlessly fascinating film in the context of Lynch\u2019s artistic development, the nostalgic impulse in 80s culture, and dark sexuality in Hollywood movies. Media Partner",
           "runtime_min": 30,
           "screenings_resolved": true,
-          "wayback_ts": "20230816225335",
+          "wayback_ts": "20230619052735",
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2023-08-04T18:00:00",
+              "venue": "VIFF Centre - Vancity Theatre"
+            }
+          ]
         },
         {
           "slug": "something-wild",
@@ -7255,7 +7265,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "wayback_ts": "20230816225332",
+          "wayback_ts": "20230701190955",
           "synopsis": "After decades of postwar decline, the early 1980s seemed to spell the end of feature-length animation in the United States, and Walt Disney Studios considered shuttering its animation division. Yet by the end of the decade, Who Framed Roger Rabbit? was released to immense box office success and wide critical acclaim, marking the beginning of an American animation renaissance. Why did a studio synonymous with wholesome family entertainment take a risk on a technically daring film crammed with slapstick comedy and sexual innuendo? Following the film\u2019s detective protagonist, Dr. Gadassik (Emily Carr University) investigates the mystery of how Hollywood animation went from the brink of collapse to one of the world\u2019s top theatrical attractions. Her talk uncovers shifting alliances and rivalries, the return of adult-oriented animation after decades of repression, and the rise of digital effects that would forever blur the line between animation and live-action. Toontown will never be the same. Media Partner",
           "runtime_min": 60,
           "screenings_resolved": true,
@@ -7622,9 +7632,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "80s-fan-choice",
@@ -7666,9 +7674,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -7688,6 +7694,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
+          "fetch_attempts": 1,
           "fetch_failed": true,
           "fetch_failed_definitive": true
         }
@@ -10179,7 +10186,7 @@
         {
           "slug": "true-north-andy-milne-concert-live",
           "date_range": null,
-          "wayback_ts": "20260203013058",
+          "wayback_ts": "20260221053920",
           "title": "Andy Milne in Concert",
           "poster": "https://images.viff.org/uploads/2026/01/TrueNorth.jpg?resize=960%2C600&gravity",
           "synopsis": "Or: Everything You Wanted to Know About the Black Experience in Canada, But Were Too Afraid to Ask. Mich\u00e8le Stephenson\u2019s brilliant essay film is an electrifying history of Black Canada, a story of displacement and discrimination, prejudice and Black pride, from Freedom Road to Africville and the civil rights movement of the 1960s, fused from a mind-bogglingly rich cache of archival material, first person accounts, and a remarkable score by celebrated jazz pianist Andy Milne. In this double-header of a West Coast premiere, Andy Milne will perform a 45-minute set followed by a 15-minute Q&A (5pm show); and then a longer set sans Q&A (8:15pm show), along with a screening of the film at both shows. The story of Blacks in Canada is complicated. It is a story of displacement and discrimination, of the Freedom Road, and of shanty towns like Africville, in Halifax. In the second half, Stephenson hones in on the overspill from the civil rights movement of the 1960s, and a critical protest at the George Williams Medical School in Montreal. Activists like Rosie Douglas led the charge for change. Andy Milne is a 2x JUNO Award-winning pianist & composer known for his Dapp Theory & Unison projects, and for his work with artists such as Ravi Coltrane, Steve Coleman, William Shatner & Bruce Cockburn. His most recent recording, \u201cTime Will Tell\u201d, was nominated in 2025 for the JUNO \u201cBest Jazz: Group\u201d. This VIFF Live event is co-presented with Infidels Jazz and part of our Celebrating Black Futures series with the Vancouver Art Gallery, curated by Kika Memeh. With thanks to Tom Lee Music and Yamaha.",
@@ -11241,7 +11248,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "boxcutter",
@@ -11394,7 +11402,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -11746,8 +11755,24 @@
           "slug": "come-home-my-child",
           "date_range": null,
           "wayback_ts": "20250130120053",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Come Home, My Child",
+          "poster": "https://images.viff.org/uploads/2025/01/ComeHomeMyChild.jpg?resize=960%2C600&gravity",
+          "synopsis": "After the death of her husband and her son, Mama Yang immigrated to New York from Taiwan at the age of sixty for a new life. For more than two decades, Mama Yang has been corresponding with inmates serving long-term imprisonment in New York. The documentary follows Mama Yang\u2019s extraordinary life journey to tell the stories of a group of people searching for a way out of tragedy, who encounter each other in a world of loneliness. How do they cope with the pain of loss and how do they survive? Filmed over the course of ten years, Come Home, My Child narrates the American Dream through the eyes of Mama Yang and these inmates.",
+          "director": "Jasmine Chinghui Lee",
+          "year": 2023,
+          "runtime_min": 91,
+          "country": "Taiwan",
+          "language": "In English and Mandarin with English subtitles",
+          "screenings": [
+            {
+              "start": "2025-02-09T17:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "picnic",
@@ -11913,7 +11938,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
@@ -14394,12 +14420,13 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260719",
+      "last_seen_live": "20260722",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -17420,8 +17447,7 @@
               "start": "2025-07-05T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "wild-river",
@@ -20884,7 +20910,7 @@
           "country": "UK",
           "language": "In Russian and English with English subtitles",
           "synopsis": "Canadian Premiere How far would you go to defend the idea of an open press? The Price of Truth is the extraordinary story of a man who risks everything, to preserve freedom of speech in Russia. It is a tale of bravery, defiance, and a simple refusal to give in to Vladimir Putin \u2013 whatever the cost. In December 2021 Dmitry Muratov is awarded the Nobel Peace Prize. He is the editor-in-chief of Russia\u2019s only independent newspaper, Novaya Gazeta. Since he founded Novaya, six of his journalists have been murdered after their reports displeased the state, most famously, reporter Anna Politkovskaya, gunned down in the lift of her Moscow apartment. Another war dominates this film. In February 2022, Russia invades Ukraine. In early March, using the cover of a documentary film festival, Muratov secretly negotiates free passage for 40 journalists with the Latvian government. Then, all too aware of the risk he is running, he returns to Moscow to look after his paper and its remaining staff. In May, he announces that he is going to auction his Nobel medal and give the money to Ukrainian refugees. Days later, he is on a train home to see his mother. Suddenly, a masked attacker bursts into his compartment and pours red paint all over him. The paint is laced with acetone. Dima\u2019s eyesight is permanently damaged. Undaunted, he goes ahead with the auction. And on June 21, Muratov\u2019s medal sells for a record $103 million. To this day, he refuses to leave Moscow, whatever the pressure on him and his team. \u2018Putin stands for death. I stand for life.\u2019 Women journalists in South Africa who expose wrongdoing by those in power are often forced to endure deeply personal, frightening attacks on social media, as the four leading reporters interviewed for Section 16 disclose. Investigative reporters for publications that include The Daily Maverick and Die Beeld discuss the impact on them of targeted social media negativity, including direct threats to their safety. As one explains, when influential politicians with millions of followers, such as Julius Malema, malign them on social media and call for action, the danger they face is very real. But Ferial Haffajee, Marianne Thamm, Pauli van Wyk, Caryn Dolley, and others like them continue to write about corruption, crime in high places, and state collusion. What motivates them to keep going is relevant to us all. Bonus Content \u2013 Free for All Viewers With thanks to our Community Partner, SAFF Canada Video courtesy of the South African Film Festival Filmmaker Emilie Gambade (Co-director, Section 16) and investigative journalist Pauli van Wyk discuss the harassment of female journalists with former South African TV journalist Lindy Mtongana. They explain the motivation behind extreme cyber-bullying, and how these attacks affect them personally and professionally. They share their hopes that this documentary will raise awareness of the dangers facing investigative journalists globally. Watch Interview Tickets to this event include the Closing Night Reception, which includes appetizers and a drink ticket. A panel discussion/Q&A will follow the screening. Keynote Speaker: Katrina vanden Heuvel, Editorial Director and Publisher, The Nation Keynote Speakers: Emilie Gambade, Co-director, Section 16; Editor, The Daily Maverick and Malibongwe Tyilo, Co-director, Section 16; Associate Editor, Maverick Life, The Daily Maverick Panelists: Katrina vanden Heuvel, Editorial Director and Publisher, The Nation Patrick Forbes, Director, The Price of Truth Jeff Cohen, Journalist, Professor, Media Critic, Founder of Fairness and Accuracy in Reporting (FAIR) Christiaan Triebert, Journalist, Visual Investigations Team, The New York Times Martin Lee, Author, Activist, Co-founder of Fairness and Accuracy in Reporting (FAIR) Emilie Gambade, Co-director, Section 16; Editor, The Daily Maverick Moderator: Aaron Goodman, Professor of Journalism and Communication Studies, KPU",
-          "wayback_ts": "20240127022346",
+          "wayback_ts": "20250725132726",
           "runtime_min": 114,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -22269,7 +22295,7 @@
           "poster": "https://images.viff.org/uploads/2025/05/SumoDoSumoDont_Live.jpg?resize=960%2C600&gravity",
           "title": "Chen Baker Play J-Pop",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20250517114554",
+          "wayback_ts": "20250519000909",
           "synopsis": "Early bird tickets are available now! There are a limited number of early bird tickets available, so don\u2019t wait! After selling out multiple venues across Vancouver, Jeffery\u2019s Chen Baker band is back (and bigger than ever) to present a set of city pop and jazzy J-pop before the screening of the hilarious underdog comedy Sumo Do, Sumo Don\u2019t (1992). Featuring an ensemble seasoned gigging musicians and rising stars, the septet will be celebrating the music of Miki Matsubara, Taeko Ohnuki, Lamp, and more! Kitty Jia \u2014 vocals Brittany Or \u2014 keyboard Jack Lee \u2014 trumpet Neal Wang \u2014 saxophones Piyotr Kao \u2014 bass Dario Acosta \u2014 drums Jeffery Chen \u2014 guitar + Sumo Do, Sumo Don\u2019t (Masayuki Su\u00f4, Japan, 1992, 103 min) This hilarious sports underdog story from the director of Shall We Dance won 5 Japan Academy Awards including Best Film, and was the inspiration for the recent Disney+ spin off series. Deftly sidestepping the problem that few actors make convincing sumo wrestlers, Suo sets his scenario at the bottom of the ladder, at a college sumo club so low in the standings it only has one member, who has yet to graduate after eight years of trying. Shuhei (Masahiro Motoki) is talked into joining by his wily professor, but decides to stick around when he gets sight of the pretty manager, Natsuko (Misa Shimizu). Humiliated in his first tournament, Shuhei swears to turn things around\u2026",
           "runtime_min": 103,
           "screenings": [
@@ -22563,7 +22589,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-2022-the-stranger",
@@ -22718,7 +22745,8 @@
           "wayback_ts": "20240127023213",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -22759,7 +22787,8 @@
           "wayback_ts": "20240127023248",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-animalia",
@@ -22813,7 +22842,9 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -22821,7 +22852,7 @@
           "title": "Project Funding and Pitch Workshop",
           "poster": "https://images.viff.org/uploads/2024/01/Workshop.jpg?resize=960%2C600&gravity",
           "synopsis": "Following the successful How to Finance Your Film workshop, MENA is hosting representatives from the top regional and national funding organizations for an Industry Rendezvous. This expanded session is a chance to both hear about each funder\u2019s programs and requirements, as well as to share your work and ask specific questions to each body about their programs in an informal one-on-one format. You will have the opportunity to receive feedback about your ideas, learn more about opportunities available, and meet the faces behind the organizations! Food and refreshments provided. Limited seating available. Featuring Presented in Partnership with Catering by",
-          "wayback_ts": "20240127023053",
+          "wayback_ts": "20240205203847",
           "runtime_min": 150,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -22832,9 +22863,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-the-burdened",
@@ -22892,7 +22921,8 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -23142,7 +23172,9 @@
           "wayback_ts": "20260221050714",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -23156,7 +23188,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260221050653",
+          "wayback_ts": "20260416120909",
           "runtime_min": 30,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -24210,7 +24242,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 23,
+      "consecutive_404s": 24,
       "desc_rewalked": true
     },
     {
@@ -24494,7 +24526,9 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -24532,7 +24566,7 @@
           "country": "Canada",
           "language": "In French and Haitian Creole with English subtitles",
           "synopsis": "With its 16mm cinematography lending it an uncanny air, Miryam Charles\u2019 haunting nonfiction work examines the mysterious circumstances surrounding her teenage cousin\u2019s death, while speculating on the life that this young woman might\u2019ve led had she survived. \u201cMy story is both tragic and hopeful,\u201d incants cousin Tessa (brought to life by Schelby Jean-Baptiste). Through the graces of Charles\u2019 direction, her tale is also equal measures puzzle and poetry. Transporting us between New England, Haiti, and Montreal, This House allows a speculative future incarnation of Tessa to commune with her bereaved mother (Florence Blain Mbaye) and retrace her family\u2019s immigration odyssey. \u201cI refuse reality and try to understand it through art,\u201d professes Charles in her director\u2019s statement for her first feature-length work. While abstraction and experimental techniques are undeniably key to this enigmatic piece, there\u2019s also a sense of anguish that serves as its emotional core. It\u2019s a lyrical yet potent reminder of violence\u2019s capacity to rupture reality and shake the foundations of family. Silvestre Award for Best Feature Film, IndieLisboa 2022 Q&A Oct 1 & Oct 5 Presented by Media Partner",
-          "wayback_ts": "20220928202510",
+          "wayback_ts": "20221005031740",
           "runtime_min": 75,
           "screenings": [
             {
@@ -24609,7 +24643,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "English",
-          "wayback_ts": "20220909010534",
+          "wayback_ts": "20220907224857",
           "runtime_min": 96,
           "screenings": [
             {
@@ -26685,7 +26719,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260719",
+      "last_seen_live": "20260722",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -26818,7 +26852,7 @@
           "country": "China",
           "synopsis": "Pema Tseden\u2019s first short films: The Silent Manistone Jingjingde manishi China, 2002, 30 min Pema Tseden shot this short film during his first year as a film student. It previews, in concentrated form, his first feature The Silent Holy Stones. A very young lama\u2019s devotion to a Chinese television series Journey to the West introduces gentle contrasts between traditional Tibetan tales, monastery life, and video entertainment seeping in from the secular outside world. The Grassland Caoyuan China, 2004, 20 min Pema Tseden was the first Tibetan director to graduate from the Beijing Film Academy. His graduation film is the first of many road trips in his oeuvre. As an elderly couple searches for the thief of their precious yak, basic moral quandaries \u2014 what is a crime, what is justice? \u2014 turn out not to be as simple as they first appear. Community Partner",
           "runtime_min": 30,
-          "wayback_ts": "20250430231309",
+          "wayback_ts": "20250516182716",
           "screenings": [
             {
               "start": "2025-05-18T18:45:00",
@@ -26995,7 +27029,7 @@
           "title": "Pixar Trivia Night",
           "poster": "https://images.viff.org/uploads/2025/02/PixarTriviaNIght_1920px.jpg?resize=960%2C600&gravity",
           "synopsis": "Think you know your Pixar flicks? Get your buzz on at our themed trivia night. Prizes! Beer! And an extra pair of angry eyes, just in case\u2026 Teams of up to five are welcome \u2014 or come singly and we\u2019ll find you some buddies on the night. Space is limited, so advance booking is recommended. Preorder a highball at a reduced price when purchasing your ticket You must be 19+ to order a highball. Proof of age will be required when picking up your drink. Media Partner Community Partner",
-          "wayback_ts": "20250222082238",
+          "wayback_ts": "20250307040338",
           "runtime_min": 100,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -27299,8 +27333,7 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-king-of-wuxia",
@@ -28485,7 +28518,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260719",
+      "last_seen_live": "20260722",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -31602,7 +31635,7 @@
         {
           "slug": "summer-in-the-70s-epilogue-film",
           "date_range": null,
-          "wayback_ts": "20220829040115",
+          "wayback_ts": "20220831174608",
           "title": "Film #70 (Surprise Film)",
           "poster": "https://images.viff.org/uploads/2022/06/VIFFDefault.jpg?resize=150%2C150",
           "synopsis": "As our epic Ragged Glory: Summer in the 70s season comes to an end, we couldn\u2019t resist throwing our pass holders a parting gift and adding an epilogue, appropriately enough the 70th feature film in the series that began, back in mid-July, with the epochal rock concert film, Gimme Shelter. Just for fun, we are keeping the identity of the movie in question a closely guarded secret. But we will give you a few clues: It comes from the latter half of the 1970s. The director has featured previously in this season. And as far as star power goes, this one is hard to top. Thanks for your support for our series\u2026 See you next year for Summer in the 80s\u2026 ?",
@@ -31923,7 +31956,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260719",
+      "last_seen_live": "20260722",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -36370,7 +36403,7 @@
           "country": "USA",
           "language": "In English, Dari, and Pashto with English subtitles",
           "synopsis": "Canadian Premiere In the summer of 2021, the United States withdrew its military forces from Afghanistan, marking an end to the so-called Forever War, while leaving behind a hamstrung government and an undersupplied Afghan National Army to fend for themselves against increasingly aggressive Taliban forces. Director Matthew Heineman (A Private War, Cartel Land) captures intimate details of American and Afghan soldiers navigating the politics and bureaucracy, focusing in on the beleaguered General Sami Sadat, who is left bearing the brunt of responsibility to fight an unwinnable war. Sadat is committed to the goal of a democratic Afghanistan, but as the remaining American personnel find their hands tied by policy decisions from their superiors, and the Afghan military\u2019s morale declines as they suffer loss after loss, he begins to realize that victory is impossible. After 20 years, hundreds of thousands of lives lost, and trillions of dollars spent, the Taliban is back in control and the country is still mired in civil war. Media Partner",
-          "wayback_ts": "20220909224416",
+          "wayback_ts": "20230129095540",
           "runtime_min": 93,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -36638,7 +36671,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "English and Tagalog with English subtitles",
-          "wayback_ts": "20230204222724",
+          "wayback_ts": "20220907224134",
           "screenings": [
             {
               "start": "2022-09-30T20:45:00",
@@ -36829,7 +36862,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "In French and Haitian Creole with English subtitles",
-          "wayback_ts": "20230927024035",
+          "wayback_ts": "20220928085030",
           "runtime_min": 75,
           "screenings_resolved": true,
           "screenings": [
@@ -37166,7 +37199,8 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-whale",
@@ -37220,7 +37254,7 @@
           "country": "Canada",
           "language": "English",
           "synopsis": "Canadian Premiere Leaving home for university, Abbie (Willow Shields) thrives as she experiences independence and self-actualization. However, she\u2019s tormented by the knowledge that her brother Kayden (Jonathan Simao), who has autism and is non-verbal, is reeling in her absence and pushing her parents (Lochlyn Munro and Elizabeth Mitchell) to their limits. While home for the holidays, Abbie faces the impossible decision between returning to Karly (Ava Capri), the woman she\u2019s fallen for, or providing Kayden the support he seemingly desperately needs. Drawing from her own experiences growing up with a sibling with ASD, Connie Cocchia creates a clear-eyed depiction of autism\u2019s impacts on an individual and their family. Rather than crafting a scrappy underdog story about an overachieving member of the autism community with savant qualities, When Time Got Louder offers a deeply moving story about good people simply trying to do their best\u2014and just how hard that can be. Q&A Oct 8 & Oct 9 Presented by Media Partner",
-          "wayback_ts": "20220909010533",
+          "wayback_ts": "20220909012122",
           "screenings": [
             {
               "start": "2022-10-08T14:30:00",
@@ -38242,7 +38276,8 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "if-you-are-a-man-viff-connect",
@@ -38327,9 +38362,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -38398,8 +38431,8 @@
           "director": "Joseph Amenta",
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "soviet-bus-stops-viff-connect",
@@ -38859,7 +38892,8 @@
               "start": "2022-10-02T18:00:00",
               "venue": "Annex"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -38867,7 +38901,7 @@
           "title": "Way of Water, Titanic and more",
           "poster": "https://images.viff.org/uploads/2022/09/Talk-Avatar.jpg?resize=960%2C600&gravity",
           "synopsis": "Best known for her work in James Cameron\u2019s record-breaking blockbuster Titanic, which won her the Academy Award for Best Costume Design, Deborah Lynn Scott has over 50 credits for her work. Recently, she reunited with Cameron to work on Avatar: The Way of Water, and her distinguished film career also includes the iconic films Back to the Future, Minority Report, E.T. the Extra-Terrestrial, and Transformers, to name just a few. Join us for a fascinating conversation about Scott\u2019s process: designing costumes for action movies versus period pieces, the importance of research, and creative collaboration required to pull off a director\u2019s vision. Presented by Supported by Community Broadcast Partner",
-          "wayback_ts": "20220915230120",
+          "wayback_ts": "20260216135637",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -38878,8 +38912,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-katie-byron",
@@ -38887,7 +38920,7 @@
           "title": "In Conversation with Katie Byron, Production Designer, Don't Worry Darling",
           "poster": "https://images.viff.org/uploads/2022/09/Katie-Byron-Talk.png?resize=960%2C600&gravity",
           "synopsis": "Production designer Katie Byron worked with some of the most up-and-coming directors of the past years and created looks for films like Booksmart, Like Crazy, Zola, Color Out of Space, and C\u2019mon C\u2019mon. Recently, she reunited with director Olivia Wilde on one of the most anticipated films of 2022, Don\u2019t Worry Darling, where she created a glamorous look for a 1950s experimental, utopian suburban community. Come hear about Byron\u2019s collaborations, working with directors, and designing the perfect look, feel, and shape of a utopian realm. Supported by Community Broadcast Partner",
-          "wayback_ts": "20221003110348",
+          "wayback_ts": "20230604101931",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -38932,7 +38965,7 @@
           "title": "In Conversation with Deepa Mehta",
           "poster": "https://images.viff.org/uploads/2023/09/Talks_DeepaMehta.jpg?resize=960%2C600&gravity",
           "synopsis": "Join us in conversation with the Oscar-nominated director Deepa Mehta as she delves into many aspects of her internationally celebrated career. Deepa is a visionary storyteller who challenges conventions and breaks down barriers. Known for her Elements Trilogy, Fire (1996), Earth (1998), and Water (2005), she will also share insights on her newest film I Am Sirat, which premieres at VIFF this year. The documentary is a uniquely collaborative work made with the film\u2019s co-director and star Sirat Taneja, who shares her experience as a transgender woman in India. This talk will be moderated by award-winning actor, writer and director Agam Darshi. Media Partner",
-          "wayback_ts": "20230923192252",
+          "wayback_ts": "20240621141302",
           "runtime_min": 90,
           "screenings_resolved": true,
           "screenings": [
@@ -38944,8 +38977,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "I Am Sirat",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-building-closet-oppenheimer",
@@ -39004,7 +39036,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -39023,8 +39056,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -39390,7 +39422,7 @@
           "year": 2024,
           "country": "India",
           "language": "In Hindi, Marathi and Odia with English subtitles",
-          "wayback_ts": "20250919080402",
+          "wayback_ts": "20250828141432",
           "screenings": [
             {
               "start": "2025-10-08T20:45:00",
@@ -39459,7 +39491,9 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -40665,9 +40699,7 @@
               "start": "2025-10-09T21:15:00",
               "venue": "International Village 8"
             }
-          ],
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          ]
         },
         {
           "slug": "viff25-the-art-of-adventure",
