@@ -2180,7 +2180,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "fluorescent-desert-film-studies",
@@ -2208,7 +2209,7 @@
           "poster": "https://images.viff.org/uploads/2023/06/Talks_Ripped.jpg?resize=960%2C600&gravity",
           "synopsis": "\u201cOn your feet, soldier!\u201d Machismo came roaring back in the 80s: Sylvester Stallone (Rambo), Arnold Schwarzenegger (The Terminator), Mel Gibson (Mad Max), Harrison Ford (Indiana Jones), Eddie Murphy (Beverly Hills Cop) and a young man by the name of Tom Cruise (Top Gun) were the biggest box office stars in the world. UBC Film Prof Ernest Mathijs examines what it meant to be a real, dutiful man in American movies in the Reagan era, and to check manhood in the mirror. This mid-length lecture (25 mins) will include film clips, some of which may be violent, and potentially also some polysyllabic words, though these will be used sparingly. Media Partner",
           "runtime_min": 25,
-          "wayback_ts": "20230714112900",
+          "wayback_ts": "20230706094620",
           "screenings": [
             {
               "start": "2023-07-26T18:00:00",
@@ -2218,9 +2219,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "david-lynch-film-studies",
@@ -2248,7 +2247,7 @@
           "title": "Yuppies!",
           "poster": "https://images.viff.org/uploads/2023/06/Talks_Yuppies.jpg?resize=960%2C600&gravity",
           "synopsis": "Yuppies were a new breed in the 1980s: Young Urban Professionals. They were ambitious, successful, cynical, always rushed\u2026 and plagued by nightmares, if the movies had it right. Films like After Hours, Something Wild, Fatal Attraction, Wall Street and Working Girl had fun at the expense of these upwardly mobile sharks, with varying degrees of envy, admiration and contempt. Ernest Mathijs opens their rolodex, clocks their Rolex, and runs their credit scores. Media Partner",
-          "wayback_ts": "20230706094559",
+          "wayback_ts": "20230705215916",
           "screenings": [
             {
               "start": "2023-08-13T16:10:00",
@@ -2267,7 +2266,7 @@
           "title": "Who Framed Roger Rabbit? and the American Animation Renaissance",
           "poster": "https://images.viff.org/uploads/2023/06/Who-Framed-Roger-Rabbit.png?resize=960%2C600&gravity",
           "synopsis": "After decades of postwar decline, the early 1980s seemed to spell the end of feature-length animation in the United States, and Walt Disney Studios considered shuttering its animation division. Yet by the end of the decade, Who Framed Roger Rabbit? was released to immense box office success and wide critical acclaim, marking the beginning of an American animation renaissance. Why did a studio synonymous with wholesome family entertainment take a risk on a technically daring film crammed with slapstick comedy and sexual innuendo? Following the film\u2019s detective protagonist, Dr. Gadassik (Emily Carr University) investigates the mystery of how Hollywood animation went from the brink of collapse to one of the world\u2019s top theatrical attractions. Her talk uncovers shifting alliances and rivalries, the return of adult-oriented animation after decades of repression, and the rise of digital effects that would forever blur the line between animation and live-action. Toontown will never be the same. Media Partner",
-          "wayback_ts": "20230701190955",
+          "wayback_ts": "20230706094638",
           "screenings": [
             {
               "start": "2023-08-18T17:40:00",
@@ -2298,8 +2297,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "movie-poster-design-film-studies",
@@ -2337,7 +2336,8 @@
           "runtime_min": 25,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -2658,7 +2658,18 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "title": "Pulp Fiction",
+          "poster": "https://images.viff.org/uploads/2026/05/PulpFiction.jpg?resize=960%2C600&gravity",
+          "synopsis": "As decades must, the 1990s had a beginning, a middle and an end. But in the spirit of Quentin Tarantino we\u2019re going to launch our big summer series 90s, Baby smack in the middle, with 1994\u2019s Pulp Fiction, the most original, exciting and influential movie of its era. On 35mm. A pop post-modernist and voracious cultural magpie, Tarantino came out of nowhere (well, Video Archives), who was hailed as a new god of filmmaking overnight. With Reservoir Dogs (1992), Pulp Fiction and his screenplays for True Romance (1993) and Natural Born Killers (94) he electrified 90s film culture, changing the way movies sounded, the way they flowed, and how they connected with audiences. His emergence coincided with the advent of the world wide web, and Tarantino constructed his genre hybrids from a wide array of international influences \u2014 French new wave, American noir and 70s exploitation pictures, Hong Kong action cinema \u2014 rewriting the rule book as he did so. Pulp Fiction scrambles the chronology of three interlocking narratives, as if in homage to Godard\u2019s observation that a story should have a beginning, a middle and an end \u201cbut not necessarily in that order\u201d. Revitalizing the careers of several flagging A-list stars at a stroke (John Travolta, Bruce Willis and Harvey Keitel), Tarantino unleashed a torrent of black comic verbal riffs and repartee. If the tone is ironic, the characters are iconic, and the momentum never flags throughout its 154-minute running time. Backed by Miramax Films, the indie company that dominated movie talk in the 90s (even as it was bought up by Disney), Pulp Fiction won the Palme d\u2019Or and broke the $100 million barrier at the North American box office, ushering in the era of the \u201cmini-major\u201d, through which the studios co-opted many of the best and brightest of the independent sector.",
+          "director": "Quentin Tarantino",
+          "year": 1994,
+          "runtime_min": 154,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "titanic",
@@ -2675,7 +2686,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Titanic",
+          "poster": "https://images.viff.org/uploads/2026/05/Titanic.jpg?resize=960%2C600&gravity",
+          "synopsis": "James Cameron\u2019s romantic disaster movie spent 17 weeks topping the box office charts on its way to a $2 billion gross and 11 Academy Awards. Not too shabby for such a harrowing experience (and that\u2019s just the love scenes). Not for the last time, you might wish Cameron hired a writer to polish his dialogue. But in 21-year-old Kate Winslet and Leonardo DiCaprio (22) he found the right beautiful young things to bring the love story to life, and when it comes to engineering the shipwreck, the filmmaker is in his element. It was the biggest blockbuster of the decade, and indeed the biggest box office hit of all time* until Cameron\u2019s Avatar (2009). It left an indelible mark on a generation of young moviegoers. *Gone with the Wind is still champ if you adjust for inflation but Titanic would come in #3 Staff Pick: Abbie",
+          "director": "James Cameron",
+          "year": 1997,
+          "runtime_min": 197,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "schindlers-list",
@@ -2795,8 +2817,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "trust",
@@ -2844,7 +2865,15 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "title": "Pulp Fiction + The ReViberators",
+          "poster": "https://images.viff.org/uploads/2026/05/PulpFiction_Live.jpg?resize=960%2C600&gravity",
+          "synopsis": "As decades must, the 1990s had a beginning, a middle and an end. But in the spirit of Quentin Tarantino we\u2019re going to launch our big summer series 90s, Baby smack in the middle, with 1994\u2019s Pulp Fiction, the most original, exciting and influential movie of its era. On 35mm. Preceded by surf guitar band The ReViberators performing live! A pop post-modernist and voracious cultural magpie, Tarantino came out of nowhere (well, Video Archives), who was hailed as a new god of filmmaking overnight. With Reservoir Dogs (1992), Pulp Fiction and his screenplays for True Romance (1993) and Natural Born Killers (1994) he electrified 90s film culture, changing the way movies sounded, the way they flowed, and how they connected with an audience already saturated in media and schooled in video stores. His emergence coincided with the advent of the world wide web, and Tarantino constructed his genre hybrids from a wide array of international influences \u2014 French new wave, American noir and 70s exploitation pictures, Hong Kong action cinema \u2014 rewriting the rule book as he did so. Pulp Fiction scrambles the chronology of three interlocking narratives, as if in homage to Godard\u2019s observation that a story should have a beginning, a middle and an end, \u201cbut not necessarily in that order\u201d. Revitalizing the careers of several flagging A-list stars at a stroke (John Travolta, Bruce Willis and Harvey Keitel), Tarantino unleashed a torrent of black comic verbal riffs and repartee. If the tone is glib, the characters are vivid, and the momentum never flags throughout the 154-minute running time. Backed by Miramax Films, the indie company that dominated movie talk in the 90s (even as it was bought up by Disney), Pulp Fiction won the Palme d\u2019Or and broke the $100 million barrier at the North American box office, ushering in the era of the \u201cmini-major\u201d, through which the studios co-opted many of the best and brightest of the independent sector. The ReViberators is an instrumental surf rock trio from Vancouver featuring Kitty & The Rooster\u2019s Noah Walker on guitar and Jodie Ponto on drums and bass. Since the passing of surf legends Dick Dale and The Ventures, The ReViberators answered the call to keep this wild raucous music alive by taking a deep dive into surf music\u2019s first wave. The band plays the early 1960s surf guitar hits alongside their own originals with an intensity and authenticity rarely heard today. Join us at 6:30 for The ReViberators live set followed by Pulp Fiction at 7:45.",
+          "runtime_min": 234,
+          "featured_film": "Pulp Fiction",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "madonna-truth-or-dare",
@@ -2883,8 +2912,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "reservoir-dogs",
@@ -2904,7 +2932,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "jacobs-ladder",
@@ -2920,7 +2949,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "true-romance",
@@ -2940,7 +2970,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "the-company-of-strangers",
@@ -2963,7 +2994,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "dances-with-wolves",
@@ -2975,7 +3007,18 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "title": "Dances with Wolves",
+          "poster": "https://images.viff.org/uploads/2026/05/DancesWithWolves.jpg?resize=960%2C600&gravity",
+          "synopsis": "Kevin Costner had been a star for just three years when he persuaded Orion to put up $15 million so that he could direct and star in a Western. At a time when that genre was moribund, Dances With Wolves would be three hours long, and 40 percent of its meagre dialogue would be in the Lakota dialect (subtitled). Orion initially released the film on just 14 prints, but the reviews were raves \u2014 Costner was compared to everybody from John Ford to Akira Kurosawa \u2014 and the movie went on to play for nearly a year, becoming one of the most commercially successful Westerns ever made, and beating out Martin Scorsese\u2019s GoodFellas for the Best Picture and Best Director Academy Awards. Sent from the Civil War to man a far-flung army outpost on the frontier, Costner\u2019s Lt Dunbar finds himself left to his own devices \u2014 until he strikes up a relationship with the Sioux who are his only neighbours. Costner\u2019s \u201cregular guy epic\u201d has spectacle and pays authentic respect to the land\u2019s original occupants. Staff Pick: Ingrid",
+          "director": "Kevin Costner",
+          "year": 1990,
+          "runtime_min": 181,
+          "country": "USA",
+          "language": "In English and Lakota with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "thelma-louise",
@@ -3059,11 +3102,16 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260626201417",
+          "wayback_ts": "20260606142852",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "title": "Julio Avila Cuban Band + The Mambo Kings",
+          "poster": "https://images.viff.org/uploads/2026/05/MamboKings.jpg?resize=960%2C600&gravity",
+          "synopsis": "Feel the heat! Tonight is a night to shake your booty in the best seats in town as we combine a live set of exhilarating Cuban music with a rediscovered 90s barnstormer of a movie starring Latin heartthrobs Armand Assante and Antonio Banderas alongside the likes of Tito Puente and Celia Cruz. The Julio Avila Cuban Band is a powerhouse ensemble bringing the infectious rhythms and rich traditions of Cuban music to the West Coast. Led by bassist, vocalist, and composer Julio Avila, the group combines musical excellence with deep cultural authenticity. Each member, most of whom hail from Cuba, contributes world-class talent on vocals, horns, percussion, and keys, creating a vibrant, rich sound. Together, they perform a dynamic mix of salsa, son, merengue, cumbia, and bachata, captivating audiences with irresistible energy and rhythm. Formed in Vancouver in 2015, the band quickly became a local favourite, celebrated for electrifying live performances and a strong commitment to preserving and sharing Cuban musical heritage. Whether performing at festivals, concerts, or community events, the Julio Avila Cuban Band delivers an unforgettable experience that gets people dancing and fills hearts with joy. This is Cuban music at its finest \u2013 alive, passionate, and deeply soulful. About the film: The Mambo Kings (Arne Glimcher, 1992, 104 min) Armand Assante and Antonio Banderas (in his American movie debut) play brothers, Cuban musicians exiled in the 1950s New York City, trying to get their lives back on track. Based on the Pulitzer prize winning novel, The Mambo Kings Play Songs of Love, by Oscar Hijuelos. Band Members Julio Avila \u2013 bass, vocals Ernesto Benitez \u2013 keyboards Hector Ramos \u2013 congas Julio Orlando Avila \u2013 saxophone, clarinet, flute Isidora Basanovic \u2013 vocals, minor percussion Hamilton Feraud \u2013 vocals, minor percussion Reinaldo Burgues \u2013 vocals, minor percussion",
+          "runtime_min": 234,
+          "featured_film": "The Mambo Kings"
         },
         {
           "slug": "the-silence-of-the-lambs",
@@ -3082,7 +3130,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "delicatessen",
@@ -3097,8 +3147,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "wayback_ts": "20260606135338",
+          "title": "Delicatessen",
+          "poster": "https://images.viff.org/uploads/2026/05/Delicatessen.jpg?resize=960%2C600&gravity",
+          "synopsis": "How to describe Delicatessen? The first film from one-time animator Jean-Pierre Jeunet (later of Amelie fame), made in collaboration with Marc Caro, it\u2019s a dystopian romantic comedy involving cannibalism, and an allegory for France under German occupation. But what that description fails to convey is the film\u2019s charm and invention. There is something of Jacques Tati\u2019s slapstick comedy to it, mixed with Tex Avery\u2019s madcap Looney Tunes mayhem. The sheer chutzpah carries us along on a wave of elation. Unemployed circus clown Louison (Dominique Pinon) applies for a job as a handyman at an apartment building in post-apocalyptic France, unaware that the ad is meant to lure people to slaughter. The butcher/landlord Clapet (Jean-Claude Dreyfus) provides human meat for his tenants. When Louison and Julie (Maire-Laure Dougnac), the butcher\u2019s daughter, fall in love, it takes all their wits to escape the knife.",
+          "director": "Marc Caro & Jean-Pierre Jeunet",
+          "year": 1991,
+          "runtime_min": 99,
+          "country": "France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "unforgiven",
@@ -3407,7 +3468,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Serial Mom",
+          "poster": "https://images.viff.org/uploads/2026/05/SerialMom.jpg?resize=960%2C600&gravity",
+          "synopsis": "Housewife Beverly Sutphin (Kathleen Turner) seems to enjoy a life of domestic bliss. She has a loving husband (Sam Waterston), two fine teenage kids, and a beautiful Baltimore home. Hell, she even gives the birds in her backyard Christian names. Admittedly, she\u2019s a little highly strung\u2026 When Beverly goes on the rampage with a knife, chasing a scruffy teenager through the streets in her Sunday best, it\u2019s in defence of all she holds most dear: family values, impeccable manners, road safety. Suburban conformity fosters its own pathologies. This is a killer comedy from the one and only John Waters (who says it\u2019s his best film), with an uproariously funny, marvellously malicious performance from Turner.",
+          "director": "John Waters",
+          "year": 1994,
+          "runtime_min": 95,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "three-colours-red",
@@ -3424,7 +3496,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Red",
+          "poster": "https://images.viff.org/uploads/2026/05/ThreeColoursRed.jpg?resize=960%2C600&gravity",
+          "synopsis": "Red, the exquisite conclusion of the Three Colours Trilogy, proved to be Kieslowski\u2019s final film; the director died unexpectedly in March 1996, at the age of 54, of a heart attack shortly after undergoing bypass surgery. Ir\u00e8ne Jacob plays Valentine, a runway model living in Geneva, who crosses paths with a retired judge (Jean-Louis Trintignant) who\u2019s a bit of an eavesdropper. Initially repelled, she becomes intrigued by this man, as do we\u2026",
+          "director": "Krzysztof Kie\u015blowski",
+          "year": 1994,
+          "runtime_min": 99,
+          "country": "Poland/France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-shawshank-redemption",
@@ -3473,7 +3556,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "four-weddings-and-a-funeral",
@@ -3486,7 +3570,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Four Weddings and a Funeral",
+          "poster": "https://images.viff.org/uploads/2026/05/FourWeddingsAndAFuneral.jpg?resize=960%2C600&gravity",
+          "synopsis": "Four Weddings begins with an onslaught of fucks. It\u2019s the first signal that this rom-com will break from tradition, despite the ritualized structural conceit described in the title. Weddings and funerals: these are sacred ceremonies that bring together friends and family in communion, and we\u2019re supposed to be on our best behaviour (at least to start with). Add to that the film\u2019s milieu: upper class Britain, which is even more in thrall to formality, good manners and social appearances. The charm of the movie is how the permanently befuddled Charles (floppy, self-deprecating Hugh Grant), with his disastrous romantic life, tries and fails to measure up to these expectations. The witty screenplay is by Richard Curtis \u2014 it\u2019s still his best work. The movie was an unexpected box office smash in North America and propelled Grant to stardom and comparisons with namesake Cary\u2026 until his misadventure with sex worker Divine Brown a year later. That\u2019s a comedy we have yet to see.",
+          "director": "Mike Newell",
+          "year": 1994,
+          "runtime_min": 118,
+          "country": "UK",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-lion-king",
@@ -3520,7 +3615,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "To Die For",
+          "poster": "https://images.viff.org/uploads/2026/05/ToDieFor.jpg?resize=960%2C600&gravity",
+          "synopsis": "Little Hope, New Hampshire. Larry (Matt Dillon) can\u2019t believe his luck when he marries Suzanne (Nicole Kidman), the prettiest girl in town. Not only that: she\u2019s going to be a star, the next Barbara Walters, because \u201cYou\u2019re not anybody in America unless you\u2019re on TV\u201d! He never quite comprehends that her ambitions are much too big for the domestic life he offers. Suzanne\u2019s first step toward her celebrity destiny is weather girl for a local cable station. Next, she picks up a camera to make a documentary about local disaffected youth (impersonated by a hilariously dim Joaquin Phoenix and Casey Affleck). Sadly Suzanne\u2019s documentary ethics prove sorely wanting\u2026 Ironically Kidman\u2019s note perfect personification of a ruthless starlet catapulted her into the big league. Buck Henry (The Graduate; Catch 22) wrote the acidic screenplay, based on a novel by Joyce Maynard, itself based on the true story of a 22-year-old who seduced a teen into murdering her husband. Staff Pick: Nate",
+          "director": "Gus Van Sant",
+          "year": 1995,
+          "runtime_min": 106,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "casino",
@@ -3554,7 +3660,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "seven",
@@ -3571,7 +3678,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Seven",
+          "poster": "https://images.viff.org/uploads/2026/05/Seven.jpg?resize=960%2C600&gravity",
+          "synopsis": "Not many cop movies invoke Chaucer, Milton and Dante, but not many cop movies go so far as Seven to plunge us into the darkness of men\u2019s souls. Brad Pitt is the young detective paired with world-weary partner Morgan Freeman to investigate a spate of grisly murders. David Fincher and DP Darius Khondji powerfully communicate a vision of the modern city as a Babylonian den of iniquity, in which good men fight a losing battle against evil. Audaciously bleak, and literally dark, Seven was emphatic enough to become an against-the-grain hit and established Fincher\u2019s commercial and artistic credentials. Staff Pick: Ani & Jason D",
+          "director": "David Fincher",
+          "year": 1995,
+          "runtime_min": 130,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "andrea-superstein-austin-powers-live",
@@ -3603,9 +3721,20 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
-          "wayback_ts": "20260626230325",
+          "wayback_ts": "20260606134801",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Ghost in the Shell",
+          "poster": "https://images.viff.org/uploads/2026/05/GhostInTheShell.jpg?resize=960%2C600&gravity",
+          "synopsis": "James Cameron called it \u201ca stunning work of speculative fiction . . . the first to reach a level of literary excellence\u201d. The Wachowskis used to take a DVD of the movie to pitch their project The Matrix to producers, telling them, \u201cWe want to do that \u2014 for real.\u201d Ghost in the Shell was the first anime feature to make an impact in North America, and it clearly made a strong impression on American filmmakers. But more than that, it\u2019s a remarkably prescient story which anticipated how AI blurs the lines between man and machine. 2029: Cybernetics are encroaching on what used to be the exclusive domain of human intelligence. When a rogue hacker known as \u201cThe Puppetmaster\u201d brings brain-hacking into the political arena, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster. Staff Pick: Juan",
+          "director": "Mamoru Oshi",
+          "year": 1995,
+          "runtime_min": 83,
+          "country": "Japan",
+          "language": "In Japanese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "before-sunrise",
@@ -3862,9 +3991,20 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260626230325",
+          "wayback_ts": "20260606142011",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Jackie Brown",
+          "poster": "https://images.viff.org/uploads/2026/05/JackieBrown.jpg?resize=960%2C600&gravity",
+          "synopsis": "Jackie Brown is based on Elmore Leonard\u2019s novel Rum Punch. While it\u2019s plotted with Leonard\u2019s typical off-hand intricacy, the set-up is simple enough. Take half a dozen characters who know they\u2019re in a fix, and give them half a million dollars to fight over. On the wrong side of the law, we have a ruthless gun dealer, Ordell (Samuel L Jackson), his prison-happy buddy Louis (Robert DeNiro), and the reliably duplicitous Melanie (Bridget Fonda). \u201cI don\u2019t have to trust Melanie, I know her,\u201d Ordell tells a blankly incomprehending Louis. On the other side, there\u2019s a slick, eager cop, Ray Nicolet (Michael Keaton) and the worldweary bailbondsman, Max Cherry (Robert Forster). Meanwhile air stewardess Jackie Brown (Pam Grier) is stuck in the middle with the money, wondering if she can\u2019t play both ends against each other and get away scott free. Tarantino\u2019s first movie after Pulp Fiction, Jackie Brown met with very mixed reviews on release but like Jackie and Max, it only gets better with age. It has a surprising grace and gravitas, it\u2019s a \u201clived-in\u201d film, and maybe for the only time in QT\u2019s work we truly care about the characters. For once the soul isn\u2019t relegated to the soundtrack.",
+          "director": "Quentin Tarantino",
+          "year": 1997,
+          "runtime_min": 154,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "out-of-sight",
@@ -4296,11 +4436,27 @@
           "director_resolved": true,
           "featured_film_resolved": true,
           "correction_swept": true
+        },
+        {
+          "slug": "election",
+          "screenings": [
+            {
+              "start": "2026-08-28T18:20:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-08-29T18:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "date_range": null,
+          "wayback_ts": "20260626230325",
+          "fetch_failed": true
         }
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260722",
+      "last_seen_live": "20260725",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -4788,7 +4944,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260722",
+      "last_seen_live": "20260725",
       "backfill_walked": "20260715"
     },
     {
@@ -5841,7 +5997,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "9-to-5",
@@ -6257,7 +6414,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -6445,7 +6603,7 @@
           "date_range": "Sep 28 \u2013 Oct 8 2023",
           "title": "Robby M\u00fcller's America",
           "poster": "https://images.viff.org/uploads/2023/06/Talks_FlourescentDesert.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20230714091346",
+          "wayback_ts": "20230619052655",
           "synopsis": "Nobody has more evocatively documented the red deserts, fluorescent green dive bars, and gray urban landscapes of America than Dutch cinematographer Robby M\u00fcller. In this presentation, cinematographer and professor Devan Scott will delve into the ways in which M\u00fcller, in collaboration with directors such as Wim Wenders (Paris, Texas), William Friedkin (To Live and Die in L.A.), and Jim Jarmusch (Down by Law), spent the 1980s rendering visual poetry out of the dark, forgotten corners of the American experiment. Media Partner",
           "screenings": [
             {
@@ -7175,7 +7333,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -7265,7 +7424,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "wayback_ts": "20230701190955",
+          "wayback_ts": "20230705215918",
           "synopsis": "After decades of postwar decline, the early 1980s seemed to spell the end of feature-length animation in the United States, and Walt Disney Studios considered shuttering its animation division. Yet by the end of the decade, Who Framed Roger Rabbit? was released to immense box office success and wide critical acclaim, marking the beginning of an American animation renaissance. Why did a studio synonymous with wholesome family entertainment take a risk on a technically daring film crammed with slapstick comedy and sexual innuendo? Following the film\u2019s detective protagonist, Dr. Gadassik (Emily Carr University) investigates the mystery of how Hollywood animation went from the brink of collapse to one of the world\u2019s top theatrical attractions. Her talk uncovers shifting alliances and rivalries, the return of adult-oriented animation after decades of repression, and the rise of digital effects that would forever blur the line between animation and live-action. Toontown will never be the same. Media Partner",
           "runtime_min": 60,
           "screenings_resolved": true,
@@ -7601,7 +7760,7 @@
           "date_range": "Sep 28 \u2013 Oct 8 2023",
           "title": "Synth Scores",
           "poster": "https://images.viff.org/uploads/2023/07/Synth-Scores-Film-Studies.png?resize=960%2C600&gravity",
-          "wayback_ts": "20230714112823",
+          "wayback_ts": "20230713235647",
           "synopsis": "Giant sweeping layers of sine wave melodies in Vangelis\u2019 Blade Runner, performed on the Yamaha CS-80. Metallic crushing bliss in Brad Fiedel\u2019s The Terminator, performed on the Prophet 5. The vibrant twisting emotions and dark urgent textures in Tangerine Dream\u2019s Near Dark, combining synthetic drums with orchestration. The 80\u2019s provided the film world with an instrument that would change soundtracks forever: the synthesizer. But what is a synthesizer? What makes a synthesizer score different? Join composer Cayne McKenzie in discussion: how synthesizers shaped the soundtracks of the 80s and beyond. Cayne McKenzie composed soundtracks for Violent and Ash, and with the bands We Are the City and Big Kill Media Partner",
           "runtime_min": 40,
           "screenings": [
@@ -7632,7 +7791,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "80s-fan-choice",
@@ -7693,10 +7854,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -9084,7 +9242,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -10643,7 +10802,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "film-studies-lighting",
@@ -11249,7 +11409,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "boxcutter",
@@ -11394,7 +11555,7 @@
         {
           "slug": "viff24-ar-rahman",
           "date_range": null,
-          "wayback_ts": "20260312191945",
+          "wayback_ts": "20240922182554",
           "title": "Stories and Music from His Career",
           "poster": "https://images.viff.org/uploads/2024/08/Live_ARRahman_Promo-14.jpg?resize=960%2C600&gravity",
           "synopsis": "For one night only on October 5, two-time Oscar-winning composer and songwriter A.R. Rahman will join the Vancouver Symphony Orchestra and the Vancouver International Film Festival for An Evening with A.R. Rahman: Stories and Music from His Career. The international superstar will provide a keynote and performance with the VSO at the Orpheum, with music spanning his legendary career composing for some of Hollywood and Bollywood\u2019s biggest hits. This special concert presented by the VSO and VIFF is part of an exciting new collaboration between the two organizations that celebrates the connection between music and film. Reaching international acclaim in 2008 with his score for Slumdog Millionaire, A.R. Rahman\u2019s live performance will be a celebration of sound and emotion. His works are notable for their seamless cultural integration of Eastern classical music with electronic music sounds, world music genres, and traditional orchestral arrangements. A marquee event of VIFF and a highlight of the VSO season, An Evening with A.R. Rahman will share his life\u2019s journey with fans through a new and custom-made presentation that blends storytelling and song. The legendary artist will invite audiences behind the scenes of his greatest works, sharing insights into his process and stories from his remarkable career. He will also perform segments of his scores live with the VSO, with clips from the fan-favourite films projected on the Orpheum\u2019s big screen. Concert repertoire to be announced soon.",
@@ -11403,7 +11564,12 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2024-10-05T20:00:00",
+              "venue": "Orpheum"
+            }
+          ]
         }
       ],
       "hero_image": null,
@@ -11882,7 +12048,8 @@
           ],
           "wayback_ts": "20260206170615",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "the-company-of-strangers",
@@ -11938,8 +12105,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
@@ -14421,12 +14587,13 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         }
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260722",
+      "last_seen_live": "20260725",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -18576,7 +18743,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-dgc-visionaries",
@@ -18589,7 +18757,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -18916,7 +19085,7 @@
         {
           "slug": "retrograde",
           "date_range": null,
-          "wayback_ts": "20221005032227",
+          "wayback_ts": "20220909010542",
           "title": "Retrograde",
           "poster": "https://images.viff.org/uploads/2022/08/Retrograde.jpg?resize=960%2C600&gravity",
           "synopsis": "Canadian Premiere In the summer of 2021, the United States withdrew its military forces from Afghanistan, marking an end to the so-called Forever War, while leaving behind a hamstrung government and an undersupplied Afghan National Army to fend for themselves against increasingly aggressive Taliban forces. Director Matthew Heineman (A Private War, Cartel Land) captures intimate details of American and Afghan soldiers navigating the politics and bureaucracy, focusing in on the beleaguered General Sami Sadat, who is left bearing the brunt of responsibility to fight an unwinnable war. Sadat is committed to the goal of a democratic Afghanistan, but as the remaining American personnel find their hands tied by policy decisions from their superiors, and the Afghan military\u2019s morale declines as they suffer loss after loss, he begins to realize that victory is impossible. After 20 years, hundreds of thousands of lives lost, and trillions of dollars spent, the Taliban is back in control and the country is still mired in civil war. Media Partner",
@@ -19163,7 +19332,8 @@
               "start": "2024-10-05T20:00:00",
               "venue": "Orpheum"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff24-blink",
@@ -20921,7 +21091,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -22496,7 +22667,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -22589,8 +22761,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-the-stranger",
@@ -22655,12 +22826,13 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-rewind-bundle",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240205203835",
+          "wayback_ts": "20240127051748",
           "title": "Rewind Bundle",
           "poster": "https://images.viff.org/uploads/2023/12/RewindBundle_MyGirlfriend.jpg?resize=960%2C600&gravity",
           "director": "Various",
@@ -22765,7 +22937,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-stop-bundle",
@@ -22843,8 +23016,8 @@
             }
           ],
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -22901,14 +23074,15 @@
               "start": "2024-01-30T18:15:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "mena-award-ceremony",
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Award Ceremony",
           "poster": "https://images.viff.org/uploads/2023/12/Award-ceremony-Banner-1920-x-1080-1.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20240127022653",
+          "wayback_ts": "20240127051929",
           "synopsis": "The Awards Ceremony caps off MENA 5 by recognizing this year\u2019s programming highlights. Join us for an afternoon of food, music, and a celebration of MENA 5\u2019s best films! The award categories to be presented are: Catering by Join us after the Closing ceremony for the after party at The Cobalt starting at 9:00 pm. Check out menafilmfestival.com for tickets.",
           "runtime_min": 120,
           "screenings_resolved": true,
@@ -22921,8 +23095,7 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -23173,6 +23346,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
+          "fetch_attempts": 1,
           "fetch_failed": true,
           "fetch_failed_definitive": true
         },
@@ -24242,7 +24416,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 24,
+      "consecutive_404s": 25,
       "desc_rewalked": true
     },
     {
@@ -24499,7 +24673,8 @@
           "runtime_resolved": true,
           "director": "Gail Maurice",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "soft",
@@ -24527,8 +24702,8 @@
           "director": "Joseph Amenta",
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -25017,7 +25192,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "flow",
@@ -26284,7 +26460,7 @@
           "synopsis": "Canadian Premiere Veteran Hong Kong star Eric Tsang (Infernal Affairs) has a field day here as Chi Kwong, a terrible actor (actually a retiree who works as an extra in HK movies) whose unwaveringly cheerful and sunny disposition makes him a natural for WeFamily, a rent-a-mom-and-pop operation. In his first assignment, Kwong plays a stern dad to a distraught daughter taking her first driving lesson. When a cop commandeers the car to chase a runaway criminal, he assumes that\u2019s all part of the script (it isn\u2019t). Another client needs a respectable family to present to her prospective in-laws (not a great long-term plan, to be sure), a scheme which immediately goes off the rails when her fianc\u00e9\u2019s family arrives for dinner an hour early. If the opening salvos favour broad slapstick and farce, this unapologetic crowd-pleaser has a few tricks up its sleeve and more emotional registers than you might expect. It\u2019s a full meal, and Tsang\u2019s fans will savour every moment. Presented by Media Partner",
           "runtime_min": 100,
           "screenings_resolved": true,
-          "wayback_ts": "20220909010539",
+          "wayback_ts": "20250105231519",
           "director": "Benny Lau",
           "runtime_resolved": true,
           "director_resolved": true,
@@ -26719,7 +26895,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260722",
+      "last_seen_live": "20260725",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -27311,7 +27487,7 @@
         {
           "slug": "hopper-an-american-love-story",
           "date_range": null,
-          "wayback_ts": "20220912214209",
+          "wayback_ts": "20250105231725",
           "title": "Hopper - An American Love Story",
           "poster": "https://images.viff.org/uploads/2022/08/Hopper.jpg?resize=960%2C600&gravity",
           "synopsis": "World Premiere Short of hanging the painting on your living room wall, Phil Grabsky\u2019s popular Exhibition on Screen series may be the best way to spend quality time with a favourite artist. At least, that\u2019s what it feels like as we\u2019re immersed in the infinitely evocative oils of Edward Hopper, a poet with a paintbrush. Although Hopper\u2019s work seems straightforward\u2014he\u2019s an American realist after all\u2014it\u2019s also rich in paradox. If he seems to distill a certain sense of the American Century, particularly the urban environment, he also ignores great swathes of it; his cities are lonely places, scarcely populated. He\u2019s a suggestive storyteller (we might think of Raymond Carver or Hemingway) but also a cryptic one, inviting us to fill in the blanks (no wonder he\u2019s always been such a popular artist with filmmakers). As for his own life, he was impatient with attempts to psychoanalyze his work, but as Grabsky discovers, this consummate craftsman owed a great deal to the artist Josephine Nivison, who would become his wife and who sacrificed her own career to manage his. The film draws on leading experts and curators, Hopper\u2019s diaries and letters, but of course, the best reason to watch it is to bathe in close-ups of superb art. Q&A Oct 5 & Oct 7 Presented by Media Partner",
@@ -27338,7 +27514,7 @@
         {
           "slug": "the-king-of-wuxia",
           "date_range": null,
-          "wayback_ts": "20220928083646",
+          "wayback_ts": "20220928090126",
           "title": "The King of Wuxia",
           "poster": "https://images.viff.org/uploads/2022/08/KingOfWuxia.jpg?resize=960%2C600&gravity",
           "synopsis": "International Premiere Lin Jing-Jie\u2019s doc is a detailed, deeply poignant tribute to one of history\u2019s great filmmakers. King Hu (1932-1997) was a consummate film artist\u2014a sure hand not only at directing, but also drawing, calligraphy, acting, and other arts. Lin assembles actors, choreographers, critics, scholars, producers, fellow directors, and others who knew and loved Hu; their tributes and analyses form a mosaic-like depiction. Part I is centred on Hu as an artist, with wide-ranging discussion of masterpieces like Dragon Inn (1967) and A Touch of Zen (1971). Cast and crew members reveal the master\u2019s grasp of film production in its many facets, while directors such as John Woo, Tsui Hark, and Ann Hui discuss the fully realized films. Part II is more biographical, taking us through a life which took Hu from China to Hong Kong, and Taiwan to California, where his unrealized final film was to be set. Lin\u2019s film is a beautiful tribute to a wonderful man, and a must-see for lovers of East Asian cinema. Presented by Media Partner Community Partner",
@@ -27382,7 +27558,7 @@
         {
           "slug": "the-melt-goes-on-forever-the-art-and-times-of-david-hammons",
           "date_range": null,
-          "wayback_ts": "20220908013932",
+          "wayback_ts": "20221003110049",
           "title": "The Art and Times of David Hammons",
           "poster": "https://images.viff.org/uploads/2022/08/MeltGoesOnForever.jpg?resize=150%2C150",
           "synopsis": "North American Premiere An astonishing documentary about the elusive and provocative African-American artist David Hammons, The Melt Goes On Forever chronicles the legendary artist\u2019s incredible body of work, from his body prints in the 1960s, to found object sculptures, to cheeky installations in upper crust galleries, which overtly mock the elite art world and critique the capitalist and arbitrary notions of value in art. Hammons\u2019 work is often blistering, firmly rooted in questioning the dominant culture and exposing racial injustice, and exploring the space that Black people hold in America. Hammons is notoriously private, and this conflict between his personal reticence and worldwide attention is fascinating to watch. The film reveals the tension between insiders and outsiders in art, and explores the fickleness and push-pull antics of the established art world. Using archival footage, interviews with artists, curators, and critics, alongside animation, this film is a remarkable record of the work of an artist who constantly defies the establishment and remains subversive at every turn. Q&A Sept 30 & Oct 2 Presented by Series Media Partner Media Partner",
@@ -28518,7 +28694,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260722",
+      "last_seen_live": "20260725",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -31940,7 +32116,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "glory",
@@ -31952,11 +32129,22 @@
           ],
           "date_range": null,
           "fetch_failed": true
+        },
+        {
+          "slug": "diane",
+          "screenings": [
+            {
+              "start": "2026-08-25T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "date_range": null,
+          "fetch_failed": true
         }
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260722",
+      "last_seen_live": "20260725",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -33614,7 +33802,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "paying-for-it",
@@ -33968,7 +34157,8 @@
               "start": "2022-10-05T18:30:00",
               "venue": "The Cinematheque"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "tortoise-under-the-earth",
@@ -35208,7 +35398,8 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "huesera",
@@ -35419,7 +35610,7 @@
           "year": 2022,
           "country": "Taiwan",
           "language": "Mandarin",
-          "wayback_ts": "20220928083646",
+          "wayback_ts": "20220928090126",
           "runtime_min": 220,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -35701,7 +35892,8 @@
               "start": "2022-10-03T20:45:00",
               "venue": "International Village 8"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "maigret",
@@ -35778,7 +35970,8 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "modes-1",
@@ -36216,7 +36409,8 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "pacifiction",
@@ -36532,7 +36726,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "scarlet",
@@ -36671,7 +36866,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "English and Tagalog with English subtitles",
-          "wayback_ts": "20220907224134",
+          "wayback_ts": "20220909010531",
           "screenings": [
             {
               "start": "2022-09-30T20:45:00",
@@ -37200,7 +37395,8 @@
           "director": "Benny Lau",
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "the-whale",
@@ -37357,7 +37553,8 @@
           "runtime_resolved": true,
           "director": "Sarah Watts, Mark Slutsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "zatopek",
@@ -38173,8 +38370,7 @@
           "runtime_resolved": true,
           "director": "Antoine Bourges",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "day-after-viff-connect",
@@ -38264,7 +38460,7 @@
         {
           "slug": "hopper-an-american-love-story-viff-connect",
           "date_range": null,
-          "wayback_ts": "20221003105215",
+          "wayback_ts": "20220928085301",
           "title": "Hopper - An American Love Story (VIFF Connect)",
           "poster": "https://images.viff.org/uploads/2022/08/Hopper.jpg?resize=150%2C150",
           "synopsis": "World Premiere Short of hanging the painting on your living room wall, Phil Grabsky\u2019s popular Exhibition on Screen series may be the best way to spend quality time with a favourite artist. At least, that\u2019s what it feels like as we\u2019re immersed in the infinitely evocative oils of Edward Hopper, a poet with a paintbrush. Although Hopper\u2019s work seems straightforward\u2014he\u2019s an American realist after all\u2014it\u2019s also rich in paradox. If he seems to distill a certain sense of the American Century, particularly the urban environment, he also ignores great swathes of it; his cities are lonely places, scarcely populated. He\u2019s a suggestive storyteller (we might think of Raymond Carver or Hemingway) but also a cryptic one, inviting us to fill in the blanks (no wonder he\u2019s always been such a popular artist with filmmakers). As for his own life, he was impatient with attempts to psychoanalyze his work, but as Grabsky discovers, this consummate craftsman owed a great deal to the artist Josephine Nivison, who would become his wife and who sacrificed her own career to manage his. The film draws on leading experts and curators, Hopper\u2019s diaries and letters, but of course, the best reason to watch it is to bathe in close-ups of superb art. This film is also available in-cinema Presented by Media Partner",
@@ -38276,8 +38472,7 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "if-you-are-a-man-viff-connect",
@@ -38356,7 +38551,7 @@
           "country": "USA/Canada",
           "language": "English",
           "synopsis": "North American Premiere An astonishing documentary about the elusive and provocative African-American artist David Hammons, The Melt Goes On Forever chronicles the legendary artist\u2019s incredible body of work, from his body prints in the 1960s, to found object sculptures, to cheeky installations in upper crust galleries, which overtly mock the elite art world and critique the capitalist and arbitrary notions of value in art. Hammons\u2019 work is often blistering, firmly rooted in questioning the dominant culture and exposing racial injustice, and exploring the space that Black people hold in America. Hammons is notoriously private, and this conflict between his personal reticence and worldwide attention is fascinating to watch. The film reveals the tension between insiders and outsiders in art, and explores the fickleness and push-pull antics of the established art world. Using archival footage, interviews with artists, curators, and critics, alongside animation, this film is a remarkable record of the work of an artist who constantly defies the establishment and remains subversive at every turn. This film is also available in-cinema Presented by Media Partner Media Partner",
-          "wayback_ts": "20220928084111",
+          "wayback_ts": "20221003103201",
           "runtime_min": 101,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -38424,15 +38619,13 @@
           "country": "Canada",
           "language": "English and Tagalog with English subtitles",
           "synopsis": "Roaming wild in Toronto\u2019s streets, three queer adolescents hone their survival skills and scheme to run amok in a gay club. Julien (Matteus Lunot), a brash runaway, serves as pack leader, with timid Otis (Harlow Joy) and buoyant Tony (Zion Matheson) following in his wake. When some impetuous petty crime admits them into the promised land (and ushers in exhilarating depictions of beat-driven youthful abandon), it also imperils Dawn (Miyoko Anderson), Julien\u2019s de facto guardian. Once Dawn fails to return home, the guilt-ridden kids form a search party that ultimately uncovers darker realities. Joseph Amenta\u2019s first feature is an open-hearted love letter to childhood friendships and a powerful testament to the queer community\u2019s perseverance and adaptability. Through rhythmic cutting and sublime compositions, they capture moments of revelry and repose, and coax increasingly complex performances from their young cast. Serving up a cocktail of irreverence and melancholy, Amenta lends intoxicating atmosphere and intimate understanding to these precious kids\u2019 quest for belonging. This film is also available in-cinema Presented by Media Partner Community Partner",
-          "wayback_ts": "20221003105828",
+          "wayback_ts": "20220928060048",
           "runtime_min": 84,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "soviet-bus-stops-viff-connect",
@@ -38878,7 +39071,7 @@
         {
           "slug": "talks-clement-virgo",
           "date_range": null,
-          "wayback_ts": "20220917181923",
+          "wayback_ts": "20221003124127",
           "title": "In Conversation with Clement Virgo, Director",
           "poster": "https://images.viff.org/uploads/2022/09/Talk-Brother.jpg?resize=960%2C600&gravity",
           "synopsis": "Acclaimed director-writer Clement Virgo is one of Canada\u2019s foremost film directors. His numerous TV credits include Empire, The Wire, The L Word, and CBC\u2019s record-breaking The Book of Negroes, which he directed and co-wrote. Join us for a unique conversation and get new insights into his highly anticipated film, Brother, a VIFF 2022 Showcase selection. The talk is moderated by his fellow Canadian Film Centre graduate, Vancouver-based director Mina Shum. Presented by Supported by Community Broadcast Partner",
@@ -38892,8 +39085,7 @@
               "start": "2022-10-02T18:00:00",
               "venue": "Annex"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -38912,7 +39104,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-katie-byron",
@@ -38931,7 +39124,8 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-michael-abels",
@@ -38944,7 +39138,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -38957,7 +39152,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-deepa-mehta",
@@ -38997,7 +39193,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Oppenheimer",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-canadaland-backbench-live",
@@ -39016,7 +39213,8 @@
               "start": "2023-10-03T18:30:00",
               "venue": "The Rio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -39024,7 +39222,7 @@
           "title": "From Dune to Mad Max Fury Road",
           "poster": "https://images.viff.org/uploads/2023/08/Talks-Mark-Mangini-Featured.jpg?resize=960%2C600&gravity",
           "synopsis": "Mark Mangini has made it his life\u2019s work to create the unimagined worlds and fabricated sonic realities of the most epic films you can imagine. Known for films including Blade Runner 2049, Star Trek I, IV and V, The Fifth Element, and Gremlins, Mark is a six-time Oscar nominated sound designer, winning twice for Dune and Mad Max Fury Road. Join us to go behind-the-scenes as Mark shares the secrets behind creating the most memorable sound art of these monumental films. Supported by Media Partner",
-          "wayback_ts": "20230923045851",
+          "wayback_ts": "20230909083251",
           "runtime_min": 90,
           "screenings_resolved": true,
           "screenings": [
@@ -39036,8 +39234,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -39409,8 +39606,7 @@
           "runtime_resolved": true,
           "director": "Varsha Bharath",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-cyclemahesh",
@@ -39475,7 +39671,7 @@
           "country": "India",
           "language": "In Tamil, Kannada and Malayalam with English subtitles",
           "synopsis": "International Premiere I Am Revathi offers a deeply personal and intimate glimpse into the life of A. Revathi \u2014 trans woman, writer, activist, and theatre artist. P. Abhijith\u2019s documentary traces Revathi\u2019s journey from Namakkal, Tamil Nadu, to the hijra communities of Delhi, Mumbai, and Bengaluru in the mid-1980s, revealing the harsh realities and quiet resilience that shaped her path. Through powerful recollections by Revathi and her contemporaries, the film explores her transformation into a prominent voice for trans rights in India. Despite legal recognition, transgender individuals in India continue to face a range of systemic challenges. Alongside Revathi\u2019s story, Abhijith depicts the lived experiences of transgender people in India and sheds light on their struggles, power, and ongoing fight for visibility, dignity, and inclusion. I Am Revathi recognizes the resistance and community building of trans activists and collectives as they work to highlight the broader realities of trans lives. Presented by Media Partner Community Partner",
-          "wayback_ts": "20250828002748",
+          "wayback_ts": "20251009161106",
           "runtime_min": 115,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -39491,9 +39687,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -39579,7 +39773,7 @@
           "country": "Canada",
           "language": "In English, Sherpa and Nepali with English subtitles",
           "synopsis": "Every year, hundreds of climbers chase glory atop the world\u2019s highest peak, but few stop to ask what Mount Everest has become. In Everest Dark, filmmaker Jereme Watt shifts the lens toward the Sherpa people, whose spiritual ties to the mountain run much deeper than the ambitions of tourists. At the center is Mingma Tsiri Sherpa, a national hero and devout Buddhist, who returns from retirement to carry out a perilous mission: to recover the bodies of fallen climbers, complete sacred rites, and restore harmony to Chomolungma, the \u201cMother Goddess of the World\u201d. Shot under extreme conditions, Everest Dark combines breathtaking aerial cinematography with a deeply human portrait of reverence, grief, and resistance. Featuring narration from Mingma\u2019s father, a runner for Sir Edmund Hillary, the film confronts Everest\u2019s transformation into a capitalist graveyard and reclaims its sanctity through ancestral care. Watt\u2019s years of collaboration with Mingma yield a film that is both visually astonishing and spiritually grounded \u2014 a rare testament to Indigenous stewardship at the edge of the world. Oct 4 & 5: Q&A Presented by Media Partner Community Partner",
-          "wayback_ts": "20250924065103",
+          "wayback_ts": "20250905224405",
           "runtime_min": 90,
           "screenings_resolved": true,
           "director": "Jereme Watt",
@@ -40760,7 +40954,7 @@
           "country": "UK",
           "language": "English",
           "synopsis": "Canadian Premiere Known for their innovative use of light and shadow while imbuing psychological realism into classical scenes of intense religious and violent drama, Caravaggio\u2019s paintings still feel as fresh and vivid today as they did four hundred years ago. In the latest from Exhibition on Screen (Van Gogh: Poets & Lovers), co-directors David Bickerstaff and Phil Grabsky shed light not only on Caravaggio\u2019s paintings, but his life, often kept half-hidden in the same chiaroscuro tones he shaded his masterpieces with. An immersive biography chronologically following Caravaggio\u2019s volatile life, Caravaggio seeks to understand the depth of the artist\u2019s work by intertwining his artistic and personal development. We\u2019re guided not only by art historians, critics, and curators, but by a delightfully dramatized Caravaggio who narrates the film. This blend of thoughtful analysis with realized version of the famously violent and mercurial artist provides an imaginary window into his inner world, emphasizing the sheer power of his life and art through the ages. Oct 3 & 4: Q&A Missed it at VIFF? Catch it at the VIFF Centre after the festival. Presented by Media Partner",
-          "wayback_ts": "20251003213256",
+          "wayback_ts": "20250917172628",
           "runtime_min": 100,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -40807,7 +41001,8 @@
               "start": "2025-10-07T15:00:00",
               "venue": "International Village 9"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff25-half-moon-kinan-azmeh",
@@ -40834,7 +41029,8 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-i-want-it-all-hildegard-knef",
@@ -40861,7 +41057,8 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-john-candy-i-like-me",
@@ -40915,7 +41112,8 @@
               "venue": "International Village 7"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-painted-life-of-ej-hughes",
@@ -40942,7 +41140,8 @@
           "runtime_resolved": true,
           "director": "Jenn Strom",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-particle-dance",
@@ -41706,7 +41905,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-always",
@@ -41760,7 +41960,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-blknws-terms-conditions",
@@ -41817,7 +42018,7 @@
           "language": "In Croatian and Italian with English subtitles",
           "runtime_min": 112,
           "screenings_resolved": true,
-          "wayback_ts": "20250831230543",
+          "wayback_ts": "20251009161235",
           "runtime_resolved": true,
           "director": "Igor Bezinovi\u0107",
           "director_resolved": true,
@@ -41869,7 +42070,7 @@
           "country": "UK/Sudan/Germany/Qatar",
           "language": "In Arabic with English subtitles",
           "synopsis": "Filmed before and during Sudan\u2019s latest civil war, Khartoum is a collaborative hybrid documentary that follows five residents from the capital city into exile. Lokain and Wilson, two young bottle collectors, dream of new shirts and soccer glory; Jawad volunteers with the resistance; Khadmallah serves tea on a street corner; Majdi tries to protect his family while working for the regime. When the war erupts, the filmmakers and their subjects flee to Nairobi; here, they work together to convey their experiences, discovering new forms of collective expression through green screen, animation, and performance. Directed by Anas Saeed, Rawia Alhag, Ibrahim \u201cSnoopy\u201d Ahmad, Timeea M. Ahmed, and Phil Cox, Khartoum is born of necessity, intimacy, and invention. As the protagonists reenact the day war began \u2014 playing themselves and each other \u2014 the film\u2019s authorship is absorbed into the community, and what begins as five threads becomes a shared act of resistance, healing, and remembrance. Winner of the Peace Film Prize at Berlinale and the Gilda Vieira de Mello Award at FIFDH Geneva. Oct 7 & 11: Q&A Presented by Community Partner",
-          "wayback_ts": "20250912194310",
+          "wayback_ts": "20251003090751",
           "runtime_min": 80,
           "screenings": [
             {
@@ -41966,7 +42167,8 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -42476,7 +42678,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-2-void-of-the-voice",
@@ -42664,7 +42867,8 @@
           "wayback_ts": "20250618024345",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-blue",
