@@ -2258,7 +2258,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "american-animation-film-studies",
@@ -2277,7 +2278,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "synth-scores-film-studies",
@@ -2317,7 +2319,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -2336,8 +2339,7 @@
           "runtime_min": 25,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -2773,7 +2775,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Gummo",
+          "poster": "https://images.viff.org/uploads/2026/05/Gummo.jpg?resize=960%2C600&gravity",
+          "synopsis": "Harmony Korine was just 24 when he made Gummo (and already had seen his script for Kids filmed by Larry Clark). The movie created a stir but the critics were mostly hostile. Yet the movie has emerged as a cult favourite, and rightly so. Filmed around Nashville but set in Xenia, Ohio, site of America\u2019s worst ever tornado once upon a time, this is an impressionistic, poetic, absurdist, punk collage of teenage enervation \u2014 a country cousin to Kids, without the melodramatic fix which cheapened Clark\u2019s film. Picking out half a dozen youngsters, most of them at a dead loss, one way or another, writer-director/enfant terrible Korine takes off with the tornado idea to twist from cin\u00e9ma v\u00e9rit\u00e9 documentary footage to improvisation to pre-scripted material, often within the same scene, surfing between video, film, super-8 and still images, throwing Heavy Metal, punk rock, Bach, Buddy Holly and mumbled, confessional doggerel into the mix. The result is breathtaking, provocative, and often repellent, but somehow vivid and vital in a way few movies manage. Big props to French cinematographer Jean-Yves Escoffier (Les amants du pont-neuf) who took a chance on Korine and went all in. Staff Pick: Epiphany",
+          "director": "Harmony Korine",
+          "year": 1997,
+          "runtime_min": 95,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "buffalo-66",
@@ -2794,7 +2807,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Buffalo '66",
+          "poster": "https://images.viff.org/uploads/2026/05/Buffalo66.jpg?resize=960%2C600&gravity",
+          "synopsis": "Male model turned actor and artist, Vincent Gallo\u2019s directorial debut is an eccentric, provocative comedy which laces a poignant love story with both a sombre, washed-out naturalism and surreal musical vignettes. Throwing out the standard repetitions of shot/reverse shot, Gallo brings an individual film grammar to the screen, a beguiling mix of formal tropes and apparently impetuous conceits. If not autobiographical, then at least very personal, the film follows one Billy Brown (Gallo) out of prison and back to his hometown, Buffalo, NY. There he kidnaps a girl, Layla (Christina Ricci) a busty, blonde in two-inch skirt and dazzling fairy tale slippers, and entreats her to play his loving wife for his parents\u2019 benefit. The homecoming goes a long way to explain Billy\u2019s aggressive insecurity: his indifferent mom (Anjelica Huston) is a rabid football obsessive, while his dad (Ben Gazzara) is taciturn and hostile, though taken with Layla. The cruel caricature of this sourly funny episode is tempered by Layla\u2019s sweetness. Billy\u2019s turmoil is redeemed in her simplicity. A stimulating film, this reaches parts other movies don\u2019t even know exist.",
+          "director": "Vincent Gallo",
+          "year": 1998,
+          "runtime_min": 110,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "my-own-private-idaho",
@@ -2873,7 +2897,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "madonna-truth-or-dare",
@@ -2893,7 +2918,18 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true
+          "title": "Truth or Dare",
+          "poster": "https://images.viff.org/uploads/2026/05/Madonna.jpg?resize=960%2C600&gravity",
+          "synopsis": "A year in the life of Madonna at the height of her fame, touring Blonde Ambition through 1990. There\u2019s concert footage, but the movie is also daringly truthful about the isolation of being surrounded by thousands of adoring fans at every turn, and about what Madge is really like behind the scenes. (Not that she is ever really off-stage.) In Toronto, the cops threaten to close down the show for indecency. Our girl faces them down. Kevin Costner puts in an infamous appearance. Boyfriend du jour Warren Beatty is around too. But the dancers are Madonna\u2019s closest family.",
+          "director": "Alek Kershishian",
+          "year": 1991,
+          "runtime_min": 115,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "total-recall",
@@ -2932,8 +2968,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "jacobs-ladder",
@@ -2949,8 +2985,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "true-romance",
@@ -2970,8 +3006,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "the-company-of-strangers",
@@ -3130,9 +3166,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "delicatessen",
@@ -3307,8 +3341,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "basic-instinct",
@@ -3325,7 +3358,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Basic Instinct",
+          "poster": "https://images.viff.org/uploads/2026/05/BasicInstinct.jpg?resize=960%2C600&gravity",
+          "synopsis": "Dutch bad boy Paul Verhoeven could get away with subversive films about power, capitalism and technology in violent action movies like Robocop and Total Recall. But when he turned his attention to sex \u2014 first with Basic Instinct and then Showgirls (1995) \u2014 he had a rougher ride. Basic Instinct (1992) was a commercial hit, the apogee of the erotic thriller cycle which started with Fatal Attraction in the 80s. But critics were growing skeptical of million dollar screenwriter Joe Eszterhas (who wrote both films) and the queer community protested the film\u2019s politically incorrect portrait of a bisexual psychopath. (Eszterhas actually apologized.) Nevertheless, the film had persuasive champions, including academic Camille Paglia, who heralded a transgressive feminist text and extolled the way Sharon Stone\u2019s murder suspect Catherine Trammell controlled a roomful of cops by uncrossing her legs. Verhoeven cited Hitchcock\u2019s Vertigo as his inspiration though Dario Argento might be nearest the mark. You be the judge.",
+          "director": "Paul Verhoeven",
+          "year": 1992,
+          "runtime_min": 127,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "thirty-two-short-films-glenn-gould",
@@ -3451,7 +3495,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "The Last Seduction",
+          "poster": "https://images.viff.org/uploads/2026/05/LastSeduction.jpg?resize=960%2C600&gravity",
+          "synopsis": "John Dahl made a trio of entertaining neo-noir thrillers, Kill Me Again (1989), Red Rock West (1993) and, best of all, The Last Seduction (1994). It was the third that made the biggest impact, even though the film premiered on HBO, the response from critics and film festivals was such that it earned a belated theatrical release. Sadly the HBO airing made Linda Fiorentino ineligible for the Academy Award for Best Actress \u2014 her femme fatale Bridget Gregory was among the most talked about performances of the 1990s. After ripping off her abusive husband\u2019s ill-gotten gains, Bridget hides out in a small town and picks up a naive insurance agent in a bar (Peter Berg). She soon decides he has his uses, and tries to manipulate him into helping her with a murderous scheme. Meanwhile, a private detective hired by her husband is on her tail. This is a rare noir told with the femme fatale as the protagonist. And while Bridget is ruthlessly amoral (she\u2019s no hypocrite), she\u2019s also several degrees smarter than anyone else in the movie, which makes her quite irresistible \u2014 or at the very least, very entertaining to watch.",
+          "director": "John Dahl",
+          "year": 1994,
+          "runtime_min": 96,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "serial-mom",
@@ -3556,8 +3611,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "four-weddings-and-a-funeral",
@@ -3660,8 +3715,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "seven",
@@ -3719,6 +3774,10 @@
             {
               "start": "2026-07-30T18:00:00",
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-08-12T20:20:00",
+              "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
           "wayback_ts": "20260606134801",
@@ -4451,12 +4510,13 @@
           ],
           "date_range": null,
           "wayback_ts": "20260626230325",
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260725",
+      "last_seen_live": "20260728",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -4907,7 +4967,18 @@
           "slug": "the-eyes-of-ghana",
           "date_range": null,
           "wayback_ts": "20260312201354",
-          "fetch_failed": true
+          "title": "The Eyes of Ghana",
+          "poster": "https://images.viff.org/uploads/2026/02/EyesOfGhana.jpg?resize=960%2C600&gravity",
+          "synopsis": "Back in the 1950s and 1960s, Chris Hesse was the personal cameraman to Ghana\u2019s revolutionary leader Kwame Nkrumah. That made him an eyewitness to Africa\u2019s tumultuous liberation movement away from colonialist rule. In 1966 Nkrumah was deposed in a coup and his rivals sought to destroy all his filmed records. But Hesse found a way to preserve over 1,300 reels. They\u2019ve scarcely been seen since they were filmed. As Hesse nears the end of his life, we watch him share his legacy with the young Ghanaian filmmaker Anita Afonu, whose passion for cinema burns as brightly as his. In his first feature length film, two-time Oscar-winner Ben Proudfoot has created a warm and celebratory movie which throws welcome light on the history of Africa in the mid-20th century. Curators\u2019 note: \u201cChris Hesse\u2019s memories and the lens-based media he amassed during his years as the personal documentarian of Dr. Kwame Nkrumah, the first president of Ghana, come into sharp focus as a fading history that must be recovered from the archives. Through these rediscovered images, we experience how government policies and the tides of political ideas shaped a collective consciousness of unity and history among the people of Ghana.\u201d Mar 31: Zoom Q&A with director Ben Proudfoot",
+          "director": "Ben Proudfoot",
+          "year": 2025,
+          "runtime_min": 90,
+          "country": "USA",
+          "language": "In English, Twi, and Ga with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "a-tribe-called-love",
@@ -4944,7 +5015,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260725",
+      "last_seen_live": "20260728",
       "backfill_walked": "20260715"
     },
     {
@@ -5745,7 +5816,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "july-rhapsody",
@@ -6414,8 +6486,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -6615,7 +6686,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "paris-texas",
@@ -7353,7 +7425,8 @@
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "fatal-attraction",
@@ -7791,9 +7864,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "80s-fan-choice",
@@ -7854,7 +7925,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -9242,8 +9314,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "when-morning-comes",
@@ -10266,7 +10337,8 @@
               "start": "2024-02-22T20:15:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -10802,8 +10874,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "film-studies-lighting",
@@ -10943,7 +11014,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-long-goodbye",
@@ -11168,7 +11240,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "this-time-its-personal-programme-1",
@@ -11408,9 +11481,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "boxcutter",
@@ -12048,8 +12119,18 @@
           ],
           "wayback_ts": "20260206170615",
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Hanami",
+          "poster": "https://images.viff.org/uploads/2024/08/Hanami.jpg?resize=960%2C600&gravity",
+          "synopsis": "This enrapturing coming-of-age drama \u2014 the first in our June installment of the on-going African Cinema Now! series curated by Akojo Film Collective \u2014 presents a dynamic and singular portrait of Cape Verde. Young Nana (played at different ages by Sanaya Andrade and Da\u00edlma Mendes) is on the cusp of self-discovery amid the weight of her mother\u2019s absence. But when her mother eventually returns, the lyricism and magic of Nana\u2019s childhood take a different shape. Winner of the Best Emerging Director Award and a Special Mention in the First Feature competition at the 2024 Locarno Film Festival African Cinema Now! runs on Tuesdays and Saturdays through the second half of June.",
+          "director": "Denise Fernandes",
+          "year": 2024,
+          "runtime_min": 96,
+          "country": "Switzerland/Portugal/Cape Verde",
+          "language": "In Cape Verdean Creole, English, Japanese, and French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-company-of-strangers",
@@ -12073,7 +12154,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "romeria",
@@ -12105,7 +12187,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
@@ -14587,13 +14670,13 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         }
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260725",
+      "last_seen_live": "20260728",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -18724,7 +18807,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -18743,8 +18827,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-dgc-visionaries",
@@ -18757,8 +18840,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -19106,7 +19188,8 @@
           "runtime_resolved": true,
           "director": "Matthew Heineman",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "unarchived",
@@ -20363,7 +20446,8 @@
             }
           ],
           "featured_film": "Under the Skin",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-zone-of-interest",
@@ -22478,7 +22562,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -22667,8 +22752,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -22853,7 +22937,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-three-promises",
@@ -22960,8 +23045,7 @@
           "wayback_ts": "20240127023248",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-animalia",
@@ -23015,9 +23099,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -23036,7 +23118,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-the-burdened",
@@ -23346,9 +23429,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 2,
+          "fetch_failed": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -23367,7 +23449,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "el-this-strange-passion",
@@ -24416,7 +24499,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 25,
+      "consecutive_404s": 26,
       "desc_rewalked": true
     },
     {
@@ -24673,8 +24756,7 @@
           "runtime_resolved": true,
           "director": "Gail Maurice",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "soft",
@@ -24701,9 +24783,7 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -24753,7 +24833,8 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "until-branches-bend",
@@ -24834,7 +24915,8 @@
           "runtime_resolved": true,
           "director": "Sarah Watts, Mark Slutsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "i-like-movies",
@@ -24861,7 +24943,8 @@
           "runtime_resolved": true,
           "director": "Chandler Levack",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220907223051",
@@ -25192,8 +25275,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "flow",
@@ -25590,7 +25672,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "one-battle-after-another",
@@ -26895,7 +26978,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260725",
+      "last_seen_live": "20260728",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -27042,7 +27125,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "old-dog",
@@ -27216,7 +27300,8 @@
               "start": "2025-03-19T20:15:00",
               "venue": "VIFF Centre Atrium"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "monsters-inc",
@@ -27487,7 +27572,7 @@
         {
           "slug": "hopper-an-american-love-story",
           "date_range": null,
-          "wayback_ts": "20250105231725",
+          "wayback_ts": "20220928083649",
           "title": "Hopper - An American Love Story",
           "poster": "https://images.viff.org/uploads/2022/08/Hopper.jpg?resize=960%2C600&gravity",
           "synopsis": "World Premiere Short of hanging the painting on your living room wall, Phil Grabsky\u2019s popular Exhibition on Screen series may be the best way to spend quality time with a favourite artist. At least, that\u2019s what it feels like as we\u2019re immersed in the infinitely evocative oils of Edward Hopper, a poet with a paintbrush. Although Hopper\u2019s work seems straightforward\u2014he\u2019s an American realist after all\u2014it\u2019s also rich in paradox. If he seems to distill a certain sense of the American Century, particularly the urban environment, he also ignores great swathes of it; his cities are lonely places, scarcely populated. He\u2019s a suggestive storyteller (we might think of Raymond Carver or Hemingway) but also a cryptic one, inviting us to fill in the blanks (no wonder he\u2019s always been such a popular artist with filmmakers). As for his own life, he was impatient with attempts to psychoanalyze his work, but as Grabsky discovers, this consummate craftsman owed a great deal to the artist Josephine Nivison, who would become his wife and who sacrificed her own career to manage his. The film draws on leading experts and curators, Hopper\u2019s diaries and letters, but of course, the best reason to watch it is to bathe in close-ups of superb art. Q&A Oct 5 & Oct 7 Presented by Media Partner",
@@ -28694,7 +28779,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260725",
+      "last_seen_live": "20260728",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -32117,7 +32202,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "glory",
@@ -32144,7 +32230,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260725",
+      "last_seen_live": "20260728",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -33802,8 +33888,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "paying-for-it",
@@ -34157,8 +34242,7 @@
               "start": "2022-10-05T18:30:00",
               "venue": "The Cinematheque"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "tortoise-under-the-earth",
@@ -34376,7 +34460,8 @@
               "start": "2022-10-03T21:15:00",
               "venue": "The Cinematheque"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "back-home",
@@ -35892,8 +35977,7 @@
               "start": "2022-10-03T20:45:00",
               "venue": "International Village 8"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "maigret",
@@ -35970,8 +36054,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "modes-1",
@@ -36409,8 +36492,7 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "pacifiction",
@@ -36726,8 +36808,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "scarlet",
@@ -36882,7 +36963,8 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "something-in-the-dirt",
@@ -37073,7 +37155,8 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "thunder",
@@ -37395,8 +37478,8 @@
           "director": "Benny Lau",
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "the-whale",
@@ -37576,7 +37659,7 @@
         {
           "slug": "i-like-movies",
           "date_range": null,
-          "wayback_ts": "20220920200528",
+          "wayback_ts": "20220928090007",
           "title": "I Like Movies",
           "poster": "https://images.viff.org/uploads/2022/09/ILikeMovies.jpg?resize=960%2C600&gravity",
           "synopsis": "Lawrence (Isaiah Lehtinen), a teenage cinephile, is convinced that he\u2019s destined for bigger things than Burlington, Ontario can offer. Obsessed with Paul Thomas Anderson and Todd Solondz, he\u2019s intent on attending film school at NYU before unleashing his directorial vision on an unsuspecting world. This despite the fact his artistic output is, well, underwhelming. Faced with the prospect of daunting tuition fees, he lands a job at a local video store where he promptly sets about condescending to customers, fixating on what his free rentals will be, and confounding his manager, Alana (Romina D\u2019Ugo), and mother, Terri (Krista Bridges). Well-appointed with both film references and endearing Canadiana, Chandler Levack\u2019s humane comedy traces this pretentious curmudgeon\u2019s path from practically sociopathic self-involvement to his first fraught encounters with self-awareness. Demonstrating tremendous understanding and affection for obsessives, Levack thoughtfully details the circumstances behind Lawrence\u2019s fanaticism and anxiety. Through her impeccable scripting, we witness this film bro come of age thanks to the women in his life. Presented by Media Partner",
@@ -38370,7 +38453,8 @@
           "runtime_resolved": true,
           "director": "Antoine Bourges",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "day-after-viff-connect",
@@ -38472,7 +38556,8 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "if-you-are-a-man-viff-connect",
@@ -39085,7 +39170,8 @@
               "start": "2022-10-02T18:00:00",
               "venue": "Annex"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -39147,13 +39233,12 @@
           "title": "Marcel the Shell With Shoes On",
           "poster": "https://images.viff.org/uploads/2022/09/Talk-MarcelTheShell.jpg?resize=960%2C600&gravity",
           "synopsis": "In 2010, Dean Fleischer Camp, an award-winning filmmaker and New York Times bestselling author, along with Jenny Slate, created a short film about Marcel, an endearingly cheerful talking shell with one eye and little shoes. The little character became a viral hit, leading to a feature adaptation produced by A24. We\u2019re excited to hear Fleischer Camp share his singular process about creating a feature film that combines elements of narrative, documentary feature, improvisation, and two forms of animation. Join us for stories about his one-of-a-kind characters, voice actors Jenny Slate as Marcel, and Isabella Rossellini as grandma Connie, and what adventures Marcel is up to next. Supported by Community Broadcast Partner",
-          "wayback_ts": "20221003121807",
+          "wayback_ts": "20230718202410",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-deepa-mehta",
@@ -39173,7 +39258,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "I Am Sirat",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-building-closet-oppenheimer",
@@ -39193,8 +39279,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Oppenheimer",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-canadaland-backbench-live",
@@ -39213,8 +39298,7 @@
               "start": "2023-10-03T18:30:00",
               "venue": "The Rio Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -39253,7 +39337,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -39633,7 +39718,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-hidden-tremors",
@@ -39687,7 +39773,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -40020,7 +40107,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-walls-akinni-inuk",
@@ -40943,7 +41031,8 @@
               "start": "2025-10-12T13:45:00",
               "venue": "International Village 9"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff25-caravaggio",
@@ -40974,7 +41063,8 @@
               "start": "2025-10-06T10:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff25-the-essence-of-eva",
@@ -41057,8 +41147,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-john-candy-i-like-me",
@@ -41140,8 +41229,7 @@
           "runtime_resolved": true,
           "director": "Jenn Strom",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-particle-dance",
@@ -41195,7 +41283,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -41960,8 +42049,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-blknws-terms-conditions",
@@ -42005,7 +42093,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-fiume-o-morte",
@@ -42032,7 +42121,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-the-great-north",
@@ -42059,7 +42149,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-khartoum",
@@ -42151,7 +42242,7 @@
           "country": "Sri Lanka/USA",
           "language": "In Tamil, Sinhala, English and Russian with English subtitles",
           "synopsis": "Canadian Premiere Sri Lanka has one of the highest numbers of unresolved enforced disappearances in the world \u2014 losses stemming from its decades-long civil war and endured largely by Tamil civilians. In Your Touch Makes Others Invisible, Sinhalese filmmaker Rajee Samarasinghe works closely with Tamil mothers and villagers in the militarized north to craft a hybrid narrative blending factual accounts with magical realism. At its center is a Tamil woman whose son has vanished, possibly taken by a supernatural force haunting her war-torn community. Her story is interwoven with firsthand testimonies from women who continue to search for their disappeared loved ones. Filmed clandestinely in regions still under military occupation, Samarasinghe\u2019s debut resists linear storytelling. Drone shots sweep across quiet towns; ritual fires crackle beside scenes of everyday life. Memory and grief share space with silence and resilience. A documentary shaped by collaboration and restraint, Your Touch Makes Others Invisible is a haunting, formally daring meditation on absence, history, and survival, where loss becomes part of the landscape and remembrance its own form of resistance. Oct 9: Q&A Presented by Community Partner",
-          "wayback_ts": "20250829233519",
+          "wayback_ts": "20251001234708",
           "runtime_min": 70,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -42167,8 +42258,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -42851,7 +42941,8 @@
           "wayback_ts": "20241126204058",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-farther-eye-see",
