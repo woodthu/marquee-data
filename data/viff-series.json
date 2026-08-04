@@ -2169,7 +2169,7 @@
           "title": "How & Why 80s Blockbusters Look Like They Do",
           "poster": "https://images.viff.org/uploads/2023/06/Talks_LightingTheWay.jpg?resize=960%2C600&gravity",
           "synopsis": "When we think of the cinema of the 1980s, we think of the spotlights from the floating billboards in Blade Runner; the warm, cozy lamps of Elliott\u2019s bedroom in E.T.; the blazing summer sunlight of Do the Right Thing. Indelible visual moments like these didn\u2019t emerge from nothing: they arose from decades of development (and heated debate!) by Hollywood\u2019s cinematographers. In this presentation, cinematographer and professor Devan Scott will delve into the way in which the blockbusters of the 1980s became a battleground of visual ideas waged over one question: \u201cHow should we light our movies?\u201d Media Partner",
-          "wayback_ts": "20230701191020",
+          "wayback_ts": "20230705215908",
           "runtime_min": 50,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -2208,7 +2208,7 @@
           "poster": "https://images.viff.org/uploads/2023/06/Talks_Ripped.jpg?resize=960%2C600&gravity",
           "synopsis": "\u201cOn your feet, soldier!\u201d Machismo came roaring back in the 80s: Sylvester Stallone (Rambo), Arnold Schwarzenegger (The Terminator), Mel Gibson (Mad Max), Harrison Ford (Indiana Jones), Eddie Murphy (Beverly Hills Cop) and a young man by the name of Tom Cruise (Top Gun) were the biggest box office stars in the world. UBC Film Prof Ernest Mathijs examines what it meant to be a real, dutiful man in American movies in the Reagan era, and to check manhood in the mirror. This mid-length lecture (25 mins) will include film clips, some of which may be violent, and potentially also some polysyllabic words, though these will be used sparingly. Media Partner",
           "runtime_min": 25,
-          "wayback_ts": "20230706094620",
+          "wayback_ts": "20230705215951",
           "screenings": [
             {
               "start": "2023-07-26T18:00:00",
@@ -2238,7 +2238,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -2276,7 +2277,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "synth-scores-film-studies",
@@ -2284,7 +2286,7 @@
           "title": "Synth Scores",
           "poster": "https://images.viff.org/uploads/2023/07/Synth-Scores-Film-Studies.png?resize=960%2C600&gravity",
           "synopsis": "Giant sweeping layers of sine wave melodies in Vangelis\u2019 Blade Runner, performed on the Yamaha CS-80. Metallic crushing bliss in Brad Fiedel\u2019s The Terminator, performed on the Prophet 5. The vibrant twisting emotions and dark urgent textures in Tangerine Dream\u2019s Near Dark, combining synthetic drums with orchestration. The 80\u2019s provided the film world with an instrument that would change soundtracks forever: the synthesizer. But what is a synthesizer? What makes a synthesizer score different? Join composer Cayne McKenzie in discussion: how synthesizers shaped the soundtracks of the 80s and beyond. Cayne McKenzie composed soundtracks for Violent and Ash, and with the bands We Are the City and Big Kill Media Partner",
-          "wayback_ts": "20230713235647",
+          "wayback_ts": "20230714101301",
           "runtime_min": 40,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -2868,7 +2870,8 @@
           ],
           "wayback_ts": "20260626230325",
           "fetch_attempts": 1,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "paris-is-burning",
@@ -2884,9 +2887,8 @@
             }
           ],
           "wayback_ts": "20260626230325",
-          "fetch_attempts": 1,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 2,
+          "fetch_failed": true
         },
         {
           "slug": "pulp-fiction-reviberators-live",
@@ -2907,7 +2909,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "madonna-truth-or-dare",
@@ -2953,11 +2956,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260623201831",
+          "wayback_ts": "20260606143825",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "title": "Total Recall",
+          "poster": "https://images.viff.org/uploads/2026/05/TotalRecall.jpg?resize=960%2C600&gravity",
+          "synopsis": "Picking up from where he left off in Robocop, Paul Verhoeven imagines a future controlled by conglomerates via designer technology. Doug Quaid (Schwarzenegger) is a working stiff who keeps dreaming about Mars \u2014 perhaps if he went there, he could sleep easy? It\u2019s just about affordable, with the purchase of memory implants \u2014 and Quaid can choose a custom-made ego-trip to go with it. But something goes wrong (or does it?). Quaid has already been to Mars (or has he?), and his memories erased (hence those dreams?). Now they want him dead. \u201cThe best mindfuck yet!\u201d says Quaid, as the plot takes another Z-bend and warp factor 10. Inspired by Philip K. Dick\u2019s short story, We Can Remember It for You Wholesale, this mashes philosophy, meta-commentary and ultra-violence with subversive panache.",
+          "director": "Paul Verhoeven",
+          "year": 1990,
+          "runtime_min": 113,
+          "country": "USA",
+          "language": "English"
         },
         {
           "slug": "reservoir-dogs",
@@ -2978,7 +2989,8 @@
           ],
           "wayback_ts": "20260626230325",
           "fetch_attempts": 1,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "jacobs-ladder",
@@ -3055,12 +3067,19 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
-          "wayback_ts": "20260623201831",
+          "wayback_ts": "20260606132820",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "title": "The Company of Strangers",
+          "poster": "https://images.viff.org/uploads/2026/05/CompanyOfStrangers.jpg?resize=960%2C600&gravity",
+          "synopsis": "Seven elderly women (and the driver) find themselves stranded when their bus breaks down in the wilderness. With only their wits, memories and some roasted frogs\u2019 legs to sustain them, this remarkable group of strangers share their life stories and turn a potential crisis into a magical time of humour, spirit and camaraderie. Featuring non-professional actors and unscripted dialogue, this film dissolves the barrier between fiction and reality, weaving a heart-warming tale of friendship and courage.",
+          "director": "Cynthia Scott",
+          "year": 1990,
+          "runtime_min": 106,
+          "country": "Canada",
+          "language": "English"
         },
         {
           "slug": "dances-with-wolves",
@@ -3098,11 +3117,19 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260623201831",
+          "wayback_ts": "20260606135015",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "title": "Thelma & Louise",
+          "poster": "https://images.viff.org/uploads/2026/05/ThelmaLouise.jpg?resize=960%2C600&gravity",
+          "synopsis": "BFF Thelma (Geena Davis) and Louise (Susan Sarandon) take off for a weekend getaway in the latter\u2019s 1966 Thunderbird. But \u201cgetaway\u201d assumes more serious connotations after Louise shoots a would-be rapist outside a bar. Fearing their story won\u2019t be believed, the women flee the scene and hatch a plan to escape to Mexico, but encounter setbacks at every turn. First time screenwriter Callie Khouri won the Academy Award for this feminist road movie. Ridley Scott frames the women\u2019s plight against the mythical backdrop of the American Dream, making this one of his most powerful films. Brad Pitt\u2019s cameo put him on the path to stardom, while Sarandon and Davis (assuming roles originally earmarked for Jodie Foster and Michelle Pfeiffer) have become feminist icons on the back of the film\u2019s enduring resonance. Staff Pick: Ruthie",
+          "director": "Ridley Scott",
+          "year": 1991,
+          "runtime_min": 129,
+          "country": "USA",
+          "language": "English"
         },
         {
           "slug": "boyz-n-the-hood",
@@ -3164,8 +3191,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "julio-avila-cuban-band-mambo-kings-live",
@@ -3900,7 +3926,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "La Haine",
+          "poster": "https://images.viff.org/uploads/2026/05/Haine.jpg?resize=960%2C600&gravity",
+          "synopsis": "Twenty-four hours in the Paris projects: an Arab boy is critically wounded in hospital, gut-shot, and a police revolver has found its way into the hands of a young Jewish skinhead, Vinz (Cassel), who vows to even the score if his pal dies. Vinz hangs out with Hubert (Kound\u00e9) and Sa\u00efd (Taghmaoui). They razz each other about films, cartoons, nothing in particular, but always the gun hovers over them like a death sentence, the black-and-white focal point for all the hatred they meet with, and all they can give back. This is virtuoso, on-the-edge stuff \u2014 Scorsese and Spike Lee seem obvious influences. Kassovitz (directing his second film) combats the inertia and boredom of his frustrated antagonists with a thrusting, jiving camera style which harries and punctuates their rambling, often very funny dialogue. The politics of the piece are confrontational, but there is a maturity and depth to the characterization which goes beyond mere agitprop: society may be on the point of self-combustion, but this film betrays no appetite for the explosion. Staff Pick: Epiphany, Gabriel & Jana",
+          "director": "Mathieu Kassovitz",
+          "year": 1995,
+          "runtime_min": 97,
+          "country": "France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "clueless",
@@ -4087,7 +4124,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "princess-mononoke",
@@ -4164,7 +4202,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "the-big-lebowski",
@@ -4683,7 +4722,7 @@
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260801",
+      "last_seen_live": "20260804",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -5191,8 +5230,8 @@
           "slug": "pasa-faho",
           "date_range": null,
           "wayback_ts": "20260312201354",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "my-fathers-shadow",
@@ -5217,7 +5256,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260801",
+      "last_seen_live": "20260804",
       "backfill_walked": "20260801"
     },
     {
@@ -6271,7 +6310,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "9-to-5",
@@ -6687,15 +6727,14 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
           "date_range": "Sep 28 \u2013 Oct 8 2023",
           "title": "How & Why 80s Blockbusters Look Like They Do",
           "poster": "https://images.viff.org/uploads/2023/06/Talks_LightingTheWay.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20230714101332",
+          "wayback_ts": "20230626015610",
           "synopsis": "When we think of the cinema of the 1980s, we think of the spotlights from the floating billboards in Blade Runner; the warm, cozy lamps of Elliott\u2019s bedroom in E.T.; the blazing summer sunlight of Do the Right Thing. Indelible visual moments like these didn\u2019t emerge from nothing: they arose from decades of development (and heated debate!) by Hollywood\u2019s cinematographers. In this presentation, cinematographer and professor Devan Scott will delve into the way in which the blockbusters of the 1980s became a battleground of visual ideas waged over one question: \u201cHow should we light our movies?\u201d Media Partner",
           "screenings": [
             {
@@ -6707,8 +6746,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "scarface",
@@ -7628,8 +7666,7 @@
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "fatal-attraction",
@@ -7706,7 +7743,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "hollywood-shuffle",
@@ -8110,8 +8148,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -8130,8 +8167,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -10143,19 +10179,52 @@
           "slug": "the-art-of-adventure",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "modern-whore",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true
+          "title": "Modern Whore",
+          "poster": "https://images.viff.org/uploads/2025/08/ModernWhore.jpg?resize=960%2C600&gravity",
+          "synopsis": "\u201cIn books, movies, and every syndicated crime drama imaginable, sex workers are typically portrayed as victims or villains,\u201d Andrea Werhun remarks. \u201cIt\u2019s high time we told our own damn stories.\u201d Through cheeky, stylized reenactments, colourful animated sequences, and hilarious sendups of her sexual encounters, memoirist Andrea Werhun recounts the joys and pitfalls of her experiences as an escort and stripper in Toronto. Along the way, she debunks misconceptions about the world\u2019s oldest profession, reconceptualizing the archetype of the Modern Whore. By turns earnest and riotously entertaining, this documentary feature expands on director Nicole Bazuin and performer and co-writer Andrea Werhun\u2019s (recognizable for her charismatic turn in Sook-Yin Lee\u2019s 2024 film Paying for It) book and short film of the same name. Werhun interviews a diverse community of sex workers and dancers, exploring their professions\u2019 risks and rewards. Modern Whore is a revealing film that exposes the silencing effects of shame and stigma, a culture that fetishizes trauma, and the vulnerabilities that underlie a lack of labour protections. Apr 11: Q&A with Andrea Werhun and SJ Raphael Apr 13: Q&A with director Nicole Bazuin, Andrea Werhun, and SJ Raphael",
+          "director": "Nicole Bazuin",
+          "year": 2025,
+          "runtime_min": 80,
+          "country": "Canada",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2026-04-16T15:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-17T20:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "love-and-money",
           "date_range": null,
           "wayback_ts": "20260416114621",
-          "fetch_failed": true
+          "title": "Love and Money",
+          "poster": "https://images.viff.org/uploads/2026/03/LoveAndMoney.jpg?resize=960%2C600&gravity",
+          "synopsis": "Love and money, money, money make the world go round, but there\u2019s more of the former on display in this winning exercise in DIY filmmaking from writer-director David Ray (Grand Unified Theory) and his puckish band of merry pranksters. This is a totally improvised jape, made in Vancouver \u201cfor less than the cost of a used Honda.\u201d Andrew McNee plays Andrew, a musician whose lost his way \u2014 not to mention his friend Scott, who\u2019s missing. Seeking him out involves strange encounters with friends and strangers, none of whom seems to know what\u2019s going on (probably because there wasn\u2019t a script). But go with it! There\u2019s gold in them thar hills, and despite or because of its eccentric genesis, this completely unexpected movie actually goes somewhere\u2026 Apr 10: Canadian Film Showcase Opening Night Q&A with Love and Money cast and crew",
+          "director": "David Ray",
+          "year": 2026,
+          "runtime_min": 87,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "4-5-things-want-you-know-me-essay",
@@ -10184,7 +10253,18 @@
           "slug": "monicas-news",
           "date_range": null,
           "wayback_ts": "20260416110447",
-          "fetch_failed": true
+          "title": "Monica's News",
+          "poster": "https://images.viff.org/uploads/2026/03/MonicasNews.jpg?resize=960%2C600&gravity",
+          "synopsis": "Vancouver Premiere 1974. Life plods on as it always has in Millman, Nova Scotia, but there\u2019s a whiff of change in the air \u2014 and danger, too. Nine year old Casey (Polly Gallant-McLean) idolizes her older cousin Monica, who reads Germaine Greer and scandalizes everyone by offering to burn her bra in the street. Taking over the local paper route, Casey becomes privy to some of the village\u2019s dark secrets \u2014 knowledge which could unlock a murder, except that she\u2019s too young to be taken seriously\u2026 This impressive first feature from PEI filmmaker (and one-time paper carrier) Pamela Gallant is a coming of age movie with an acute sense of time and place and a compelling mystery element which crystalizes the film\u2019s feminist themes.",
+          "director": "Pamela Gallant",
+          "year": 2024,
+          "runtime_min": 84,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "castration-movie-anthology-1-traps",
@@ -10212,7 +10292,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "last-wedding",
@@ -10235,26 +10316,95 @@
           "slug": "winter-kept-us-warm",
           "date_range": null,
           "wayback_ts": "20260416120928",
-          "fetch_failed": true
+          "title": "Winter Kept Us Warm",
+          "poster": "https://images.viff.org/uploads/2026/03/WinterKeptUsWarm.jpg?resize=960%2C600&gravity",
+          "synopsis": "Leaving his small town to attend the University of Toronto, introspective freshman Peter (Henry Tarvainen) finds a campus steeped in tradition waking up to the radical politics of the 1960s. Following a disastrous first encounter, he connects with handsome and cocksure sophomore Doug (John Labow), who quickly indoctrinates him in city and college life. But as their bond grows, Doug\u2019s girlfriend Bev (Joy Fielding) feels increasingly cast aside and begins to question the nature of the friendship. Tensions come to a head when Peter starts dating Sandra (Janet Amos), forcing Doug to confront his true feelings and desires. Often described as the first LGBTQ+ film ever to screen at the Cannes Film Festival, David Secter\u2019s Winter Kept Us Warm was one of the first Canadian feature films to attract international acclaim with its lovingly observed portrait of a burgeoning queer romance, at a time when homosexuality was still illegal in the country. A milestone in independent film production, Secter\u2019s debut would go on to influence a wide range of Canadian auteurs, most notably David Cronenberg, who cites Winter Kept Us Warm as the film that inspired him to become a filmmaker. 4K Restoration by Canadian International Pictures Zoom Q&A with director David Secter",
+          "director": "David Secter",
+          "year": 1965,
+          "runtime_min": 82,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "starwalker",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true
+          "title": "Starwalker",
+          "poster": "https://images.viff.org/uploads/2026/03/Starwalker.jpg?resize=960%2C600&gravity",
+          "synopsis": "Welcome to the House of Borealis! For Star (Dillian Chiblow), this East Van drag house is the home they\u2019ve been searching for, an alternate family that\u2019s genuinely supportive and inspiring. At its centre is Mother (Stewart Adam McKensy), who\u2019s seen it all, been it all, and somehow knits together a wayward group of orphans and runaways. Corey Payette\u2019s musical blends drag spectacle, Indigenous storytelling, and soaring emotion in a film that celebrates chosen family and the liberating magic of performance. Apr 13: Q&A with filmmaker",
+          "director": "Corey Payette",
+          "year": 2025,
+          "runtime_min": 116,
+          "country": "Canada",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2026-04-16T17:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "follies",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Follies",
+          "poster": "https://images.viff.org/uploads/2025/07/Follies2.jpg?resize=960%2C600&gravity",
+          "synopsis": "After 16 years of marriage and two children, Fran\u00e7ois and Julie have lost their spark in the bedroom. In an effort to reconnect, they decide to open up their relationship and rediscover their sexuality \u2014 but polyamory isn\u2019t as easy as they hoped. Juggling family life while searching for matches on a swingers\u2019 app, the couple find themselves in a series of awkward foursomes, and trust issues begin to complicate their experiment. However, as their paths diverge, new pleasures begin to reawaken dormant feelings. The feature-length directorial debut of Eric K. Boulianne (who co-writes and stars alongside Catherine Chabot), Follies is a laugh-out-loud sex comedy and a relatable depiction of marriage that recognizes the distinctions between love, sex, and intimacy. Frank in its portrayals of BDSM and kink, Boulianne\u2019s film never loses sight of communication as the key ingredient to a relationship. Full of cheeky cinematic references to marital classics such as Scenes From a Marriage and Eyes Wide Shut, this is a bawdy riot with a heart of gold.",
+          "director": "Eric K. Boulianne",
+          "year": 2025,
+          "runtime_min": 101,
+          "country": "Canada",
+          "language": "In French with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-04-16T19:45:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-17T18:10:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "kensington-market",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true
+          "title": "Heart of the City",
+          "poster": "https://images.viff.org/uploads/2026/03/KensingtonMarket.jpg?resize=960%2C600&gravity",
+          "synopsis": "Toronto\u2019s Kensington Market is one of those anomalous city neighbourhoods that\u2019s an authentic community. Forged by waves of immigrants over the past century, it\u2019s a place where businesses have endured for decades and generations. More recently artist studios and cafes have made a home here. but Kensington Market\u2019s quirky and welcoming character is tied to its affordability, and on all sides developers are moving in\u2026 Although Stuart Clarfield\u2019s DIY film couldn\u2019t be more Toronto-centric, the economic and social issues it highlights apply to many areas of Vancouver as well.",
+          "director": "Stuart Clarfield",
+          "year": 2024,
+          "runtime_min": 104,
+          "country": "Canada",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2026-04-17T14:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-21T20:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "dead-lover",
@@ -10266,13 +10416,35 @@
           "slug": "atanarjuat-the-fast-runner",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true
+          "title": "The Fast Runner",
+          "poster": "https://images.viff.org/uploads/2026/03/Atanarjuat.jpg?resize=960%2C600&gravity",
+          "synopsis": "Set in Igloolik, Nunavut, Zacharias Kunuk\u2019s Atanarjuat is the first feature of its kind: adapted from Inuit oral tradition, spoken completely in Inuktitut, laden with exquisite details, and loaded with riveting drama. When Atanarjuat displaces Oki, the Chief\u2019s son, by winning the hand of the beautiful Atuat, his brother Amaqjuaq pays the ultimate price. This cautionary tale showcases the consequences of putting personal desires ahead of community needs. In the words of one critic, \u201cIf Homer had been given a video camera, this is what he would have done.\u201d Intro by DIY curator, Sook-Yin Lee",
+          "director": "Zacharias Kunuk",
+          "year": 2001,
+          "runtime_min": 161,
+          "country": "Canada",
+          "language": "In Inuktitut with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "parsley-days",
           "date_range": null,
           "wayback_ts": "20260422021815",
-          "fetch_failed": true
+          "title": "Parsley Days",
+          "poster": "https://images.viff.org/uploads/2026/03/ParsleyDays.jpg?resize=960%2C600&gravity",
+          "synopsis": "Kate (Megan Dunlop), a bicycle-maintenance instructor, is ambivalent about her relationship with Ollie (Michael LeBlanc), a birth control educator. While he\u2019s a great guy who is beloved by her friends, he\u2019s also her first true love and she\u2019s curious about what else the world might hold. But when Kate discovers she\u2019s pregnant, breaking up becomes all the more complicated. What should Kate do?! What can she do?! Laced with magical realism and buoyed by an infectious soundtrack of Haligonian pop, Andrea Dorfman\u2019s acclaimed debut is a delight. Intro by DIY curator, Sook-Yin Lee",
+          "director": "Andrea Dorfman",
+          "year": 2000,
+          "runtime_min": 76,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "outrageous",
@@ -10300,7 +10472,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "boxcutter",
@@ -10340,7 +10513,8 @@
           "slug": "robert-connely-farr-live",
           "date_range": null,
           "wayback_ts": "20260416105704",
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         }
       ],
       "backfill_walked": "20260801",
@@ -10893,7 +11067,7 @@
         {
           "slug": "true-north-andy-milne-concert-live",
           "date_range": null,
-          "wayback_ts": "20260221053920",
+          "wayback_ts": "20260205212110",
           "title": "Andy Milne in Concert",
           "poster": "https://images.viff.org/uploads/2026/01/TrueNorth.jpg?resize=960%2C600&gravity",
           "synopsis": "Or: Everything You Wanted to Know About the Black Experience in Canada, But Were Too Afraid to Ask. Mich\u00e8le Stephenson\u2019s brilliant essay film is an electrifying history of Black Canada, a story of displacement and discrimination, prejudice and Black pride, from Freedom Road to Africville and the civil rights movement of the 1960s, fused from a mind-bogglingly rich cache of archival material, first person accounts, and a remarkable score by celebrated jazz pianist Andy Milne. In this double-header of a West Coast premiere, Andy Milne will perform a 45-minute set followed by a 15-minute Q&A (5pm show); and then a longer set sans Q&A (8:15pm show), along with a screening of the film at both shows. The story of Blacks in Canada is complicated. It is a story of displacement and discrimination, of the Freedom Road, and of shanty towns like Africville, in Halifax. In the second half, Stephenson hones in on the overspill from the civil rights movement of the 1960s, and a critical protest at the George Williams Medical School in Montreal. Activists like Rosie Douglas led the charge for change. Andy Milne is a 2x JUNO Award-winning pianist & composer known for his Dapp Theory & Unison projects, and for his work with artists such as Ravi Coltrane, Steve Coleman, William Shatner & Bruce Cockburn. His most recent recording, \u201cTime Will Tell\u201d, was nominated in 2025 for the JUNO \u201cBest Jazz: Group\u201d. This VIFF Live event is co-presented with Infidels Jazz and part of our Celebrating Black Futures series with the Vancouver Art Gallery, curated by Kika Memeh. With thanks to Tom Lee Music and Yamaha.",
@@ -11350,8 +11524,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "film-studies-lighting",
@@ -11478,7 +11651,7 @@
           "title": "Mystery Movie",
           "poster": "https://images.viff.org/uploads/2022/06/VIFFDefault.jpg?resize=150%2C150",
           "country": "USA",
-          "wayback_ts": "20220810233307",
+          "wayback_ts": "20220720194547",
           "synopsis": "Thursdays through July and August, as a sidebar to our Ragged Glory: Summer in the 70s series, we\u2019re casting a (private) eye on crime thrillers, detectives, mystery and suspense. And we\u2019re setting the scene with a mystery of our own: a secret screening of a 1970s film of this type. We\u2019re not going to tell you what it is, but if you like playing detective, then you will certainly enjoy this fiendishly clever murder yarn, featuring several big 70s stars, and which deserves to be much better known than it is. Other films lined up for Thursday night Crime Scenes: Thurs July 28: Elliott Gould as Philip Marlowe in Robert Altman\u2019s The Long Goodbye and Jack Nicholson as JJ Gittes in Chinatown Thurs Aug 4: Gene Hackman in Arthur Penn\u2019s Night Moves and Robert Mitchum in The Yakuza, directed by Sidney Pollack Thurs Aug 11: Warren Beatty in The Parallax View; John Cassavetes and Peter Falk in Mikey and Nicky; Robert De Niro in Taxi Driver Thurs Aug 18: Art Carney and Lily Tomlin in The Late Show, directed by Robert Benton Thurs Aug 25: Ben Gazzara in John Cassavetes\u2019 The Killing of a Chinese Bookie and in Peter Bogdanovich\u2019s Saint Jack",
           "runtime_min": 120,
           "screenings_resolved": true,
@@ -11693,7 +11866,7 @@
         {
           "slug": "james-baldwin-abroad",
           "date_range": "Sep 28 \u2013 Oct 8 2023",
-          "wayback_ts": "20230216070858",
+          "wayback_ts": "20230216000858",
           "title": "Istanbul - Paris - London",
           "poster": "https://images.viff.org/uploads/2023/01/JamesBaldwinAbroad.jpg?resize=150%2C150",
           "language": "English",
@@ -11716,8 +11889,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "this-time-its-personal-programme-1",
@@ -11957,8 +12129,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "boxcutter",
@@ -12103,7 +12274,7 @@
         {
           "slug": "viff24-ar-rahman",
           "date_range": null,
-          "wayback_ts": "20240922182554",
+          "wayback_ts": "20240914021330",
           "title": "Stories and Music from His Career",
           "poster": "https://images.viff.org/uploads/2024/08/Live_ARRahman_Promo-14.jpg?resize=960%2C600&gravity",
           "synopsis": "For one night only on October 5, two-time Oscar-winning composer and songwriter A.R. Rahman will join the Vancouver Symphony Orchestra and the Vancouver International Film Festival for An Evening with A.R. Rahman: Stories and Music from His Career. The international superstar will provide a keynote and performance with the VSO at the Orpheum, with music spanning his legendary career composing for some of Hollywood and Bollywood\u2019s biggest hits. This special concert presented by the VSO and VIFF is part of an exciting new collaboration between the two organizations that celebrates the connection between music and film. Reaching international acclaim in 2008 with his score for Slumdog Millionaire, A.R. Rahman\u2019s live performance will be a celebration of sound and emotion. His works are notable for their seamless cultural integration of Eastern classical music with electronic music sounds, world music genres, and traditional orchestral arrangements. A marquee event of VIFF and a highlight of the VSO season, An Evening with A.R. Rahman will share his life\u2019s journey with fans through a new and custom-made presentation that blends storytelling and song. The legendary artist will invite audiences behind the scenes of his greatest works, sharing insights into his process and stories from his remarkable career. He will also perform segments of his scores live with the VSO, with clips from the fan-favourite films projected on the Orpheum\u2019s big screen. Concert repertoire to be announced soon.",
@@ -12663,7 +12834,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "smoke-sauna-sisterhood",
@@ -15140,12 +15312,53 @@
         {
           "slug": "agathas-almanac",
           "date_range": null,
-          "wayback_ts": "20260504203326",
+          "wayback_ts": "20260416113541",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "title": "Agatha's Almanac",
+          "poster": "https://images.viff.org/uploads/2025/07/AgathasAlmanac.jpg?resize=960%2C600&gravity",
+          "synopsis": "\u201cI\u2019ve never really been very lonely because I\u2019ve always had something to do,\u201d says Agatha Bock. A single Manitoban in her mid-80s, Agatha has fashioned herself an essentially self-sufficient lifestyle on her 54-acre ancestral farm, where she spends her days growing delectable fruits and vegetables from heirloom seeds. Her tools are held together with duct tape, her green thumb plastered in a cast, but neither her advanced age nor doctors\u2019 orders can hold her back from the satisfaction of tending to her crops. Amalie Atkins\u2019 debut feature documentary chronicles her aunt Agatha\u2019s daily rituals over the course of six years as she shares practical farming tips, Mennonite recipes for pierogies, and captivating stories from her life. Colourful montages of Agatha\u2019s patchwork quilts, hand-labeled jars, and gardening gloves call to a family history lovingly preserved through all things handmade and homegrown. Shot on vibrant 16mm film by cinematographer Rhayne Vermette (Ste. Anne) and paired with a relaxing lo-fi soundtrack by Green-House, Agatha\u2019s Almanac draws an artful portrait of simple, sustainable living. Apr 10: Q&A with director Amalie Atkins",
+          "director": "Amalie Atkins",
+          "year": 2025,
+          "runtime_min": 86,
+          "country": "Canada",
+          "language": "English",
+          "screenings": [
+            {
+              "start": "2026-04-16T13:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-04-17T16:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-18T13:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-19T12:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-21T18:20:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-23T19:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-04-26T13:50:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-05-05T18:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ]
         },
         {
           "slug": "franz",
@@ -15203,7 +15416,7 @@
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260801",
+      "last_seen_live": "20260804",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -18224,8 +18437,7 @@
               "start": "2025-07-05T20:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "wild-river",
@@ -18432,8 +18644,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -19301,7 +19512,7 @@
         {
           "slug": "industry-showrunners-scifi",
           "date_range": "Sep 26 \u2013 Oct 6 2024",
-          "wayback_ts": "20221003121453",
+          "wayback_ts": "20240518105009",
           "title": "In Conversation with Naren Shankar, Showrunner",
           "poster": "https://images.viff.org/uploads/2022/09/MeetTheShowrunnersSciFiEdition.jpg?resize=960%2C600&gravity",
           "synopsis": "Serialized storytelling, one of the most groundbreaking creative mediums today, continues to attract top writers and directors globally. Meet Naren Shankar, one of the most sought-after creators who will provide an insider\u2019s look into his work on one of the most talked about sci-fi shows today, The Expanse. Redefining the genre, mapping out plotlines for ensemble casts, building worlds, and working through hard scenes are just a few subjects the conversation will touch upon. Presented by",
@@ -19334,8 +19545,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -19362,13 +19572,12 @@
           "title": "DGC Visionaries",
           "poster": "https://images.viff.org/uploads/2022/09/DGCVisionaries.jpg?resize=150%2C150",
           "synopsis": "Join us for fascinating conversations with some of this year\u2019s most interesting filmmakers in scripted and documentary films. All are welcome. Free event. Presented by",
-          "wayback_ts": "20230204222042",
+          "wayback_ts": "20231204095032",
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -19716,8 +19925,7 @@
           "runtime_resolved": true,
           "director": "Matthew Heineman",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "unarchived",
@@ -19943,8 +20151,7 @@
               "start": "2024-10-05T20:00:00",
               "venue": "Orpheum"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff24-blink",
@@ -20961,7 +21168,7 @@
           "poster": "https://images.viff.org/uploads/2024/03/Elective-Affinities.png?resize=960%2C600&gravity",
           "title": "The Scores of Mica Levi",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240420105938",
+          "wayback_ts": "20250105205257",
           "synopsis": "Shuttering strings and echoes; melodies from the void set the stage for Under the Skin (2013). Bending warped pads and grieving orchestral moans accompany a recent widow in Jackie (2016). From manipulated samples of blowing into a bottle in Monos (2019) to the trash heap distorted beats of Zola (2020), composer Mica Levi has made a career of being selective. Working with only iconoclastic filmmakers presenting dark subjects, Mica is an inspiration to methodical introverts and music aficionados alike. Dissecting some of the most exciting and original film scores of the past decade, composer Cayne McKenzie contends: Mica Levi is an artist that makes no bad decisions. This talk will be followed by a screening of two short films directed by Jonathan Glazer and scored by Mica Levi: The Fall (2019, 7 min) and Strasbourg 1518 (2020, 10 min). Cayne McKenzie\u2019s film scores include Violent and Ash. He has written and performed with the bands We Are the City and Big Kill.",
           "runtime_min": 7,
           "screenings_resolved": true,
@@ -20974,8 +21181,7 @@
             }
           ],
           "featured_film": "Under the Skin",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-zone-of-interest",
@@ -21692,7 +21898,7 @@
           "country": "UK",
           "language": "In Russian and English with English subtitles",
           "synopsis": "Canadian Premiere How far would you go to defend the idea of an open press? The Price of Truth is the extraordinary story of a man who risks everything, to preserve freedom of speech in Russia. It is a tale of bravery, defiance, and a simple refusal to give in to Vladimir Putin \u2013 whatever the cost. In December 2021 Dmitry Muratov is awarded the Nobel Peace Prize. He is the editor-in-chief of Russia\u2019s only independent newspaper, Novaya Gazeta. Since he founded Novaya, six of his journalists have been murdered after their reports displeased the state, most famously, reporter Anna Politkovskaya, gunned down in the lift of her Moscow apartment. Another war dominates this film. In February 2022, Russia invades Ukraine. In early March, using the cover of a documentary film festival, Muratov secretly negotiates free passage for 40 journalists with the Latvian government. Then, all too aware of the risk he is running, he returns to Moscow to look after his paper and its remaining staff. In May, he announces that he is going to auction his Nobel medal and give the money to Ukrainian refugees. Days later, he is on a train home to see his mother. Suddenly, a masked attacker bursts into his compartment and pours red paint all over him. The paint is laced with acetone. Dima\u2019s eyesight is permanently damaged. Undaunted, he goes ahead with the auction. And on June 21, Muratov\u2019s medal sells for a record $103 million. To this day, he refuses to leave Moscow, whatever the pressure on him and his team. \u2018Putin stands for death. I stand for life.\u2019 Women journalists in South Africa who expose wrongdoing by those in power are often forced to endure deeply personal, frightening attacks on social media, as the four leading reporters interviewed for Section 16 disclose. Investigative reporters for publications that include The Daily Maverick and Die Beeld discuss the impact on them of targeted social media negativity, including direct threats to their safety. As one explains, when influential politicians with millions of followers, such as Julius Malema, malign them on social media and call for action, the danger they face is very real. But Ferial Haffajee, Marianne Thamm, Pauli van Wyk, Caryn Dolley, and others like them continue to write about corruption, crime in high places, and state collusion. What motivates them to keep going is relevant to us all. Bonus Content \u2013 Free for All Viewers With thanks to our Community Partner, SAFF Canada Video courtesy of the South African Film Festival Filmmaker Emilie Gambade (Co-director, Section 16) and investigative journalist Pauli van Wyk discuss the harassment of female journalists with former South African TV journalist Lindy Mtongana. They explain the motivation behind extreme cyber-bullying, and how these attacks affect them personally and professionally. They share their hopes that this documentary will raise awareness of the dangers facing investigative journalists globally. Watch Interview Tickets to this event include the Closing Night Reception, which includes appetizers and a drink ticket. A panel discussion/Q&A will follow the screening. Keynote Speaker: Katrina vanden Heuvel, Editorial Director and Publisher, The Nation Keynote Speakers: Emilie Gambade, Co-director, Section 16; Editor, The Daily Maverick and Malibongwe Tyilo, Co-director, Section 16; Associate Editor, Maverick Life, The Daily Maverick Panelists: Katrina vanden Heuvel, Editorial Director and Publisher, The Nation Patrick Forbes, Director, The Price of Truth Jeff Cohen, Journalist, Professor, Media Critic, Founder of Fairness and Accuracy in Reporting (FAIR) Christiaan Triebert, Journalist, Visual Investigations Team, The New York Times Martin Lee, Author, Activist, Co-founder of Fairness and Accuracy in Reporting (FAIR) Emilie Gambade, Co-director, Section 16; Editor, The Daily Maverick Moderator: Aaron Goodman, Professor of Journalism and Communication Studies, KPU",
-          "wayback_ts": "20250725132726",
+          "wayback_ts": "20240205203733",
           "runtime_min": 114,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -23077,7 +23283,7 @@
           "poster": "https://images.viff.org/uploads/2025/05/SumoDoSumoDont_Live.jpg?resize=960%2C600&gravity",
           "title": "Chen Baker Play J-Pop",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20250519000909",
+          "wayback_ts": "20250815050212",
           "synopsis": "Early bird tickets are available now! There are a limited number of early bird tickets available, so don\u2019t wait! After selling out multiple venues across Vancouver, Jeffery\u2019s Chen Baker band is back (and bigger than ever) to present a set of city pop and jazzy J-pop before the screening of the hilarious underdog comedy Sumo Do, Sumo Don\u2019t (1992). Featuring an ensemble seasoned gigging musicians and rising stars, the septet will be celebrating the music of Miki Matsubara, Taeko Ohnuki, Lamp, and more! Kitty Jia \u2014 vocals Brittany Or \u2014 keyboard Jack Lee \u2014 trumpet Neal Wang \u2014 saxophones Piyotr Kao \u2014 bass Dario Acosta \u2014 drums Jeffery Chen \u2014 guitar + Sumo Do, Sumo Don\u2019t (Masayuki Su\u00f4, Japan, 1992, 103 min) This hilarious sports underdog story from the director of Shall We Dance won 5 Japan Academy Awards including Best Film, and was the inspiration for the recent Disney+ spin off series. Deftly sidestepping the problem that few actors make convincing sumo wrestlers, Suo sets his scenario at the bottom of the ladder, at a college sumo club so low in the standings it only has one member, who has yet to graduate after eight years of trying. Shuhei (Masahiro Motoki) is talked into joining by his wily professor, but decides to stick around when he gets sight of the pretty manager, Natsuko (Misa Shimizu). Humiliated in his first tournament, Shuhei swears to turn things around\u2026",
           "runtime_min": 103,
           "screenings": [
@@ -23089,8 +23295,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -23125,8 +23330,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-constellations",
@@ -23373,8 +23577,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-the-stranger",
@@ -23440,12 +23643,13 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-rewind-bundle",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240127051748",
+          "wayback_ts": "20240127023113",
           "title": "Rewind Bundle",
           "poster": "https://images.viff.org/uploads/2023/12/RewindBundle_MyGirlfriend.jpg?resize=960%2C600&gravity",
           "director": "Various",
@@ -23527,7 +23731,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "wayback_ts": "20240127023213",
+          "wayback_ts": "20240126230621",
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
@@ -23549,7 +23753,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-stop-bundle",
@@ -23625,7 +23830,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -23952,7 +24158,8 @@
           "wayback_ts": "20260221050714",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -23971,7 +24178,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "el-this-strange-passion",
@@ -25020,7 +25228,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 28,
+      "consecutive_404s": 29,
       "desc_rewalked": true
     },
     {
@@ -25053,8 +25261,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "back-home",
@@ -25278,8 +25485,7 @@
           "runtime_resolved": true,
           "director": "Gail Maurice",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "soft",
@@ -25357,7 +25563,8 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "until-branches-bend",
@@ -25411,7 +25618,8 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "you-can-live-forever",
@@ -26194,7 +26402,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "one-battle-after-another",
@@ -27078,8 +27287,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "what-we-do-next",
@@ -27500,7 +27708,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260801",
+      "last_seen_live": "20260804",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -28115,7 +28323,8 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-king-of-wuxia",
@@ -28142,7 +28351,8 @@
           "runtime_resolved": true,
           "director": "Lin Jing-jie",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "lay-down-your-heart",
@@ -28186,8 +28396,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "music-pictures-new-orleans",
@@ -29301,7 +29510,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260801",
+      "last_seen_live": "20260804",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -31509,7 +31718,7 @@
           "country": "USA",
           "synopsis": "Thursdays through July and August, as a sidebar to our Ragged Glory: Summer in the 70s series, we\u2019re casting a (private) eye on crime thrillers, detectives, mystery and suspense. And we\u2019re setting the scene with a mystery of our own: a secret screening of a 1970s film of this type. We\u2019re not going to tell you what it is, but if you like playing detective, then you will certainly enjoy this fiendishly clever murder yarn, featuring several big 70s stars, and which deserves to be much better known than it is. Other films lined up for Thursday night Crime Scenes: Thurs July 28: Elliott Gould as Philip Marlowe in Robert Altman\u2019s The Long Goodbye and Jack Nicholson as JJ Gittes in Chinatown Thurs Aug 4: Gene Hackman in Arthur Penn\u2019s Night Moves and Robert Mitchum in The Yakuza, directed by Sidney Pollack Thurs Aug 11: Warren Beatty in The Parallax View; John Cassavetes and Peter Falk in Mikey and Nicky; Robert De Niro in Taxi Driver Thurs Aug 18: Art Carney and Lily Tomlin in The Late Show, directed by Robert Benton Thurs Aug 25: Ben Gazzara in John Cassavetes\u2019 The Killing of a Chinese Bookie and in Peter Bogdanovich\u2019s Saint Jack",
           "screenings_resolved": true,
-          "wayback_ts": "20220720194547",
+          "wayback_ts": "20220828212242",
           "runtime_min": 120,
           "runtime_resolved": true,
           "year": 1970,
@@ -31520,8 +31729,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mean-streets",
@@ -32724,8 +32932,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "glory",
@@ -32759,6 +32966,7 @@
           ],
           "date_range": null,
           "wayback_ts": "20221005024215",
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -32775,7 +32983,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260801",
+      "last_seen_live": "20260804",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -35006,7 +35214,8 @@
               "start": "2022-10-03T21:15:00",
               "venue": "The Cinematheque"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "back-home",
@@ -36028,8 +36237,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "huesera",
@@ -36256,7 +36464,8 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-klabona-keepers",
@@ -36522,7 +36731,8 @@
               "start": "2022-10-03T20:45:00",
               "venue": "International Village 8"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "maigret",
@@ -37047,8 +37257,7 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "pacifiction",
@@ -37541,7 +37750,7 @@
         {
           "slug": "something-you-said-last-night",
           "date_range": null,
-          "wayback_ts": "20221005014132",
+          "wayback_ts": "20240528033204",
           "title": "Something You Said Last Night",
           "poster": "https://images.viff.org/uploads/2022/10/Something-You-Said-Last-Night.jpg?resize=960%2C600&gravity",
           "synopsis": "Having already suffered the humiliation of losing her job, Ren (Carmen Madonia), an aspiring writer, must now endure a week of summer vacation with her overbearing parents (Ramona Milano and Joey Parro) and extroverted, overachieving younger sister (Paige Evans). A 20-something trans woman eager to prove her self-sufficiency, Ren is instead forced to share a bed with her sister and wile away her time with resort activities intended for children or seniors. In the summer haze, it becomes increasingly difficult to distinguish between rebellion and regression. With its intricate family dynamics, Luis de Filippis\u2019 debut feature is disarmingly intimate and exceedingly well-observed. She empathetically illustrates how familiarity can breed cluelessness, leaving kin to rely on assumptions about one another rather than genuine understanding. The film\u2019s deceptively rigorous structure sees each character transformed by week\u2019s end, with Ren arriving at the realization that adulthood needn\u2019t entail putting away all childish things. Changemaker Award, TIFF 2022; Sebastiane Award, San Sebastian 2022 Q&A Oct 4 & Oct 6 Presented by Media Partner",
@@ -37711,8 +37920,7 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "thunder",
@@ -38017,7 +38225,7 @@
           "country": "Hong Kong",
           "language": "In Cantonese with English subtitles",
           "synopsis": "Canadian Premiere Veteran Hong Kong star Eric Tsang (Infernal Affairs) has a field day here as Chi Kwong, a terrible actor (actually a retiree who works as an extra in HK movies) whose unwaveringly cheerful and sunny disposition makes him a natural for WeFamily, a rent-a-mom-and-pop operation. In his first assignment, Kwong plays a stern dad to a distraught daughter taking her first driving lesson. When a cop commandeers the car to chase a runaway criminal, he assumes that\u2019s all part of the script (it isn\u2019t). Another client needs a respectable family to present to her prospective in-laws (not a great long-term plan, to be sure), a scheme which immediately goes off the rails when her fianc\u00e9\u2019s family arrives for dinner an hour early. If the opening salvos favour broad slapstick and farce, this unapologetic crowd-pleaser has a few tricks up its sleeve and more emotional registers than you might expect. It\u2019s a full meal, and Tsang\u2019s fans will savour every moment. Presented by Media Partner",
-          "wayback_ts": "20230818201701",
+          "wayback_ts": "20220909010539",
           "screenings": [
             {
               "start": "2022-10-01T12:45:00",
@@ -38033,8 +38241,7 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-whale",
@@ -38088,7 +38295,7 @@
           "country": "Canada",
           "language": "English",
           "synopsis": "Canadian Premiere Leaving home for university, Abbie (Willow Shields) thrives as she experiences independence and self-actualization. However, she\u2019s tormented by the knowledge that her brother Kayden (Jonathan Simao), who has autism and is non-verbal, is reeling in her absence and pushing her parents (Lochlyn Munro and Elizabeth Mitchell) to their limits. While home for the holidays, Abbie faces the impossible decision between returning to Karly (Ava Capri), the woman she\u2019s fallen for, or providing Kayden the support he seemingly desperately needs. Drawing from her own experiences growing up with a sibling with ASD, Connie Cocchia creates a clear-eyed depiction of autism\u2019s impacts on an individual and their family. Rather than crafting a scrappy underdog story about an overachieving member of the autism community with savant qualities, When Time Got Louder offers a deeply moving story about good people simply trying to do their best\u2014and just how hard that can be. Q&A Oct 8 & Oct 9 Presented by Media Partner",
-          "wayback_ts": "20220909012122",
+          "wayback_ts": "20220928202513",
           "screenings": [
             {
               "start": "2022-10-08T14:30:00",
@@ -38104,8 +38311,7 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "a-woman-escapes",
@@ -38236,7 +38442,8 @@
               "start": "2022-10-09T21:30:00",
               "venue": "The Rio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff22-aftersun",
@@ -39195,7 +39402,8 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -39723,8 +39931,7 @@
               "start": "2022-10-02T18:00:00",
               "venue": "Annex"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "talks-deborah-lynn-scott",
@@ -39782,7 +39989,8 @@
               "start": "2022-10-06T19:00:00",
               "venue": "Vancouver Playhouse"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "talks-dean-fleischer-camp",
@@ -39795,7 +40003,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-deepa-mehta",
@@ -39840,7 +40049,7 @@
         {
           "slug": "talks-canadaland-backbench-live",
           "date_range": null,
-          "wayback_ts": "20230909083301",
+          "wayback_ts": "20230908005839",
           "title": "The Backbench Live!",
           "poster": "https://images.viff.org/uploads/2023/09/Talks-The-Backbench-Feature-No-Text.jpg?resize=960%2C600&gravity",
           "synopsis": "When you think about film, art, and creativity, government policy probably isn\u2019t the first thing that comes to mind. Make no mistake about it, our policy makers and politicians can crucially impact the art we make, who gets to make it, and the culture we consume. Good policy can create a thriving, diverse culture \u2014 and bad policy can destroy it. Join Backbench host Mattea Roach and special guests for an unforgettable LIVE podcast taping! Be part of our urgent, thoughtful, and entertaining conversation exploring the contentious Bill C-11 with its potential to disrupt the status quo, the challenges of filmmaking in Canada, and the David-and-Goliath-like struggle of independent art venues against the dominance of the industry giant. Media Partner",
@@ -39874,8 +40083,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -39894,7 +40102,8 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -40247,8 +40456,7 @@
           "runtime_resolved": true,
           "director": "Varsha Bharath",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-cyclemahesh",
@@ -40275,7 +40483,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-hidden-tremors",
@@ -41587,7 +41796,8 @@
               "start": "2025-10-12T13:45:00",
               "venue": "International Village 9"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff25-caravaggio",
@@ -41646,8 +41856,7 @@
               "start": "2025-10-07T15:00:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-half-moon-kinan-azmeh",
@@ -41658,7 +41867,7 @@
           "country": "Netherlands",
           "language": "In English and Arabic with English subtitles",
           "synopsis": "North American Premiere The act of artistic creation can feel inadequate when trying to convey the tragedy of war, but for clarinettist and composer Kinan Azmeh, music is a way to bear that grief and break down the boundaries of emotional and cultural expression. A witness to lives lost and displaced in his home country of Syria, Azmeh questions what role he can play as an artist and musician in a face of global conflicts and violence. Frank Scheffer\u2019s introspective documentary follows Azmeh on his travels to New York, Amsterdam, and Palestine, where the artist\u2019s soulful music and collaborative performances enrapture audiences through outpourings of emotional urgency. Half Moon: Kinan Azmeh is a profound and celebratory meditation on art\u2019s ability to inspire different cultures and reshape solidarity, community, and hope in the world, even in dark times. Presented by Media Partner Community Partner",
-          "wayback_ts": "20251023050841",
+          "wayback_ts": "20250911163517",
           "runtime_min": 92,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -41685,7 +41894,7 @@
           "country": "Germany",
           "language": "In German and English with English subtitles",
           "synopsis": "North American Premiere A glamorous icon full of poise and style, Hildegard Knef was one of the 20th century\u2019s true film stars. From her childhood growing up in Nazi Germany and rise to fame amidst the fallout of the war, to her public scandals and career reinventions, Knef pursued success above all else, and Luzia Schmid\u2019s candid documentary offers a compelling look at Knef\u2019s life in her own words. Narrated from her autobiography, Knef divulges her innermost thoughts and secrets, reflecting on her professional and personal lives: her time in Hollywood, her daughter, and her various high-profile romances. Fiercely independent and forthright, Knef was also surprisingly vulnerable and self-conscious about how the public perceived her, often drawn into despondency and periods of isolation. Moving back and forth through her life via archival footage, behind-the-scenes rehearsals, and extensive interviews with her friends and family, I Want It All reveals the multi-faceted layers beneath Knef\u2019s larger-than-life persona, piercing the masks she hid behind. Presented by Media Partner Community Partner",
-          "wayback_ts": "20250828155225",
+          "wayback_ts": "20250909230039",
           "runtime_min": 98,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -41728,7 +41937,8 @@
           "director": "Colin Hanks",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-la-salsa-vive",
@@ -41755,7 +41965,8 @@
               "venue": "International Village 7"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-painted-life-of-ej-hughes",
@@ -41836,7 +42047,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -42546,8 +42758,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-always",
@@ -42574,8 +42785,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-ancestral-visions-future",
@@ -42613,13 +42823,23 @@
           "year": 2025,
           "country": "USA",
           "language": "English",
-          "wayback_ts": "20260218205303",
+          "wayback_ts": "20250930195717",
           "runtime_min": 113,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Kahlil Joseph",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2025-10-11T18:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2025-10-12T15:30:00",
+              "venue": "International Village 8"
+            }
+          ]
         },
         {
           "slug": "viff25-edhi-alice-take",
@@ -42712,7 +42932,7 @@
           "country": "UK/Sudan/Germany/Qatar",
           "language": "In Arabic with English subtitles",
           "synopsis": "Filmed before and during Sudan\u2019s latest civil war, Khartoum is a collaborative hybrid documentary that follows five residents from the capital city into exile. Lokain and Wilson, two young bottle collectors, dream of new shirts and soccer glory; Jawad volunteers with the resistance; Khadmallah serves tea on a street corner; Majdi tries to protect his family while working for the regime. When the war erupts, the filmmakers and their subjects flee to Nairobi; here, they work together to convey their experiences, discovering new forms of collective expression through green screen, animation, and performance. Directed by Anas Saeed, Rawia Alhag, Ibrahim \u201cSnoopy\u201d Ahmad, Timeea M. Ahmed, and Phil Cox, Khartoum is born of necessity, intimacy, and invention. As the protagonists reenact the day war began \u2014 playing themselves and each other \u2014 the film\u2019s authorship is absorbed into the community, and what begins as five threads becomes a shared act of resistance, healing, and remembrance. Winner of the Peace Film Prize at Berlinale and the Gilda Vieira de Mello Award at FIFDH Geneva. Oct 7 & 11: Q&A Presented by Community Partner",
-          "wayback_ts": "20251003090751",
+          "wayback_ts": "20250912194310",
           "runtime_min": 80,
           "screenings": [
             {
@@ -42755,7 +42975,8 @@
           "director": "Damien Hauser",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-wto99",
@@ -42782,8 +43003,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-your-touch-makes-others-invisible",
@@ -43316,7 +43536,7 @@
           "director": "Various",
           "country": "Canada",
           "synopsis": "XINEMA is an ongoing series that showcases underrepresented artists and media forms through expansive film programs and discussions. We aim to create intersections between emerging and well-established filmmakers within and around \u201cVancouver\u201d, BC. Established in VIFF Centre\u2019s Studio Theatre, XINEMA aims to strengthen and preserve the experimental film scene by creating a space for open conversation, skill-sharing, and community. Look for future programmes every third Sunday of the month. Times Long Past, a phrase derived from the feeling of an unportrayable memory, an allusion to how objects, people, and places represent and convey the past. This program brings together seven films that reflect on the materialization and embodiment of time through fragmented structures, abstract recollections, and emblematic degradation. Screening: Time and Place by Brittney Appleby, Patterns of Liquid Stars by Sammy Chien, Diminished by Richard Martin, Where no one knew her name & Though she never spoke, this is where her voice would have been by Lindsay McIntyre, Spring Soon by Linda Serrano, and Qualicum by Sydney Southam. The Xinema Team would like to encourage patrons to wear masks for this show in consideration of immunocompromised guests. Curated by Celina de Leon & Sidney Gordon @celinebean2000 & Sidney Gordon | @dirttones",
-          "wayback_ts": "20230201114644",
+          "wayback_ts": "20230604094508",
           "runtime_min": 80,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -43394,7 +43614,7 @@
           "synopsis": "XINEMA and Gallery Gachet are proud to present Home is an Artifact, a two-part screening of experimental films by local and international artists. These reflective works flow between fragments of memory across individual and collective landscapes, forming new frameworks for reconciling identity, embodiment, and place. Part one showcases four new works collectively entitled To Map Alongside Belonging. Over eight months, a cohort of local BIPOC artists Kaila Bhullar, Luis Andr\u00e9s Serrano, Monica Cheema and Ogheneofegor Obuwoma drew from their individual experiences to consider the intersections of personal and communal, and respond to Gallery Gachet\u2019s positionality within the Downtown Eastside. The films in this programme are conscious vessels that respond, manipulate, and contribute to an ever growing archive of intergenerational and diasporic stories. Curated by XINEMA, part two responds to the work of Gallery Gachet\u2019s cohort, and features three experimental works by filmmakers Nada El-Omari, Martin Molina Gola, and Rhayne Vermette. Each artist combines uniquely manipulated analogue, digital, and archival images into rites of remembering; codices for (re)discovering personal histories, identities, and sites of becoming. Part One: Homebody Luis Andr\u00e9s Serrano (Canada, 2024), 9 min Assuming the role of a disembodied scientist, the filmmaker playfully interacts with fragments of a house as its own being. Showcasing the home in Petri dishes, Homebody documents breaking down and growing elements of a contained domestic space. geographies of longing Ogheneofegor Obuwoma (Canada, 2024), 6 min An exploration of body mapping as a way of traversing borders and experiences to exist in multiple places at once. geographies of longing archives the filmmaker\u2019s homes and life across continents, acting as a portrait and as an invitation to navigate alongside. Birth, Death + Entertainment Kaila Bhullar (Canada, 2024), 6 min An audiovisual collage incorporating recorded and found footage, altered super 8 film, still images, and digital manipulations. Birth, Death + Entertainment explores the intersectionality of a queer and neurodivergent identity and its subsequent correlations to existential dread. Let Us Try Again (Ao Phir Koshish Kariye) Monica Cheema (Canada, 2024), 6 min A rumination on the personal and colonial histories embedded within landscapes. Let Us Try Again (Ao Phir Koshish Kariye) is a curious attempt to begin tracing family histories in relation to railway work, offering a window into personal and collective grief, loss, and memory. Total part one program time: 27 min + filmmaker Q&A Q&A with filmmakers from Part 1 15 MIN INTERMISSION Part Two: YAG\u00c9 Mart\u00edn Molina Gola (Mexico/Peru, 2021), 14 min This travel journal from Peru works with the question of memory via the degeneration of video images, exploring hallucinatory space constructed from visual and aural debris. The passage of time and the nature of images are deformed mirrors of reality in this visual leitmotif. Yaffa Nada El-Omari (Canada, 2019), 8 min Space and time become meshed together to form the fragments we create our stories from. In those pieces of images, memories arise and stories retell themselves. Through mutual time, words, explorations and spaces Yaffa realizes a grandfather\u2019s gift: a home. Les Ch\u00e2ssis de Lourdes Rhayne Vermette (Canada, 2016), 18 min An architectural threnody is composed through various \u201ctrue stories\u201d and the inherent struggle between the metaphysical and material. Total part two program time: 40 min XINEMA is an ongoing series that showcases emerging and established filmmakers within and beyond \u201cVancouver\u201d, BC to strengthen and preserve the experimental film scene. www.xinema.ca",
           "runtime_min": 9,
           "screenings_resolved": true,
-          "wayback_ts": "20240526080056",
+          "wayback_ts": "20241008171405",
           "runtime_resolved": true,
           "director_resolved": true,
           "screenings": [
@@ -43430,7 +43650,7 @@
           "synopsis": "XINEMA presents: COSMIC QUEERITIES, a seven-film exploration of the intersections between identity & fantasy. Experience the depths of queer imagination and resiliency in the face of earthly alienation \u2013 done through the lens of a Lesbian Vampire, Pink Fairy, Jesus, Tom Waits and more! Screening: MOTHER (2014), Coral Short and Pippi Zornoza, 3 min Kaleidoscopic transmutations of a queer future. You are a Lesbian Vampire (2008), TJ Cuthand, 3 min An Immortal\u2019s immoral dilemma. Jesus\u2019 Blood Never Failed Me Yet (2020), Aryo Khakpour, 8 min An imaginary meeting between Jesus and Tom Waits. The Big Reveal (2022), Paige Smith, 2 min An exploration of women and gender-queer representation through a playful striptease. Pink Fairy (2006), Juli Saragosa, 7 min She could never wear pink until one night when the moon is out and a fairy comes to visit. Defiance (1993), Mo Bradley, 7 min Resilience of lesbian desire in the face of homophobia Supa Powers (2001), Michael Venus, 3 min Have you ever wondered what it\u2019d be like to have super powers? Filmmakers in attendance, Q&A after the screening Stay tuned for a corresponding collaborative workshop series announcement between XINEMA & Echo Park Film Centre North. XINEMA is an ongoing series that showcases emerging and established filmmakers within and around \u201cVancouver\u201d, BC to strengthen and preserve the local experimental film scene. Curated by Sidney Gordon and Celina de Leon",
           "runtime_min": 3,
           "screenings_resolved": true,
-          "wayback_ts": "20230702052044",
+          "wayback_ts": "20240624022710",
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
@@ -43541,917 +43761,6 @@
       "meta_resolved": true,
       "showtimes_resolved": true,
       "consecutive_404s": 1
-    },
-    {
-      "slug": "live",
-      "name": "VIFF Live Year-Round",
-      "detail_url": "https://viff.org/series/live-year-round/",
-      "film_slugs": [
-        {
-          "slug": "adventures-of-prince-achmed-live",
-          "date_range": null,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
-        },
-        {
-          "slug": "alfred-hitchcock-the-lodger-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Andrea Superstein Sings Burt Bacharach",
-          "synopsis": "Andrea Superstein performs live a set of Burt Bacharach tunes, followed by a screening of Austin Powers: International Man of Mystery.",
-          "poster": "https://images.viff.org/uploads/2026/05/AustinPowers_Live.jpg?resize=960%2C600&gravity",
-          "runtime_min": 155,
-          "slug": "andrea-superstein-austin-powers-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Round Midnight: Ardeshir Plays Dexter Gordon",
-          "synopsis": "Saxophonist Ardeshir channels jazz great Dexter Gordon in his live set, followed by a screening of Round Midnight, maybe the greatest film about jazz.",
-          "poster": "https://images.viff.org/uploads/2026/01/RoundMidnight.jpg?resize=960%2C600&gravity",
-          "runtime_min": 131,
-          "slug": "ardeshir-dexter-gordon-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "artie-shaw-tribute-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "askiwan-live",
-          "date_range": null,
-          "wayback_ts": "20260110094057",
-          "title": "ask\u00eewan \u140a\u1422\u146e\u140a\u1427\u1423",
-          "poster": "https://images.viff.org/uploads/2026/01/askiwan.jpg?resize=960%2C600&gravity",
-          "synopsis": "VIFF Live is honoured to co-present this unique and important work at the 2026 PuSh Festival. Land // Memory // Future Part live cinema, part ecological opera, ask\u00eewan \u140a\u1422\u146e\u140a\u1427\u1423 conjures a cosmology of land, memory, and time. This operatic multimedia performance transforms a miniature film set \u2014 complete with cameras, mylar, mirrors, and bowls of water \u2014 into vast dreamlike mountainscapes that unfold in real time. Through live video projection, electroacoustic sound, and baritone vocals sung in nehiyawewin (Plains Cree), creator and director Tyson Houseman (n\u00eahiyaw) invites audiences into an Indigenous vision of deep, cyclical time: where rivers breathe, fire regenerates, and childhood memories ripple through vibrating water. Viola da gamba and electronics entwine ancient and digital frequencies as landscapes shift from winter ice to aurora skies. At once cinematic and ceremonial, ask\u00eewan \u140a\u1422\u146e\u140a\u1427\u1423 reveals how land remembers \u2014 and how, even amid ecological crisis, the earth continues to sing through us.",
-          "runtime_min": 60,
-          "screenings": [
-            {
-              "start": "2026-01-29T20:00:00",
-              "venue": "Roundhouse Community Arts & Recreation Centre"
-            },
-            {
-              "start": "2026-01-30T20:00:00",
-              "venue": "Roundhouse Community Arts & Recreation Centre"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "beatlemania-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Biboye Onanuga Plays Monk",
-          "synopsis": "Returning to the VIFF stage, Biboye Onanuga, presents The Music of Monk. The Edmonton-based drummer is joined by an iconoclastic ensemble of Vancouver musicians prior to a screening of the documentary Thelonious Monk: Straight, No Chaser.",
-          "poster": "https://images.viff.org/uploads/2025/03/VIFFLive_Monk.jpg?resize=960%2C600&gravity",
-          "runtime_min": 180,
-          "year": 1988,
-          "director": "Charlotte Zwerin",
-          "country": "USA",
-          "slug": "biboye-onanuga-plays-monk-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "blue-horse-opera-big-gundown-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "blue-note-legacy-quartet-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Bonnie Northgraves Quintet: To Louis with Love",
-          "synopsis": "Join us for To Louis with Love, a joyful celebration of the legendary Louis Armstrong by Bonnie Northgraves and her band, followed by Bert Stern's legendary concert film Jazz on a Summer's Day, featuring Monk, Gerry Mulligan, and of course Satchmo.",
-          "poster": "https://images.viff.org/uploads/2025/06/Louis-Armstrong.jpg?resize=960%2C600&gravity",
-          "runtime_min": 160,
-          "slug": "bonnie-northgraves-quintet-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Brandon Wint: Moving For Love \u2013 An Evening of Film, Poetry & Music",
-          "synopsis": "Poet and filmmaker Brandon Wint presents two new short films, Moving for Love and Backbone, alongside a live jazz performance with collaborators Feven Kidane, Yoro Noukoussi, and Quincey Mayes, and a poetry reading.",
-          "poster": "https://images.viff.org/uploads/2024/10/MovingForLove.jpg?resize=960%2C600&gravity",
-          "runtime_min": 120,
-          "year": 2024,
-          "director": "Brandon Wint",
-          "country": "Canada",
-          "slug": "brandon-wint-moving-for-love-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "cassidy-waring-hearse-chasing-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Chen Baker Play J-Pop",
-          "synopsis": "Jeffery's Chen Baker band is back (and bigger than ever) to present a set of city pop and jazzy J-pop by the likes of Miki Matsubara, Taeko Ohnuki, Lamp, before the screening of Masayuki Suo's hilarious underdog comedy Sumo Do, Sumo Don't (1992).",
-          "poster": "https://images.viff.org/uploads/2025/05/SumoDoSumoDont_Live.jpg?resize=960%2C600&gravity",
-          "runtime_min": 103,
-          "slug": "chen-baker-j-pop-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "chungking-express-chen-baker-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "coffee-house-folk-live",
-          "date_range": null,
-          "wayback_ts": "20251130072752",
-          "title": "Coffee House Folk + Inside Llewyn Davis",
-          "poster": "https://images.viff.org/uploads/2025/11/InsideLlewynDavis.jpg?resize=960%2C600&gravity",
-          "synopsis": "The Coens\u2019 catty portrait of the Greenwich Village scene that gave birth to Bob Dylan is the best movie about folk music, bar none. Oscar Isaac plays the idealistic but narcissistic singer who may be his own worst enemy. Carey Mulligan is his Before the movie, enjoy solo sets from four local singer-songwriters paying tribute to the coffee house folk tradition. Rodney DeCroo is a Vancouver based singer-songwriter originally from Pittsburgh, Pennsylvania. Exclaim Magazine calls him one of Canada\u2019s most brilliant and sensitive songwriters. Tim Readman is a witty folksinger dealing in protest songs, funny songs, traditional and contemporary songs who always has a few surprises up his sleeve. He\u2019s also a songwriter, producer and music journalist. LJ Mounteney is a Vancouver based singer-songwriter and performer known for putting soulful twists on inspired classics, intriguing song choices and high-energy shows. Her voice has been compared to Susan Tedeschi, Bonnie Raitt and Norah Jones. Andy Hillhouse has been a touring bandleader in the Anglo-Celtic music world, a choral director, a music and culture scholar, and now a festival organizer. As a musician he toured North America and Europe with several of the Celtic music scene\u2019s most respected and exciting acoustic musicians, including Juno winners The McDades. Inside Llewyn Davis (2013, USA, 105 min)",
-          "runtime_min": 180,
-          "featured_film": "Inside Llewyn Davis",
-          "screenings": [
-            {
-              "start": "2026-01-04T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "title": "Cory Weeds Plays Sonny Rollins",
-          "synopsis": "Local sax legend Cory Weeds is joined by pianist Sharon Minemoto, bassist David Caballero and drummer Jesse Cahill to play music from Sonny Rollins' 1957 Riverside Records release The Sound Of Sonny, plus a screening of the acclaimed Saxophone Colossus doc.",
-          "poster": "https://images.viff.org/uploads/2025/06/Saxophone-Colossus.jpg?resize=960%2C600&gravity",
-          "runtime_min": 150,
-          "slug": "cory-weeds-sonny-rollins-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "cousin-harley-walk-hard-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Cowboy Bebop + The Cowboy Bebop Bebop Band",
-          "synopsis": "Here's the double whammy of the season: The Cowboy Bebop Bebop Band (led by Steven Zhu) paired with a screening of the thrilling 2001 Cowboy Bebop: The Movie.",
-          "poster": "https://images.viff.org/uploads/2024/07/CowboyBebop.jpg?resize=960%2C600&gravity",
-          "runtime_min": 120,
-          "year": 2001,
-          "director": "Shinichir\u014d Watanabe",
-          "country": "Japan",
-          "slug": "cowboy-bebop-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "dawn-pemberton-amazing-grace-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "dean-thiessen-vince-guaraldi-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "duke-ellington-tribute-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Jeremy Dutcher & Alanis Obomsawin",
-          "synopsis": "Two of the most compelling voices in Indigenous music and cinema meet for an intimate, unique, and unforgettable evening of intergenerational story and song featuring award-winning Wolastoq tenor and composer Jeremy Dutcher and renowned Abenaki filmmaker and musician Alanis Obomsawin.",
-          "poster": "https://images.viff.org/uploads/2024/08/LIVE_Jeremy-X-Alanis.jpg?resize=960%2C600&gravity",
-          "runtime_min": 90,
-          "slug": "dutcher-obomsawin-live",
-          "date_range": null,
-          "wayback_ts": "20260519185032",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "title": "Elisapie - Uvattini",
-          "synopsis": "JUNO Award-winning Inuk artist Elisapie presents the West Coast Premiere of her new multimedia show, Uvattini.",
-          "poster": "https://images.viff.org/uploads/2024/08/LIVE_Elisapie.jpg?resize=960%2C600&gravity",
-          "runtime_min": 90,
-          "slug": "elisapie-uvattini-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "erika-chow-blue-giant-live",
-          "date_range": null,
-          "wayback_ts": "20260203012012",
-          "title": "Erika Chow + Blue Giant",
-          "poster": "https://images.viff.org/uploads/2024/02/BlueGiant.jpg?resize=960%2C600&gravity",
-          "synopsis": "Revered pianist Hiromi Uehar composed the score for this electrifying jazz anime, a movie which makes no apology for its obsession with the sound and fury of musical ferment. It\u2019s the story of Dai, a young man who decides he\u2019s going to to be the next John Coltrane. He leaves his sleepy hometown for the crowded nightclubs of Tokyo, and eventually forms a trio \u2014 Jass \u2014 with pianist Yukinori and drummer Shunji. But do they have what it takes to make it? The director Yuzuru Tachikawa has described the film as \u201ca concert in the theatre\u201d, and that\u2019s right: this movie is all about applying animation to express musicality. Which is why this is the definitive jazz movie of the last decade. Japanese dialogue with English subtitles. 120 mins This screening will be preceded by an hour-long set from a quartet led by Erika Chow on tenor sax (7:30 pm sharp) Erika Chow is a Vancouver-based saxophonist known for her incredible Jazz chops and for selling out multiple shows for Infidels Jazz in recent years. Featuring some of the very best musicians on the contemporary Vancouver Jazz scene, Erika\u2019s quartet will perform a selection of tunes from the movie\u2019s soundtrack, as well as a few originals and standards. Erika Chow \u2013 Tenor Saxophone Rick Son \u2013 Keyboards Raphael Agustin \u2013 Bass Jordy McIntosh \u2013 Drums",
-          "runtime_min": 180,
-          "featured_film": "Blue Giant",
-          "screenings": [
-            {
-              "start": "2026-03-24T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "etiquette-dying-ron-samworth-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "exterminating-angel-magazinist-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Magazinist's Faust",
-          "synopsis": "Experimental music duo Magazinist perform an original live score alongside FW Murnau's Faust on April 30, \"Walpurgis Night\" &mdash; the very evening when Faust is led by Mephisto to the mountaintop for a night of infernal revelry in celebration of spring.",
-          "poster": "https://images.viff.org/uploads/2024/02/Faust.jpg?resize=960%2C600&gravity",
-          "runtime_min": 107,
-          "year": 1926,
-          "director": "F.W. Murnau",
-          "country": "Germany",
-          "slug": "faust-magazinist-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Feven Kidane Plays Ethio Jazz",
-          "synopsis": "The Kidannes Ethio-Jazz Ensemble performs a blend of traditional Ethiopian &amp; Eritrean music in this VIFF Live, followed by a screening of Broken Flowers.",
-          "poster": "https://images.viff.org/uploads/2026/03/BrokenFlowers.jpg?resize=960%2C600&gravity",
-          "runtime_min": 181,
-          "slug": "feven-kidane-ethio-jazz-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "feven-kidane-quartet-live",
-          "date_range": null,
-          "wayback_ts": "20241020202456",
-          "title": "Music Inspired by the Film Soundtrack to a Coup D'Etat",
-          "poster": "https://images.viff.org/uploads/2024/10/SoundtrackToACoupDEtat_Live.jpg?resize=960%2C600&gravity",
-          "synopsis": "Early bird tickets are available now! There are a limited number of early bird tickets available, so don\u2019t wait! A fierce talent on the local jazz scene, trumpeter Feven Kidane presents a very special set of original music inspired by the documentary Soundtrack to a Coup d\u2019Etat\u2026 music which seeks to connect with the film and embody a learning spirit, remembrance, and decades-old shared grief. Feven explains, \u201cthis film gives me mixed feelings. not mixed as in \u201ci\u2019m half in\u201d, but mixed in the fact that the content itself is so emotional that my horn will have to work extra hard. mixed in the fact that its honesty hurts me. this film has me enraged, inspired, and activated. it gives me hope for a united Blackness, but upset by constant thwarted plans for its achievement.\u201d For this occasion, Feven\u2019s band consists of Quincy Mayes on keys, Bernie Arai on drums, and Milo Johnson on bass. About Soundtrack to a Coup d\u2019Etat: Artfully juxtaposing archival news reports, investigative interviews, and jazz, Johan Grimonprez\u2019s essay film takes a fresh look at the notorious events in the wake of Congo\u2019s independence in the early 1960s, culminating in the assassination of the country\u2019s first democratically-elected leader, Patrice Lumumba. It\u2019s a film about the deceit at the heart of colonialism, and about how jazz (Louis Armstrong, Dizzy Gillespie, Max Roach) figured into the politics of the Cold War and Black Liberation.",
-          "director": "Johan Grimonprez",
-          "year": 2024,
-          "runtime_min": 100,
-          "country": "Belgium/France/Netherlands",
-          "language": "In English, French, Russian and Dutch with English subtitles",
-          "screenings": [
-            {
-              "start": "2024-11-16T19:00:00",
-              "venue": "VIFF Centre - Vancity Theatre"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "feven-kidane-tiny-pyramids-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "flamenco-guitar-yerai-cortas-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "george-garzone-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "GIFT: A Film by Ryusuke Hamaguchi X Live Score by Eiko Ishibashi",
-          "synopsis": "Multi-instrumentalist and composer Eiko Ishibashi, presents the Canadian Premiere of GIFT&mdash;a new silent film directed by Ry&ucirc;suke Hamaguchi, and accompanied by a dynamic, live soundtrack performed by Ishibashi.",
-          "poster": "https://images.viff.org/uploads/2024/08/ORourke-X-Kojima_1920px.jpg?resize=960%2C600&gravity",
-          "runtime_min": 74,
-          "slug": "gift-hamaguchi-ishibashi-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "gord-grdina-qalandar-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "haxan-halloween-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Jesse Zubot in Concert",
-          "synopsis": "Using a violin, viola and miscellaneous electronics, and incorporating multiple sounds and techniques that relate to his work as a film composer, Jesse Zubot promises a unique and thrilling concert, followed by a preview of the the new BC film Inedia.",
-          "poster": "https://images.viff.org/uploads/2024/07/Inedia.jpg?resize=960%2C600&gravity",
-          "runtime_min": 180,
-          "slug": "jesse-zubot-inedia-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Jimi James: Blues for Brando",
-          "synopsis": "The Jimi James Quintet pays tribute to the emergence of bebop, in many ways a parallel artistic innovation to Method acting. A set of bebop classics will be followed by a screening of Marlon Brando in The Wild One.",
-          "poster": "https://images.viff.org/uploads/2025/05/WildOne.jpg?resize=960%2C600&gravity",
-          "runtime_min": 140,
-          "slug": "jimi-james-blues-brando-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "john-coltrane-blue-world-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "julian-borkowski-blues-brando-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "julio-avila-cuban-band-mambo-kings-live",
-          "date_range": null,
-          "wayback_ts": "20260606142852",
-          "title": "Julio Avila Cuban Band + The Mambo Kings",
-          "poster": "https://images.viff.org/uploads/2026/05/MamboKings.jpg?resize=960%2C600&gravity",
-          "synopsis": "Feel the heat! Tonight is a night to shake your booty in the best seats in town as we combine a live set of exhilarating Cuban music with a rediscovered 90s barnstormer of a movie starring Latin heartthrobs Armand Assante and Antonio Banderas alongside the likes of Tito Puente and Celia Cruz. The Julio Avila Cuban Band is a powerhouse ensemble bringing the infectious rhythms and rich traditions of Cuban music to the West Coast. Led by bassist, vocalist, and composer Julio Avila, the group combines musical excellence with deep cultural authenticity. Each member, most of whom hail from Cuba, contributes world-class talent on vocals, horns, percussion, and keys, creating a vibrant, rich sound. Together, they perform a dynamic mix of salsa, son, merengue, cumbia, and bachata, captivating audiences with irresistible energy and rhythm. Formed in Vancouver in 2015, the band quickly became a local favourite, celebrated for electrifying live performances and a strong commitment to preserving and sharing Cuban musical heritage. Whether performing at festivals, concerts, or community events, the Julio Avila Cuban Band delivers an unforgettable experience that gets people dancing and fills hearts with joy. This is Cuban music at its finest \u2013 alive, passionate, and deeply soulful. About the film: The Mambo Kings (Arne Glimcher, 1992, 104 min) Armand Assante and Antonio Banderas (in his American movie debut) play brothers, Cuban musicians exiled in the 1950s New York City, trying to get their lives back on track. Based on the Pulitzer prize winning novel, The Mambo Kings Play Songs of Love, by Oscar Hijuelos. Band Members Julio Avila \u2013 bass, vocals Ernesto Benitez \u2013 keyboards Hector Ramos \u2013 congas Julio Orlando Avila \u2013 saxophone, clarinet, flute Isidora Basanovic \u2013 vocals, minor percussion Hamilton Feraud \u2013 vocals, minor percussion Reinaldo Burgues \u2013 vocals, minor percussion",
-          "runtime_min": 234,
-          "featured_film": "The Mambo Kings",
-          "screenings": [
-            {
-              "start": "2026-06-27T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "title": "Bang the Drum!",
-          "synopsis": "Our latest VIFF Live presentation combines a jazz set led by drummer Kevin Romain and one of the most notorious music docs ever made, Beware of Mr. Baker, Jay Bulger's bruising encounter with the legendary Ginger Baker, aka \"the world's greatest drummer\".",
-          "poster": "https://images.viff.org/uploads/2025/02/BewareMrBaker.jpg?resize=960%2C600&gravity",
-          "runtime_min": 150,
-          "year": 2012,
-          "director": "Jay Bulger",
-          "country": "USA",
-          "slug": "kevin-romain-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "kit-eakle-jazntheviolin-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "krystle-dawn-union-street-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "krystle-dos-santos-jackie-shane-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "laura-crema-jazz-summers-day-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Laura Crema Sings Lorenz Hart",
-          "synopsis": "Leading jazz vocalist Laura Crema performs some of Lorenz Hart's most memorable songs, paired with a screening of Richard Linklater's new movie, Blue Moon.",
-          "poster": "https://images.viff.org/uploads/2025/08/BlueMoon.jpg?resize=960%2C600&gravity",
-          "runtime_min": 180,
-          "slug": "laura-crema-lorenz-hart-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "lee-morgan-tribute-feven-kidane-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "lets-get-lost-vince-mai-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Lina Nyberg Live Score: The Norrtull Gang",
-          "synopsis": "This VIFF Live brings together a proto-feminist 1920s silent film with a new live score written and performed by Swedish singer-composer Lina Nyberg.",
-          "poster": "https://images.viff.org/uploads/2026/04/NorrtullGang.jpg?resize=960%2C600&gravity",
-          "runtime_min": 81,
-          "slug": "lina-nyberg-norrtull-gang-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Sam Green: 32 Sounds",
-          "synopsis": "An immersive documentary and profound sensory experience from filmmaker Sam Green that explores the elemental phenomenon of sound.",
-          "poster": "https://images.viff.org/uploads/2023/08/32-Sounds-Sam-Green-Featured-Image.jpg?resize=960%2C600&gravity",
-          "runtime_min": 90,
-          "slug": "live-32-sounds",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-ironworks-cris-derksen",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-ironworks-daniel-barrow",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-ironworks-matreyek-chien",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-machine-folklore",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "live-nosferatu",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "look-out-for-hope-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Man With a Movie Camera Live Scored by Taras Luka",
-          "synopsis": "VIFF Live presents Man With a Movie Camera with a brand new score by Ukrainian composer and pianist Taras Luka.",
-          "poster": "https://images.viff.org/uploads/2022/12/ManWithAMovieCamera.jpg?resize=960%2C600&gravity",
-          "runtime_min": 67,
-          "slug": "man-movie-camera-taras-luka-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Mary Ancheta Plays Betty Davis Tribute",
-          "synopsis": "In this VIFF Live event, keyboardist Mary Ancheta and her band channel the phenomenal funk of 70s sensation Betty Davis, featuring Dawn Pemberton on vocals. The live music portion of the event will be followed by Phil Cox's invaluable 2017 documentary, They Say I'm Different.",
-          "poster": "https://images.viff.org/uploads/2025/04/TheySayImDifferent.jpg?resize=960%2C600&gravity",
-          "runtime_min": 150,
-          "year": 2017,
-          "director": "Phil Cox",
-          "country": "UK",
-          "slug": "mary-ancheta-betty-davis-tribute-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Matt Grinke's Happiest Jazz Quintet on Earth Plays Pixar",
-          "synopsis": "Enjoy a special set of Pixar tunes arranged by Disney Cruise Line music director and pianist Matt Grinke and his happiest quintet, plus a screening of one of the studio's most beloved movies, Monsters, Inc.",
-          "poster": "https://images.viff.org/uploads/2025/02/Pixar-Live.jpg?resize=960%2C600&gravity",
-          "runtime_min": 160,
-          "year": 2001,
-          "director": "Pete Docter",
-          "country": "USA",
-          "slug": "matt-grinke-jazz-quintet-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "wayback_ts": "20251115064531",
-          "language": "English",
-          "screenings_resolved": true,
-          "runtime_resolved": true
-        },
-        {
-          "title": "Max Roach: The Drum Also Waltzes",
-          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, one of the best cinemas in Vancouver and home to the Vancouver International Film Festival.",
-          "poster": "https://images.viff.org/uploads/2024/01/MaxRoach.jpg?resize=960%2C600&gravity",
-          "runtime_min": 82,
-          "year": 2023,
-          "country": "USA",
-          "slug": "max-roach-feven-kidane-sextet-live",
-          "featured_film_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Lou Reed's Metal Machine Music as Realized by Aram Bajakian, Stefan Maier and Anju Singh",
-          "synopsis": "VIFF Live Lou Reed's Metal Machine Music sees guitarist Aram Bajakian performing Lou Reed's controversial noise album, with a screening of Reed's Berlin.",
-          "poster": "https://images.viff.org/uploads/2026/03/Berlin.jpg?resize=960%2C600&gravity",
-          "runtime_min": 156,
-          "slug": "metal-machine-music-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Sal\u00f3n M\u00e9xico + Midnight Boogaloo Live!",
-          "synopsis": "To celebrate VIFF Centre's Mexico Noir series, Midnight Boogaloo gets the party going with salsa, boogaloo and rock &amp; roll in this can't-miss VIFF Live.",
-          "poster": "https://images.viff.org/uploads/2026/02/SalonMexico_Live.jpg?resize=960%2C600&gravity",
-          "runtime_min": 170,
-          "slug": "midnight-boogaloo-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "miles-davis-100-julian-borkowski-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "miles-davis-100-vince-mai-live",
-          "date_range": null,
-          "wayback_ts": "20260422025900",
-          "title": "Vince Mai Plays Miles Davis",
-          "poster": "https://images.viff.org/uploads/2026/03/BirthOfTheCool.jpg?resize=960%2C600&gravity",
-          "synopsis": "Vancouver is celebrating the 100th birthday of Jazz icon Miles Davis this May with a series of events covering every era of this musical trailblazer. Local trumpet legend Vince Mai Vince Mai will be performing music from some of Miles\u2019 most memorable 1950s albums, including Kind of Blue, Walkin\u2019, Relaxin\u2019 and more. After Vince\u2019s live set, enjoy Stanley Nelson\u2019s definitive documentary. Vince Mai \u2013 trumpet Steve Kaldestad \u2013 Saxophone Laurence Mollerup \u2013 Bass Miles Black \u2013 Piano Bernie Arai \u2013 Drums About the film: Nelson\u2019s fascinating biographical portrait might have used a couple more hours to really dig into the many shades and aspects of a complicated and conflicted man and an artist who was constantly reinventing himself, but even if you\u2019re a Miles Davis aficionado you will come away with unexpected insights and revelations from a stellar round up of interviewees, supplemented with wonderful archival photographs and footage, and excepts from Miles\u2019s autobiography read by actor Carl Lumbly. If you enjoy the music but aren\u2019t familiar with the story behind it, this is the place to start. One of the towering figures of the twentieth century, Miles Davis took jazz to a pinnacle of perfection in his album Kind of Blue, bringing tender, aching grace notes to the frantic fury of bebop. He didn\u2019t stop there, always looking for new aural textures, new shapes and sounds.",
-          "runtime_min": 189,
-          "screenings": [
-            {
-              "start": "2026-05-24T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            },
-            {
-              "start": "2026-05-24T19:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "night-moves-rodney-decroo-live",
-          "date_range": null,
-          "wayback_ts": "20250315101737",
-          "title": "Street Photography and Poetry by Rodney DeCroo",
-          "poster": "https://images.viff.org/uploads/2025/03/NightMoves.jpg?resize=960%2C600&gravity",
-          "synopsis": "Early bird tickets are available now! There are a limited number of early bird tickets available, so don\u2019t wait! Rodney DeCroo is a singer-songwriter, playwright, poet and screenwriter. To mark the publication of his first collection of street photography, Night Moves (Anvil Press), this will be a multimedia event with slides, poetry, music, film and conversation. Night Moves is a gritty, touching and truthful portrayal of contemporary urban life. With his poet\u2019s eye for detail, DeCroo faithfully captures the living character of East Vancouver, especially the pulse of the Commercial Drive area that he has called home for the past 30 years. 7:00 pm \u2014 Social mixer (VIFF Atrium) 7:30 pm \u2014 Introduction and slide show: Images from Night Moves 7:45 pm \u2014 Conversation with Mike Usinger on the art and ethics of street photography, followed by Q&A and intermission 8:30 pm \u2014 Poetry, Music and Short Films with Rodney and his band, The Wise Blood",
-          "runtime_min": 120,
-          "featured_film": "Night Moves",
-          "screenings": [
-            {
-              "start": "2025-04-23T19:30:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "nutcracker-suite-live",
-          "date_range": null,
-          "wayback_ts": "20251218201112",
-          "title": "The Leading Ladies Perform Duke Ellington's The Nutcracker Suite",
-          "poster": "https://images.viff.org/uploads/2025/10/NutcrackerAtWethersfield_Live.jpg?resize=960%2C600&gravity",
-          "synopsis": "If you\u2019ve never experienced the jazz version of The Nutcracker Suite before, you\u2019re in for a treat! Legendary composer/arrangers Billy Strayhorn and Duke Ellington brilliantly reimagined the classic Tchaikovsky ballet for a full-sized jazz orchestra. Taking cues from the vintage stylings of the 1940s, 50s, and 60s, the Leading Ladies blend beloved jazz and blues classics with fresh, original arrangements and a high-energy, swingin\u2019 performance style. Directed by trombonist Casey Thomas-Burns, this dynamic and vibrant group of women first came together to perform a single show in 2019. They\u2019ve stuck together ever since. About the film: The Nutcracker at Wethersfield (Annie Sundberg, 2025, 83 min) Back in the long, dark Covid winter of 2020, there was no way the New York City Ballet could mount its beloved traditional Christmas production of Tchaikovsky\u2019s magical fairytale. But choreographer Troy Schumacher had a dream to save the show and get his fellow dancers back to work. Relocating two hours\u2019 drive north of Time Square, Troy set about staging The Nutcracker in and around the magnificent Wethersfield country estate in the Hudson Valley. With only a couple of weeks to rehearse, 50 dancers and production crew come together to reimagine a classic without a stage, wings, or even seats for the socially-distanced audience. Award-winning filmmaker Annie Sundberg (The Devil Comes on Horseback) was on hand to celebrate their trials and triumphs.",
-          "runtime_min": 180,
-          "featured_film": "The Nutcracker at Wethersfield",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "oscar-peterson-centenary-tribute-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "page-madness-anju-singh-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "A Page of Madness: Live Score by Anju Singh",
-          "synopsis": "Performer Anju Singh premieres a new multi-instrumental live score to Teinsuke Kinugasa's expressionist horror masterpiece. An asylum janitor wants to help his beloved wife escape, but she doesn't want to leave...",
-          "poster": "https://images.viff.org/uploads/2024/03/PageofMadness.jpg?resize=960%2C600&gravity",
-          "runtime_min": 73,
-          "year": 1926,
-          "director": "Teinosuke Kinugasa",
-          "country": "Japan",
-          "slug": "page-madness-somnus-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "wayback_ts": "20240515050405",
-          "screenings": [
-            {
-              "start": "2024-06-16T19:30:00",
-              "venue": "VIFF Centre - Vancity Theatre"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true
-        },
-        {
-          "title": "Pulp Fiction + The ReViberators",
-          "synopsis": "This VIFF Live special of Quentin Tarantino's Pulp Fiction opens with a performance from surf guitar sensations The ReViberators.",
-          "poster": "https://images.viff.org/uploads/2026/05/PulpFiction_Live.jpg?resize=960%2C600&gravity",
-          "runtime_min": 234,
-          "slug": "pulp-fiction-reviberators-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Quincy Mayes Brazilian Soul Experience",
-          "synopsis": "The Quincy Mayes Brazilian Soul Experience is thrilled to present a special performance showcasing the diverse, Afro-centric roots of samba, soul, and funk alongside a screening of the essential Brazilian film City of God.",
-          "poster": "https://images.viff.org/uploads/2025/01/CityOfGod.jpg?resize=960%2C600&gravity",
-          "runtime_min": 190,
-          "year": 2002,
-          "country": "Brazil",
-          "slug": "quincy-mayes-brazilian-soul-live",
-          "featured_film_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "I Am the Blues + Robert Connely Farr Live",
-          "synopsis": "This VIFF Live event brings together Robert Connely Farr for a set of authentic Mississippi blues, followed by the blues documentary I Am the Blues.",
-          "poster": "https://images.viff.org/uploads/2026/02/IAmTheBlues.jpg?resize=960%2C600&gravity",
-          "runtime_min": 180,
-          "slug": "robert-connely-farr-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "The Rocky Horror Picture Show",
-          "synopsis": "Enjoy great movies at the luxurious VIFF Centre, voted one of the best cinemas in Vancouver and home to the prestigious Vancouver International Film Festival.",
-          "poster": "https://images.viff.org/uploads/2023/09/RockyHorrorPictureShow_Still.jpg?resize=960%2C600&gravity",
-          "runtime_min": 160,
-          "year": 1975,
-          "director": "Jim Sharman",
-          "country": "USA",
-          "slug": "rocky-horror-picture-show-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "O Brother, Where Art Thou? + The Soda Crackers",
-          "synopsis": "Join us for an afternoon of live music with the Soda Crackers, followed by a special anniversary screening of the Coen brothers' O Brother, Where Art Thou?",
-          "poster": "https://images.viff.org/uploads/2025/10/OBrotherWhereArtThou.jpg?resize=960%2C600&gravity",
-          "runtime_min": 107,
-          "slug": "soda-crackers-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "street-hassle-live",
-          "date_range": null,
-          "wayback_ts": "20260422020622",
-          "title": "Songs by Lou Reed",
-          "poster": "https://images.viff.org/uploads/2026/03/Faraway-So-Close.jpg?resize=960%2C600&gravity",
-          "synopsis": "Aram Bajakian is a guitarist, composer and educator, who performed with the legendary Lou Reed during his 2011 and 2012 tours. In addition he\u2019s toured with Diana Krall, Madeleine Peyroux, and his known for his work with John Zorn and Dalava, the groundbreaking band he co-leads with Julia Uhlela. In this second concert of the weekend, Adam will turn his attention to Lou Reed\u2019s songs. A ticket to this show includes free admission to Faraway, So Close! at 3:30 pm. To claim your Faraway ticket, select the available add-on when you add this VIFF Live show to your cart.",
-          "runtime_min": 70,
-          "screenings": [
-            {
-              "start": "2026-05-17T19:45:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "talks-canadaland-backbench-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-crowd-chris-gestrin-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "the-homeless-project-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "true-north-andy-milne-concert-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "vampyr-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "van-django-lacombe-lucien-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Victor Noriega's Kuyatet + Lino Brocka's Manila in the Claws of Light",
-          "synopsis": "To celebrate our spotlight on Filipino director Lino Brocka, we are pairing a screening of Manila in the Claws of Light with an hour of jazz interpretations of Filipino music led by Victor Noriega, with his band Kuyatet (\"Kuya\" means \"Brother\" in Tagalog).",
-          "poster": "https://images.viff.org/uploads/2024/12/Manila.jpg?resize=960%2C600&gravity",
-          "runtime_min": 200,
-          "year": 1975,
-          "director": "Lino Brocka",
-          "country": "Philippines",
-          "slug": "victor-noriegas-kuyatet-live",
-          "featured_film_resolved": true,
-          "director_resolved": true,
-          "date_range": null,
-          "wayback_ts": "20250907092517",
-          "language": "In Tagalog with English subtitles",
-          "screenings_resolved": true,
-          "runtime_resolved": true
-        },
-        {
-          "synopsis": "Join us for the Vancouver Premiere of Eno, the world's first generative documentary, celebrating the visionary artist and musician Brian Eno. For this special event, the film will be created live in real time, and this version will never be seen again.",
-          "poster": "https://images.viff.org/uploads/2024/08/Live_Eno.jpg?resize=960%2C600&gravity",
-          "runtime_min": 115,
-          "slug": "viff24-eno-live",
-          "date_range": null,
-          "wayback_ts": "20240829144740",
-          "title": "Eno",
-          "screenings": [
-            {
-              "start": "2024-09-29T18:00:00",
-              "venue": "Vancouver Playhouse"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "title": "claire rousay, The Bloody Lady (Live Score) and Robert Aiki Aubrey Lowe",
-          "synopsis": "An evening of haunted sound and cinema with claire rousay performing her live score of the animated classic The Bloody Lady and composer Robert Aiki Aubrey Lowe presenting a performance tethered to his cinematic sound worlds (Candyman; Seeds; After Life).",
-          "poster": "https://images.viff.org/uploads/2025/08/Hauntings_Collage.jpg?resize=960%2C600&gravity",
-          "runtime_min": 150,
-          "slug": "viff25-claire-rousay-robert-lowe-live",
-          "date_range": null,
-          "wayback_ts": "20250828013601",
-          "featured_film": "The Bloody Lady",
-          "screenings": [
-            {
-              "start": "2025-10-07T20:00:00",
-              "venue": "The Rio Theatre"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "title": "Julianna Barwick and loscil",
-          "synopsis": "Acclaimed ambient, experimental musicians Julianna Barwick and loscil share the stage for the first time to immerse audiences in their ethereal soundscapes and hypnotic new live AV performances.",
-          "poster": "https://images.viff.org/uploads/2025/08/Live_Resonances_Collage.jpg?resize=960%2C600&gravity",
-          "runtime_min": 135,
-          "slug": "viff25-julianna-barwick-loscil-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "Mad Professor: Live AV in Dub",
-          "synopsis": "Dub legend Mad Professor performs a rare live set celebrating his No Protection Massive Attack remix album's 30th anniversary &ndash; a hypnotic trip into the psychedelic worlds of dub and trip-hop with live visuals from Vancouver artist Saghi Ehteshamzadeh.",
-          "poster": "https://images.viff.org/uploads/2025/08/Live_MadProfessor_NoTitle.jpg?resize=960%2C600&gravity",
-          "runtime_min": 90,
-          "slug": "viff25-mad-professor-live",
-          "date_range": null,
-          "wayback_ts": "20250828013622",
-          "featured_film": "No Protection",
-          "screenings": [
-            {
-              "start": "2025-10-05T19:30:00",
-              "venue": "Chan Centre for the Performing Arts"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "viff25-wilfred-buck-star-stories-live",
-          "date_range": null,
-          "wayback_ts": "20250828013525",
-          "title": "Wilfred Buck's Star Stories",
-          "poster": "https://images.viff.org/uploads/2025/08/WilfredBucksStarStoriescourtesy-ofDoor-Number-3-Productions.jpg?resize=960%2C600&gravity",
-          "synopsis": "Join renowned Ininew (Cree) astronomer, star knowledge keeper, and author Wilfred Buck for Star Stories: a cosmic journey into teachings and tellings of the northern night sky. For this special VIFF Live event, this stunning XR work will be projected on the dome of the H.R. MacMillan Space Centre and narrated live by Buck, followed by a Q&A with him and Anishinaabe co-director Lisa Jackson. Star Stories is a 21-minute XR work that brings to life four star stories, gathered and told by renowned Ininew (Cree) astronomer, star knowledge expert, and author Wilfred Buck. From the practical to the poetic, Buck\u2019s \u201ctellings\u201d of the northern night sky provide guidance on navigation, the Earth\u2019s cycles, and how to live a good life with future generations in mind. Wilfred Buck\u2019s Star Stories offers a rarely heard perspective on astronomy and cosmology in an immersive and intimate environment. Marvel at immersive night sky cinematography, CGI cosmos, and beautiful macro cinematography of meteorites set to a transporting soundtrack in this expansive-yet-intimate experience. Star Stories combines the wonder of the universe with the warmth of listening to a wise elder whose teachings can help us understand that the stars are in fact our oldest relatives. Star Stories, co-directed by Lisa Jackson and The Macronauts, is a sister project of the hybrid feature documentary Wilfred Buck, also directed by Jackson, which premiered in March 2024 at CPH:DOX and was a Top Five Audience Choice at the 2024 Hot Docs Festival.",
-          "runtime_min": 90,
-          "featured_film": "Star Stories",
-          "screenings": [
-            {
-              "start": "2025-10-10T18:30:00",
-              "venue": "H.R. MacMillan Space Centre"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "vince-mai-mancini-live",
-          "date_range": null,
-          "wayback_ts": "20251229191711",
-          "title": "Vince Mai Plays Mancini",
-          "poster": "https://images.viff.org/uploads/2025/12/A-Shot-in-the-Dark.jpg?resize=960%2C600&gravity",
-          "synopsis": "Trumpeter and film composer Vince Mai returns to the VIFF Centre with his quintet to play selected hits of celebrated film composer Henry Mancini prior to a screening of the beloved Pink Panther movie A Shot in the Dark. Mancini was a well known composer whose scores include Peter Gunn, Breakfast at Tiffany\u2019s, Days of Wine and Roses, 10, The Party, and of course the Pink Panther series. Mancini\u2019s genius was in his ability to meld jazz with the contemporary in order to evoke the emotions necessary for a memorable dramatic film score. Joining Vince will be Miles Black on keys, Bernie Arai on drums, Laurence Mollerup on bass, and Steve Kaldestad on saxophone. This should be a very special evening. About A Shot in the Dark (Blake Edwards, 1964, USA, 103 min) The second film in the series was rushed into production after the unexpected popularity of Peter Sellers\u2019 bumbling detective Inspector Clouseau in the previous year\u2019s caper The Pink Panther. This is where Clouseau comes into his own, along with first appearances from Herbert Lom as his long-suffering boss Commissioner Dreyfus, and Burt Kwouk as his man servant Cato.",
-          "runtime_min": 180,
-          "screenings": [
-            {
-              "start": "2026-01-25T14:00:00",
-              "venue": "VIFF Centre - VIFF Cinema"
-            }
-          ],
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        },
-        {
-          "slug": "voice-of-a-generation-lost-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "title": "William Basinski: Arcadia Archive",
-          "synopsis": "Acclaimed ambient and experimental composer William Basinski presents the Canadian Premiere of Arcadia Archive&mdash;an immersive, transcendent live performance.",
-          "poster": "https://images.viff.org/uploads/2024/08/Live_WilliamBasinskicJoseRamonCaamano-1.jpg?resize=960%2C600&gravity",
-          "runtime_min": 90,
-          "slug": "william-basinski-arcadia-live",
-          "date_range": null,
-          "wayback_ts": "20260513004813",
-          "fetch_failed": true
-        },
-        {
-          "title": "Women in Blues: LJ Mounteney",
-          "synopsis": "Canadian blues vocalist pays LJ Mounteney pays tribute to the pioneering women of the blues and R&amp;B (including Tina Turner and Irma Thomas). After LJ's set, enjoy the Canadian premiere of a new doc on Willie Mae \"Big Mama\" Thornton.",
-          "poster": "https://images.viff.org/uploads/2025/06/BigMamaThorton.jpg?resize=960%2C600&gravity",
-          "runtime_min": 180,
-          "slug": "women-blues-lj-mounteney-live",
-          "date_range": null,
-          "fetch_failed": true
-        },
-        {
-          "slug": "zappostrophe-live",
-          "date_range": null,
-          "wayback_ts": "20251110073347",
-          "title": "Zappostrophe + Frank Zappa's 200 Motels",
-          "poster": "https://images.viff.org/uploads/2025/03/200Motels.jpg?resize=960%2C600&gravity",
-          "synopsis": "Time to fly your freak flag and jump into Frank Zappaland. A prodigious and prolific talent, Zappa (1940-1993) composed, recorded and produced more than 60 albums; music that brought to rock the complexity and sophistication of classical composition, drawing on jazz, blues, pop and music concrete, but leavened with a surreal and satiric wit. Ahead of his time, Zappa also directed music videos and the feature 200 Motels (with Tony Palmer), a free-form rock tour riff with Keith Moon as a hot nun and Ringo Starr playing a dwarf Zappa that was shot on videotape in just 10 days. It\u2019s a cult curio that revels in its own sense of possibility. Before the movie, enjoy a set of Zappa tunes resurrected and reimagined by the electrifying Zappostrophe, an eclectic 8-piece band who channel surf FZ\u2019s discography. Blair Fisher \u2013 vocals / trumpet / flute / keys Blair Lewis \u2013 guitar / synths / vocals / rubber chicken LJ Mounteney \u2013 vocals / kazoo Nick Apivor \u2013 percussion / vocals Guenter Schulz \u2013 guitar Cole Tinney \u2013 keyboards Brent Gubbels \u2013 bass Jason Overy \u2013 drums",
-          "director": "Tony Palmer & Frank Zappa",
-          "year": 1971,
-          "runtime_min": 150,
-          "country": "USA",
-          "language": "English",
-          "screenings_resolved": true,
-          "runtime_resolved": true,
-          "director_resolved": true,
-          "featured_film_resolved": true
-        }
-      ],
-      "showtimes_resolved": true
     }
   ]
 }
