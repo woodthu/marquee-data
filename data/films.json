@@ -1199,7 +1199,9 @@
       "synopsis": "Marilyn Monroe and Joseph Cotten are a maniacally mismatched couple vacationing on the Ontario side of Niagara Falls in Henry Hathaway’s delectably tawdry thriller Niagara.",
       "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/Niagara-3.jpg",
       "detailURL": "https://thecinematheque.ca/films/2026/niagara",
-      "callouts": [],
+      "callouts": [
+        "Encore Screening Added"
+      ],
       "format": "DCP",
       "screenings": [
         {
@@ -1213,10 +1215,14 @@
         {
           "start": "2026-08-23T20:20:00",
           "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-08-30T17:00:00",
+          "venue": "The Cinematheque"
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-killers",
@@ -1252,7 +1258,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-kiss-me-deadly",
@@ -1310,7 +1316,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-pitfall",
@@ -1370,7 +1376,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-van-gogh",
@@ -1428,7 +1434,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-bamako",
@@ -7320,7 +7326,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-by-stream",
@@ -7360,7 +7366,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-school-crosshairs",
@@ -7398,7 +7404,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-girl-who-leapt-through-time",
@@ -7436,7 +7442,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-sweet-smell-success",
@@ -7474,7 +7480,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-high-low",
@@ -7522,7 +7528,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-blast-silence",
@@ -7554,7 +7560,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-rejeanne-padovani",
@@ -7586,7 +7592,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-parvaneh",
@@ -7670,7 +7676,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-pink-narcissus",
@@ -7732,7 +7738,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-phantom-lady",
@@ -7768,7 +7774,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-double-indemnity",
@@ -7808,7 +7814,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-stray-dog",
@@ -7848,7 +7854,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2025-dirty-money",
@@ -18110,7 +18116,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-being-john-malkovich",
@@ -18136,7 +18142,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-lessons-of-darkness",
@@ -18162,7 +18168,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-beau-travail",
@@ -18196,7 +18202,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-eyes-wide-shut",
@@ -18244,7 +18250,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-but-im-a-cheerleader",
@@ -18270,7 +18276,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-10-things-i-hate-about-you",
@@ -18296,7 +18302,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-magnolia",
@@ -18334,7 +18340,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-ghost-dog-way-of-the-samurai",
@@ -18360,7 +18366,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-90s-surprise-film",
@@ -18382,7 +18388,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-the-wind-will-carry-us",
@@ -18408,7 +18414,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-fight-club",
@@ -18430,7 +18436,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-andrei-rublev",
@@ -18456,7 +18462,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-day-of-wrath",
@@ -18482,7 +18488,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-sunless",
@@ -18508,7 +18514,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-meet-me-in-st-louis",
@@ -18534,7 +18540,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-mandibles",
@@ -94649,7 +94655,7 @@
         }
       ],
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-the-blue-trail",
@@ -99508,7 +99514,7 @@
         }
       ],
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-they-live-night",
@@ -99594,7 +99600,7 @@
         }
       ],
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-thieves-like-us",
@@ -99626,7 +99632,7 @@
         }
       ],
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-scandal-sheet",
@@ -99652,7 +99658,7 @@
         }
       ],
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-alice",
@@ -99874,7 +99880,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-hey-viktor",
@@ -99926,7 +99932,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-hole",
@@ -99958,7 +99964,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-shermans-march",
@@ -99986,7 +99992,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-remake",
@@ -100012,7 +100018,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-antidiva-carole-pope-confessions",
@@ -101266,7 +101272,7 @@
         }
       ],
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-amadou-mariam",
@@ -101326,7 +101332,7 @@
         }
       ],
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-sheep-in-the-box",
@@ -101782,7 +101788,7 @@
         }
       ],
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-election",
@@ -101808,7 +101814,7 @@
         }
       ],
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-late-fame-mebd-2026",
@@ -101884,7 +101890,7 @@
         }
       ],
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-samurai-prisoner",
@@ -101924,7 +101930,7 @@
         }
       ],
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-rosetta",
@@ -101954,7 +101960,7 @@
         }
       ],
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-franz",
@@ -101992,7 +101998,7 @@
         }
       ],
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-ravenous",
@@ -102018,7 +102024,7 @@
         }
       ],
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-the-secret-in-their-eyes",
@@ -102040,7 +102046,7 @@
         }
       ],
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-tokyo-taxi",
@@ -102062,7 +102068,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-kaku-kaku-shika-jika",
@@ -102084,7 +102090,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-blue-boy-trial",
@@ -102106,7 +102112,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-aruku-i-walk",
@@ -102128,7 +102134,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-how-dare-you",
@@ -102150,7 +102156,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-one-last-love-letter",
@@ -102172,7 +102178,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-samurai-vengeance",
@@ -102194,7 +102200,7 @@
         }
       ],
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-saving-private-ryan",
@@ -102246,7 +102252,7 @@
         }
       ],
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-how-to-divorce-during-the-war",
@@ -102296,7 +102302,7 @@
         }
       ],
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-kindergarten",
@@ -102334,7 +102340,7 @@
         }
       ],
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-filipinana",
@@ -102380,7 +102386,7 @@
         }
       ],
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-chronovisor",
@@ -102422,7 +102428,7 @@
         }
       ],
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-andrea-superstein-austin-powers-live",
@@ -103325,7 +103331,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-journey-runner",
@@ -103353,7 +103359,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-experience-waiting",
@@ -103381,7 +103387,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-downpour",
@@ -103407,7 +103413,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-city-hall",
@@ -103429,7 +103435,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-last-life-universe",
@@ -103453,7 +103459,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-morte-cucina",
@@ -103477,7 +103483,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-ploy",
@@ -103501,7 +103507,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-uncle-moustache-kanoon",
@@ -103523,7 +103529,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-stephanie-lagarde",
@@ -103545,7 +103551,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-blue-heron",
@@ -103567,7 +103573,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-serpents-path",
@@ -103599,7 +103605,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-harmonica",
@@ -103627,7 +103633,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-what-we-carry-endless-sunlight",
@@ -103651,7 +103657,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-kwaidan",
@@ -103687,7 +103693,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-harakiri",
@@ -103719,7 +103725,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-trouble-every-day",
@@ -103751,7 +103757,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-chime",
@@ -103777,7 +103783,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-past-future-continuous",
@@ -103801,7 +103807,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-pulse",
@@ -103837,7 +103843,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-sfmf-series-1",
@@ -103859,7 +103865,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-young-frankenstein",
@@ -103883,7 +103889,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-sfmf-series-2",
@@ -103905,7 +103911,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-sfmf-series-3",
@@ -103927,7 +103933,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-daughters-darkness",
@@ -103959,7 +103965,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-morgan-fisher",
@@ -103983,7 +103989,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-replica",
@@ -104005,7 +104011,7 @@
         }
       ],
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-color-correction",
@@ -104029,7 +104035,7 @@
         }
       ],
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-begotten",
@@ -104057,7 +104063,7 @@
         }
       ],
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-memory-of-princess-mumbi",
@@ -104091,7 +104097,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-joan-crawford-in-letty-lynton",
@@ -104117,7 +104123,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-jack-johnson-surfilmusic",
@@ -104139,7 +104145,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-a-sad-and-beautiful-world",
@@ -104193,7 +104199,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-edie-arnold-is-a-loser",
@@ -104215,7 +104221,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-the-sun-never-sets",
@@ -104261,7 +104267,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-hanging-by-a-wire",
@@ -104303,7 +104309,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-september-songs",
@@ -104325,7 +104331,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-the-second-ascent",
@@ -104351,7 +104357,7 @@
         }
       ],
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-hello-destroyer",
@@ -104375,7 +104381,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-rylan-friday",
@@ -104399,7 +104405,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-matinee",
@@ -104423,7 +104429,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "cinematheque-2026-vampyr",
@@ -104447,7 +104453,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     },
     {
       "id": "viff-pulp-what-do-you-do-for-an-encore",
@@ -104469,8 +104475,8 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-25"
     }
   ],
-  "updatedAt": "2026-08-22T20:08:09+00:00"
+  "updatedAt": "2026-08-25T20:26:29+00:00"
 }
