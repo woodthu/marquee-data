@@ -2199,8 +2199,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "masculinity-80s-film-studies",
@@ -2219,9 +2218,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "david-lynch-film-studies",
@@ -2241,9 +2238,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blue Velvet",
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "yuppies-film-studies",
@@ -2719,7 +2714,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Schindler's List",
+          "poster": "https://images.viff.org/uploads/2026/05/SchindlersList.jpg?resize=960%2C600&gravity",
+          "synopsis": "It says a lot about Steven Spielberg and the culture that produced him that his approach to the Holocaust is through a story of a \u201cgood German\u201d, an industrialist, Oskar Schindler, redeemed through his efforts to save the Jews who worked for him from the camps. That even at mankind\u2019s worst, there may be stories of hope. The movie (and Thomas Keneally\u2019s book on which Steve Zaillian based his screenplay) are nuanced, flecked with shadings of grey. Schindler (Liam Neeson) is not a saint, and to some degree he\u2019s carefully manipulated by his accountant, Itzhak Stern (Ben Kingsley). The film makes no bones about the evil of their nemesis, SS commander Amon Goth (Ralph Fiennes). These three performances are superbly calibrated and counter-balanced. Spielberg and his team bring consummate craftsmanship to the task. The film is particularly impressive when observing the bureaucratic and logistical processes involved in shipping tens of thousands of men, women and children off to their death; the banality of evil, indeed. This is one of the most acclaimed films of the 90s and it won seven Academy Awards, including Best Picture and Best Director. Yet today we might set it beside Jonathan Glazer\u2019s The Zone of Interest and find the latter a more salutary and rightly horrifying lesson. (Not that we can\u2019t have both.)",
+          "director": "Steven Spielberg",
+          "year": 1993,
+          "runtime_min": 195,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "heat",
@@ -2925,7 +2931,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260626230325",
+          "wayback_ts": "20260606144149",
           "title": "Pulp Fiction + The ReViberators",
           "poster": "https://images.viff.org/uploads/2026/05/PulpFiction_Live.jpg?resize=960%2C600&gravity",
           "synopsis": "As decades must, the 1990s had a beginning, a middle and an end. But in the spirit of Quentin Tarantino we\u2019re going to launch our big summer series 90s, Baby smack in the middle, with 1994\u2019s Pulp Fiction, the most original, exciting and influential movie of its era. On 35mm. Preceded by surf guitar band The ReViberators performing live! A pop post-modernist and voracious cultural magpie, Tarantino came out of nowhere (well, Video Archives), who was hailed as a new god of filmmaking overnight. With Reservoir Dogs (1992), Pulp Fiction and his screenplays for True Romance (1993) and Natural Born Killers (1994) he electrified 90s film culture, changing the way movies sounded, the way they flowed, and how they connected with an audience already saturated in media and schooled in video stores. His emergence coincided with the advent of the world wide web, and Tarantino constructed his genre hybrids from a wide array of international influences \u2014 French new wave, American noir and 70s exploitation pictures, Hong Kong action cinema \u2014 rewriting the rule book as he did so. Pulp Fiction scrambles the chronology of three interlocking narratives, as if in homage to Godard\u2019s observation that a story should have a beginning, a middle and an end, \u201cbut not necessarily in that order\u201d. Revitalizing the careers of several flagging A-list stars at a stroke (John Travolta, Bruce Willis and Harvey Keitel), Tarantino unleashed a torrent of black comic verbal riffs and repartee. If the tone is glib, the characters are vivid, and the momentum never flags throughout the 154-minute running time. Backed by Miramax Films, the indie company that dominated movie talk in the 90s (even as it was bought up by Disney), Pulp Fiction won the Palme d\u2019Or and broke the $100 million barrier at the North American box office, ushering in the era of the \u201cmini-major\u201d, through which the studios co-opted many of the best and brightest of the independent sector. The ReViberators is an instrumental surf rock trio from Vancouver featuring Kitty & The Rooster\u2019s Noah Walker on guitar and Jodie Ponto on drums and bass. Since the passing of surf legends Dick Dale and The Ventures, The ReViberators answered the call to keep this wild raucous music alive by taking a deep dive into surf music\u2019s first wave. The band plays the early 1960s surf guitar hits alongside their own originals with an intensity and authenticity rarely heard today. Join us at 6:30 for The ReViberators live set followed by Pulp Fiction at 7:45.",
@@ -2934,8 +2940,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "madonna-truth-or-dare",
@@ -3267,8 +3272,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "delicatessen",
@@ -3487,8 +3491,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "basic-instinct",
@@ -3666,8 +3669,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-last-seduction",
@@ -3986,8 +3988,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "ghost-in-the-shell",
@@ -4113,8 +4114,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Trainspotting",
+          "poster": "https://images.viff.org/uploads/2026/05/Trainspotting.jpg?resize=960%2C600&gravity",
+          "synopsis": "A shocking, painfully subjective trawl through the Edinburgh heroin culture of the 1980s, Irvine Welsh\u2019s cult novel was hardly an obvious choice for the team who made Shallow Grave. Yet the film proved a smash hit, especially in the UK, where it seemed to herald a new era. Punching up the pitch-black comedy, juggling parallel character strands and juxtaposing image, music and voice-over with a virtuosity worthy of Scorsese on peak form, Trainspotting the movie captures precisely Welsh\u2019s insolent, amoral intelligence. Nihilism runs deep in this movie, emotion cannot be countenanced, only blocked off by another hit, another gag, but the anarchic, exhilarating rush of the highs can\u2019t drown out the subsequent, devastating lows \u2014 these are two sides of the same desperation. Danny Boyle\u2019s intuitive, vital, empathetic direction pushes so far, the movie flies on sheer momentum \u2014 that and bravura performances from Ewen Bremner\u2019s gormless Spud, Robert Carlyle\u2019s terrifying Begbie and, especially, Ewan McGregor\u2019s Renton, who supplies a low-key, charismatic centre.",
+          "director": "Danny Boyle",
+          "year": 1996,
+          "runtime_min": 94,
+          "country": "UK",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "crash",
@@ -4163,7 +4174,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Fargo",
+          "poster": "https://images.viff.org/uploads/2026/05/Fargo.jpg?resize=960%2C600&gravity",
+          "synopsis": "Have the Coen brothers ever made a more satisfying movie than Fargo? This grisly comedy pits one of cinema\u2019s most pure-hearted cops (Frances McDormand\u2019s pregnant cop, Marge Gunderson) against the machinations of weak and mercenary men, led by car salesman Jerry Lundegaard (William H Macy), who hires two criminals to kidnap his wife on the theory that her wealthy father will pay the ransom. You wouldn\u2019t call this plan \u201cbest-laid,\u201d and it goes sideways fast. The film claims to be based on a true story. That\u2019s a lie. But in other respects this feels like the Coens\u2019 most sincere and heartfelt movie. There\u2019s a fine line between the film\u2019s homespun comedy and the malevolence unleashed by Jerry\u2019s foolish scheme. Like other Coen movies, this one pokes indulgent fun at the complacency of middle America, which seems so unprepared for the chaos and violence that the world has waiting for them. Fargo won Academy Awards for Best Actress and Best Original Screenplay, but Roger Deakins surely deserved the Oscar too for his wintery cinematography. Incidentally most of the action takes place in Brainerd, Minnesota. But \u201cBrainerd\u201d doesn\u2019t have the same ring to it, does it? Staff Pick: Eirinn, Gabriel & Sean",
+          "director": "Joel Coen & Ethan Coen",
+          "year": 1996,
+          "runtime_min": 100,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "set-it-off",
@@ -4184,8 +4206,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "title": "Set It Off",
+          "poster": "https://images.viff.org/uploads/2026/05/SetItOff.jpg?resize=960%2C600&gravity",
+          "synopsis": "Frankie (Vivica A Fox) has a bank job \u2014 until someone she knows from South Central LA holds her at gun-point, the attempted robbery turns into a bloodbath, and the boss sends her packing. Life gets much harder. Her homegirls (Jada Pinkett, Queen Latifah, Kimberly Elise) fix her up with the office-cleaning firm where they work nights, but it\u2019s not long before they hatch a plan to capitalize on Frankie\u2019s qualifications, in particular her inside knowledge of bank security procedures. In the wake of all those gun-toting white women and black men, black women were overdue their own loaded action adventure. This noir Thelma & Louise rekindles some of the subversive fire of \u201970s exploitation flicks, although it\u2019s far too polished to have come from the Corman stable. The intense heist sequences show a command of thriller dynamics that\u2019s right up there with the best of them, but director F Gary Gray is equally convincing on the character front, eliciting funny, grounded performances from the four women (Latifah notably refuses to caricature her lesbian role). It\u2019s an energizing spree for the Girlz n the hood.",
+          "director": "F. Gary Gray",
+          "year": 1996,
+          "runtime_min": 120,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "lone-star",
@@ -4729,7 +4761,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "But I'm a Cheerleader",
+          "poster": "https://images.viff.org/uploads/2026/05/ButImACheerleader.jpg?resize=960%2C600&gravity",
+          "synopsis": "\u201cI loved Clueless,\u201d director Jamie Babbit told Variety recently. I wanted to make a gay Clueless.\u201d And so But I\u2019m a Cheerleader was born. It\u2019s the story of teenage Megan (Natasha Lyonne in a breakthrough role), sent to the True Directions conversion camp by her concerned, conservative parents to straighten her out. But hanging out with a bunch of queers for two months does not have the intended effect\u2026 Decked out in Barbie pinks and blues, and saddled with a blatantly homophobic R rating, But I\u2019m a Cheerleader didn\u2019t get a lot of love from film critics in 1999 but has since become a treasured gay classic, not least for the iconic casting RuPaul as one of the reparative counsellors. You might also spot Michelle Williams and Julie Delpy in small roles. Staff Pick: Eirinn, Gemma, Jana & Perry",
+          "director": "Jamie Babbit",
+          "year": 1999,
+          "runtime_min": 85,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "10-things-i-hate-about-you",
@@ -4746,7 +4789,10 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "magnolia",
@@ -4791,7 +4837,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Way of the Samurai",
+          "poster": "https://images.viff.org/uploads/2026/05/GhostDog.jpg?resize=960%2C600&gravity",
+          "synopsis": "Forest Whitaker hasn\u2019t played too many lead roles in his career, but when he does \u2014 as in Clint Eastwood\u2019s Bird, for example \u2014 he absolutely holds the screen in the palm of his hand. Jim Jarmusch wrote Ghost Dog with the actor in mind, and exploring interests like Asian philosophy, samurai culture, hiphop, post bop jazz and the decline of the mafia crime families in New York City \u2014 \u201cbut always with Forest at the centre.\u201d Ghost Dog is a professional assassin for the mob, but he\u2019s also an existential loner who adheres to his personal code (like Alain Delon in Melville\u2019s film Le Samourai). And he\u2019s a bit of an intellectual. Someone engaged by art and ideas. Despite the thriller trappings, this is really a lampoon of that genre, and a melancholy reverie for the cultural melting pot that we call home.",
+          "director": "Jim Jarmusch",
+          "year": 1999,
+          "runtime_min": 116,
+          "country": "USA",
+          "language": "In English and French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "90s-surprise-film",
@@ -4821,7 +4878,10 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "fight-club",
@@ -4862,7 +4922,18 @@
           "date_range": null,
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Election",
+          "poster": "https://images.viff.org/uploads/2026/07/Election_v2.jpg?resize=960%2C600&gravity",
+          "synopsis": "This remarkably sour comedy from Alexander Payne (The Holdovers; Sideways; The Descendents) may be set in high school, but its satiric take on moral corruption, political chicanery, adultery and seduction is anything but juvenile \u2014 and hits twice as hard today. In a smart role reversal, Ferris Bueller (aka Matthew Broderick) plays Mr McAllister, a responsible, concerned teacher worn thin by long years at George Washington Carver High, by his sexless marriage, and by the plight of his best friend, sacked for sleeping with the redoubtable but under age Tracy Flick (Witherspoon). Come elections for student council president, Tracy is far and away the front runner, but Mr. McAllister, terrified by the prospect of working so closely with this closet Lolita, and charged with overseeing the proceedings, discreetly sponsors a rival candidate, gormless jock Paul (Chris Klein). Things heat up when Paul\u2019s younger sister joins the race. With her clipped diction, prim demeanour and blinkered ability to see only her side of every issue, Tracy makes a frighteningly credible proto despot\u2026 at least as seen through the misogynistic eyes of McAllister. As a microcosm of the malaise creeping through Western democracies, the apathy, vote rigging, and character assassination manifest at Carver High serves all too well. This millennial classic is part of our monthly Premium Pick series, in which VIFF Premium members nominate a favourite film to share with our audience. This month, Election was suggested by Colby Payne, who comments \u201cElection is a funny and deeply cynical satire with a stellar early career performance from Reese Witherspoon.\u201d",
+          "director": "Alexander Payne",
+          "year": 1999,
+          "runtime_min": 103,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "rosetta",
@@ -4939,7 +5010,7 @@
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260825",
+      "last_seen_live": "20260829",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -5493,7 +5564,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260825",
+      "last_seen_live": "20260829",
       "backfill_walked": "20260815"
     },
     {
@@ -6294,8 +6365,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "july-rhapsody",
@@ -6970,8 +7040,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lighting-80s-blockbusters-film-studies",
@@ -7912,8 +7981,7 @@
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "fatal-attraction",
@@ -7990,7 +8058,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "hollywood-shuffle",
@@ -8332,7 +8401,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "80s-mystery-film",
@@ -8351,8 +8421,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "80s-fan-choice",
@@ -8414,8 +8483,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -10602,8 +10670,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "last-wedding",
@@ -11353,8 +11420,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "when-morning-comes",
@@ -11451,8 +11518,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "backfill_walked": "20260815",
@@ -11891,8 +11957,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "film-studies-lighting",
@@ -12032,8 +12097,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-long-goodbye",
@@ -12258,8 +12322,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "this-time-its-personal-programme-1",
@@ -12499,8 +12562,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "boxcutter",
@@ -12659,8 +12721,7 @@
               "start": "2024-10-05T20:00:00",
               "venue": "Orpheum"
             }
-          ],
-          "fetch_failed": true
+          ]
         }
       ],
       "hero_image": null,
@@ -13174,8 +13235,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "romeria",
@@ -15824,7 +15884,7 @@
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260825",
+      "last_seen_live": "20260829",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -19915,8 +19975,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-showrunners-scifi",
@@ -19935,8 +19994,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-international-coproduction",
@@ -19955,8 +20013,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -19988,8 +20045,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -20337,8 +20393,7 @@
           "runtime_resolved": true,
           "director": "Matthew Heineman",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "unarchived",
@@ -20564,8 +20619,7 @@
               "start": "2024-10-05T20:00:00",
               "venue": "Orpheum"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff24-blink",
@@ -21595,8 +21649,7 @@
             }
           ],
           "featured_film": "Under the Skin",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-zone-of-interest",
@@ -22324,7 +22377,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -23710,8 +23764,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -23900,8 +23953,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-you-resemble-me",
@@ -23994,8 +24046,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-the-stranger",
@@ -24089,8 +24140,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-three-promises",
@@ -24252,8 +24302,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -24272,8 +24321,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-the-burdened",
@@ -24332,8 +24380,7 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -24583,8 +24630,7 @@
           "wayback_ts": "20260221050714",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -24603,8 +24649,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "el-this-strange-passion",
@@ -25653,7 +25698,7 @@
       "date_range": "Jan 9 \u2013 14",
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "consecutive_404s": 36,
+      "consecutive_404s": 37,
       "desc_rewalked": true
     },
     {
@@ -25686,8 +25731,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "back-home",
@@ -25944,14 +25988,13 @@
               "venue": "International Village 8"
             }
           ],
-          "wayback_ts": "20230204222724",
+          "wayback_ts": "20220907224134",
           "runtime_min": 84,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -25978,8 +26021,7 @@
           "runtime_resolved": true,
           "director": "Luis De Filippis",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "this-house",
@@ -26083,8 +26125,7 @@
           "runtime_resolved": true,
           "director": "Sarah Watts, Mark Slutsky",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "i-like-movies",
@@ -26840,8 +26881,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "one-battle-after-another",
@@ -27725,8 +27765,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "what-we-do-next",
@@ -28147,7 +28186,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260825",
+      "last_seen_live": "20260829",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -28294,8 +28333,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "old-dog",
@@ -28469,8 +28507,7 @@
               "start": "2025-03-19T20:15:00",
               "venue": "VIFF Centre Atrium"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "monsters-inc",
@@ -28525,8 +28562,7 @@
               "start": "2025-03-23T14:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "the-incredibles",
@@ -28791,8 +28827,7 @@
           "runtime_resolved": true,
           "director": "Lin Jing-jie",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lay-down-your-heart",
@@ -29950,7 +29985,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260825",
+      "last_seen_live": "20260829",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -32169,8 +32204,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mean-streets",
@@ -33084,8 +33118,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -33374,8 +33407,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "glory",
@@ -33437,7 +33469,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260825",
+      "last_seen_live": "20260829",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -35095,8 +35127,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "paying-for-it",
@@ -35450,8 +35481,7 @@
               "start": "2022-10-05T18:30:00",
               "venue": "The Cinematheque"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "tortoise-under-the-earth",
@@ -35669,9 +35699,7 @@
               "start": "2022-10-03T21:15:00",
               "venue": "The Cinematheque"
             }
-          ],
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          ]
         },
         {
           "slug": "back-home",
@@ -36931,8 +36959,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-klabona-keepers",
@@ -37198,8 +37225,7 @@
               "start": "2022-10-03T20:45:00",
               "venue": "International Village 8"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "maigret",
@@ -37286,8 +37312,7 @@
               "start": "2022-10-02T16:00:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "modes-1",
@@ -37725,8 +37750,7 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "pacifiction",
@@ -37929,8 +37953,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "riceboy-sleeps",
@@ -38198,8 +38221,7 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "something-in-the-dirt",
@@ -38391,8 +38413,7 @@
           "runtime_resolved": true,
           "director": "Miryam Charles",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "thunder",
@@ -38784,7 +38805,8 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "a-woman-escapes",
@@ -39790,8 +39812,7 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "if-you-are-a-man-viff-connect",
@@ -39876,8 +39897,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -40426,8 +40446,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-katie-byron",
@@ -40435,7 +40454,7 @@
           "title": "In Conversation with Katie Byron, Production Designer, Don't Worry Darling",
           "poster": "https://images.viff.org/uploads/2022/09/Katie-Byron-Talk.png?resize=960%2C600&gravity",
           "synopsis": "Production designer Katie Byron worked with some of the most up-and-coming directors of the past years and created looks for films like Booksmart, Like Crazy, Zola, Color Out of Space, and C\u2019mon C\u2019mon. Recently, she reunited with director Olivia Wilde on one of the most anticipated films of 2022, Don\u2019t Worry Darling, where she created a glamorous look for a 1950s experimental, utopian suburban community. Come hear about Byron\u2019s collaborations, working with directors, and designing the perfect look, feel, and shape of a utopian realm. Supported by Community Broadcast Partner",
-          "wayback_ts": "20221003110348",
+          "wayback_ts": "20220921210707",
           "runtime_min": 60,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -40446,8 +40465,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-michael-abels",
@@ -40521,8 +40539,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Oppenheimer",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-canadaland-backbench-live",
@@ -40541,8 +40558,7 @@
               "start": "2023-10-03T18:30:00",
               "venue": "The Rio Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -40562,8 +40578,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -40582,8 +40597,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220928083612",
@@ -40964,8 +40978,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-hidden-tremors",
@@ -40992,8 +41005,7 @@
           "runtime_resolved": true,
           "director": "Sreekanth Pangapattu",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-i-am-revathi",
@@ -41020,8 +41032,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -41048,8 +41059,7 @@
           "runtime_resolved": true,
           "director": "Nidhi Saxena",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -41124,8 +41134,7 @@
               "start": "2025-10-05T18:30:00",
               "venue": "Granville Island Stage"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-factory",
@@ -42229,8 +42238,7 @@
               "start": "2025-10-09T21:15:00",
               "venue": "International Village 8"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-the-art-of-adventure",
@@ -42253,8 +42261,7 @@
           "runtime_resolved": true,
           "director": "Alison Reid",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-assembly",
@@ -42281,8 +42288,7 @@
               "start": "2025-10-12T13:45:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-caravaggio",
@@ -42313,8 +42319,7 @@
               "start": "2025-10-06T10:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-the-essence-of-eva",
@@ -42341,8 +42346,7 @@
               "start": "2025-10-07T15:00:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "viff25-half-moon-kinan-azmeh",
@@ -42369,8 +42373,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-i-want-it-all-hildegard-knef",
@@ -42397,8 +42400,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-john-candy-i-like-me",
@@ -42425,8 +42427,7 @@
           "director": "Colin Hanks",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-la-salsa-vive",
@@ -42481,8 +42482,7 @@
           "runtime_resolved": true,
           "director": "Jenn Strom",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-particle-dance",
@@ -42536,8 +42536,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -43247,8 +43246,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-always",
@@ -43275,8 +43273,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-ancestral-visions-future",
@@ -43303,8 +43300,7 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-blknws-terms-conditions",
@@ -43358,9 +43354,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-fiume-o-morte",
@@ -43387,8 +43381,7 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-the-great-north",
@@ -43415,8 +43408,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-khartoum",
@@ -43447,8 +43439,7 @@
           "runtime_resolved": true,
           "director": "Anas Saeed, Rawia Alhag, Ibrahim Snoopy, Timeea Mohamed Ahmed & Phil Cox",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-memory-of-princess-mumbi",
@@ -43525,8 +43516,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -44036,8 +44026,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-2-void-of-the-voice",
@@ -44119,8 +44108,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-7",
@@ -44150,8 +44138,7 @@
           "wayback_ts": "20240624022710",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-9-phosphenia",
