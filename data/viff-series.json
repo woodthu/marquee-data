@@ -2246,7 +2246,7 @@
           "title": "Yuppies!",
           "poster": "https://images.viff.org/uploads/2023/06/Talks_Yuppies.jpg?resize=960%2C600&gravity",
           "synopsis": "Yuppies were a new breed in the 1980s: Young Urban Professionals. They were ambitious, successful, cynical, always rushed\u2026 and plagued by nightmares, if the movies had it right. Films like After Hours, Something Wild, Fatal Attraction, Wall Street and Working Girl had fun at the expense of these upwardly mobile sharks, with varying degrees of envy, admiration and contempt. Ernest Mathijs opens their rolodex, clocks their Rolex, and runs their credit scores. Media Partner",
-          "wayback_ts": "20230705215916",
+          "wayback_ts": "20230816225352",
           "screenings": [
             {
               "start": "2023-08-13T16:10:00",
@@ -2314,7 +2314,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -3217,7 +3218,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "a-brighter-summer-day",
@@ -3275,8 +3277,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "delicatessen",
@@ -3674,7 +3675,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "the-last-seduction",
@@ -3994,7 +3996,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "ghost-in-the-shell",
@@ -4047,7 +4050,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "la-haine",
@@ -4296,7 +4300,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "la-confidential",
@@ -4644,7 +4649,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260626230325",
+          "wayback_ts": "20260825220213",
           "correction_swept": true,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -4686,7 +4691,18 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Lessons of Darkness",
+          "poster": "https://images.viff.org/uploads/2026/05/LessonsOfDarkness.jpg?resize=960%2C600&gravity",
+          "synopsis": "Werner Herzog\u2019s unforgettable documentary reveals the unfolding disaster of the Kuwaitian oil fields in flames in 1991 as a sweeping inferno of mesmerizing power. Does the German aestheticize the horrors of war? Damn right he does \u2014 and it\u2019s a stinging rebuke to the sanitized images allowed on the TV news.",
+          "director": "Werner Herzog",
+          "year": 1992,
+          "runtime_min": 54,
+          "country": "Germany",
+          "language": "No Dialogue",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "beau-travail",
@@ -4755,8 +4771,8 @@
           ],
           "wayback_ts": "20260626230325",
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "but-im-a-cheerleader",
@@ -4804,9 +4820,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "magnolia",
@@ -5025,7 +5039,7 @@
       ],
       "description": "This summer VIFF takes a deep dive into a defining decade for the movies.\n\nThe 1990s began with GoodFellas and ended with one of the strongest years in film history. It was a period of exciting innovation and increasing diversity; the era in which independent cinema became mainstream: Sundance was the creative catalyst and booming revenues from DVD and home rentals provided the juice, opening up pathways for filmmakers outside the old established networks. New Queer Cinema was born: Gus van Sant and Todd Haynes broke through. Spike Lee and John Singleton blazed a trail for Black filmmakers. And Quentin Tarantino turned storytelling inside out.",
       "meta_resolved": true,
-      "last_seen_live": "20260831",
+      "last_seen_live": "20260901",
       "hero_image": null,
       "date_range": "Jun 19 \u2013 Aug 31",
       "showtimes_resolved": true,
@@ -5579,7 +5593,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260831",
+      "last_seen_live": "20260901",
       "backfill_walked": "20260815"
     },
     {
@@ -6328,6 +6342,87 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-jim-queen",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-species",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "title": "Species",
+          "poster": "https://images.viff.org/uploads/2026/08/Species-ARP-Selection-Tresor-Films-Windy-Production.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere Margot is a young doctor beginning her career as an intern at a notoriously demanding French emergency room. The head of her department, H\u00e9l\u00e8ne, is a revered hard-ass who pushes her staff to their limits and expects the best in return. After a bumpy first day and a series of mysterious cases involving young people with bizarre symptoms, Margot wakes one morning to find her body and bedsheets covered in blood. Her symptoms appear to worsen with stress, and as the pressures of the job mount, strange lesions begin spreading across her torso. Joining a new wave of French female filmmakers embracing body horror, Marion Le Corroller turns the anxieties of the modern workplace into something viscerally physical. With its gloriously gruesome skin-tearing effects, Species takes aim at a work culture that pushes young people to the breaking point in pursuit of success. Burnout becomes mutation and, in the grand tradition of Cronenberg\u2019s New Flesh, the body rebels against what the mind has learned to endure.",
+          "director": "Marion Le Corroller",
+          "year": 2026,
+          "runtime_min": 103,
+          "country": "France/Belgium",
+          "language": "In French with English subtitles",
+          "screenings": [
+            {
+              "start": "2026-10-01T21:15:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-09T21:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-the-peril-at-pincer-point",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-gasmask",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-freaks-part-ii",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-family-fears-another-night-terror",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-midnight-momo",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-death-has-no-master",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-wicker",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-ugly-cry",
+          "date_range": null,
+          "wayback_ts": "20260312200402",
+          "fetch_failed": true
         }
       ],
       "backfill_walked": "20260815",
@@ -6337,7 +6432,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260610"
+      "last_seen_live": "20260901"
     },
     {
       "slug": "asian-heritage-month",
@@ -6380,8 +6475,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "july-rhapsody",
@@ -7255,7 +7349,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "paris-texas",
@@ -7747,7 +7842,8 @@
               "start": "2023-08-04T18:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "something-wild",
@@ -8491,7 +8587,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -11950,7 +12047,7 @@
           "poster": "https://images.viff.org/uploads/2024/07/CreatingColour1.jpg?resize=960%2C600&gravity",
           "director": "Various",
           "country": "Various",
-          "wayback_ts": "20240731092533",
+          "wayback_ts": "20240929061753",
           "synopsis": "Across five Monday afternoons, cinematographer, film colourist and educator Devan Scott will illuminate the distinctive ways in which filmmakers have created mood and meaning through the manipulation of colour. Each 40-minute talk will examine a different colour process \u2013 including lighting, tinting, production design \u2013 within its historical context, and exploring its aesthetic, artistic and storytelling attributes. This introductory talk will incorporate a curated program of colour-tinted silent and experimental short films. Color in cinema did not begin with color film stock but with techniques such as dye-bath tinting and toning and the hand-painting of individual film frames: tools which allowed filmmakers to impart color palettes onto monochromatic images. We\u2019ll investigate how filmmakers such as Georges M\u00e9li\u00e8s and F.W. Murnau used these techniques to develop codes of representation, and how later filmmakers like Stan Brakhage leveraged them for experimental purposes. Devan Scott is a graduate of Simon Fraser University\u2019s film program and has worked as a cinematographer, colourist, and director for ten years. As a cinematographer, his work has screened around the world at the Toronto International Film Festival, Locarno Film Festival, Clermont Short Film Festival, and Busan International Film Festival among many others. As a colourist, his clients have included Google, Film Boldly, the Vancouver Canucks, the NFB, Wondershare, and Global Media. Devan is also an experienced educator, at UBC and other institutions, and has lectured regularly at the VIFF Centre. His podcast, How Would Lubitsch Do It? has found international acclaim.",
           "runtime_min": 100,
           "screenings_resolved": true,
@@ -11962,8 +12059,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "film-studies-lighting",
@@ -12305,7 +12401,7 @@
         {
           "slug": "james-baldwin-abroad",
           "date_range": "Sep 28 \u2013 Oct 8 2023",
-          "wayback_ts": "20230216000858",
+          "wayback_ts": "20230204230457",
           "title": "Istanbul - Paris - London",
           "poster": "https://images.viff.org/uploads/2023/01/JamesBaldwinAbroad.jpg?resize=150%2C150",
           "language": "English",
@@ -12713,7 +12809,7 @@
         {
           "slug": "viff24-ar-rahman",
           "date_range": null,
-          "wayback_ts": "20240914021330",
+          "wayback_ts": "20240922182554",
           "title": "Stories and Music from His Career",
           "poster": "https://images.viff.org/uploads/2024/08/Live_ARRahman_Promo-14.jpg?resize=960%2C600&gravity",
           "synopsis": "For one night only on October 5, two-time Oscar-winning composer and songwriter A.R. Rahman will join the Vancouver Symphony Orchestra and the Vancouver International Film Festival for An Evening with A.R. Rahman: Stories and Music from His Career. The international superstar will provide a keynote and performance with the VSO at the Orpheum, with music spanning his legendary career composing for some of Hollywood and Bollywood\u2019s biggest hits. This special concert presented by the VSO and VIFF is part of an exciting new collaboration between the two organizations that celebrates the connection between music and film. Reaching international acclaim in 2008 with his score for Slumdog Millionaire, A.R. Rahman\u2019s live performance will be a celebration of sound and emotion. His works are notable for their seamless cultural integration of Eastern classical music with electronic music sounds, world music genres, and traditional orchestral arrangements. A marquee event of VIFF and a highlight of the VSO season, An Evening with A.R. Rahman will share his life\u2019s journey with fans through a new and custom-made presentation that blends storytelling and song. The legendary artist will invite audiences behind the scenes of his greatest works, sharing insights into his process and stories from his remarkable career. He will also perform segments of his scores live with the VSO, with clips from the fan-favourite films projected on the Orpheum\u2019s big screen. Concert repertoire to be announced soon.",
@@ -13236,12 +13332,20 @@
               "venue": "VIFF Centre - Lochmaddy Studio Theatre"
             }
           ],
-          "wayback_ts": "20260623201831",
+          "wayback_ts": "20260606132820",
           "correction_swept": true,
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "title": "The Company of Strangers",
+          "poster": "https://images.viff.org/uploads/2026/05/CompanyOfStrangers.jpg?resize=960%2C600&gravity",
+          "synopsis": "Seven elderly women (and the driver) find themselves stranded when their bus breaks down in the wilderness. With only their wits, memories and some roasted frogs\u2019 legs to sustain them, this remarkable group of strangers share their life stories and turn a potential crisis into a magical time of humour, spirit and camaraderie. Featuring non-professional actors and unscripted dialogue, this film dissolves the barrier between fiction and reality, weaving a heart-warming tale of friendship and courage.",
+          "director": "Cynthia Scott",
+          "year": 1990,
+          "runtime_min": 106,
+          "country": "Canada",
+          "language": "English"
         },
         {
           "slug": "romeria",
@@ -15890,7 +15994,7 @@
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260831",
+      "last_seen_live": "20260901",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -16965,6 +17069,42 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-trial-of-hein",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-i-understand-your-displeasure",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-ballad-wednesday-thursday",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-dear-future-self",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-prosecution",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-sometimes-imagine-them-all-party",
+          "date_range": null,
+          "wayback_ts": "20260519194118",
+          "fetch_failed": true
         }
       ],
       "backfill_walked": "20260815",
@@ -16974,7 +17114,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260610"
+      "last_seen_live": "20260901"
     },
     {
       "slug": "france-noir",
@@ -21176,11 +21316,107 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-once-upon-a-time-in-harlem",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-whispers-in-may",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-distant-call",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-heat",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-birds-of-war",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-gabin",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-concrete-land",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-fire-there",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-place-of-absence",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nitassinan",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-who-moves-america",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-winds-thirst",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-revolutionaries-never-die",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nuisance-bear",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-closure",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-kikuyu-land",
+          "date_range": null,
+          "wayback_ts": "20260213185049",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220909223027",
       "last_seen_wayback": "20260213185049",
-      "last_seen_live": "20260610",
+      "last_seen_live": "20260901",
       "hero_image": null,
       "description": "There\u2019s an art to communication, and documentaries help capture it. Insights gathers films that confront power, displacement, and environmental collapse through acts of witnessing, listening, and resistance.\n\nFrom Kenya to Iran, Turtle Island to Gaza, these stories examine Indigenous sovereignty, ecological crises, archival memory, and radical pedagogy. Whether rebuilding libraries, protecting land, or challenging state violence, these documentaries move with clarity and conviction. They don\u2019t just inform \u2014 they expose, ignite, and offer blueprints for survival and futures that are yet to be written.",
       "date_range": null,
@@ -21656,7 +21892,8 @@
             }
           ],
           "featured_film": "Under the Skin",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-zone-of-interest",
@@ -22384,7 +22621,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -23072,6 +23310,24 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-close-up",
+          "date_range": null,
+          "wayback_ts": "20260210130044",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-vengeance-is-mine",
+          "date_range": null,
+          "wayback_ts": "20260210130044",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-tree-of-life",
+          "date_range": null,
+          "wayback_ts": "20260210130044",
+          "fetch_failed": true
         }
       ],
       "backfill_walked": "20260608",
@@ -23081,7 +23337,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260610"
+      "last_seen_live": "20260901"
     },
     {
       "slug": "lino-brocka",
@@ -24207,7 +24463,8 @@
           "wayback_ts": "20240126230621",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -24248,7 +24505,8 @@
           "wayback_ts": "20240127023248",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-animalia",
@@ -24302,7 +24560,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -24310,7 +24569,7 @@
           "title": "Project Funding and Pitch Workshop",
           "poster": "https://images.viff.org/uploads/2024/01/Workshop.jpg?resize=960%2C600&gravity",
           "synopsis": "Following the successful How to Finance Your Film workshop, MENA is hosting representatives from the top regional and national funding organizations for an Industry Rendezvous. This expanded session is a chance to both hear about each funder\u2019s programs and requirements, as well as to share your work and ask specific questions to each body about their programs in an informal one-on-one format. You will have the opportunity to receive feedback about your ideas, learn more about opportunities available, and meet the faces behind the organizations! Food and refreshments provided. Limited seating available. Featuring Presented in Partnership with Catering by",
-          "wayback_ts": "20240205203847",
+          "wayback_ts": "20240720071427",
           "runtime_min": 150,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -24359,7 +24618,8 @@
               "start": "2024-01-30T18:15:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "mena-award-ceremony",
@@ -24629,8 +24889,7 @@
           "wayback_ts": "20260221050714",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "gabriel-figueroa-alex-phillips",
@@ -24649,7 +24908,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "el-this-strange-passion",
@@ -24901,12 +25161,30 @@
           "year": 2021,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-modes-1",
+          "date_range": null,
+          "wayback_ts": "20251111112540",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-modes-2",
+          "date_range": null,
+          "wayback_ts": "20251111112540",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-modes-3",
+          "date_range": null,
+          "wayback_ts": "20251111112540",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220924173013",
       "last_seen_wayback": "20251111112540",
-      "last_seen_live": "20260610",
-      "description": "MODES is a place for video art, experimentation, the avant-garde, and exciting interpretations of screen-based work \u2014 an invitation to submit to the artist.",
+      "last_seen_live": "20260901",
+      "description": "Celebrating 10 years of MODES, this is your invitation to once again submit to the artist. Exploring how far the form of cinema is capable of bending, this series foregrounds bold international and Canadian works of avant-garde film, video art, and screen experimentation. Expanding the frame on art, politics, perception, and human experience, this year MODES seeks to shift the colonial centrifuge, reckon with the accelerating pace of contemporary life, and illuminate our responsibility to one another, while making space for intuitive, embodied, esoteric, and often-unseen feminine knowledge.",
       "meta_resolved": true,
       "hero_image": null,
       "date_range": null,
@@ -25540,7 +25818,8 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "black-butterflies",
@@ -26019,7 +26298,8 @@
           "runtime_resolved": true,
           "director": "Luis De Filippis",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "this-house",
@@ -26108,7 +26388,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "English",
-          "wayback_ts": "20220929001238",
+          "wayback_ts": "20220907224857",
           "runtime_min": 96,
           "screenings": [
             {
@@ -26151,14 +26431,109 @@
           "runtime_resolved": true,
           "director": "Chandler Levack",
           "director_resolved": true,
-          "featured_film_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-relax-open-your-eyes",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-send-the-rain",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-pocket-mirror",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-seventeen",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-first-comes-love",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-smudge-the-blades",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-in-the-heart-of-the-south",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-clubfoot",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-bas-book",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-strong-son",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-bryce-lee-story",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-safe-distance",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-still-night-burning-house",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-turtle-island-rap",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-lifeline",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-gymnasts-fisherman-colony",
+          "date_range": null,
+          "wayback_ts": "20260312191821",
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220907223051",
       "last_seen_wayback": "20260312191821",
-      "last_seen_live": "20260610",
-      "description": "Hosting seven world premieres and welcoming several films that have already earned considerable acclaim on the festival circuit, Northern Lights once again serves notice that Canadian and Indigenous filmmakers are a force to be reckoned with. Many of the films found here take the form of involving journeys, be they across oceans or into the depths of memory. Elsewhere, there are accounts of indoctrination, incarceration, and fumbling bids for sexual liberation.",
+      "last_seen_live": "20260901",
+      "description": "Boasting seven world premieres along with the Vancouver bows for celebrated films that have already turned heads on the festival circuit, Northern Lights presents a collection of films that prove every bit as distinct as they are accomplished. Often deeply personal and uniformly singular in terms of their filmmaking approaches and sensibilities, these features prove both candid and captivating. Even when employing the tropes of the survival thriller or underdog sports movie, they subvert expectations and surprise at every turn.",
       "meta_resolved": true,
       "hero_image": null,
       "date_range": null,
@@ -26880,8 +27255,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "one-battle-after-another",
@@ -27844,11 +28218,231 @@
           "director": "David Ond\u0159\u00ed\u010dek",
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-arru",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-flies",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-shame-and-money",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-frank-louis",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-everytime",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-linka-linka",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-la-gradiva",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-heysel-85",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-elephants-in-the-fog",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-quiet-applause",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-iron-boy",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-where-the-river-begins",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-lali",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-flesh-and-fuel",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-congo-boy",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-we-are-all-strangers",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-take-me-home",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-girl-unknown",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nina-roza",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-roid",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-paris-paris",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nobodys-violence",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
+        },
+        {
+          "slug": "viff26-light-pillar",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-what-remains",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-sweet-milk-lake",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-in-alaska",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-afterpiece",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-17",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-fireflies-in-the-dark",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-loneliest-man-in-town",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-fruit-gathering",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-the-difficult-bride",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-yasha",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-idda",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-9-temples-to-heaven",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-no-good-men",
+          "date_range": null,
+          "wayback_ts": "20260210122118",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220908193017",
       "last_seen_wayback": "20260210122118",
-      "last_seen_live": "20260610",
+      "last_seen_live": "20260901",
       "description": "This year\u2019s Panorama selection is customarily sprawling, with dozens of countries represented. Particularly noteworthy is the inclusion of accomplished work from several Latin American nations, as well as a rare feature film produced in Iraq. A number of these titles have been submitted by their nation for Oscar consideration, with more certain to follow. In addition to platforming a wealth of East Asian talent, Panorama also introduces audiences to some vital voices causing a clamour in the independent American filmmaking scene.",
       "meta_resolved": true,
       "hero_image": null,
@@ -28186,7 +28780,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260831",
+      "last_seen_live": "20260901",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -28333,8 +28927,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "old-dog",
@@ -28508,8 +29101,7 @@
               "start": "2025-03-19T20:15:00",
               "venue": "VIFF Centre Atrium"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "monsters-inc",
@@ -28983,12 +29575,72 @@
           "runtime_resolved": true,
           "featured_film_resolved": true,
           "director_resolved": true
+        },
+        {
+          "slug": "viff26-farruquito",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-fugs-film",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-our-mr-matsura",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-radioheart",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nous-orchestre-de-paris",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-james-mcneill-whistler",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-rebecca-horn",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-agridulce",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-tenor",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-wolf",
+          "date_range": null,
+          "wayback_ts": "20251129163506",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220922004632",
       "last_seen_wayback": "20251129163506",
-      "last_seen_live": "20260610",
-      "description": "Chosen with the \u201cbig screen and sound\u201d experience in mind, Portraits offers a diverse selection of documentary features about music, art, and design. From salsa and Sun Ra to Caravaggio, Kengo Kuma, and Kinan Azmeh, Portraits tours the world, providing access to great artists in intimate settings \u2014 and even some voguing AI! The home team is represented by Robert Bateman and E.J. Hughes.",
+      "last_seen_live": "20260901",
+      "description": "Portraits? VIFF 2026\u2019s feature docs on the arts. The precocious vivacity of a children\u2019s music school in the Dominican Republic. A delightful insider perspective on L\u2019Orchestre de Paris. From Farruquito: A Flamenco Dynasty and Fugs Film! to the revelatory James McNeill Whistler and Tilda Swinton\u2019s heartfelt appreciation of pop pioneer Patrick Wolf, sensational aesthetic discoveries await. One of Cascadia\u2019s greatest-ever photographers? Japanese-Okanogan Frank Matsura. Vitally important post-WW2 female artist you don\u2019t know? German Rebecca Horn? Latest global opera phenomenon? Samoan Pene Pati!",
       "meta_resolved": true,
       "hero_image": null,
       "date_range": null,
@@ -29987,7 +30639,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260831",
+      "last_seen_live": "20260901",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -31107,15 +31759,310 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-all-the-lovers-in-the-night",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-clarissa",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-yellow-letters",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-history-of-concrete",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-see-buildings-fall-lightning",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-bit-of-light",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-story-documentary-film-2000s",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-diary-of-a-chambermaid",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-how-we-stand",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-story-documentary-film-2010s-2020s",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-run-terry-run",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-ceremony",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-school-for-defectors",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-ladies-gentlemen-brian-mulroney",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-gentle-monster",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nagi-notes",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-man-motion-rick-hansen-story",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-mouse",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-nowhere-to-lay-my-eyes",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-queen-at-sea",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-flight",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-dao",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-yugo-goes-to-america",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-dreamed-adventure",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-tangles",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-reclaim-my-skin",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-guest",
+          "date_range": null,
+          "wayback_ts": "20260210112133",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220909022431",
       "last_seen_wayback": "20260210112133",
-      "last_seen_live": "20260610",
-      "description": "The impressive roll call for this year\u2019s Showcase proves just how bountiful the cinema of 2025 has proven to be. This is also where you\u2019ll find several director-actor teams continuing their longstanding collaborations, including Richard Linklater and Ethan Hawke, Paulo Sorrentino and Tony Servillo, Christian Petzold and Paula Beer, and Hong Sangsoo and Kwon Haehyo. Meanwhile, Shih-Ching Tsou, Chie Hayakawa, and Mascha Schilinski all demonstrate a remarkable capacity for eliciting astonishing performances from their youngest cast members.",
+      "last_seen_live": "20260901",
+      "description": "Once again, Showcase serves as the platform for the Canadian premieres of major new works by leading filmmakers such as Hong Sangsoo, Clio Barnard, and Ali Asgari, as well as rising talents like Mads Mengel, Kelly O\u2019Sullivan and Alex Thompson. An element of adventurousness manifests in many forms, be it Ari and Chuko Esiri adapting Mrs. Dalloway in contemporary Nigeria, or Matthew Rankin reassembling tens of thousands of clips to retrace Brian Mulroney\u2019s rise to power. Particularly noteworthy is the strong presence of documentaries, including portraits of two iconic British Columbians and the notable premieres of two landmark nonfiction series.",
       "meta_resolved": true,
       "hero_image": null,
       "date_range": null,
+      "showtimes_resolved": true
+    },
+    {
+      "slug": "special-presentations",
+      "name": "Special Presentations",
+      "detail_url": "https://viff.org/series/special-presentations/",
+      "film_slugs": [
+        {
+          "slug": "viff26-opening-gala",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-beloved",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-tender-loving-care",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-only-living-pickpocket-new-york",
+          "date_range": null,
+          "wayback_ts": "20260829134604",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-fjord",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-whatcha-want",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-club-kid",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-the-debut",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-minotaur",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-fatherland",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-your-mother-your-mother-your-mother",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-i-play-rocky",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-paper-tiger",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-all-of-a-sudden",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-bitter-christmas",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-coward",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-rose",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-possible-love",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-look-back",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-a-long-winter",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-behemoth",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-la-bola-negra",
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-wild-horse-nine",
+          "date_range": null,
+          "fetch_failed": true
+        }
+      ],
+      "description": "Representing the year\u2019s most acclaimed and accomplished cinema, our Special Presentations offer a dizzying array of experiences. Beyond Cristian Mungiu\u2019s riveting Palme D\u2019Or winner, this year\u2019s Cannes imports are highlighted by the precision of Pawe\u0142 Pawlikowski, the poetry of Ry\u00fbsuke Hamaguchi, and two stirring wartime romances. Lee Chang-Dong makes his long-awaited return with a characteristically complex investigation of Korean society, while Mike Leigh cements his legacy as one of the greatest humanist filmmakers with what is likely his swansong. Enthralling performances abound throughout the selection, highlighted by the incomparable Sandra H\u00fcller demonstrating her prowess with two stunning performances.",
+      "meta_resolved": true,
+      "last_seen_live": "20260901",
       "showtimes_resolved": true
     },
     {
@@ -31272,11 +32219,71 @@
           "director": "Mitra Farahani",
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-jaripeo",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-into-the-jaws-of-the-ogre",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-an-incomplete-calendar",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-last-movies",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-aanikoobijigan",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-crocodile",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-let-them-be-seen",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-daughters-of-the-forest",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-yo",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-afterlives",
+          "date_range": null,
+          "wayback_ts": "20260312192925",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220910180025",
       "last_seen_wayback": "20260312192925",
-      "last_seen_live": "20260610",
+      "last_seen_live": "20260901",
       "description": "Spectrum is the festival\u2019s most expansive space for boundary-breaking nonfiction \u2014 where form ruptures and futures flicker. These films rewire documentary grammar through mythic conjurings, archival remixes, and radical aesthetics.\n\nFrom media uprisings and protest movements to quiet reckonings with grief, memory, and belonging, this program spans the globe \u2014 from the Black diaspora in the Global North to intimate, place-rooted visions from Sri Lanka, Kenya, China, and South Korea. Together, these works speak in cinematic frequencies tuned to risk, reinvention, and revelation.",
       "meta_resolved": true,
       "hero_image": null,
@@ -33431,7 +34438,11 @@
             }
           ],
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260824064458",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "the-blue-caftan",
@@ -33471,7 +34482,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260831",
+      "last_seen_live": "20260901",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -35518,11 +36529,59 @@
           "director": "David Kapac & Andrija Marde\u0161i\u0107",
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-that-shadow-fading",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-hearing",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-lady",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-forest-high",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-lust",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-i-plant-my-hand-in-the-garden",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-hear-the-yellow",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-ana-en-passant",
+          "date_range": null,
+          "wayback_ts": "20260312195834",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220913184538",
       "last_seen_wayback": "20260312195834",
-      "last_seen_live": "20260610",
+      "last_seen_live": "20260901",
       "description": "Introducing a new wave of gifted storytellers to Canadian audiences, the films in this series reflect the well of ingenuity and cinematic prowess emerging from all corners of the world. Form, style and genre either blur, bend or extend in these works, weaving regional flourishes and breathing fresh air into familiar narratives. Or inventing entirely new ones. This is the place to surrender expectations and discover a hidden gem.\n\n\u2014 Sonja Baksa, Vanguard Curator",
       "meta_resolved": true,
       "hero_image": null,
@@ -35685,7 +36744,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "In English and Croatian with English subtitles",
-          "wayback_ts": "20220909010532",
+          "wayback_ts": "20220928192905",
           "runtime_min": 87,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -35867,7 +36926,8 @@
               "start": "2022-10-04T21:00:00",
               "venue": "Centre for Performing Arts"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "boy-from-heaven",
@@ -36733,7 +37793,8 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "huesera",
@@ -37938,7 +38999,7 @@
           "country": "USA",
           "language": "In English, Dari, and Pashto with English subtitles",
           "synopsis": "Canadian Premiere In the summer of 2021, the United States withdrew its military forces from Afghanistan, marking an end to the so-called Forever War, while leaving behind a hamstrung government and an undersupplied Afghan National Army to fend for themselves against increasingly aggressive Taliban forces. Director Matthew Heineman (A Private War, Cartel Land) captures intimate details of American and Afghan soldiers navigating the politics and bureaucracy, focusing in on the beleaguered General Sami Sadat, who is left bearing the brunt of responsibility to fight an unwinnable war. Sadat is committed to the goal of a democratic Afghanistan, but as the remaining American personnel find their hands tied by policy decisions from their superiors, and the Afghan military\u2019s morale declines as they suffer loss after loss, he begins to realize that victory is impossible. After 20 years, hundreds of thousands of lives lost, and trillions of dollars spent, the Taliban is back in control and the country is still mired in civil war. Media Partner",
-          "wayback_ts": "20220909010542",
+          "wayback_ts": "20220909224416",
           "runtime_min": 93,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -38734,8 +39795,7 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-whale",
@@ -38805,7 +39865,8 @@
           "runtime_resolved": true,
           "director": "Connie Cocchia",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "a-woman-escapes",
@@ -38936,7 +39997,8 @@
               "start": "2022-10-09T21:30:00",
               "venue": "The Rio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff22-aftersun",
@@ -39708,7 +40770,8 @@
           "runtime_resolved": true,
           "director": "Antoine Bourges",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "day-after-viff-connect",
@@ -39895,7 +40958,9 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -39963,8 +41028,7 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "soviet-bus-stops-viff-connect",
@@ -40391,12 +41455,72 @@
           "year": 2021,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-short-forum-1",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-2",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-3",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-4",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-5",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-6",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-7",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-8",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-9",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
+        },
+        {
+          "slug": "viff26-short-forum-10",
+          "date_range": null,
+          "wayback_ts": "20251012183750",
+          "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220919220046",
       "last_seen_wayback": "20251012183750",
-      "last_seen_live": "20260610",
-      "description": "As the chaos and heaviness of the world crisscross our circuits, filmmakers process our collective urgency by way of metaphor and poetics, using the short form to provide much needed grace. Difficult subjects are padded by recurring themes of kinship, faith, and the body, as we grasp for solidarity and resistance. The cozy compositions found in this year\u2019s Short Forum offer a humble embrace through which to recharge our spirit.",
+      "last_seen_live": "20260901",
+      "description": "Existence is exhausting; narrative is tired. Thankfully, the Short Forum is back par excellence, reaching new heights of hybridity, invention, and raw experience. As the Anthropocene rages on and technology continues to coil around us, humanity as a concept is thrown into question. Films that dare to reinterpret the past and envision a better future are foregrounded as we continually reflect on what stories need to be told, what lessons still need learning, and what actions must be taken.",
       "meta_resolved": true,
       "hero_image": null,
       "date_range": null,
@@ -40443,8 +41567,7 @@
               "venue": "Annex"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-katie-byron",
@@ -41048,7 +42171,7 @@
               "venue": "International Village 8"
             }
           ],
-          "wayback_ts": "20251001233325",
+          "wayback_ts": "20250908125058",
           "runtime_min": 108,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -41113,7 +42236,7 @@
           "country": "Canada",
           "language": "In English, Sherpa and Nepali with English subtitles",
           "synopsis": "Every year, hundreds of climbers chase glory atop the world\u2019s highest peak, but few stop to ask what Mount Everest has become. In Everest Dark, filmmaker Jereme Watt shifts the lens toward the Sherpa people, whose spiritual ties to the mountain run much deeper than the ambitions of tourists. At the center is Mingma Tsiri Sherpa, a national hero and devout Buddhist, who returns from retirement to carry out a perilous mission: to recover the bodies of fallen climbers, complete sacred rites, and restore harmony to Chomolungma, the \u201cMother Goddess of the World\u201d. Shot under extreme conditions, Everest Dark combines breathtaking aerial cinematography with a deeply human portrait of reverence, grief, and resistance. Featuring narration from Mingma\u2019s father, a runner for Sir Edmund Hillary, the film confronts Everest\u2019s transformation into a capitalist graveyard and reclaims its sanctity through ancestral care. Watt\u2019s years of collaboration with Mingma yield a film that is both visually astonishing and spiritually grounded \u2014 a rare testament to Indigenous stewardship at the edge of the world. Oct 4 & 5: Q&A Presented by Media Partner Community Partner",
-          "wayback_ts": "20250903121714",
+          "wayback_ts": "20250905224405",
           "runtime_min": 90,
           "screenings_resolved": true,
           "director": "Jereme Watt",
@@ -42530,9 +43653,7 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -43363,7 +44484,7 @@
           "language": "In Croatian and Italian with English subtitles",
           "runtime_min": 112,
           "screenings_resolved": true,
-          "wayback_ts": "20251009161235",
+          "wayback_ts": "20250831230543",
           "runtime_resolved": true,
           "director": "Igor Bezinovi\u0107",
           "director_resolved": true,
@@ -43485,7 +44606,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-your-touch-makes-others-invisible",
@@ -44134,7 +45256,8 @@
           "wayback_ts": "20240624022710",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-9-phosphenia",
@@ -44194,7 +45317,8 @@
           "wayback_ts": "20231210175809",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-farther-eye-see",
