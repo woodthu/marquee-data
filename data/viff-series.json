@@ -2868,7 +2868,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "trust",
@@ -3272,7 +3274,8 @@
           "poster": "https://images.viff.org/uploads/2026/05/MamboKings.jpg?resize=960%2C600&gravity",
           "synopsis": "Feel the heat! Tonight is a night to shake your booty in the best seats in town as we combine a live set of exhilarating Cuban music with a rediscovered 90s barnstormer of a movie starring Latin heartthrobs Armand Assante and Antonio Banderas alongside the likes of Tito Puente and Celia Cruz. The Julio Avila Cuban Band is a powerhouse ensemble bringing the infectious rhythms and rich traditions of Cuban music to the West Coast. Led by bassist, vocalist, and composer Julio Avila, the group combines musical excellence with deep cultural authenticity. Each member, most of whom hail from Cuba, contributes world-class talent on vocals, horns, percussion, and keys, creating a vibrant, rich sound. Together, they perform a dynamic mix of salsa, son, merengue, cumbia, and bachata, captivating audiences with irresistible energy and rhythm. Formed in Vancouver in 2015, the band quickly became a local favourite, celebrated for electrifying live performances and a strong commitment to preserving and sharing Cuban musical heritage. Whether performing at festivals, concerts, or community events, the Julio Avila Cuban Band delivers an unforgettable experience that gets people dancing and fills hearts with joy. This is Cuban music at its finest \u2013 alive, passionate, and deeply soulful. About the film: The Mambo Kings (Arne Glimcher, 1992, 104 min) Armand Assante and Antonio Banderas (in his American movie debut) play brothers, Cuban musicians exiled in the 1950s New York City, trying to get their lives back on track. Based on the Pulitzer prize winning novel, The Mambo Kings Play Songs of Love, by Oscar Hijuelos. Band Members Julio Avila \u2013 bass, vocals Ernesto Benitez \u2013 keyboards Hector Ramos \u2013 congas Julio Orlando Avila \u2013 saxophone, clarinet, flute Isidora Basanovic \u2013 vocals, minor percussion Hamilton Feraud \u2013 vocals, minor percussion Reinaldo Burgues \u2013 vocals, minor percussion",
           "runtime_min": 234,
-          "featured_film": "The Mambo Kings"
+          "featured_film": "The Mambo Kings",
+          "fetch_failed": true
         },
         {
           "slug": "the-silence-of-the-lambs",
@@ -3512,7 +3515,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "correction_swept": true
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "basic-instinct",
@@ -4689,8 +4693,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "being-john-malkovich",
@@ -4710,8 +4713,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lessons-of-darkness",
@@ -4940,7 +4942,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "the-wind-will-carry-us",
@@ -5649,7 +5652,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "backfill_walked": "20260901"
     },
     {
@@ -6403,6 +6406,21 @@
           "slug": "viff26-jim-queen",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-01T21:15:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-09T20:30:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-10T21:00:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -6437,48 +6455,136 @@
           "slug": "viff26-the-peril-at-pincer-point",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-02T14:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-08T21:15:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-11T18:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-gasmask",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-03T13:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-08T21:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-freaks-part-ii",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-03T21:15:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-04T18:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-family-fears-another-night-terror",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-04T21:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-05T16:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-midnight-momo",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-09T17:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T15:45:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-death-has-no-master",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-09T18:00:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-10T16:00:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-wicker",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-09T20:45:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-ugly-cry",
           "date_range": null,
           "wayback_ts": "20260312200402",
+          "screenings": [
+            {
+              "start": "2026-10-10T15:30:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-11T20:15:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
@@ -6489,7 +6595,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260922"
+      "last_seen_live": "20260923"
     },
     {
       "slug": "asian-heritage-month",
@@ -7225,7 +7331,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "scarface",
@@ -7898,7 +8005,8 @@
               "start": "2023-08-04T18:00:00",
               "venue": "VIFF Centre - Vancity Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "something-wild",
@@ -8139,7 +8247,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "wayback_ts": "20230706094559",
+          "wayback_ts": "20230714112854",
           "runtime_min": 30,
           "runtime_resolved": true,
           "director_resolved": true,
@@ -8562,7 +8670,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "80s-mystery-film",
@@ -8581,7 +8690,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "80s-fan-choice",
@@ -8623,7 +8733,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -12112,7 +12223,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "film-studies-lighting",
@@ -16082,7 +16194,7 @@
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -17165,36 +17277,102 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-02T18:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-03T14:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-i-understand-your-displeasure",
           "date_range": null,
           "wayback_ts": "20260519194118",
+          "screenings": [
+            {
+              "start": "2026-10-03T15:45:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-04T18:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-ballad-wednesday-thursday",
           "date_range": null,
           "wayback_ts": "20260519194118",
+          "screenings": [
+            {
+              "start": "2026-10-03T18:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-04T15:30:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-dear-future-self",
           "date_range": null,
           "wayback_ts": "20260519194118",
+          "screenings": [
+            {
+              "start": "2026-10-06T18:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-07T15:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-prosecution",
           "date_range": null,
           "wayback_ts": "20260519194118",
+          "screenings": [
+            {
+              "start": "2026-10-07T20:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-08T10:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-sometimes-imagine-them-all-party",
           "date_range": null,
           "wayback_ts": "20260519194118",
+          "screenings": [
+            {
+              "start": "2026-10-09T18:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-11T10:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
@@ -17205,7 +17383,78 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260922"
+      "last_seen_live": "20260923"
+    },
+    {
+      "slug": "framework",
+      "name": "Framework",
+      "detail_url": "https://viff.org/series/framework/",
+      "film_slugs": [
+        {
+          "slug": "the-39-steps",
+          "screenings": [
+            {
+              "start": "2026-11-02T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-11-03T15:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "shadow-of-a-doubt",
+          "screenings": [
+            {
+              "start": "2026-11-09T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-11-10T18:20:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "strangers-on-a-train",
+          "screenings": [
+            {
+              "start": "2026-11-23T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-11-24T18:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "fetch_failed": true
+        },
+        {
+          "slug": "the-wrong-man",
+          "screenings": [
+            {
+              "start": "2026-11-30T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-12-02T17:50:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "fetch_failed": true
+        }
+      ],
+      "description": "In our first FRAMEWORK series, film scholar Michael van den Bos will illuminate aspects of one of the most illustrious 20th century filmmakers, Alfred Hitchcock , across four monochrome masterworks: The 39 Steps (1935), Shadow of a Doubt (1943), Strangers on a Train (1951), and The Wrong Man (1956). Each film represents a different phase in the career of the \u201cmaster of suspense\u201d.\n\nMichael van den Bos will introduce each film with a 25-minute talk to contextualize Hitchcock\u2019s technical prowess, artistic interests, and accomplishments. The screening will then be followed by a short talkback with Michael.\n\nAll films will have a repeat screening, without the talk.",
+      "meta_resolved": true,
+      "last_seen_live": "20260923",
+      "showtimes_resolved": true
     },
     {
       "slug": "france-noir",
@@ -19349,8 +19598,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -20251,7 +20499,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "industry-shooting-analog",
@@ -20610,7 +20859,7 @@
         {
           "slug": "retrograde",
           "date_range": null,
-          "wayback_ts": "20230129095540",
+          "wayback_ts": "20220909010542",
           "title": "Retrograde",
           "poster": "https://images.viff.org/uploads/2022/08/Retrograde.jpg?resize=960%2C600&gravity",
           "synopsis": "Canadian Premiere In the summer of 2021, the United States withdrew its military forces from Afghanistan, marking an end to the so-called Forever War, while leaving behind a hamstrung government and an undersupplied Afghan National Army to fend for themselves against increasingly aggressive Taliban forces. Director Matthew Heineman (A Private War, Cartel Land) captures intimate details of American and Afghan soldiers navigating the politics and bureaucracy, focusing in on the beleaguered General Sami Sadat, who is left bearing the brunt of responsibility to fight an unwinnable war. Sadat is committed to the goal of a democratic Afghanistan, but as the remaining American personnel find their hands tied by policy decisions from their superiors, and the Afghan military\u2019s morale declines as they suffer loss after loss, he begins to realize that victory is impossible. After 20 years, hundreds of thousands of lives lost, and trillions of dollars spent, the Taliban is back in control and the country is still mired in civil war. Media Partner",
@@ -21415,7 +21664,24 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-02T11:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-03T15:30:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-09T18:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-whispers-in-may",
@@ -21424,96 +21690,271 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-02T13:00:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-07T21:00:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-a-distant-call",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-02T13:15:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-07T20:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-heat",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-02T15:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-05T21:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-birds-of-war",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-03T15:45:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-06T15:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-gabin",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-03T11:45:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T18:45:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-concrete-land",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-03T20:00:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-04T12:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-a-fire-there",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:30:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-05T13:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-a-place-of-absence",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-07T15:30:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-11T18:00:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-nitassinan",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-08T17:30:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-09T14:30:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-who-moves-america",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-08T18:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-09T13:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-winds-thirst",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-08T20:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-09T13:45:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-revolutionaries-never-die",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-08T21:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-10T15:30:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-nuisance-bear",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-09T18:15:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-10T14:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-11T15:30:00",
+              "venue": "Alliance Francaise"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-closure",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-09T21:00:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T13:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-kikuyu-land",
           "date_range": null,
           "wayback_ts": "20260213185049",
+          "screenings": [
+            {
+              "start": "2026-10-10T10:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T18:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220909223027",
       "last_seen_wayback": "20260213185049",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "hero_image": null,
       "description": "There\u2019s an art to communication, and documentaries help capture it. Insights gathers films that confront power, displacement, and environmental collapse through acts of witnessing, listening, and resistance.\n\nFrom Kenya to Iran, Turtle Island to Gaza, these stories examine Indigenous sovereignty, ecological crises, archival memory, and radical pedagogy. Whether rebuilding libraries, protecting land, or challenging state violence, these documentaries move with clarity and conviction. They don\u2019t just inform \u2014 they expose, ignite, and offer blueprints for survival and futures that are yet to be written.",
       "date_range": null,
@@ -21976,7 +22417,7 @@
           "poster": "https://images.viff.org/uploads/2024/03/Elective-Affinities.png?resize=960%2C600&gravity",
           "title": "The Scores of Mica Levi",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240319180656",
+          "wayback_ts": "20240317091235",
           "synopsis": "Shuttering strings and echoes; melodies from the void set the stage for Under the Skin (2013). Bending warped pads and grieving orchestral moans accompany a recent widow in Jackie (2016). From manipulated samples of blowing into a bottle in Monos (2019) to the trash heap distorted beats of Zola (2020), composer Mica Levi has made a career of being selective. Working with only iconoclastic filmmakers presenting dark subjects, Mica is an inspiration to methodical introverts and music aficionados alike. Dissecting some of the most exciting and original film scores of the past decade, composer Cayne McKenzie contends: Mica Levi is an artist that makes no bad decisions. This talk will be followed by a screening of two short films directed by Jonathan Glazer and scored by Mica Levi: The Fall (2019, 7 min) and Strasbourg 1518 (2020, 10 min). Cayne McKenzie\u2019s film scores include Violent and Ash. He has written and performed with the bands We Are the City and Big Kill.",
           "runtime_min": 7,
           "screenings_resolved": true,
@@ -22990,7 +23431,24 @@
           "slug": "space-cadet",
           "date_range": null,
           "wayback_ts": "20260312193112",
-          "fetch_failed": true
+          "title": "Space Cadet",
+          "poster": "https://images.viff.org/uploads/2026/04/SpaceCadet.jpg?resize=960%2C600&gravity",
+          "synopsis": "Join us for VIFF Kids Club \u2014 our monthly family matinee series with film-inspired crafts and special concession snacks before the show! Doors open at 11:00 am for activities, with the film screening at 12:00 pm. This Month\u2019s Film: Raised by her devoted robot guardian, Celeste grows up to become an astronaut and sets off on her first solo mission. Left behind on Earth, Robot copes with loneliness by revisiting their shared memories, while Celeste faces unexpected challenges and adventures in space. Guided by love, resilience, and ingenuity, she must find her way home. Told without dialogue, this tender animated film blends visual poetry, gentle humour, and a rich musical score to explore connection and distance, childhood and growing up. This special film is based on the award-winning graphic novel written and illustrated by Kid Koala, a Montreal-based DJ, composer, and multimedia artist. Known for his inventive storytelling and collaborations across music, film, and visual art, he brings a distinctive, emotionally resonant voice to this heartfelt and accessible cinematic experience for all ages. Before the film gets started, kids can have fun with space and robot themed crafts. A special themed snack pack including candy fit for royalty, small popcorn and small drink, will be available to purchase. Please note: VIFF Kids Club is designed for families to attend together. Adults can only attend if they\u2019re bringing a child, and children can only attend if accompanied by an adult. Does your family have a film idea for Kids Club? Let our staff know after the movie, or submit your idea online!",
+          "director": "Kid Koala",
+          "year": 2025,
+          "runtime_min": 146,
+          "country": "Canada",
+          "language": "No Dialogue",
+          "screenings": [
+            {
+              "start": "2026-05-31T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         }
       ],
       "backfill_walked": "20260608",
@@ -23410,24 +23868,68 @@
           "slug": "viff26-close-up",
           "date_range": null,
           "wayback_ts": "20260210130044",
+          "screenings": [
+            {
+              "start": "2026-10-04T13:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-10T15:45:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-vengeance-is-mine",
           "date_range": null,
           "wayback_ts": "20260210130044",
+          "screenings": [
+            {
+              "start": "2026-10-03T13:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-10T13:00:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-tree-of-life",
           "date_range": null,
           "wayback_ts": "20260210130044",
+          "screenings": [
+            {
+              "start": "2026-10-06T21:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-11T10:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-le-bonheur",
           "date_range": null,
           "wayback_ts": "20260210130044",
+          "screenings": [
+            {
+              "start": "2026-10-05T18:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-11T13:00:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
@@ -23438,7 +23940,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20260922"
+      "last_seen_live": "20260923"
     },
     {
       "slug": "lino-brocka",
@@ -24127,7 +24629,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -24500,7 +25003,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-three-promises",
@@ -24564,7 +25068,8 @@
           "wayback_ts": "20240127023213",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -24583,7 +25088,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-stop-bundle",
@@ -24605,8 +25111,7 @@
           "wayback_ts": "20240205203843",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-animalia",
@@ -24660,7 +25165,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -24679,7 +25185,8 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-the-burdened",
@@ -24717,7 +25224,8 @@
               "start": "2024-01-30T18:15:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "mena-award-ceremony",
@@ -25264,24 +25772,57 @@
           "slug": "viff26-modes-1",
           "date_range": null,
           "wayback_ts": "20251111112540",
+          "screenings": [
+            {
+              "start": "2026-10-01T18:15:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-09T13:15:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-modes-2",
           "date_range": null,
           "wayback_ts": "20251111112540",
+          "screenings": [
+            {
+              "start": "2026-10-02T21:15:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-10T18:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-modes-3",
           "date_range": null,
           "wayback_ts": "20251111112540",
+          "screenings": [
+            {
+              "start": "2026-10-03T21:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-11T18:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220924173013",
       "last_seen_wayback": "20251111112540",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Celebrating 10 years of MODES, this is your invitation to once again submit to the artist. Exploring how far the form of cinema is capable of bending, this series foregrounds bold international and Canadian works of avant-garde film, video art, and screen experimentation. Expanding the frame on art, politics, perception, and human experience, this year MODES seeks to shift the colonial centrifuge, reckon with the accelerating pace of contemporary life, and illuminate our responsibility to one another, while making space for intuitive, embodied, esoteric, and often-unseen feminine knowledge.",
       "meta_resolved": true,
       "hero_image": null,
@@ -25916,7 +26457,8 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "black-butterflies",
@@ -26368,8 +26910,7 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "something-you-said-last-night",
@@ -26396,8 +26937,7 @@
           "runtime_resolved": true,
           "director": "Luis De Filippis",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "this-house",
@@ -26528,108 +27068,301 @@
           "runtime_resolved": true,
           "director": "Chandler Levack",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-relax-open-your-eyes",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-06T15:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-send-the-rain",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-08T15:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-pocket-mirror",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:15:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-05T12:15:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-seventeen",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-02T20:45:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-04T15:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-11T21:00:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-first-comes-love",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-03T17:45:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-07T13:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T15:45:00",
+              "venue": "Alliance Francaise"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-smudge-the-blades",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-03T18:15:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-05T15:00:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-in-the-heart-of-the-south",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-03T21:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-04T15:00:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-clubfoot",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-05T14:45:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-bas-book",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-05T16:00:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-strong-son",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-05T18:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-06T12:45:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-bryce-lee-story",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-05T19:00:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-06T15:45:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T15:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-a-safe-distance",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-05T20:45:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-07T13:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-still-night-burning-house",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-06T18:30:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-07T16:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-turtle-island-rap",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-06T18:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-08T15:00:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-lifeline",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-08T19:00:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T16:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-gymnasts-fisherman-colony",
           "date_range": null,
           "wayback_ts": "20260312191821",
+          "screenings": [
+            {
+              "start": "2026-10-09T17:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-10T12:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-11T18:00:00",
+              "venue": "Alliance Francaise"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220907223051",
       "last_seen_wayback": "20260312191821",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Boasting seven world premieres along with the Vancouver bows for celebrated films that have already turned heads on the festival circuit, Northern Lights presents a collection of films that prove every bit as distinct as they are accomplished. Often deeply personal and uniformly singular in terms of their filmmaking approaches and sensibilities, these features prove both candid and captivating. Even when employing the tropes of the survival thriller or underdog sports movie, they subvert expectations and surprise at every turn.",
       "meta_resolved": true,
       "hero_image": null,
@@ -28236,7 +28969,8 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "what-we-do-next",
@@ -28320,12 +29054,42 @@
           "slug": "viff26-arru",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-01T18:00:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-02T15:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-07T13:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-flies",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-01T18:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-03T15:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-11T18:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28333,6 +29097,17 @@
           "date_range": null,
           "wayback_ts": "20260210122118",
           "fetch_attempts": 1,
+          "screenings": [
+            {
+              "start": "2026-10-01T20:30:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-03T14:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28340,6 +29115,17 @@
           "date_range": null,
           "wayback_ts": "20260210122118",
           "fetch_attempts": 1,
+          "screenings": [
+            {
+              "start": "2026-10-01T21:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-03T12:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28349,51 +29135,172 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-01T21:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-03T14:45:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-04T15:30:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-06T18:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-linka-linka",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T10:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-09T18:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-11T18:00:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-la-gradiva",
           "date_range": null,
-          "wayback_ts": "20260210122118",
+          "wayback_ts": "20260921081343",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-02T11:45:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-03T20:15:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-09T20:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T11:45:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-heysel-85",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T15:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-03T17:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-10T20:45:00",
+              "venue": "Alliance Francaise"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-elephants-in-the-fog",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-06T10:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-09T12:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-quiet-applause",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:00:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-03T15:00:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-iron-boy",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:30:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-03T12:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-10T18:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-where-the-river-begins",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T20:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-04T12:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28404,30 +29311,94 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-02T21:00:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-09T14:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-flesh-and-fuel",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T21:00:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-10T21:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-congo-boy",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-02T21:15:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-05T15:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-we-are-all-strangers",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-03T14:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-05T20:45:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-07T15:00:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-take-me-home",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-03T17:45:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-04T15:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-07T14:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28437,7 +29408,23 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-03T17:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-04T12:00:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-08T16:15:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-nina-roza",
@@ -28446,18 +29433,56 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-03T20:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-04T14:45:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T18:00:00",
+              "venue": "Alliance Francaise"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-roid",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-04T20:15:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T13:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-paris-paris",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-04T20:30:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-07T17:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28468,12 +29493,39 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-04T20:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-05T20:30:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-light-pillar",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-04T20:45:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-05T12:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-11T11:15:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28483,7 +29535,19 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-04T21:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-08T12:00:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-sweet-milk-lake",
@@ -28500,11 +29564,11 @@
           "screenings": [
             {
               "start": "2026-10-04T21:15:00",
-              "venue": "Lindsay Family Stage at Granville Island"
+              "venue": "Lindsay Family Stage At Granville Island"
             },
             {
               "start": "2026-10-05T15:30:00",
-              "venue": "Fifth Avenue Cinema - 19+ only"
+              "venue": "Fifth Avenue Cinema 19 Only"
             },
             {
               "start": "2026-10-10T13:00:00",
@@ -28521,30 +29585,92 @@
           "slug": "viff26-in-alaska",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-05T21:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-06T15:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-afterpiece",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-06T17:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-07T12:15:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T15:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-17",
           "date_range": null,
           "wayback_ts": "20260210122118",
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-06T21:15:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-08T16:00:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-fireflies-in-the-dark",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-06T21:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-07T15:15:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-loneliest-man-in-town",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-07T18:00:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-09T16:00:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28555,12 +29681,35 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-07T18:00:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-08T13:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-the-difficult-bride",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-08T15:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-10T21:15:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28570,12 +29719,39 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-09T18:15:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-10T21:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-11T13:00:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-idda",
           "date_range": null,
           "wayback_ts": "20260210122118",
+          "screenings": [
+            {
+              "start": "2026-10-09T18:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-10T13:00:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -28586,7 +29762,17 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-09T20:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-10T15:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-no-good-men",
@@ -28596,13 +29782,25 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-10T12:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-11T21:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_attempts": 1,
           "fetch_failed": true,
           "fetch_failed_definitive": true
         }
       ],
       "first_seen_wayback": "20220908193017",
       "last_seen_wayback": "20260210122118",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "This year\u2019s Panorama selection is customarily sprawling, with dozens of countries represented. Particularly noteworthy is the inclusion of accomplished work from several Latin American nations, as well as a rare feature film produced in Iraq. A number of these titles have been submitted by their nation for Oscar consideration, with more certain to follow. In addition to platforming a wealth of East Asian talent, Panorama also introduces audiences to some vital voices causing a clamour in the independent American filmmaking scene.",
       "meta_resolved": true,
       "hero_image": null,
@@ -28940,7 +30138,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -29740,66 +30938,184 @@
           "slug": "viff26-farruquito",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-02T10:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-03T20:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-05T10:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-fugs-film",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-02T13:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-09T21:00:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-our-mr-matsura",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-04T17:45:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-05T10:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-radioheart",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-06T10:45:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-nous-orchestre-de-paris",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:15:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-06T11:15:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-james-mcneill-whistler",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-06T18:15:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-07T10:30:00",
+              "venue": "International Village 10"
+            },
+            {
+              "start": "2026-10-09T10:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-rebecca-horn",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-07T17:30:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-08T10:45:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-agridulce",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-07T18:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-09T10:45:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-tenor",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-08T18:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T10:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-wolf",
           "date_range": null,
           "wayback_ts": "20251129163506",
+          "screenings": [
+            {
+              "start": "2026-10-10T19:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T16:00:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220922004632",
       "last_seen_wayback": "20251129163506",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Portraits? VIFF 2026\u2019s feature docs on the arts. The precocious vivacity of a children\u2019s music school in the Dominican Republic. A delightful insider perspective on L\u2019Orchestre de Paris. From Farruquito: A Flamenco Dynasty and Fugs Film! to the revelatory James McNeill Whistler and Tilda Swinton\u2019s heartfelt appreciation of pop pioneer Patrick Wolf, sensational aesthetic discoveries await. One of Cascadia\u2019s greatest-ever photographers? Japanese-Okanogan Frank Matsura. Vitally important post-WW2 female artist you don\u2019t know? German Rebecca Horn? Latest global opera phenomenon? Samoan Pene Pati!",
       "meta_resolved": true,
       "hero_image": null,
@@ -30817,7 +32133,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -31942,48 +33258,160 @@
           "slug": "viff26-all-the-lovers-in-the-night",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-01T17:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-02T15:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-05T12:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-11T20:45:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-clarissa",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-01T17:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-04T15:00:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-yellow-letters",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-02T15:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-03T21:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-10T18:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-history-of-concrete",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-02T18:00:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-07T21:00:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-11T20:45:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-see-buildings-fall-lightning",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-02T20:45:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-04T13:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-a-bit-of-light",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-02T20:45:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-08T16:00:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-11T20:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-story-documentary-film-2000s",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-03T12:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T11:30:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-diary-of-a-chambermaid",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-03T18:00:00",
+              "venue": "Alliance Francaise"
+            },
+            {
+              "start": "2026-10-06T21:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-07T15:30:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -31993,54 +33421,165 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-03T18:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-04T15:00:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-11T15:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-story-documentary-film-2010s-2020s",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-04T11:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-11T14:30:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-run-terry-run",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-04T13:45:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-05T17:30:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-ceremony",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-04T17:45:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-06T13:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-10T12:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-11T12:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-school-for-defectors",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-05T18:15:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-08T12:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-ladies-gentlemen-brian-mulroney",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-04T18:15:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-06T21:15:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-11T20:30:00",
+              "venue": "Alliance Francaise"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-gentle-monster",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-04T21:15:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-nagi-notes",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-05T20:45:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-09T15:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-man-motion-rick-hansen-story",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-06T12:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -32051,6 +33590,17 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-06T18:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-10T15:30:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -32061,13 +33611,39 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "screenings": [
+            {
+              "start": "2026-10-07T18:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-09T15:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-11T18:30:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-queen-at-sea",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-08T17:45:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-11T11:15:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -32077,48 +33653,126 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-08T20:15:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-11T15:45:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-dao",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-08T20:45:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-10T14:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-yugo-goes-to-america",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-09T12:00:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-10T18:00:00",
+              "venue": "Sfu Woodwards"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-dreamed-adventure",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-09T14:30:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-10T17:30:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-tangles",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-09T17:45:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-11T15:00:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-11T21:30:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-reclaim-my-skin",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-10T14:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-guest",
           "date_range": null,
           "wayback_ts": "20260210112133",
+          "screenings": [
+            {
+              "start": "2026-10-10T21:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-11T13:30:00",
+              "venue": "International Village 9"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220909022431",
       "last_seen_wayback": "20260210112133",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Once again, Showcase serves as the platform for the Canadian premieres of major new works by leading filmmakers such as Hong Sangsoo, Clio Barnard, and Ali Asgari, as well as rising talents like Mads Mengel, Kelly O\u2019Sullivan and Alex Thompson. An element of adventurousness manifests in many forms, be it Ari and Chuko Esiri adapting Mrs. Dalloway in contemporary Nigeria, or Matthew Rankin reassembling tens of thousands of clips to retrace Brian Mulroney\u2019s rise to power. Particularly noteworthy is the strong presence of documentaries, including portraits of two iconic British Columbians and the notable premieres of two landmark nonfiction series.",
       "meta_resolved": true,
       "hero_image": null,
@@ -32138,16 +33792,51 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-01T17:45:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-beloved",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-01T18:00:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-05T18:00:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-10T21:30:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-tender-loving-care",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-01T18:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-04T11:00:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-11T18:00:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
@@ -32158,36 +33847,126 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-01T21:30:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-03T11:30:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-06T17:45:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-10T11:00:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-fjord",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-02T17:15:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-07T21:00:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-whatcha-want",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-02T18:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-07T21:00:00",
+              "venue": "Fifth Avenue Cinema 19 Only"
+            },
+            {
+              "start": "2026-10-09T10:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-11T15:30:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-club-kid",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-02T21:00:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-05T21:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-the-debut",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-02T21:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-minotaur",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-03T18:15:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-09T20:30:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-11T14:30:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-fatherland",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-03T18:30:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-06T18:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-08T21:30:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
@@ -32197,31 +33976,104 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-03T21:15:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-i-play-rocky",
           "date_range": null,
-          "fetch_failed": true
+          "screenings": [
+            {
+              "start": "2026-10-03T21:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-11T18:15:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "wayback_ts": "20260916075127",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-paper-tiger",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-04T17:00:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-08T21:00:00",
+              "venue": "The Park Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-all-of-a-sudden",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-04T20:15:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-10T13:45:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-bitter-christmas",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-04T21:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-07T17:45:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-08T18:00:00",
+              "venue": "The Rio Theatre"
+            },
+            {
+              "start": "2026-10-11T21:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-coward",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-05T17:45:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-09T18:15:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-11T18:00:00",
+              "venue": "The Park Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
@@ -32231,11 +34083,32 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-05T18:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            },
+            {
+              "start": "2026-10-07T18:30:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-09T15:00:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-possible-love",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-05T21:00:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
@@ -32245,11 +34118,40 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-06T18:00:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-08T18:15:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-11T18:00:00",
+              "venue": "Lindsay Family Stage At Granville Island"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-a-long-winter",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-06T21:00:00",
+              "venue": "Vancouver Playhouse"
+            },
+            {
+              "start": "2026-10-07T21:15:00",
+              "venue": "The Park Theatre"
+            },
+            {
+              "start": "2026-10-10T18:00:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
           "fetch_failed": true
         },
         {
@@ -32259,22 +34161,41 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "screenings": [
+            {
+              "start": "2026-10-06T21:00:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "correction_swept": true
         },
         {
           "slug": "viff26-la-bola-negra",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-09T21:00:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         },
         {
           "slug": "viff26-wild-horse-nine",
           "date_range": null,
+          "screenings": [
+            {
+              "start": "2026-10-10T18:15:00",
+              "venue": "Vancouver Playhouse"
+            }
+          ],
           "fetch_failed": true
         }
       ],
       "description": "Representing the year\u2019s most acclaimed and accomplished cinema, our Special Presentations offer a dizzying array of experiences. Beyond Cristian Mungiu\u2019s riveting Palme D\u2019Or winner, this year\u2019s Cannes imports are highlighted by the precision of Pawe\u0142 Pawlikowski, the poetry of Ry\u00fbsuke Hamaguchi, and two stirring wartime romances. Lee Chang-Dong makes his long-awaited return with a characteristically complex investigation of Korean society, while Mike Leigh cements his legacy as one of the greatest humanist filmmakers with what is likely his swansong. Enthralling performances abound throughout the selection, highlighted by the incomparable Sandra H\u00fcller demonstrating her prowess with two stunning performances.",
       "meta_resolved": true,
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "showtimes_resolved": true
     },
     {
@@ -32436,66 +34357,180 @@
           "slug": "viff26-jaripeo",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-01T20:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-07T10:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-10T21:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-into-the-jaws-of-the-ogre",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-01T21:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-02T15:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-an-incomplete-calendar",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-03T18:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-04T12:15:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-last-movies",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-04T20:30:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-06T16:15:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-aanikoobijigan",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-07T18:30:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-09T16:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-crocodile",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-07T20:15:00",
+              "venue": "International Village 9"
+            },
+            {
+              "start": "2026-10-10T10:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-let-them-be-seen",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-08T19:15:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-09T11:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-daughters-of-the-forest",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-09T21:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-11T20:30:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-yo",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-09T21:15:00",
+              "venue": "Sfu Woodwards"
+            },
+            {
+              "start": "2026-10-10T11:00:00",
+              "venue": "International Village 10"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-afterlives",
           "date_range": null,
           "wayback_ts": "20260312192925",
+          "screenings": [
+            {
+              "start": "2026-10-10T18:15:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-11T16:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220910180025",
       "last_seen_wayback": "20260312192925",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Spectrum is the festival\u2019s most expansive space for boundary-breaking nonfiction \u2014 where form ruptures and futures flicker. These films rewire documentary grammar through mythic conjurings, archival remixes, and radical aesthetics.\n\nFrom media uprisings and protest movements to quiet reckonings with grief, memory, and belonging, this program spans the globe \u2014 from the Black diaspora in the Global North to intimate, place-rooted visions from Sri Lanka, Kenya, China, and South Korea. Together, these works speak in cinematic frequencies tuned to risk, reinvention, and revelation.",
       "meta_resolved": true,
       "hero_image": null,
@@ -34694,7 +36729,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -36464,7 +38499,7 @@
       ],
       "description": "The Vancouver Japanese Film Festival is a new initiative of the Japanese Canadian Cultural Centre\u2019s film program which includes the acclaimed Toronto Japanese Film Festival.\n\nEstablished 63 years ago by Japanese Canadians displaced from the West Coast, the Japanese Canadian Cultural Centre has served as a national organization promoting Japanese culture and Japanese Canadian heritage for all Canadians. Its motto, Friendship Through Culture , is reflected in all aspects of its work, including its film programming.\n\nThis Vancouver Japanese Film Festival builds on 15 years of curatorial excellence. Since its founding in 2012, the festival has become one of North America\u2019s most important platforms for Japanese cinema, presenting films recognized by Japanese audiences and critics, international film festival audiences, and the Japanese Academy. Its line-up spans historical jidaigeki and samurai films, contemporary dramas, comedies, action, literary adaptations, documentaries, children\u2019s films, art-house, and anime.",
       "meta_resolved": true,
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "showtimes_resolved": true
     },
     {
@@ -36792,54 +38827,142 @@
           "slug": "viff26-that-shadow-fading",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-02T20:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-03T11:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-hearing",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-03T20:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-04T15:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-lady",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-05T20:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-06T15:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-forest-high",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-06T21:00:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-07T10:45:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-lust",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-07T20:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-08T18:30:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-i-plant-my-hand-in-the-garden",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-08T20:45:00",
+              "venue": "The Cinematheque"
+            },
+            {
+              "start": "2026-10-09T16:00:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-hear-the-yellow",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-09T18:15:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-10T20:30:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-ana-en-passant",
           "date_range": null,
           "wayback_ts": "20260312195834",
+          "screenings": [
+            {
+              "start": "2026-10-10T18:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-11T15:30:00",
+              "venue": "The Cinematheque"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220913184538",
       "last_seen_wayback": "20260312195834",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Introducing a new wave of gifted storytellers to Canadian audiences, the films in this series reflect the well of ingenuity and cinematic prowess emerging from all corners of the world. Form, style and genre either blur, bend or extend in these works, weaving regional flourishes and breathing fresh air into familiar narratives. Or inventing entirely new ones. This is the place to surrender expectations and discover a hidden gem.\n\n\u2014 Sonja Baksa, Vanguard Curator",
       "meta_resolved": true,
       "hero_image": null,
@@ -37184,7 +39307,8 @@
               "start": "2022-10-04T21:00:00",
               "venue": "Centre for Performing Arts"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "boy-from-heaven",
@@ -38543,7 +40667,8 @@
               "start": "2022-10-03T20:45:00",
               "venue": "International Village 8"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "maigret",
@@ -38630,8 +40755,7 @@
               "start": "2022-10-02T16:00:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "modes-1",
@@ -39069,7 +41193,8 @@
           "runtime_resolved": true,
           "director": "Francesco Sossai",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "pacifiction",
@@ -39272,7 +41397,8 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "riceboy-sleeps",
@@ -39369,7 +41495,7 @@
           "year": 2022,
           "country": "Canada",
           "language": "In English, French, and Cree with English subtitles",
-          "wayback_ts": "20240222115242",
+          "wayback_ts": "20220907223809",
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -40052,8 +42178,7 @@
           "runtime_resolved": true,
           "director": "Benny Lau",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-whale",
@@ -41213,7 +43338,8 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -41281,8 +43407,7 @@
           "runtime_resolved": true,
           "director": "Joseph Amenta",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "soviet-bus-stops-viff-connect",
@@ -41714,66 +43839,176 @@
           "slug": "viff26-short-forum-1",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-02T20:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-03T10:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-2",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-03T15:15:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-04T10:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-3",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-03T20:15:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-04T15:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-4",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-04T21:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-05T13:00:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-5",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-05T21:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-06T13:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-6",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-06T20:45:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-07T12:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-7",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-07T20:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-08T13:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-8",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-08T21:30:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-09T15:45:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-9",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-09T21:30:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-10T13:30:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-10",
           "date_range": null,
           "wayback_ts": "20251012183750",
+          "screenings": [
+            {
+              "start": "2026-10-10T21:00:00",
+              "venue": "International Village 8"
+            },
+            {
+              "start": "2026-10-11T13:15:00",
+              "venue": "International Village 8"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         }
       ],
       "first_seen_wayback": "20220919220046",
       "last_seen_wayback": "20251012183750",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "Existence is exhausting; narrative is tired. Thankfully, the Short Forum is back par excellence, reaching new heights of hybridity, invention, and raw experience. As the Anthropocene rages on and technology continues to coil around us, humanity as a concept is thrown into question. Films that dare to reinterpret the past and envision a better future are foregrounded as we continually reflect on what stories need to be told, what lessons still need learning, and what actions must be taken.",
       "meta_resolved": true,
       "hero_image": null,
@@ -41872,7 +44107,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-deepa-mehta",
@@ -41892,7 +44128,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "I Am Sirat",
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "talks-building-closet-oppenheimer",
@@ -41931,8 +44168,7 @@
               "start": "2023-10-03T18:30:00",
               "venue": "The Rio Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "talks-creating-epic-sound-art",
@@ -41952,8 +44188,7 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film": "Blade Runner 2049",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "talks-welcome-to-barbie-land",
@@ -41978,24 +44213,52 @@
           "slug": "viff26-matthew-hannam-talk",
           "date_range": null,
           "wayback_ts": "20230930222331",
+          "screenings": [
+            {
+              "start": "2026-10-03T14:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-obsession-talk",
           "date_range": null,
           "wayback_ts": "20230930222331",
+          "screenings": [
+            {
+              "start": "2026-10-04T12:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-camp-miasma-talk",
           "date_range": null,
           "wayback_ts": "20230930222331",
+          "screenings": [
+            {
+              "start": "2026-10-05T18:30:00",
+              "venue": "Annex"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
           "slug": "viff26-mark-mothersbaugh-talk",
           "date_range": null,
           "wayback_ts": "20230930222331",
+          "screenings": [
+            {
+              "start": "2026-10-07T18:15:00",
+              "venue": "The Rio Theatre"
+            }
+          ],
+          "correction_swept": true,
           "fetch_failed": true
         },
         {
@@ -42028,7 +44291,7 @@
       ],
       "first_seen_wayback": "20220928083612",
       "last_seen_wayback": "20230930222331",
-      "last_seen_live": "20260922",
+      "last_seen_live": "20260923",
       "description": "From creators and showrunners to directors, writers, producers, and craftspeople, VIFF Talks draw from a finely curated group of key creatives. Whether they\u2019re responsible for critically acclaimed films or groundbreaking TV series, they provide a treasure trove of information and inspiration for fellow creators, filmmakers, industry professionals, and, of course, fans of their work.",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2023/01/DeborahScottVIFF2022.png?resize=960%2C600&gravity",
@@ -42403,7 +44666,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-hidden-tremors",
@@ -42790,7 +45054,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-walls-akinni-inuk",
@@ -43960,7 +46225,9 @@
               "venue": "International Village 10"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         }
       ],
       "hero_image": null,
