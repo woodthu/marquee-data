@@ -2314,9 +2314,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mash-potato-time-film-studies",
@@ -2873,7 +2871,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "trust",
@@ -3278,7 +3277,8 @@
           "poster": "https://images.viff.org/uploads/2026/05/MamboKings.jpg?resize=960%2C600&gravity",
           "synopsis": "Feel the heat! Tonight is a night to shake your booty in the best seats in town as we combine a live set of exhilarating Cuban music with a rediscovered 90s barnstormer of a movie starring Latin heartthrobs Armand Assante and Antonio Banderas alongside the likes of Tito Puente and Celia Cruz. The Julio Avila Cuban Band is a powerhouse ensemble bringing the infectious rhythms and rich traditions of Cuban music to the West Coast. Led by bassist, vocalist, and composer Julio Avila, the group combines musical excellence with deep cultural authenticity. Each member, most of whom hail from Cuba, contributes world-class talent on vocals, horns, percussion, and keys, creating a vibrant, rich sound. Together, they perform a dynamic mix of salsa, son, merengue, cumbia, and bachata, captivating audiences with irresistible energy and rhythm. Formed in Vancouver in 2015, the band quickly became a local favourite, celebrated for electrifying live performances and a strong commitment to preserving and sharing Cuban musical heritage. Whether performing at festivals, concerts, or community events, the Julio Avila Cuban Band delivers an unforgettable experience that gets people dancing and fills hearts with joy. This is Cuban music at its finest \u2013 alive, passionate, and deeply soulful. About the film: The Mambo Kings (Arne Glimcher, 1992, 104 min) Armand Assante and Antonio Banderas (in his American movie debut) play brothers, Cuban musicians exiled in the 1950s New York City, trying to get their lives back on track. Based on the Pulitzer prize winning novel, The Mambo Kings Play Songs of Love, by Oscar Hijuelos. Band Members Julio Avila \u2013 bass, vocals Ernesto Benitez \u2013 keyboards Hector Ramos \u2013 congas Julio Orlando Avila \u2013 saxophone, clarinet, flute Isidora Basanovic \u2013 vocals, minor percussion Hamilton Feraud \u2013 vocals, minor percussion Reinaldo Burgues \u2013 vocals, minor percussion",
           "runtime_min": 234,
-          "featured_film": "The Mambo Kings"
+          "featured_film": "The Mambo Kings",
+          "fetch_failed": true
         },
         {
           "slug": "the-silence-of-the-lambs",
@@ -3297,8 +3297,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "delicatessen",
@@ -4004,7 +4003,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "wayback_ts": "20260606134023",
+          "wayback_ts": "20260825220219",
           "correction_swept": true,
           "title": "Andrea Superstein Sings Burt Bacharach",
           "poster": "https://images.viff.org/uploads/2026/05/AustinPowers_Live.jpg?resize=960%2C600&gravity",
@@ -4691,8 +4690,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "being-john-malkovich",
@@ -4713,8 +4711,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "lessons-of-darkness",
@@ -4870,8 +4868,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "magnolia",
@@ -4944,7 +4941,8 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "the-wind-will-carry-us",
@@ -4964,9 +4962,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "fight-club",
@@ -5088,7 +5084,7 @@
             }
           ],
           "date_range": null,
-          "wayback_ts": "20260626230325",
+          "wayback_ts": "20260825220229",
           "correction_swept": true,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -5653,7 +5649,7 @@
       "date_range": null,
       "meta_resolved": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "backfill_walked": "20261002"
     },
     {
@@ -6607,7 +6603,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20261007"
+      "last_seen_live": "20261010"
     },
     {
       "slug": "asian-heritage-month",
@@ -6638,7 +6634,7 @@
           "date_range": "Oct 2 \u2013 12 2025",
           "title": "Raagaverse Plays Bollywood",
           "poster": "https://images.viff.org/uploads/2024/03/RaagaversePlaysBollywood.jpg?resize=960%2C600&gravity",
-          "wayback_ts": "20240515000533",
+          "wayback_ts": "20240502084821",
           "synopsis": "Get your tickets before April 26 at the early bird price of $25 (regular $30). Raagaverse is an exciting Indo-Jazz fusion project spearheaded by Shruti Ramani (voice) in a collaboration with the award-winning Jodi Proznick (bass), the supremely talented Noah Franche-Nolan (piano, Nord), and the fiery Nicholas Bracewell (drums). Raagaverse\u2019s music melds ancient and rich Hindustani melodies with dense and dynamic Jazz harmonies. For this special show, Raagaverse will be delving into the vibrant world of Bollywood, from Lata Mangeshkar classics to A.R. Rahman\u2019s magic. Shruti will share clips from the legendary Bollywood musicals which inspire her, counter-pointing them with the band\u2019s unique take on these songs, in Raagaverse\u2019s iconic jazz quartet sound. The show will also feature other extraordinary musical guests; Kiarah O\u2019Kane on backing vocals, Thad Bailey-Mai on Trumpet and Curtis Andrews on percussion alongside Raagaverse. Thanks to",
           "runtime_min": 90,
           "screenings_resolved": true,
@@ -8699,7 +8695,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "80s-fan-choice",
@@ -10129,7 +10127,7 @@
         {
           "slug": "bhm-shorts-program",
           "date_range": "Oct 2 \u2013 12 2025",
-          "wayback_ts": "20240205203817",
+          "wayback_ts": "20240208171150",
           "title": "Short Film Showcase",
           "poster": "https://images.viff.org/uploads/2024/01/BHMShorts_Collage.jpg?resize=960%2C600&gravity",
           "director": "Various",
@@ -10149,8 +10147,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "when-morning-comes",
@@ -11228,8 +11225,7 @@
               "start": "2026-04-12T13:30:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         }
       ],
       "backfill_walked": "20261002",
@@ -12239,8 +12235,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "film-studies-lighting",
@@ -12380,8 +12375,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-long-goodbye",
@@ -12846,7 +12840,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "boxcutter",
@@ -12991,7 +12987,7 @@
         {
           "slug": "viff24-ar-rahman",
           "date_range": null,
-          "wayback_ts": "20240926135739",
+          "wayback_ts": "20240828205440",
           "title": "Stories and Music from His Career",
           "poster": "https://images.viff.org/uploads/2024/08/Live_ARRahman_Promo-14.jpg?resize=960%2C600&gravity",
           "synopsis": "For one night only on October 5, two-time Oscar-winning composer and songwriter A.R. Rahman will join the Vancouver Symphony Orchestra and the Vancouver International Film Festival for An Evening with A.R. Rahman: Stories and Music from His Career. The international superstar will provide a keynote and performance with the VSO at the Orpheum, with music spanning his legendary career composing for some of Hollywood and Bollywood\u2019s biggest hits. This special concert presented by the VSO and VIFF is part of an exciting new collaboration between the two organizations that celebrates the connection between music and film. Reaching international acclaim in 2008 with his score for Slumdog Millionaire, A.R. Rahman\u2019s live performance will be a celebration of sound and emotion. His works are notable for their seamless cultural integration of Eastern classical music with electronic music sounds, world music genres, and traditional orchestral arrangements. A marquee event of VIFF and a highlight of the VSO season, An Evening with A.R. Rahman will share his life\u2019s journey with fans through a new and custom-made presentation that blends storytelling and song. The legendary artist will invite audiences behind the scenes of his greatest works, sharing insights into his process and stories from his remarkable career. He will also perform segments of his scores live with the VSO, with clips from the fan-favourite films projected on the Orpheum\u2019s big screen. Concert repertoire to be announced soon.",
@@ -16480,11 +16476,119 @@
           "wayback_ts": "20260824064458",
           "correction_swept": true,
           "fetch_failed": true
+        },
+        {
+          "slug": "naza",
+          "screenings": [
+            {
+              "start": "2026-10-12T16:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-12T20:20:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-13T19:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-14T15:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-14T17:20:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-14T19:10:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-15T14:20:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-15T16:15:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-15T18:10:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-15T20:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-19T16:10:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-20T20:00:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-22T16:45:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-22T18:40:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-22T20:30:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "wayback_ts": "20261008213907",
+          "fetch_failed": true
+        },
+        {
+          "slug": "once-upon-a-time-in-harlem",
+          "screenings": [
+            {
+              "start": "2026-10-23T13:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-23T20:40:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-24T13:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-24T20:45:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-25T12:10:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-26T14:00:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            },
+            {
+              "start": "2026-10-27T14:30:00",
+              "venue": "VIFF Centre - VIFF Cinema"
+            },
+            {
+              "start": "2026-10-30T17:10:00",
+              "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+            }
+          ],
+          "date_range": null,
+          "wayback_ts": "20260824064458",
+          "fetch_failed": true
         }
       ],
       "description": "Whether you missed a movie at VIFF, or want to give a title a second look, here\u2019s your chance. Catch these audience favourites as they return to the big screen.",
       "meta_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true,
@@ -17720,7 +17824,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20261007"
+      "last_seen_live": "20261010"
     },
     {
       "slug": "framework",
@@ -17803,7 +17907,7 @@
       ],
       "description": "In our first FRAMEWORK series, film scholar Michael van den Bos will illuminate aspects of one of the most illustrious 20th century filmmakers, Alfred Hitchcock , across four monochrome masterworks: The 39 Steps (1935), Shadow of a Doubt (1943), Strangers on a Train (1951), and The Wrong Man (1956). Each film represents a different phase in the career of the \u201cmaster of suspense\u201d.\n\nMichael van den Bos will introduce each film with a 25-minute talk to contextualize Hitchcock\u2019s technical prowess, artistic interests, and accomplishments. The screening will then be followed by a short talkback with Michael.\n\nAll films will have a repeat screening, without the talk.",
       "meta_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "showtimes_resolved": true
     },
     {
@@ -19948,8 +20052,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -22010,7 +22113,7 @@
         {
           "slug": "viff26-once-upon-a-time-in-harlem",
           "date_range": null,
-          "wayback_ts": "20260930190144",
+          "wayback_ts": "20260902215602",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
@@ -22034,7 +22137,7 @@
         {
           "slug": "viff26-whispers-in-may",
           "date_range": null,
-          "wayback_ts": "20260213185049",
+          "wayback_ts": "20260922125540",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
@@ -22054,7 +22157,7 @@
         {
           "slug": "viff26-a-distant-call",
           "date_range": null,
-          "wayback_ts": "20260213185049",
+          "wayback_ts": "20260929230844",
           "screenings": [
             {
               "start": "2026-10-02T13:15:00",
@@ -22069,13 +22172,12 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-heat",
           "date_range": null,
-          "wayback_ts": "20260213185049",
+          "wayback_ts": "20260927115930",
           "screenings": [
             {
               "start": "2026-10-02T15:30:00",
@@ -22090,9 +22192,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-birds-of-war",
@@ -22121,7 +22221,7 @@
         {
           "slug": "viff26-gabin",
           "date_range": null,
-          "wayback_ts": "20260213185049",
+          "wayback_ts": "20260929230844",
           "screenings": [
             {
               "start": "2026-10-03T11:45:00",
@@ -22133,13 +22233,15 @@
             }
           ],
           "correction_swept": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-concrete-land",
           "date_range": null,
-          "wayback_ts": "20260929230844",
+          "wayback_ts": "20260930190144",
           "screenings": [
             {
               "start": "2026-10-03T20:00:00",
@@ -22154,14 +22256,12 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-a-fire-there",
           "date_range": null,
-          "wayback_ts": "20260213185049",
+          "wayback_ts": "20260930190144",
           "screenings": [
             {
               "start": "2026-10-04T18:30:00",
@@ -22173,7 +22273,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-a-place-of-absence",
@@ -22210,8 +22313,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-who-moves-america",
@@ -22315,7 +22417,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-kikuyu-land",
@@ -22335,13 +22438,12 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220909223027",
       "last_seen_wayback": "20260710202911",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "hero_image": null,
       "description": "There\u2019s an art to communication, and documentaries help capture it. Insights gathers films that confront power, displacement, and environmental collapse through acts of witnessing, listening, and resistance.\n\nFrom Kenya to Iran, Turtle Island to Gaza, these stories examine Indigenous sovereignty, ecological crises, archival memory, and radical pedagogy. Whether rebuilding libraries, protecting land, or challenging state violence, these documentaries move with clarity and conviction. They don\u2019t just inform \u2014 they expose, ignite, and offer blueprints for survival and futures that are yet to be written.",
       "date_range": null,
@@ -23546,7 +23648,8 @@
             }
           ],
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         }
       ],
       "hero_image": null,
@@ -24372,7 +24475,7 @@
       "meta_resolved": true,
       "desc_rewalked": true,
       "showtimes_resolved": true,
-      "last_seen_live": "20261007"
+      "last_seen_live": "20261010"
     },
     {
       "slug": "lino-brocka",
@@ -25061,8 +25164,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -25097,8 +25199,7 @@
           ],
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-constellations",
@@ -25191,8 +25292,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-2022-geographies",
@@ -25375,8 +25475,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -25401,7 +25500,7 @@
           "title": "Opening Ceremony",
           "poster": "https://images.viff.org/uploads/2023/12/Opening-ceremony-Banner-1920-x-1080-1.jpg?resize=960%2C600&gravity",
           "synopsis": "The first 30 tickets sold receive a special MENA tote bag filled with gifts courtesy of our Sponsors! The MENA Film Festival Opening Ceremony is the celebrated kickoff of MENA 5! This much-sought afternoon begins with a reception in the VIFF Centre lobby accompanied by selected regional dishes, tea and schmoozing until we convene inside the Vancity Theatre for the Opening with an introduction from the MENA team; live music by local MENA/SWANA performers; honorary guest speakers; and capped off by the world premier of the 2023 MENA Canada Grant-winning film! Join us on Saturday, January beginning at 3:00 pm to celebrate the community we\u2019ve built together in the last 5 years. Screening: MENA Canada Grant winner HAIR! with introductory words by Writer-Director Sara Jade Alfaro-Dehghani and Producer Rebeca Ortiz. Partners",
-          "wayback_ts": "20240126230240",
+          "wayback_ts": "20250618015722",
           "runtime_min": 90,
           "screenings_resolved": true,
           "screenings": [
@@ -25503,7 +25602,8 @@
           "wayback_ts": "20240127023213",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mena-swana-panel",
@@ -25599,8 +25699,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-industry-rendezvous",
@@ -25619,8 +25718,7 @@
               "venue": "VIFF Centre - Studio Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "mena-the-burdened",
@@ -25658,8 +25756,7 @@
               "start": "2024-01-30T18:15:00",
               "venue": "VIFF Centre - Studio Theatre"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "mena-award-ceremony",
@@ -25679,8 +25776,7 @@
             }
           ],
           "featured_film": "Scarlet Pomegranate",
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -26256,7 +26352,7 @@
       ],
       "first_seen_wayback": "20220924173013",
       "last_seen_wayback": "20251111112540",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Celebrating 10 years of MODES, this is your invitation to once again submit to the artist. Exploring how far the form of cinema is capable of bending, this series foregrounds bold international and Canadian works of avant-garde film, video art, and screen experimentation. Expanding the frame on art, politics, perception, and human experience, this year MODES seeks to shift the colonial centrifuge, reckon with the accelerating pace of contemporary life, and illuminate our responsibility to one another, while making space for intuitive, embodied, esoteric, and often-unseen feminine knowledge.",
       "meta_resolved": true,
       "hero_image": null,
@@ -26880,7 +26976,7 @@
           "title": "The Flamenco Guitar of Yerai Cort\u00e9s",
           "poster": "https://images.viff.org/uploads/2025/11/FlamencoGuitarOfYeraiCortes.jpg?resize=960%2C600&gravity",
           "synopsis": "Winner of the Goya Award for Best Documentary, this is an exquisite and surprisingly intimate portrait of the brilliant young guitarist Yerai Cort\u00e9s, as presented by his fellow musician, Ant\u00f3n \u00c1lvarez (aka singer-songwriter C. Tangana). Cort\u00e9s is a phenomenal talent, but what \u00c1lvarez finds most interesting about him is his relationship with his estranged parents, who are interviewed separately and at some length about their marriage. This might seem gratuitous, but in fact the more we learn about them, the better we understand Cort\u00e9s\u2019s drive and artistry. In this, it doesn\u2019t feel like a typical music doc. It cuts deeper, and has interesting things to say about the gitano subculture (see also, Sleepless City). \u00c1lvarez shows his flair with several musical set pieces, which are both flamboyantly staged and integrated into the film\u2019s exploration of Cort\u00e9s\u2019s psyche. Before the film, this VIFF Live presentation will feature an hour long flamenco performance, Por Derecho (For the Right) by Flamenco Rosario, followed by a short intermission, and then the film screening. A night of passionate flamenco music, song, and dance \u2014 just as the audience can experience in Spain \u2014 where the artists bring out the raw power of flamenco through their own personal style.",
-          "wayback_ts": "20251213221433",
+          "wayback_ts": "20260117100525",
           "runtime_min": 95,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -27518,8 +27614,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-send-the-rain",
@@ -27536,7 +27634,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-pocket-mirror",
@@ -27553,7 +27654,18 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Pocket Mirror",
+          "poster": "https://images.viff.org/uploads/2026/08/PocketMirror.jpg?resize=960%2C600&gravity",
+          "synopsis": "World Premiere Maisie (Sofia Banzhaf) is feeling a little funny lately. A strange man might be stalking her at her retail job, her boyfriend Nima (Maziyar Khatam) is distant and dismissive, and her beloved cat Shimmer is acting suspiciously out of character. Lonely, isolated, and frustrated by the odd inconsistencies piling up around her, Maisie\u2019s closest confidant is an AI chatbot that suggests she seek professional help. Worried that Shimmer has been replaced by a replica, she begins to obsessively search for answers, but the more she tugs at the loose threads bothering her, the faster her life unravels. With a sharply sparse style and a knack for awkward tension, Adrian Murray (Retrograde) transmutes the uncanny sense of wandering a mall after-hours into the uneasy navigation of Maisie\u2019s own instincts and relationships as liminal spaces she can\u2019t make sense of. Blending wry, understated humour with underlying suspense, Pocket Mirror is a striking distillation of modern disaffection and alienation. Oct 2 & 5: Filmmaker Q&A",
+          "director": "Adrian Murray",
+          "year": 2025,
+          "runtime_min": 88,
+          "country": "Canada",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-seventeen",
@@ -27802,7 +27914,7 @@
       ],
       "first_seen_wayback": "20220907223051",
       "last_seen_wayback": "20260312191821",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Boasting seven world premieres along with the Vancouver bows for celebrated films that have already turned heads on the festival circuit, Northern Lights presents a collection of films that prove every bit as distinct as they are accomplished. Often deeply personal and uniformly singular in terms of their filmmaking approaches and sensibilities, these features prove both candid and captivating. Even when employing the tropes of the survival thriller or underdog sports movie, they subvert expectations and surprise at every turn.",
       "meta_resolved": true,
       "hero_image": null,
@@ -29511,7 +29623,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-flies",
@@ -29552,7 +29666,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-frank-louis",
@@ -29572,7 +29687,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-everytime",
@@ -29608,9 +29724,7 @@
               "venue": "Fifth Avenue Cinema 19 Only"
             }
           ],
-          "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "correction_swept": true
         },
         {
           "slug": "viff26-linka-linka",
@@ -29634,8 +29748,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-la-gradiva",
@@ -29671,7 +29784,8 @@
               "venue": "Vancouver Playhouse"
             }
           ],
-          "correction_swept": true
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-heysel-85",
@@ -29717,8 +29831,8 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true,
-          "fetch_failed_definitive": true
+          "fetch_attempts": 1,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-the-quiet-applause",
@@ -29767,7 +29881,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-where-the-river-begins",
@@ -29793,7 +29908,7 @@
         {
           "slug": "viff26-lali",
           "date_range": null,
-          "wayback_ts": "20260210122118",
+          "wayback_ts": "20260909024230",
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
@@ -29808,8 +29923,7 @@
               "venue": "Lindsay Family Stage At Granville Island"
             }
           ],
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "viff26-flesh-and-fuel",
@@ -29888,8 +30002,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-a-girl-unknown",
@@ -29917,8 +30030,7 @@
               "venue": "VIFF Centre - VIFF Cinema"
             }
           ],
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "viff26-nina-roza",
@@ -29942,7 +30054,8 @@
               "venue": "Alliance Francaise"
             }
           ],
-          "correction_swept": true
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-roid",
@@ -29979,7 +30092,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-nobodys-violence",
@@ -30041,7 +30155,8 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-sweet-milk-lake",
@@ -30099,7 +30214,7 @@
         {
           "slug": "viff26-afterpiece",
           "date_range": null,
-          "wayback_ts": "20260210122118",
+          "wayback_ts": "20261001202152",
           "screenings": [
             {
               "start": "2026-10-06T17:45:00",
@@ -30118,8 +30233,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-17",
@@ -30139,8 +30253,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-fireflies-in-the-dark",
@@ -30300,7 +30413,7 @@
       ],
       "first_seen_wayback": "20220908193017",
       "last_seen_wayback": "20260210122118",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "This year\u2019s Panorama selection is customarily sprawling, with dozens of countries represented. Particularly noteworthy is the inclusion of accomplished work from several Latin American nations, as well as a rare feature film produced in Iraq. A number of these titles have been submitted by their nation for Oscar consideration, with more certain to follow. In addition to platforming a wealth of East Asian talent, Panorama also introduces audiences to some vital voices causing a clamour in the independent American filmmaking scene.",
       "meta_resolved": true,
       "hero_image": null,
@@ -30638,7 +30751,7 @@
       ],
       "description": "On the third Sunday of each month, our Pantheon series spotlights the all-timers\u2026 Cinema that has withstood the test of time. The inspiration for this series is the poll compiled by Sight & Sound magazine every ten years since 1952, based on the top ten lists from thousands of film critics, academics and filmmakers across the world. The films in our series placed in the top 100 of that poll.\n\nEach film is presented with a 15-minute introduction by a film scholar, placing the film in its historical context and offering insights and observations for our audience to look out for.\n\nEach film gets a follow up repeat screening on Tuesday evening without the talk.\n\nIndividual Tickets $23",
       "meta_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -30960,7 +31073,8 @@
               "start": "2025-03-19T20:15:00",
               "venue": "VIFF Centre Atrium"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "monsters-inc",
@@ -31015,8 +31129,7 @@
               "start": "2025-03-23T14:00:00",
               "venue": "VIFF Centre - VIFF Cinema"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "the-incredibles",
@@ -31254,8 +31367,7 @@
           "runtime_resolved": true,
           "director": "Phil Grabsky",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-king-of-wuxia",
@@ -31282,8 +31394,7 @@
           "runtime_resolved": true,
           "director": "Lin Jing-jie",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "lay-down-your-heart",
@@ -31482,12 +31593,13 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-our-mr-matsura",
           "date_range": null,
-          "wayback_ts": "20251129163506",
+          "wayback_ts": "20260930205658",
           "screenings": [
             {
               "start": "2026-10-04T17:45:00",
@@ -31522,8 +31634,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-nous-orchestre-de-paris",
@@ -31543,8 +31654,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-james-mcneill-whistler",
@@ -31565,7 +31675,18 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "James McNeill Whistler",
+          "poster": "https://images.viff.org/uploads/2026/08/JamesMcNeillWhistler-1.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere One of the 19th century\u2019s greatest American artists, James McNeill Whistler was not only innovative in his painting but in his approach to life, which he fashioned as its own work of art. Tracing the steps of this trailblazing original \u2014 from shaking off his Puritan bourgeois upbringing in the Bohemian streets of Paris, to perfecting his modern realist stye in London \u2014 this documentary from Exhibition on Screen (Caravaggio) brings another marvelous Tate Britain blockbuster retrospective to life. Looking beyond his famous portraits and self-styled \u201cnocturnes,\u201d James McNeill Whistler dives into the true depths of the person behind the art. Using the acerbic wit of Whistler\u2019s own pronouncements and press releases to anchor the film, director David Bickerstaff balances the theatrical with expert analyses and critical commentary from curators and historians that showcase Whistler\u2019s astonishing style in a brand-new light. An immersive account of Tate Britain\u2019s exhibition, James McNeill Whistler is an opportunity to experience the sheer scale of this iconic artist\u2019s legacy. Oct 6, 7 & 9: Filmmaker Q&A",
+          "director": "David Bickerstaff",
+          "year": 2026,
+          "runtime_min": 90,
+          "country": "UK",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-rebecca-horn",
@@ -31582,7 +31703,18 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Rebecca Horn \u2013 the Secret Life of Things",
+          "poster": "https://images.viff.org/uploads/2026/08/RebeccaHorncRebeccaHorn.jpg?resize=960%2C600&gravity",
+          "synopsis": "International Premiere For influential German artist Rebecca Horn, art is anarchy and freedom. Her work spans decades and disciplines \u2014 from live performance to sculptures, poetry, and film \u2014 but is always recognizable by her unique, surreal vision. An upturned grand piano, suspended from the ceiling, briefly bursts with cacophonous life; a helix of metallic bed frames forms a twisted pillar to the sky; a mechanical peacock moves in uncanny patterns; bodies are cocooned in an uncanny apparatus arrayed with feathers and spider-like limbs. At times unsettling, erotic, and uncanny, Horn\u2019s art aims to escape the daily catatonia of the mind. In Rebecca Horn \u2013 The Secret Life of Things, director Claudia M\u00fcller recounts Horn\u2019s extraordinary biography, tracing her artistic evolution alongside her personal journey through life. An essential document of one of the 20th century\u2019s most influential artists, M\u00fcller\u2019s film celebrates the unsung legacy of a pioneering visionary.",
+          "director": "Claudia M\u00fcller",
+          "year": 2026,
+          "runtime_min": 90,
+          "country": "Germany",
+          "language": "In German with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-agridulce",
@@ -31653,7 +31785,7 @@
       ],
       "first_seen_wayback": "20220922004632",
       "last_seen_wayback": "20251129163506",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Portraits? VIFF 2026\u2019s feature docs on the arts. The precocious vivacity of a children\u2019s music school in the Dominican Republic. A delightful insider perspective on L\u2019Orchestre de Paris. From Farruquito: A Flamenco Dynasty and Fugs Film! to the revelatory James McNeill Whistler and Tilda Swinton\u2019s heartfelt appreciation of pop pioneer Patrick Wolf, sensational aesthetic discoveries await. One of Cascadia\u2019s greatest-ever photographers? Japanese-Okanogan Frank Matsura. Vitally important post-WW2 female artist you don\u2019t know? German Rebecca Horn? Latest global opera phenomenon? Samoan Pene Pati!",
       "meta_resolved": true,
       "hero_image": null,
@@ -32195,7 +32327,18 @@
           "date_range": null,
           "wayback_ts": "20220602202410",
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "The Fly",
+          "poster": "https://images.viff.org/uploads/2022/05/Fly.jpg?resize=150%2C150",
+          "synopsis": "\u201cWhat am I working on? I\u2019m working on something that will change the world and human life as we know it!\u201d announces Seth Brundle (Jeff Goldblum) in the opening lines of this 1986 remake of a not very good 1958 film. Sure, he wants to get science reporter Geena Davis in the sack, but he means it too. Not that David Cronenberg shows much interest in teleportation \u2013 Brundle\u2019s hokey (but spectacular!) invention. Nor does he hang his scientist for Frankensteinian hubris. Rather, this is a film about fusion. Fusion between man and insect, of course; but also the emotional and physical fusion that can occur between man and woman, liberating and painful as that may be. The playful, quirky chemistry established between Goldblum and Davis (they married soon after) ensures that this gothic horror is heartbreaking as well as stomach churning, though the special effects by Chris Walas remain staggering even today. It may not be the most respectable movie from the man most consider Canada\u2019s greatest filmmaker, but this is surely the most moving. Content consideration: Grisly special effects",
+          "director": "David Cronenberg",
+          "year": 1988,
+          "runtime_min": 96,
+          "country": "USA",
+          "language": "English",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "poltergeist",
@@ -32323,7 +32466,7 @@
       ],
       "description": "To celebrate Halloween, we invited our VIFF+ Premium members to nominate the scariest movies they have ever seen \u2014 and they\u2019re playing in the Lochmaddy Studio all this week.",
       "meta_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "showtimes_resolved": true
     },
     {
@@ -32865,7 +33008,7 @@
       ],
       "first_seen_wayback": "20230626015618",
       "last_seen_wayback": "20241003223342",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Relaxed Screenings are open to anyone who could benefit from a more casual, supportive and laid-back experience.\n\nThis includes parents with small children, people with sensory and/or processing disabilities, people who identify as Neurodivergent, people with disabilities, and more. Reduced sound levels and less patrons make this a good introductory experience for first-time cinemagoers.\n\nWe don\u2019t want the cost of tickets to hinder your ability to attend. Pay what you can, from $0 to $20. We look forward to welcoming you to the VIFF Centre.\n\nPresented by",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2024/10/Wallace-Gromit.jpg?resize=960%2C600&gravity",
@@ -33989,7 +34132,7 @@
         {
           "slug": "viff26-all-the-lovers-in-the-night",
           "date_range": null,
-          "wayback_ts": "20260210112133",
+          "wayback_ts": "20260924142557",
           "screenings": [
             {
               "start": "2026-10-01T17:30:00",
@@ -34016,8 +34159,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-clarissa",
@@ -34055,7 +34197,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-the-history-of-concrete",
@@ -34079,7 +34224,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-see-buildings-fall-lightning",
@@ -34120,7 +34266,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-story-documentary-film-2000s",
@@ -34137,7 +34284,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-the-diary-of-a-chambermaid",
@@ -34182,8 +34332,7 @@
               "venue": "Lindsay Family Stage At Granville Island"
             }
           ],
-          "correction_swept": true,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "viff26-story-documentary-film-2010s-2020s",
@@ -34270,7 +34419,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-ladies-gentlemen-brian-mulroney",
@@ -34321,7 +34472,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-man-motion-rick-hansen-story",
@@ -34382,7 +34536,8 @@
               "venue": "Sfu Woodwards"
             }
           ],
-          "correction_swept": true
+          "correction_swept": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-queen-at-sea",
@@ -34419,9 +34574,7 @@
               "venue": "Fifth Avenue Cinema 19 Only"
             }
           ],
-          "correction_swept": true,
-          "fetch_attempts": 1,
-          "fetch_failed": true
+          "correction_swept": true
         },
         {
           "slug": "viff26-dao",
@@ -34545,7 +34698,7 @@
       ],
       "first_seen_wayback": "20220909022431",
       "last_seen_wayback": "20260210112133",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Once again, Showcase serves as the platform for the Canadian premieres of major new works by leading filmmakers such as Hong Sangsoo, Clio Barnard, and Ali Asgari, as well as rising talents like Mads Mengel, Kelly O\u2019Sullivan and Alex Thompson. An element of adventurousness manifests in many forms, be it Ari and Chuko Esiri adapting Mrs. Dalloway in contemporary Nigeria, or Matthew Rankin reassembling tens of thousands of clips to retrace Brian Mulroney\u2019s rise to power. Particularly noteworthy is the strong presence of documentaries, including portraits of two iconic British Columbians and the notable premieres of two landmark nonfiction series.",
       "meta_resolved": true,
       "hero_image": null,
@@ -34614,7 +34767,11 @@
               "venue": "Vancouver Playhouse"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20261004020321",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-only-living-pickpocket-new-york",
@@ -34725,7 +34882,11 @@
               "venue": "Vancouver Playhouse"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20261004020321",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-fatherland",
@@ -34887,7 +35048,11 @@
               "venue": "Vancouver Playhouse"
             }
           ],
-          "fetch_failed": true
+          "wayback_ts": "20261004020321",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-look-back",
@@ -34984,11 +35149,22 @@
           "runtime_resolved": true,
           "director_resolved": true,
           "featured_film_resolved": true
+        },
+        {
+          "slug": "viff26-naza",
+          "screenings": [
+            {
+              "start": "2026-10-10T21:15:00",
+              "venue": "The Park Theatre"
+            }
+          ],
+          "date_range": null,
+          "fetch_failed": true
         }
       ],
       "description": "Representing the year\u2019s most acclaimed and accomplished cinema, our Special Presentations offer a dizzying array of experiences. Beyond Cristian Mungiu\u2019s riveting Palme D\u2019Or winner, this year\u2019s Cannes imports are highlighted by the precision of Pawe\u0142 Pawlikowski, the poetry of Ry\u00fbsuke Hamaguchi, and two stirring wartime romances. Lee Chang-Dong makes his long-awaited return with a characteristically complex investigation of Korean society, while Mike Leigh cements his legacy as one of the greatest humanist filmmakers with what is likely his swansong. Enthralling performances abound throughout the selection, highlighted by the incomparable Sandra H\u00fcller demonstrating her prowess with two stunning performances.",
       "meta_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "showtimes_resolved": true
     },
     {
@@ -35339,7 +35515,18 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Daughters of the Forest",
+          "poster": "https://images.viff.org/uploads/2026/08/DaughtersOfTheForest.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere In Daughters of the Forest, two Indigenous mycologists, Eliseete and Julieta, work to preserve generations of traditional knowledge about fungi and the forests that sustain them. In Mexico State\u2019s Lagunas de Zempoala National Park, Tlahuica Pjiekakjoo student Eliseete learns from her abuela and a circle of women who have long foraged for mushrooms. In Oaxaca\u2019s Central Valleys, Zapotec biologist Julieta considers furthering her studies to help safeguard her region\u2019s knowledge of flora, but doing so would distance her from her young son for two years. Around them, deforestation and illegal logging threaten both the forests and the knowledge they contain. Otilia Portillo\u2019s spellbinding and immersive sci-fi documentary takes an unexpected path into the entanglements between humans and mushrooms, the visible and invisible, and ancestral knowledge and modern science. Portillo gives fungi an otherworldly visual language, making their strange forms and hidden networks feel like portals into another world. Throughout, the film\u2019s sense of wonder remains grounded in the women\u2019s deep connection to the forest, where scientific research and ancestral knowledge coexist. Audience Award: Visions, SXSW 2026; Audience Award, CPH:DOX 2026 Oct 9 & 11: Filmmaker Q&A",
+          "director": "Otilia Portillo Padua",
+          "year": 2026,
+          "runtime_min": 95,
+          "country": "Mexico",
+          "language": "In Spanish, Zapotec, Tlahuica, and Mazatec with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-yo",
@@ -35378,7 +35565,7 @@
       ],
       "first_seen_wayback": "20220910180025",
       "last_seen_wayback": "20260312192925",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Spectrum is the festival\u2019s most expansive space for boundary-breaking nonfiction \u2014 where form ruptures and futures flicker. These films rewire documentary grammar through mythic conjurings, archival remixes, and radical aesthetics.\n\nFrom media uprisings and protest movements to quiet reckonings with grief, memory, and belonging, this program spans the globe \u2014 from the Black diaspora in the Global North to intimate, place-rooted visions from Sri Lanka, Kenya, China, and South Korea. Together, these works speak in cinematic frequencies tuned to risk, reinvention, and revelation.",
       "meta_resolved": true,
       "hero_image": null,
@@ -36308,7 +36495,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "mean-streets",
@@ -37206,7 +37394,7 @@
         {
           "slug": "summer-in-the-70s-epilogue-film",
           "date_range": null,
-          "wayback_ts": "20220831174608",
+          "wayback_ts": "20221201111736",
           "title": "Film #70 (Surprise Film)",
           "poster": "https://images.viff.org/uploads/2022/06/VIFFDefault.jpg?resize=150%2C150",
           "synopsis": "As our epic Ragged Glory: Summer in the 70s season comes to an end, we couldn\u2019t resist throwing our pass holders a parting gift and adding an epilogue, appropriately enough the 70th feature film in the series that began, back in mid-July, with the epochal rock concert film, Gimme Shelter. Just for fun, we are keeping the identity of the movie in question a closely guarded secret. But we will give you a few clues: It comes from the latter half of the 1970s. The director has featured previously in this season. And as far as star power goes, this one is hard to top. Thanks for your support for our series\u2026 See you next year for Summer in the 80s\u2026 ?",
@@ -37222,8 +37410,7 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         }
       ],
       "hero_image": null,
@@ -37592,7 +37779,7 @@
       ],
       "description": "Movie theatres usually discourage talking but our latest series is designed to encourage it \u2014 before and after (not during) the show. Created for cinema-loving Seniors, Talking Pictures offers audience-friendly festival films, refreshments, and an open invitation to chat about our shared experience of the movie.\n\nJoin us once a month at 11:00 am, at the most comfortable theatre in the city, the VIFF Centre.\n\nTickets are just $12. Bring a buddy and get two for $20!",
       "meta_resolved": true,
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "hero_image": null,
       "date_range": null,
       "showtimes_resolved": true
@@ -39337,7 +39524,19 @@
         {
           "slug": "blue-boy-trial",
           "date_range": null,
-          "fetch_failed": true
+          "wayback_ts": "20260930185613",
+          "title": "Blue Boy Trial",
+          "poster": "https://images.viff.org/uploads/2026/07/BlueBoyTrial.jpg?resize=960%2C600&gravity",
+          "synopsis": "Based on a true story, transgender filmmaker Iizuka\u2019s remarkable film is set in 1960s Japan, a time of Olympic pride and a crackdown on \u201cpublic morals.\u201d Anti-prostitution laws targeted women but a legal loophole exempts male sex workers, the so-called \u201cblue boys.\u201d When police arrest the doctor performing their sex reassignment surgeries, the sensational \u201cBlue Boy Trial\u201d begins. Three transgender women, all played by trans actors, take the stand, igniting a national debate on identity and happiness. The story combines a remarkable cast with production and costume designs to recreate the 60\u2019s-era Tokyo of smoky nightclubs and bustling back alleys as well as the intense courtroom atmosphere. Half a century later, this buried history still reverberates in the lives of sexual minorities. Deeply affecting and very relevant.",
+          "director": "Kasho Iuzuka",
+          "year": 2025,
+          "runtime_min": 106,
+          "country": "Japan",
+          "language": "In Japanese with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "aruku-i-walk",
@@ -39702,7 +39901,18 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "That Shadow Fading",
+          "poster": "https://images.viff.org/uploads/2026/08/ThatShadowFading.jpg?resize=960%2C600&gravity",
+          "synopsis": "North American Premiere Samuel Urbina\u2019s feature debut is a quiet, deeply affecting mother and son drama following Sol, a single mother whose son Junior is preparing to move to Lima upon graduating college. Working as a keyboard player in the small Peruvian town of Piura, Sol spends much of her time on the road between gigs, using the commute to process her feelings on becoming an empty nester. While Junior is eager to spread his wings and explore the world outside their remote desert town, he too is feeling separation anxiety as he faces the unknown. In That Shadow Fading, Urbina molds the language of minimalist cinema to his own regional dialect with great skill and precision. He is interested in observational, mundane moments where silences speak volumes, and his thoughtful mise-en-scene captures the subtle yet profound emotional shifts and moods, complemented by all-around arresting cinematography and impeccable sound design. Oct 2 & 3: Filmmaker Q&A",
+          "director": "Samuel Urbina",
+          "year": 2025,
+          "runtime_min": 76,
+          "country": "Peru",
+          "language": "In Spanish with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-hearing",
@@ -39775,7 +39985,18 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Forest High",
+          "poster": "https://images.viff.org/uploads/2026/08/ForestHighcThe-Blue-raincoat.jpg?resize=960%2C600&gravity",
+          "synopsis": "Canadian Premiere High in the northern Alps, three women take turns caring for a mountain lodge as hikers come and go. Divided into three sections, Forest High follows each caretaker as they settle in for their respective season, adopting the static, observational perspective of the place itself, and absorbing in the process the myriad of stories and emotional echoes as they\u2019re joined by the rotating casts of characters. Shot over four seasons at a real-life refuge, Manon Coubia demonstrates a masterful command of form and tone with this captivating feature debut, inspired by her own experiences as a warden. Expanding on her Locarno-winning short film The Fullness of Time, Forest High skillfully plays with classicist traditions while flirting with docufiction. The triptych structure naturally lends itself to a three-character study, with each segment tied together by a profound reflection on solitude and the timeless presence of mountains \u2014 a character in its own right. Special Mention: Perspectives, Berlinale 2026",
+          "director": "Manon Coubia",
+          "year": 2026,
+          "runtime_min": 106,
+          "country": "Belgium/France",
+          "language": "In French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-lust",
@@ -39876,12 +40097,23 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "title": "Ana, En Passant",
+          "poster": "https://images.viff.org/uploads/2026/08/AnaEnPassant.jpg?resize=960%2C600&gravity",
+          "synopsis": "International Premiere Fernanda Salgado makes her elegant feature debut with this lyrical animated drama about Ana, a young Black woman returning to her late grandmother\u2019s native town in Brazil. Trying to make sense of distant memories, family ties, and her own restless spirit, Ana encounters Alice, who now occupies her grandmother\u2019s apartment, and the two strike up a close friendship. As Ana and Alice grow closer, Ana discovers a version of herself longing to feel rooted. Salgado creates a dreamy world saturated with feminine essence and ancestral wisdom. As she explores the kinship between her characters, she considers the notion of different life paths and alternate realities, where past and present converge in a single quest for identity and belonging. Salgado masterfully blends 2D animation, rotoscoping, collage, and stop motion to craft a singular dramatic piece that reflects a seamless command of tone, technique, and layered storytelling. Playful, profound, and encased in visual softness, Ana, En Passant is a gentle ode to cultural yearning. Oct 10 & 11: Filmmaker Q&A",
+          "director": "Fernanda Salgado",
+          "year": 2026,
+          "runtime_min": 90,
+          "country": "Brazil/Portugal",
+          "language": "In Portuguese and French with English subtitles",
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         }
       ],
       "first_seen_wayback": "20220913184538",
       "last_seen_wayback": "20260312195834",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Introducing a new wave of gifted storytellers to Canadian audiences, the films in this series reflect the well of ingenuity and cinematic prowess emerging from all corners of the world. Form, style and genre either blur, bend or extend in these works, weaving regional flourishes and breathing fresh air into familiar narratives. Or inventing entirely new ones. This is the place to surrender expectations and discover a hidden gem.\n\n\u2014 Sonja Baksa, Vanguard Curator",
       "meta_resolved": true,
       "hero_image": null,
@@ -40060,8 +40292,7 @@
               "start": "2022-10-03T21:15:00",
               "venue": "The Cinematheque"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "back-home",
@@ -40227,8 +40458,7 @@
               "start": "2022-10-04T21:00:00",
               "venue": "Centre for Performing Arts"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "boy-from-heaven",
@@ -41094,8 +41324,7 @@
               "venue": "International Village 9"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "huesera",
@@ -41322,8 +41551,7 @@
               "venue": "The Cinematheque"
             }
           ],
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "the-klabona-keepers",
@@ -41589,8 +41817,7 @@
               "start": "2022-10-03T20:45:00",
               "venue": "International Village 8"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "maigret",
@@ -41677,8 +41904,7 @@
               "start": "2022-10-02T16:00:00",
               "venue": "International Village 9"
             }
-          ],
-          "fetch_failed": true
+          ]
         },
         {
           "slug": "modes-1",
@@ -43153,7 +43379,7 @@
           "country": "Canada",
           "language": "English",
           "synopsis": "Canadian Premiere Leaving home for university, Abbie (Willow Shields) thrives as she experiences independence and self-actualization. However, she\u2019s tormented by the knowledge that her brother Kayden (Jonathan Simao), who has autism and is non-verbal, is reeling in her absence and pushing her parents (Lochlyn Munro and Elizabeth Mitchell) to their limits. While home for the holidays, Abbie faces the impossible decision between returning to Karly (Ava Capri), the woman she\u2019s fallen for, or providing Kayden the support he seemingly desperately needs. Drawing from her own experiences growing up with a sibling with ASD, Connie Cocchia creates a clear-eyed depiction of autism\u2019s impacts on an individual and their family. Rather than crafting a scrappy underdog story about an overachieving member of the autism community with savant qualities, When Time Got Louder offers a deeply moving story about good people simply trying to do their best\u2014and just how hard that can be. Q&A Oct 8 & Oct 9 Presented by Media Partner",
-          "wayback_ts": "20220928202513",
+          "wayback_ts": "20230818201744",
           "screenings": [
             {
               "start": "2022-10-08T14:30:00",
@@ -43256,7 +43482,8 @@
           "runtime_resolved": true,
           "director": "Sarah Watts, Mark Slutsky",
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "zatopek",
@@ -43300,7 +43527,8 @@
               "start": "2022-10-09T21:30:00",
               "venue": "The Rio Theatre"
             }
-          ]
+          ],
+          "fetch_failed": true
         },
         {
           "slug": "viff22-aftersun",
@@ -44066,7 +44294,7 @@
           "country": "Canada",
           "language": "In English and Arabic with English subtitles",
           "synopsis": "Among the massive concrete block towers of Toronto\u2019s Thorncliffe Park neighborhood, a Syrian doctor struggles to hold on to his cultural identity as his family begins to grow roots in their new community. Working as an unlicensed physician for his neighbors in an attempt to cling to his old identity, tensions rise and begin to threaten his fragile marriage. Understated cinematography and a patient camera disguise the fraught drama at the heart of Antoine Bourges\u2019 (Fail to Appear) sophomore feature. Bressonian in its approach, employing minimalism, non-professional actors, and a deceptively simple plot, the film blends fact and fiction into a quietly gripping drama with an unshakeable sense of realism. Anchored by the lead performances and a pair of unforgettable scenes in an English as a Second Language class, Bourges crafts a tender portrait that asks if adjusting to a new culture always costs one a piece of their identity. This film is also available in-cinema Presented by Media Partner",
-          "wayback_ts": "20220928084648",
+          "wayback_ts": "20220929023128",
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -44259,8 +44487,7 @@
           "runtime_resolved": true,
           "director": "Judd Tully, Harold Crooks",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "moja-vesna-viff-connect",
@@ -44791,8 +45018,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-short-forum-3",
@@ -44812,8 +45038,7 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-short-forum-4",
@@ -44878,7 +45103,8 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff26-short-forum-7",
@@ -44898,7 +45124,9 @@
           "screenings_resolved": true,
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         },
         {
           "slug": "viff26-short-forum-8",
@@ -44969,7 +45197,7 @@
       ],
       "first_seen_wayback": "20220919220046",
       "last_seen_wayback": "20251012183750",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "Existence is exhausting; narrative is tired. Thankfully, the Short Forum is back par excellence, reaching new heights of hybridity, invention, and raw experience. As the Anthropocene rages on and technology continues to coil around us, humanity as a concept is thrown into question. Films that dare to reinterpret the past and envision a better future are foregrounded as we continually reflect on what stories need to be told, what lessons still need learning, and what actions must be taken.",
       "meta_resolved": true,
       "hero_image": null,
@@ -45192,7 +45420,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-camp-miasma-talk",
@@ -45205,7 +45436,10 @@
             }
           ],
           "correction_swept": true,
-          "fetch_failed": true
+          "screenings_resolved": true,
+          "runtime_resolved": true,
+          "director_resolved": true,
+          "featured_film_resolved": true
         },
         {
           "slug": "viff26-mark-mothersbaugh-talk",
@@ -45259,12 +45493,13 @@
           "date_range": null,
           "wayback_ts": "20230930222331",
           "correction_swept": true,
-          "fetch_failed": true
+          "fetch_failed": true,
+          "fetch_failed_definitive": true
         }
       ],
       "first_seen_wayback": "20220928083612",
       "last_seen_wayback": "20230930222331",
-      "last_seen_live": "20261007",
+      "last_seen_live": "20261010",
       "description": "From creators and showrunners to directors, writers, producers, and craftspeople, VIFF Talks draw from a finely curated group of key creatives. Whether they\u2019re responsible for critically acclaimed films or groundbreaking TV series, they provide a treasure trove of information and inspiration for fellow creators, filmmakers, industry professionals, and, of course, fans of their work.",
       "meta_resolved": true,
       "hero_image": "https://images.viff.org/uploads/2023/01/DeborahScottVIFF2022.png?resize=960%2C600&gravity",
@@ -45612,8 +45847,7 @@
           "runtime_resolved": true,
           "director": "Varsha Bharath",
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "viff25-cyclemahesh",
@@ -45663,7 +45897,7 @@
           ],
           "runtime_min": 81,
           "screenings_resolved": true,
-          "wayback_ts": "20251002012257",
+          "wayback_ts": "20250901204627",
           "runtime_resolved": true,
           "director": "Sreekanth Pangapattu",
           "director_resolved": true,
@@ -45694,7 +45928,8 @@
               "venue": "International Village 8"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "viff25-secrets-mountain-serpent",
@@ -46961,7 +47196,7 @@
           "country": "UK",
           "language": "English",
           "synopsis": "Canadian Premiere Known for their innovative use of light and shadow while imbuing psychological realism into classical scenes of intense religious and violent drama, Caravaggio\u2019s paintings still feel as fresh and vivid today as they did four hundred years ago. In the latest from Exhibition on Screen (Van Gogh: Poets & Lovers), co-directors David Bickerstaff and Phil Grabsky shed light not only on Caravaggio\u2019s paintings, but his life, often kept half-hidden in the same chiaroscuro tones he shaded his masterpieces with. An immersive biography chronologically following Caravaggio\u2019s volatile life, Caravaggio seeks to understand the depth of the artist\u2019s work by intertwining his artistic and personal development. We\u2019re guided not only by art historians, critics, and curators, but by a delightfully dramatized Caravaggio who narrates the film. This blend of thoughtful analysis with realized version of the famously violent and mercurial artist provides an imaginary window into his inner world, emphasizing the sheer power of his life and art through the ages. Oct 3 & 4: Q&A Missed it at VIFF? Catch it at the VIFF Centre after the festival. Presented by Media Partner",
-          "wayback_ts": "20260210125653",
+          "wayback_ts": "20250917172628",
           "runtime_min": 100,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -47073,7 +47308,7 @@
           "country": "USA",
           "language": "English",
           "synopsis": "A Canadian icon who defined a generation of comedy, John Candy\u2019s presence still looms large in the hearts of fans decades after his tragically early death. Following in his footsteps, director Colin Hanks balances laughs with genuine emotional depth and warmth while revisiting Candy\u2019s life and career. Letting Candy\u2019s star presence speak for itself, this documentary highlights his roles on SCTV and in movies like Uncle Buck and Planes, Trains, and Automobiles, with clips awash in nostalgia and brimming with comedic genius. But even as the world fell in love with John Candy, he struggled to accept himself, suffering from debilitating anxiety attacks and insecurities. Alongside intimate recollections and reflections from his friends and family, an endless roster of actors and comedians share their stories about Candy, from Bill Murray to Catherine O\u2019Hara to Macaulay Culkin, shaping a portrait of the actor as not only a family man, but a man who treated the world like his family. A hilarious, heartwarming celebration of Candy\u2019s generous spirit and singular talent. Presented by Media Partner Community Partner",
-          "wayback_ts": "20250908181703",
+          "wayback_ts": "20250902190237",
           "screenings": [
             {
               "start": "2025-10-04T12:00:00",
@@ -47944,7 +48179,7 @@
           "synopsis": "North American Premiere Following his internationally acclaimed This Is Not a Burial, It\u2019s a Resurrection (2019), filmmaker and visual artist Lemohang Jeremiah Mosese returns with Ancestral Visions of the Future \u2014 a deeply personal cinematic essay that weaves myth, memory, and autobiography into a poetic meditation on loss and longing. Fragmented and dreamlike, the film introduces two mythical figures: the Puppeteer, who cultivates herbs to extend life; and the Market Seller, a mother who preserves the language of dreams in a city that has forgotten how to speak it. Alongside these poetic threads, Mosese retraces his own path from his childhood in Lesotho to the isolating streets of Berlin, with his mother\u2019s presence anchoring the film as both guardian and witness. Ancestral Visions of the Future resists linear storytelling in favour of sensory intuition, ancestral echoes, and emotional excavation. What emerges is less of a narrative than a reckoning \u2014 an offering of remembrance, resistance, and cinematic defiance. Presented by Community Partner",
           "year": 2025,
           "language": "English",
-          "wayback_ts": "20250910020315",
+          "wayback_ts": "20250829121604",
           "runtime_min": 90,
           "screenings_resolved": true,
           "runtime_resolved": true,
@@ -48028,7 +48263,7 @@
           "language": "In Croatian and Italian with English subtitles",
           "runtime_min": 112,
           "screenings_resolved": true,
-          "wayback_ts": "20251003093405",
+          "wayback_ts": "20250831230543",
           "runtime_resolved": true,
           "director": "Igor Bezinovi\u0107",
           "director_resolved": true,
@@ -48769,7 +49004,8 @@
               "venue": "VIFF Centre - Vancity Theatre"
             }
           ],
-          "featured_film_resolved": true
+          "featured_film_resolved": true,
+          "fetch_failed": true
         },
         {
           "slug": "xinema-program-7",
@@ -48799,8 +49035,7 @@
           "wayback_ts": "20240624022710",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-9-phosphenia",
@@ -48815,8 +49050,7 @@
           "wayback_ts": "20240308132941",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-program-10-domestic-cinema",
@@ -48861,8 +49095,7 @@
           "wayback_ts": "20240610004607",
           "runtime_resolved": true,
           "director_resolved": true,
-          "featured_film_resolved": true,
-          "fetch_failed": true
+          "featured_film_resolved": true
         },
         {
           "slug": "xinema-farther-eye-see",
