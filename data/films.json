@@ -18514,7 +18514,8 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-meet-me-in-st-louis",
@@ -18540,7 +18541,8 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-mandibles",
@@ -27104,7 +27106,8 @@
         }
       ],
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-a-woman-under-the-influence",
@@ -28886,7 +28889,8 @@
         }
       ],
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-talented-mr-ripley",
@@ -79378,7 +79382,8 @@
         }
       ],
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-anora",
@@ -84846,7 +84851,8 @@
         }
       ],
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-i-like-movies",
@@ -100730,7 +100736,8 @@
         }
       ],
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-dawn-of-impressionism",
@@ -101862,10 +101869,23 @@
         {
           "start": "2026-09-27T12:30:00",
           "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-11-01T11:45:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-11-02T13:45:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-11-02T16:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         }
       ],
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-09-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-election",
@@ -103798,7 +103818,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-harakiri",
@@ -103862,7 +103882,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-chime",
@@ -103888,7 +103908,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-past-future-continuous",
@@ -103948,7 +103968,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-sfmf-series-1",
@@ -104070,7 +104090,7 @@
         }
       ],
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-morgan-fisher",
@@ -104116,7 +104136,7 @@
         }
       ],
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-color-correction",
@@ -104140,7 +104160,7 @@
         }
       ],
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-begotten",
@@ -104168,7 +104188,7 @@
         }
       ],
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "viff-memory-of-princess-mumbi",
@@ -104486,7 +104506,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-rylan-friday",
@@ -104510,7 +104530,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-matinee",
@@ -104534,7 +104554,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-vampyr",
@@ -104558,7 +104578,7 @@
         }
       ],
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "viff-pulp-what-do-you-do-for-an-encore",
@@ -110728,7 +110748,8 @@
         }
       ],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-sandbox",
@@ -110876,7 +110897,8 @@
         }
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-39-steps",
@@ -110902,7 +110924,8 @@
         }
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-shadow-of-a-doubt",
@@ -110928,7 +110951,8 @@
         }
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-wrong-man",
@@ -110954,7 +110978,8 @@
         }
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-viff26-the-liberation",
@@ -111028,7 +111053,8 @@
         }
       ],
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-thing",
@@ -111050,7 +111076,8 @@
         }
       ],
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-viff26-everybody-digs-bill-evans",
@@ -111146,7 +111173,8 @@
         }
       ],
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-la-bola-negra",
@@ -111160,7 +111188,7 @@
       "posterURL": null,
       "detailURL": "https://viff.org/whats-on/la-bola-negra/",
       "callouts": [],
-      "format": null,
+      "format": "35mm",
       "screenings": [
         {
           "start": "2026-10-30T14:30:00",
@@ -111288,7 +111316,8 @@
         }
       ],
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-history-of-concrete",
@@ -111349,6 +111378,10 @@
           "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         },
         {
+          "start": "2026-11-08T11:20:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
           "start": "2026-11-09T14:30:00",
           "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         },
@@ -111358,6 +111391,10 @@
         },
         {
           "start": "2026-11-09T19:15:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-11-10T16:00:00",
           "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         },
         {
@@ -111378,7 +111415,8 @@
         }
       ],
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-ken-russells-the-devils",
@@ -111400,7 +111438,8 @@
         }
       ],
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-blue-road",
@@ -111823,10 +111862,23 @@
         {
           "start": "2026-10-24T12:30:00",
           "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-11-08T11:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-11-10T15:50:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-11-11T14:15:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         }
       ],
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-once-upon-a-time-in-harlem",
@@ -111876,7 +111928,8 @@
         }
       ],
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "cinematheque-2026-centre-stage",
@@ -111912,7 +111965,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-royal-space-force-wings-honneamise",
@@ -111940,7 +111993,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-tokyo-melody-ryuichi-sakamoto",
@@ -111972,7 +112025,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-when-i-walk",
@@ -111996,7 +112049,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-music-video-owen-ellis-yep",
@@ -112020,7 +112073,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-macunaima",
@@ -112044,7 +112097,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-forgotten-warriors-cree-code-talker",
@@ -112068,7 +112121,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-blue-road-edna-obrien",
@@ -112092,7 +112145,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-julie-keeps-quiet",
@@ -112116,7 +112169,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-our-girls",
@@ -112140,7 +112193,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-dance-club",
@@ -112164,7 +112217,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-receptions",
@@ -112188,7 +112241,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-popeye-meets-sindbad-fleischer",
@@ -112210,7 +112263,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-spiked",
@@ -112234,7 +112287,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-chopin-sonata-paris",
@@ -112258,7 +112311,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-family-other-clowns",
@@ -112282,7 +112335,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-sleeping-with-a-tiger",
@@ -112306,7 +112359,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-borderline",
@@ -112330,7 +112383,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-romzsa-todor",
@@ -112354,7 +112407,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-castillo",
@@ -112378,7 +112431,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-green-light",
@@ -112402,7 +112455,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-still-afloat",
@@ -112426,7 +112479,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-life-is-life",
@@ -112450,7 +112503,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-stereo-girls",
@@ -112474,7 +112527,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-rose",
@@ -112498,7 +112551,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-hold-onto-me",
@@ -112522,7 +112575,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-family-time",
@@ -112546,7 +112599,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-kilograms-happiness",
@@ -112570,7 +112623,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-escape-net",
@@ -112594,7 +112647,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-secret-pin-up-island",
@@ -112618,7 +112671,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-portuguese",
@@ -112642,7 +112695,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-drazen",
@@ -112666,7 +112719,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "viff-the-great-mcginty",
@@ -112688,7 +112741,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-to-be-or-not-to-be",
@@ -112714,7 +112768,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-mad-dog-of-europe",
@@ -112744,7 +112799,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-mortal-storm",
@@ -112770,7 +112826,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-three-comrades",
@@ -112792,7 +112849,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-best-years-of-our-lives",
@@ -112805,7 +112863,9 @@
       "synopsis": "Eighty years ago, Allied troops were coming home after the long, bloody but decisive war against fascism. Moved by an article in  Time  magazine about the difficulties they faced in readjusting to civilian life, producer Sam Goldwyn commissioned a screenplay from playwright Sherwood Anderson. \n Directed by William Wyler, the most acclaimed director of the day (he had experienced combat himself making propaganda films during the war),  The Best Years of Our Lives  is remarkable for its candor and sensitivity around issues like PTSD, disabilities, isolationism, and the nuclear age. The film went on to win seven Academy Awards, including Best Picture, Director, Actor (Frederic March), and Supporting Actor (Harold Russell)… In fact, it also won an 8th statuette, because Russell, who lost his hands in the war, was presented with a special award “for bringing hope and courage to his fellow veterans.” The cinematography, by Gregg Toland ( Citizen Kane ) should also have been recognized. It remains one of the crowning achievements of the golden age of the studio era. \n  Surprisingly modern… lean, direct, honest about issues that Hollywood then studiously avoided […] As long as we have wars and returning veterans, some of them wounded,  The Best Years of Our Lives  will not be dated. \n  Roger Ebert   \n  William Wyler’s intimate epic, from 1946 profoundly and sensitively balances the private demons of scarred veterans and the press of public policies that leave their mark on daily life. Wyler, working with a script by Robert E. Sherwood, captures the sense of history being written on the fly, of momentous shifts in mind-sets and expectations. In the movie’s nearly three-hour span, the chrysalis of an old world seems to crack open and a fragile new one begins to emerge; a deep and tender romanticism arises from the exposed vulnerabilities. \n  Richard Brody,  New Yorker    \n  The best American movie about returning soldiers I’ve ever seen—the most moving and the most deeply felt. It bears witness to its times and contemporaries like few other Hollywood features, and Gregg Toland’s deep-focus cinematography is one of the best things he ever did. \n  Jonathan Rosenbaum,  Chicago Reader",
       "posterURL": null,
       "detailURL": "https://viff.org/whats-on/the-best-years-of-our-lives/",
-      "callouts": [],
+      "callouts": [
+        "New 4K Restoration"
+      ],
       "format": null,
       "screenings": [
         {
@@ -112814,7 +112874,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-the-bloodettes",
@@ -112840,7 +112901,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "viff-xale",
@@ -112862,7 +112924,8 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27",
+      "formatChecked": true
     },
     {
       "id": "cinematheque-2026-invincibles",
@@ -112886,7 +112949,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-impatience-heart",
@@ -112910,7 +112973,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-dormant-account",
@@ -112934,7 +112997,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-hidden-people",
@@ -112958,7 +113021,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-traces",
@@ -112982,7 +113045,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-cairo-station",
@@ -113010,7 +113073,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-moving-histories-davra",
@@ -113034,7 +113097,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-host",
@@ -113066,7 +113129,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
     },
     {
       "id": "cinematheque-2026-dawn-new-day",
@@ -113092,8 +113155,119 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": "cinematheque-2026-gunvor-nelson-program-one",
+      "cinemaId": "cinematheque",
+      "title": "Program One: Figure and Ground",
+      "director": "Gunvor Nelson",
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 60,
+      "synopsis": "Four of Gunvor Nelson’s greatest works screen in this program, including My Name Is Oona, Take Off, Moons Pool, and Light Years Expanding.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/MyNameIsOona-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/gunvor-nelson-program-one",
+      "callouts": [
+        "16mm Prints"
+      ],
+      "format": null,
+      "screenings": [
+        {
+          "start": "2026-11-30T18:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": "cinematheque-2026-land",
+      "cinemaId": "cinematheque",
+      "title": "The Land",
+      "director": "Youssef Chahine",
+      "year": 1969,
+      "country": "Egypt",
+      "runtimeMinutes": 135,
+      "synopsis": "The Land, considered one of the greatest Egyptian films of all time, directly engages with the formal strategies of Soviet cinema.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/Land-2.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/land",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-02T19:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-06T20:10:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": "cinematheque-2026-double-life-veronique",
+      "cinemaId": "cinematheque",
+      "title": "The Double Life of Véronique",
+      "director": "Krzysztof Kieślowski",
+      "year": 1991,
+      "country": "Poland",
+      "runtimeMinutes": 97,
+      "synopsis": "Irène Jacob won Best Actress honours at Cannes for her dual role in The Double Life of Véronique, the haunting, seductive, metaphysical fable that was Polish master Krzysztof Kieślowski’s feature follow-up to Dekalog.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/DoubleLifeOfVeronique-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/double-life-veronique",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-03T19:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-18T18:30:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-30T20:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": "viff-akashi",
+      "cinemaId": "viff",
+      "title": "Akashi",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 115,
+      "synopsis": "Ten years after moving to Vancouver, struggling visual artist Kana Yamamoto (Mayumi Yoshida) returns to Tokyo to attend the funeral of her beloved grandmother. Arriving in Japan, she rekindles a tentative flame with her bashful ex-boyfriend, Hiro (Ryo Tajima), an aspiring thespian who vanished from her life a decade prior. As Kana digs deeper into her grandmother’s past, she uncovers a family secret that prompts her to reconsider everything she thought she knew about love, duty, and belonging. \n A feature adaptation of writer/director/actor Mayumi Yoshida’s autofictional short film of the same name,  Akashi ’s largely black-and-white cinematography evokes the solemnity of Kana’s grief, with select scenes brought to life in vivid colour. Themes of identity, class struggle, and artistic aspiration coalesce as the film shifts between the past and present to explore contrasting tales of star-crossed romance. Awash in synth soundscapes and driven by emotionally resonant performances, this tender drama asserts love’s ability to bridge any and all distances. \n  Captivating… a deeply layered, honest, and complex film that traverses the past and present with remarkable dexterity. \n  Charlie Smith,  Pancouver",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/akashi/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-11-13T13:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-11-17T20:10:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-11-19T17:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
     }
   ],
-  "updatedAt": "2026-10-25T22:19:06+00:00"
+  "updatedAt": "2026-10-28T04:07:21+00:00"
 }
