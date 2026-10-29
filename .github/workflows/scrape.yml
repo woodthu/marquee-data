@@ -46,6 +46,15 @@ jobs:
           # URLs (e.g. /viff-series.json, /programme-guides.json), so
           # the flattening matters.
           cp data/*.json _site/
+          # Mirrored programme-guide PDFs. Copied as a DIRECTORY, preserving
+          # `guides/<cinema>/<file>.pdf`, because the manifest's `mirrorPath`
+          # is relative to the Pages root. Without this the PDFs sat in the
+          # repo (raw.githubusercontent served them fine) but 404'd on Pages,
+          # since only `*.json` was ever staged.
+          if [ -d data/guides ]; then
+            cp -R data/guides _site/guides
+            echo "staged $(find _site/guides -name '*.pdf' | wc -l) mirrored PDFs"
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:
