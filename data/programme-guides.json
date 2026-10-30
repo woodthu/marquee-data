@@ -1,6 +1,15 @@
 {
   "viff": [
     {
+      "id": "viff-VIFFCentre_Oct30-Nov17_dl.pdf",
+      "cinemaId": "viff",
+      "title": "Oct 30–Nov 17, 2026",
+      "pdfURL": "https://images.viff.org/uploads/2026/10/VIFFCentre_Oct30-Nov17_dl.pdf",
+      "coverURL": null,
+      "period": "2026-10-30",
+      "mirrorPath": "guides/viff/VIFFCentre_Oct30-Nov17_dl.pdf"
+    },
+    {
       "id": "viff-VIFFCentre_Oct12-29_dl.pdf",
       "cinemaId": "viff",
       "title": "Oct 12–29, 2026",
@@ -1425,5 +1434,5 @@
       "mirrorPath": "guides/cinematheque/Jan-Feb_forWeb.pdf"
     }
   ],
-  "updatedAt": "2026-10-29T23:24:47+00:00"
+  "updatedAt": "2026-10-30T23:03:24+00:00"
 }
