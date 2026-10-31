@@ -948,6 +948,15 @@
   ],
   "cinematheque": [
     {
+      "id": "cinematheque-ProgGuideInt_2026-NovDec_forWeb.pdf",
+      "cinemaId": "cinematheque",
+      "title": "Nov/Dec 2026",
+      "pdfURL": "https://thecinematheque.ca/assets/files/guides/ProgGuideInt_2026-NovDec_forWeb.pdf",
+      "coverURL": "https://thecinematheque.ca/assets/images/guides/_small/Cover_2026-NovDec.png",
+      "period": "2026-11-01",
+      "mirrorPath": "guides/cinematheque/ProgGuideInt_2026-NovDec_forWeb.pdf"
+    },
+    {
       "id": "cinematheque-ProgGuideInt_2026-SeptOct_forWeb.pdf",
       "cinemaId": "cinematheque",
       "title": "Sept/Oct 2026",
@@ -1434,5 +1443,5 @@
       "mirrorPath": "guides/cinematheque/Jan-Feb_forWeb.pdf"
     }
   ],
-  "updatedAt": "2026-10-30T23:03:24+00:00"
+  "updatedAt": "2026-10-31T22:37:14+00:00"
 }
