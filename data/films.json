@@ -79378,7 +79378,8 @@
         },
         {
           "start": "2026-10-30T19:20:00",
-          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre",
+          "missingSince": "2026-10-30T19:16:26"
         },
         {
           "start": "2026-10-31T15:30:00",
@@ -111208,13 +111209,11 @@
       "screenings": [
         {
           "start": "2026-10-30T14:30:00",
-          "venue": "VIFF Centre - VIFF Cinema",
-          "missingSince": "2026-10-30"
+          "venue": "VIFF Centre - VIFF Cinema"
         },
         {
           "start": "2026-10-30T17:50:00",
-          "venue": "VIFF Centre - VIFF Cinema",
-          "missingSince": "2026-10-30"
+          "venue": "VIFF Centre - VIFF Cinema"
         },
         {
           "start": "2026-10-30T20:50:00",
@@ -111354,8 +111353,7 @@
       "screenings": [
         {
           "start": "2026-10-30T15:00:00",
-          "venue": "VIFF Centre - Lochmaddy Studio Theatre",
-          "missingSince": "2026-10-30"
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         },
         {
           "start": "2026-11-01T12:00:00",
@@ -111947,8 +111945,7 @@
         },
         {
           "start": "2026-10-30T17:10:00",
-          "venue": "VIFF Centre - Lochmaddy Studio Theatre",
-          "missingSince": "2026-10-30"
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         }
       ],
       "firstSeen": "2026-10-10",
@@ -112925,7 +112922,7 @@
         {
           "start": "2026-11-11T18:20:00",
           "venue": "VIFF Centre - Lochmaddy Studio Theatre",
-          "missingSince": "2026-10-30"
+          "missingSince": "2026-10-30T19:16:26"
         },
         {
           "start": "2026-11-11T18:40:00",
@@ -114112,7 +114109,31 @@
       ],
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30"
+    },
+    {
+      "id": "viff-kubo-and-the-two-strings",
+      "cinemaId": "viff",
+      "title": "Kubo and the Two Strings",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 162,
+      "runtimeFromPage": true,
+      "synopsis": "Join us for VIFF Kids Club — our monthly family matinee series with film-inspired crafts and special concession snacks before the show! Doors open at 11:00 am for activities, with the film screening at 12:00 pm. \n  This Month’s Film:  \nFrom acclaimed LAIKA Studios comes the Oscar-nominated adventure  Kubo and the Two Strings,  a breathtaking stop-motion tale set in a magical, mythic Japan. Young Kubo brings origami figures to life with the music of his magical shamisen, but when a vengeful spirit from the past returns, he must embark on an extraordinary quest with a fierce monkey (Charlize Theron) and a lovable beetle (Matthew McConaughey), battling monsters and wielding a magical sword along the way. Funny, thrilling and visually dazzling,  Kubo and the Two Strings  is a beautifully crafted story about family, courage, memory and the power of storytelling. \n Before the film, kids and adults can have fun making their own origami friends! A special themed snack pack including themed candy, small popcorn and small drink, will be available to purchase. \n   Content considerations: This film deals with loss of loved ones, and features several daring sword fights with a skeleton monster, vengeful spirits, and a serpent creature, which may be scary for very young viewers. Recommended for ages 7+.   \n   \n \n  Please note: VIFF Kids Club is designed for families to attend together. Adults can only attend if they’re bringing a child, and children can only attend if accompanied by an adult.  \n Does your family have a film idea for Kids Club? Let our staff know after the movie, or  submit your idea online !",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/kubo-and-the-two-strings/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-11-21T11:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
     }
   ],
-  "updatedAt": "2026-10-31T02:12:09+00:00"
+  "updatedAt": "2026-10-31T03:16:26+00:00"
 }
