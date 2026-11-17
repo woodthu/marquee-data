@@ -18514,7 +18514,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -18542,7 +18542,7 @@
         }
       ],
       "firstSeen": "2026-06-12",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -28892,7 +28892,7 @@
         }
       ],
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -84848,7 +84848,7 @@
         }
       ],
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -104657,7 +104657,7 @@
         }
       ],
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-julio-avila-cuban-band-mambo-kings-live",
@@ -110990,7 +110990,7 @@
         }
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -111433,10 +111433,14 @@
         {
           "start": "2026-11-30T18:45:00",
           "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-06T21:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
         }
       ],
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -111912,7 +111916,7 @@
         }
       ],
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -112110,7 +112114,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-macunaima",
@@ -112134,7 +112138,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-forgotten-warriors-cree-code-talker",
@@ -112158,7 +112162,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-blue-road-edna-obrien",
@@ -112182,7 +112186,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-julie-keeps-quiet",
@@ -112206,7 +112210,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-our-girls",
@@ -112230,7 +112234,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-dance-club",
@@ -112254,7 +112258,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-receptions",
@@ -112278,7 +112282,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-popeye-meets-sindbad-fleischer",
@@ -112300,7 +112304,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-spiked",
@@ -112324,7 +112328,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-chopin-sonata-paris",
@@ -112348,7 +112352,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-family-other-clowns",
@@ -112372,7 +112376,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-sleeping-with-a-tiger",
@@ -112396,7 +112400,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-borderline",
@@ -112420,7 +112424,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-romzsa-todor",
@@ -112444,7 +112448,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-castillo",
@@ -112468,7 +112472,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-green-light",
@@ -112492,7 +112496,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-still-afloat",
@@ -112516,7 +112520,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-life-is-life",
@@ -112540,7 +112544,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-stereo-girls",
@@ -112564,7 +112568,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-rose",
@@ -112588,7 +112592,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-hold-onto-me",
@@ -112612,7 +112616,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-family-time",
@@ -112636,7 +112640,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-kilograms-happiness",
@@ -112660,7 +112664,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-escape-net",
@@ -112684,7 +112688,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-secret-pin-up-island",
@@ -112708,7 +112712,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-portuguese",
@@ -112732,7 +112736,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-drazen",
@@ -112756,7 +112760,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-the-great-mcginty",
@@ -112944,7 +112948,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -112968,7 +112972,7 @@
         }
       ],
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "formatChecked": true,
       "runtimeFromPage": true
     },
@@ -112994,7 +112998,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-impatience-heart",
@@ -113018,7 +113022,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-dormant-account",
@@ -113042,7 +113046,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-hidden-people",
@@ -113066,7 +113070,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-traces",
@@ -113090,7 +113094,7 @@
         }
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-cairo-station",
@@ -113118,7 +113122,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-moving-histories-davra",
@@ -113142,7 +113146,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-host",
@@ -113174,7 +113178,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-dawn-new-day",
@@ -113200,7 +113204,7 @@
         }
       ],
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-gunvor-nelson-program-one",
@@ -113224,7 +113228,7 @@
         }
       ],
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-land",
@@ -113250,7 +113254,7 @@
         }
       ],
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-double-life-veronique",
@@ -113280,7 +113284,7 @@
         }
       ],
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-akashi",
@@ -113312,10 +113316,26 @@
         {
           "start": "2026-11-24T13:45:00",
           "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-10T17:45:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-13T20:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-14T16:30:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-17T17:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
         }
       ],
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113338,7 +113358,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-ashes-and-diamonds",
@@ -113371,7 +113391,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113399,7 +113419,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113427,7 +113447,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113455,7 +113475,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113483,7 +113503,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113511,13 +113531,13 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
       "id": "viff-landscape-after-the-battle",
       "cinemaId": "viff",
-      "title": "Landscape After The Battle",
+      "title": "Landscape After the Battle",
       "director": null,
       "year": null,
       "country": null,
@@ -113539,7 +113559,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113567,7 +113587,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113595,7 +113615,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113623,7 +113643,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113651,7 +113671,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113679,7 +113699,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113707,7 +113727,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113731,7 +113751,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113759,7 +113779,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113787,7 +113807,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113811,7 +113831,7 @@
         }
       ],
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "runtimeFromPage": true
     },
     {
@@ -113900,7 +113920,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-yellow-letters",
@@ -113940,7 +113960,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-raise-the-red-lantern",
@@ -113995,10 +114015,18 @@
         {
           "start": "2026-11-30T15:45:00",
           "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-06T20:15:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-08T14:45:00",
+          "venue": "VIFF Centre - VIFF Cinema"
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-the-musical",
@@ -114009,7 +114037,7 @@
       "country": null,
       "runtimeMinutes": 87,
       "runtimeFromPage": true,
-      "synopsis": "Doug (Will Breen) wants to write plays. Instead he teaches drama at middle school. Doug also wants to get back with the art teacher, Abbie (Gillian Jacobs). Instead she’s taken up with the unctuous and ambitious principal (Rob Lowe). Seething, Doug decides to avenge himself on the world the only way he can. Under the guise of putting on  West Side Story , he enlists his cast in a brand new musical he will write and direct, an all-out assault on the white bread values the principle holds dear… \n Be warned: despite having more than its share of adorable and talented kids,  The Musical  is in very questionable taste and genuinely shocking. For those who appreciate black comedy, you will be in your element here. \n  Preceded by the short film: How Brief (15 min)  \n  At times, genius and at others, just cringey,  The Musical  the mean-spirited movie of the year. \n  Kristy Strouse,  Film Inquiry    \n   The Musical  is a laugh riot and an absolute winner. \n  Abe Friedtanzer,  Awards Watch    \n  This short, nasty film finds much of its sharpest humor in good old-fashioned misanthropy… an acquired bad taste, but riotously funny at its most daring. \n  Guy Lodge,  Variety",
+      "synopsis": "Doug (Will Breen) wants to write plays. Instead he teaches drama at middle school. Doug also wants to get back with the art teacher, Abbie (Gillian Jacobs). Instead she’s taken up with the unctuous and ambitious principal (Rob Lowe). Seething, Doug decides to avenge himself on the world the only way he can. Under the guise of putting on  West Side Story , he enlists his cast in a brand new musical he will write and direct, an all-out assault on the white bread values the principal holds dear… \n Be warned: despite having more than its share of adorable and talented kids,  The Musical  is in very questionable taste and genuinely shocking. For those who appreciate black comedy, you will be in your element here. \n  Preceded by the short film:  How Brief  (15 min)  \n  At times, genius and at others, just cringey,  The Musical  the mean-spirited movie of the year. \n  Kristy Strouse,  Film Inquiry    \n   The Musical  is a laugh riot and an absolute winner. \n  Abe Friedtanzer,  Awards Watch    \n  This short, nasty film finds much of its sharpest humor in good old-fashioned misanthropy… an acquired bad taste, but riotously funny at its most daring. \n  Guy Lodge,  Variety",
       "posterURL": null,
       "detailURL": "https://viff.org/whats-on/the-musical/",
       "callouts": [],
@@ -114022,7 +114050,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-loving-vincent",
@@ -114046,7 +114074,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-minotaur",
@@ -114118,7 +114146,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-together",
@@ -114142,7 +114170,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-kubo-and-the-two-strings",
@@ -114166,7 +114194,7 @@
         }
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-scar",
@@ -114188,7 +114216,7 @@
         }
       ],
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-gangsterism",
@@ -114212,7 +114240,7 @@
         }
       ],
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-another-round",
@@ -114236,7 +114264,7 @@
         }
       ],
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-christmas-moose-factory-remaining-native",
@@ -114258,7 +114286,7 @@
         }
       ],
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-hen",
@@ -114314,7 +114342,7 @@
         }
       ],
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-put-your-soul-hand-walk",
@@ -114336,7 +114364,7 @@
         }
       ],
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-orfeo",
@@ -114372,7 +114400,7 @@
         }
       ],
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "viff-the-theft",
@@ -114404,7 +114432,7 @@
         }
       ],
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-adieu-bonaparte",
@@ -114430,7 +114458,7 @@
         }
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-kieslowski-documentaries",
@@ -114452,7 +114480,7 @@
         }
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-camera-buff",
@@ -114478,7 +114506,7 @@
         }
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "cinematheque-2026-gunvor-nelson-program-two",
@@ -114502,8 +114530,752 @@
         }
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-i-swear",
+      "cinemaId": "cinematheque",
+      "title": "I Swear",
+      "director": "Kirk Jones",
+      "year": 2025,
+      "country": "United Kingdom",
+      "runtimeMinutes": 120,
+      "synopsis": "Set in mid-’80s Scotland, I Swear dramatizes the real-life adolescence and early adulthood of Tourette’s Syndrome advocate John Davidson.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/ISwear-7.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/i-swear",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-16T19:00:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-day-beach",
+      "cinemaId": "cinematheque",
+      "title": "That Day, on the Beach",
+      "director": "Edward Yang",
+      "year": 1983,
+      "country": "Taiwan",
+      "runtimeMinutes": 166,
+      "synopsis": "Edward Yang’s auspicious first theatrical feature announced the arrival of an exceptional new talent and stands as a milestone in Taiwanese cinema.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/ThatDayOnTheBeach-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/day-beach",
+      "callouts": [
+        "New Restoration"
+      ],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-17T19:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-20T13:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2027-01-02T14:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-misfits",
+      "cinemaId": "cinematheque",
+      "title": "The Misfits",
+      "director": "John Huston",
+      "year": 1961,
+      "country": "USA",
+      "runtimeMinutes": 125,
+      "synopsis": "Reno, Nevada, is a destination divorce town in The Misfits, a film that doubles as an act of prophecy, as it marked the end of multiple iconic acting careers and an era of filmmaking in Hollywood.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/Misfits-2.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/misfits",
+      "callouts": [
+        "New Restoration"
+      ],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-18T20:40:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2027-01-02T18:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2027-01-04T20:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-blind-chance",
+      "cinemaId": "cinematheque",
+      "title": "Blind Chance",
+      "director": "Krzysztof Kieślowski",
+      "year": 1987,
+      "country": "Poland",
+      "runtimeMinutes": 123,
+      "synopsis": "Chance and fate loom large in Krzysztof Kieślowski’s metaphysical cinema. In Blind Chance, a young medical student named Witek (Boguslaw Linda) rushes to catch a train and faces three possible destinies.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/BlindChance-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/blind-chance",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-19T16:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-28T20:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-three-colours-blue",
+      "cinemaId": "cinematheque",
+      "title": "Three Colours: Blue",
+      "director": "Krzysztof Kieślowski",
+      "year": 1993,
+      "country": "Poland",
+      "runtimeMinutes": 98,
+      "synopsis": "Blue is the first film in Krzysztof Kieślowski’s beloved trilogy based on the French tricolour flag, and on the French Revolution’s three tenets of “liberté, egalité et fraternité.”",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/Blue-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/three-colours-blue",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-19T18:30:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-27T20:40:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-tales-hoffmann",
+      "cinemaId": "cinematheque",
+      "title": "The Tales of Hoffmann",
+      "director": "Michael Powell, Emeric Pressburger",
+      "year": 1951,
+      "country": "United Kingdom",
+      "runtimeMinutes": 133,
+      "synopsis": "Powell and Pressburger’s impossibly sumptuous Tales of Hoffmann is based on the Jacques Offenbach opéra fantastique, and has been cited by Martin Scorsese as a major influence on both New York, New York and Raging Bull.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/TalesOfHoffmann-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/tales-hoffmann",
+      "callouts": [
+        "New Restoration"
+      ],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-19T20:40:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-28T15:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2027-01-03T18:15:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-rex-dinosaurs-story",
+      "cinemaId": "cinematheque",
+      "title": "Rex: A Dinosaur’s Story",
+      "director": "Kadokawa Haruki",
+      "year": 1993,
+      "country": "Japan",
+      "runtimeMinutes": 106,
+      "synopsis": "A blockbuster upon its initial release, today Rex: A Dinosaur’s Story is perhaps even an overlooked film that’s charming (and occasionally jaw-dropping) enough to count as a holiday classic.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/Rex-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/rex-dinosaurs-story",
+      "callouts": [
+        "New Restoration"
+      ],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-20T10:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-no-end",
+      "cinemaId": "cinematheque",
+      "title": "No End",
+      "director": "Krzysztof Kieślowski",
+      "year": 1985,
+      "country": "Poland",
+      "runtimeMinutes": 108,
+      "synopsis": "Krzysztof Kieślowski’s poignant political ghost story No End is something of a precursor to Three Colours: Blue, and marks the auspicious first pairing of the director with screenwriting partner Krzysztof Piesiewicz.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/NoEnd-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/no-end",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-20T20:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-three-colours-white",
+      "cinemaId": "cinematheque",
+      "title": "Three Colours: White",
+      "director": "Krzysztof Kieślowski",
+      "year": 1993,
+      "country": "Poland",
+      "runtimeMinutes": 91,
+      "synopsis": "The second film in Krzysztof Kieślowski’s “Three Colours Trilogy,” White is a black comedy based on the tricolour tenet of egalité.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/White-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/three-colours-white",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-21T18:30:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-29T18:30:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-piano",
+      "cinemaId": "cinematheque",
+      "title": "The Piano",
+      "director": "Jane Campion",
+      "year": 1993,
+      "country": "Taiwan",
+      "runtimeMinutes": 121,
+      "synopsis": "Jane Campion parlayed a Palme d’Or win into improbable mainstream success with The Piano, her masterful third feature and still most recognizable work.",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/Piano-2.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/piano",
+      "callouts": [
+        "New Restoration"
+      ],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-21T20:30:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-26T18:00:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2027-01-03T20:50:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "cinematheque-2026-short-film-about-love",
+      "cinemaId": "cinematheque",
+      "title": "A Short Film About Love",
+      "director": "Krzysztof Kieślowski",
+      "year": 1988,
+      "country": "Poland",
+      "runtimeMinutes": 87,
+      "synopsis": "Krzysztof Kieślowski’s splendid A Short Film About Love, “with or without its Biblical point of reference, is a taut, sombre little masterpiece” (Jonathan Keates, Sight and Sound).",
+      "posterURL": "https://thecinematheque.ca/assets/images/films/_small169/ShortFilmAboutLove-1.jpg",
+      "detailURL": "https://thecinematheque.ca/films/2026/short-film-about-love",
+      "callouts": [],
+      "format": "DCP",
+      "screenings": [
+        {
+          "start": "2026-12-22T18:30:00",
+          "venue": "The Cinematheque"
+        },
+        {
+          "start": "2026-12-30T16:00:00",
+          "venue": "The Cinematheque"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-the-yellow-tie",
+      "cinemaId": "viff",
+      "title": "The Yellow Tie",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 145,
+      "runtimeFromPage": true,
+      "synopsis": "Romanian conductor and composer Sergiu Celibidache was installed as principal conductor at the de-Nazified Berlin Philharmonic in 1945. But this virtuoso musician bewildered his sponsors by his singular insistence (derived from his Zen Buddhist studies) — that music should never be recorded. It was a stand which would have profound consequences on his career, but he stuck to it regardless. Written and directed by his son, Serge Ioan Celebidachi, this biopic is a labour of love, with John Malkovich playing the conductor in old age, and Ben Schnetzer in his prime. \n  All screenings in the Romanian Film Festival are Free. Reservations are recommended to confirm your seat.  \n  A strong, unassuming picture. \n  Peter Bradshaw,  The Guardian",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/the-yellow-tie/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-01T18:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-the-law-school-gang",
+      "cinemaId": "viff",
+      "title": "The Law School Gang",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 74,
+      "runtimeFromPage": true,
+      "synopsis": "Seven law students, bound by a strong friendship, face life-changing challenges as they unite to help a colleague’s sick daughter, discovering sacrifice, loyalty, and the true meaning of solidarity. \n  All screenings in the Romanian Film Festival are Free. Reservations are recommended to confirm your seat.",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/the-law-school-gang/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-01T20:45:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-the-world-is-my-arena",
+      "cinemaId": "viff",
+      "title": "The World is My Arena",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 87,
+      "runtimeFromPage": true,
+      "synopsis": "This is the true story of George Balta, a rugby player paralyzed in an accident, who reinvents himself as a wheelchair marathoner and motivational speaker, and who plays himself in the film. \n  All screenings in the Romanian Film Festival are Free. Reservations are recommended to confirm your seat.",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/the-world-is-my-arena/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-02T18:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-mihnea",
+      "cinemaId": "viff",
+      "title": "Mihnea",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 73,
+      "runtimeFromPage": true,
+      "synopsis": "A coming-of-age story about the only son of a tight-knit Romanian-Canadian family struggling with his mental health and the expectations of his authoritarian father in his final year of University. \n Mike Doagă wrote, directed and edited the film, and also plays the central character, Mike (or Mihnea, as he was christened). Mike is studying neuroscience while driving a party bus for his overbearing dad’s business. Not ideal. He gets sympathy from his mom (Sabina Doaga-Diaconescu) but even so his panic attacks get worse as he struggles to balance expectations from all sides. \n  All screenings in the Romanian Film Festival are Free. Reservations are recommended to confirm your seat.  \n   Mihnea  leaves a lasting impression. Doaga’s script nails the rhythms of real conversation: people cutting each other off, trailing into half-thoughts, never presenting themselves in the polished sentences most films rely on. Combined with the documentary-style camerawork and a score that knows when to pull back and when to press in, the result is a film that feels startlingly real. As a triple-threat debut, it is a remarkably assured piece of work; a thoughtful, textured portrait of immigrant family dynamics and the quiet crisis of early adulthood that gets under the skin and stays there. \n  Lyle Kruger,  That Shelf",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/mihnea/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-02T20:45:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-horia",
+      "cinemaId": "viff",
+      "title": "Horia",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 109,
+      "runtimeFromPage": true,
+      "synopsis": "Ana Maria Comănescu’s feature debut is a road movie and a coming of film. Almost 18, Horia (Vladimir Teca), is an idealistic village boy whose beloved, unfortunately, lives across the country in northern Romania. After a fight with his father, Horia jumps on his father’s old Mobra moped and sets off to be reunited with his lover (without permission, of course). Unforeseen difficulties and entanglements soon ensue — not least an encounter with a sassy 13-year-old pickpocket. \n  All screenings in the Romanian Film Festival are Free. Reservations are recommended to confirm your seat.",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/horia/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-03T18:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-virgins-by-choice",
+      "cinemaId": "viff",
+      "title": "Virgins by Choice",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 115,
+      "runtimeFromPage": true,
+      "synopsis": "In a desperate act to heal their broken hearts, two girlfriends vow to give up sex for a year only to discover that true love has no timeline. \n After her divorce, Luna’s life is unraveling as she struggles to overcome the narcissistic abuse that haunts her mind. With her newly discovered bisexuality, she’s looking for “love” in all the wrong places. Meanwhile, 40-year-old Lily finds herself single again after a broken engagement. She’s ready to forsake her faith, finding love and her virginity. These two best friends embark on a journey to heal : Lily devotes herself to overcoming religious shame while Luna joins a therapy group to battle the ghosts of her past. But when their perfect matches show up, their commitment to stay abstinent is put to the test, along with their friendship. \n  All screenings in the Romanian Film Festival are Free. Reservations are recommended to confirm your seat.",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/virgins-by-choice/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-03T20:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-in-waves",
+      "cinemaId": "viff",
+      "title": "In Waves",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 91,
+      "runtimeFromPage": true,
+      "synopsis": "Based on AJ Dungo’s autobio-graphic novel,  In Waves  sits alongside  Tangles  as a reminder that animated films can handle grown up subject matter with sensitivity and creativity. Growing up in California, teenager AJ is your typical skater kid, but he has zero interest in riding the waves. That is, until he falls in love with Kristen, who likes nothing better, and teaches him everything he needs to know about surfing. But their romance is clouded by a cancer diagnosis which will cost Kristen her leg… \n First time director Phoung Mai Nguyen employs different 2 and 3D animated techniques to switch adeptly between jumbled timelines charting different stages of Kristen’s illness, with surfing and the ocean symbolic of euphoria, love and life. Black and white sequences relate the Hawaiin mythology of surfing in vivid pen and ink sketches. \n  A sobering, life-affirming gem and an ode to the fears we overcome in the name of love. \n  Zachary Lee,  rogerebert.com    \n  An understated marvel. This is a movie that effortlessly marries primal poetry to the quotidian. Its aching heart understands that a full moon of brilliant perfection can illuminate one of the most painful moments of your life. \n  Sherri Linden,  Hollywood Reporter    \n  Tender and affecting… It’s a film about death and the grief that comes ’in waves’, but it’s also a picture which is infused with Kristen’s infectious zest for life. \n  Wendy Ide,  Screen International",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/in-waves/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-04T14:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-04T18:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-05T17:15:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-05T19:30:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-06T15:10:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-07T20:30:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-08T19:50:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-09T17:45:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-09T20:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-10T19:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-nuisance-bear",
+      "cinemaId": "viff",
+      "title": "Nuisance Bear",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 90,
+      "runtimeFromPage": true,
+      "synopsis": "Churchill, Manitoba sells itself as the “Polar Bear Capital of the World,” but what happens when the mascot becomes a problem? In their debut feature, Canadian filmmakers Gabriela Osio Vanden and Jack Weisman track a polar bear through encounters with tourists, trucks, sirens, traps, wildlife officers, hunters, and relocation. The town profits from ursine spectacle, but Vanden and Weisman portray bears as neither scenery nor symbol. Instead, the bear becomes our protagonist, trapped in a system built to watch, sell, manage, and remove it. \n  Nuisance Bear  overturns the nature documentary from the inside. Every chase, stare, and shutter click asks who is really intruding on whom. Moving between Churchill and the Inuit community of Arviat — with guidance and narration from late Inuit elder Mike Tunalaaq Gibbons — the film touches on issues of climate crisis, conservation, tourism, colonial settlement, and coexistence. Winner of the highly coveted Sundance Grand Jury Prize for Documentary, this is a formally daring work about spectacle, survival, and the violence hidden inside the word “nuisance”.",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/nuisance-bear/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-04T16:20:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-05T18:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-08T15:15:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-08T17:40:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-10T17:20:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-the-cycle-of-love",
+      "cinemaId": "viff",
+      "title": "The Cycle of Love",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 98,
+      "runtimeFromPage": true,
+      "synopsis": "In what has been a remarkable year for documentary filmmaking, you won’t find a more romantic and uplifting example of the form than  The Cycle of Love , the story of an Indian street artist who followed the love of his life from Delhi to Sweden, via bicycle. \n PK — born into the “untouchable” class — was inspired by a prophecy from his infancy, when a fortune teller claimed that “You will marry a girl who is not from the village, not even from this country; she will be musical, own a jungle and be born under the sign of the ox.” Sketching Swedish tourist Lotta in 1975, he felt an instant connection. And as it turned out, she matched the prophecy (sort of). Emboldened, he asked her out and indeed, they fell in love. But she had to return to her country, and assumed that would be the end of it. But for PK, their destiny was never in doubt… \n  Everything about this film is beautiful… It’s one of the best movies I’ve seen this year, fiction or nonfiction. \n  Christopher Campbell,  NonFics    \n  Delicate and heartwarming, Orlando von Einsiedel’s stirring documentary  The Cycle of Love  is the kind of film whose sweet subject transcends time and borders. \n  Robert Daniels,  rogerebert.com    \n   The Cycle of Love  stands as one of the most romantic documentaries in years, an inspiring true story of resilience, destiny, and the extraordinary lengths one man went to for the love of his life. \n  Daniel Howat,  Next Best Picture",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/the-cycle-of-love/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-05T20:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-06T13:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-07T18:20:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-08T17:20:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-09T17:20:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-10T20:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        },
+        {
+          "start": "2026-12-13T13:00:00",
+          "venue": "VIFF Centre - Lochmaddy Studio Theatre"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-racetime",
+      "cinemaId": "viff",
+      "title": "Racetime",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 150,
+      "runtimeFromPage": true,
+      "synopsis": "Join us for VIFF Kids Club — our family matinee series with film-inspired crafts and special concession snacks before the show! Doors open at 11:00 am for activities, with the film screening at 12:00 pm. \n  This Month’s Film \n Last winter,  Snowtime!  was a Kids Club hit, and this year the fun continues with its Canadian-made sequel,  Racetime ! Join Frankie, Sophie and their friends for a high-speed sled race against new rivals, as they build a spectacular track, face twists and discover that teamwork and friendship matter as much as winning. Packed with icy thrills, humour and adventure,  Racetime  is a lively animated action-adventure the whole family can enjoy. Come cheer on the racers and celebrate another Canadian family film! \n Before the film, kids and adults can have fun making winter themed crafts! A special themed snack pack including themed candy, small popcorn and small drink, will be available to purchase. \n   \n \n  Please note: VIFF Kids Club is designed for families to attend together. Adults can only attend if they’re bringing a child, and children can only attend if accompanied by an adult.  \n Does your family have a film idea for Kids Club? Let our staff know after the movie, or  submit your idea online !",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/racetime/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-06T11:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-harvey",
+      "cinemaId": "viff",
+      "title": "Harvey",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 104,
+      "runtimeFromPage": true,
+      "synopsis": "Each month, one of our VIFF+ Premium members picks a favourite movie to share. For December, Julie Ferguson has suggested one of James Stewart’s most beloved films (but not  It’s A Wonderful Life !). Jule has this to say: “ Harvey  (1950) is such a meaningful film because it combines whimsy and charm with deeper themes. Jimmy Stewart’s performance is outstanding, bringing warmth and sincerity to the story. It’s a lighthearted film that cleverly touches on mental health, encouraging us to embrace kindness, imagination, and the value of seeing the world a little differently.” \n Julie didn’t mention Stewart’s eponymous best friend: a 6’ 3 1/2 inch rabbit, perhaps because he’s invisible. When Elwood P Down (Stewart) insists on introducing Harvey to all and sundry, his sister Veta tries to have him committed to a sanatorium — but suffers a set-back when she admits she occassionally sees the rabbit too. \n  A movie that only a case-hardened wowser would fail to find beguiling. \n  John McCarten,  The New Yorker",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/harvey/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-07T17:50:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
+    },
+    {
+      "id": "viff-all-of-a-sudden",
+      "cinemaId": "viff",
+      "title": "All of a Sudden",
+      "director": null,
+      "year": null,
+      "country": null,
+      "runtimeMinutes": 196,
+      "runtimeFromPage": true,
+      "synopsis": "Working in France for the first time,  Drive My Car  director Ryûsuke Hamaguchi’s has made a masterpiece to measure your life by. In the Parisian suburbs, Marie-Lou (Virginie Efira) works to transform a private eldercare facility by introducing Humanitude, a compassionate approach that places dignity and human connection above corporate efficiency. Her idealism meets resistance from an exhausted nursing staff, but her understanding of care deepens after a chance encounter with Mari (Tao Okamoto), an enigmatic Japanese playwright living with terminal cancer. As an unexpected friendship develops, the two women find themselves drawn into philosophical conversations about mortality, care, and the systems that shape our lives. \n Loosely inspired by a real exchange of letters between a philosopher and an anthropologist, Hamaguchi’s quietly expansive film studies the fragile structures that bind us to one another. Anchored by luminous, Cannes-winning performances from Efira and Okamoto, Hamaguchi finds profound drama in conversation, observation, and the spaces between people. Patient and deeply humane,  All of a Sudden  considers what it means to care for another person and how, in confronting mortality, we might discover new ways of being together. \n  An unassumingly momentous miracle.  All of a Sudden , the Japanese director’s gorgeous new feature, is the rarest type of film, not merely good enough to remind you what cinema can be, but great enough to remind you what life can be. \n  Jessica Kiang,  Variety    \n  The result is a treasure, a transcendent film whose power is capable of rekindling one’s hope in humanity. It’s an invitation for those in the grasp of despair to maybe stay a little longer among the living. \n  Carlos Aguilar,  The Playlist",
+      "posterURL": null,
+      "detailURL": "https://viff.org/whats-on/all-of-a-sudden/",
+      "callouts": [],
+      "format": null,
+      "formatChecked": true,
+      "screenings": [
+        {
+          "start": "2026-12-17T16:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-17T20:20:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-18T13:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-18T19:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-19T19:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-21T13:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-21T20:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-22T13:50:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-22T20:15:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-23T18:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-24T13:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-26T14:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-27T19:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-28T13:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-29T18:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-30T13:30:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2026-12-31T15:20:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2027-01-02T12:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2027-01-03T20:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2027-01-05T20:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        },
+        {
+          "start": "2027-01-07T20:00:00",
+          "venue": "VIFF Centre - VIFF Cinema"
+        }
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16"
     }
   ],
-  "updatedAt": "2026-11-11T00:40:02+00:00"
+  "updatedAt": "2026-11-17T02:35:10+00:00"
 }
